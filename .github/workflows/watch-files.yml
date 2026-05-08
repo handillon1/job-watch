@@ -355,6 +355,7 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           APPLICATIONS_SHEET_ID: ${{ secrets.APPLICATIONS_SHEET_ID }}
           APPLICATIONS_SHEET_RANGE: ${{ vars.APPLICATIONS_SHEET_RANGE || 'Applications!A:F' }}
+          APPLIED_EMAIL: ${{ secrets.APPLIED_EMAIL }}
         run: |
           python - <<'PY'
           import datetime
@@ -374,6 +375,7 @@ jobs:
           TG_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
           SHEET_ID = os.environ["APPLICATIONS_SHEET_ID"]
           SHEET_RANGE = os.environ["APPLICATIONS_SHEET_RANGE"]
+          APPLIED_EMAIL = os.environ.get("APPLIED_EMAIL", "")
 
           def urlopen_with_retry(req, attempts=3):
               for i in range(attempts):
@@ -540,7 +542,7 @@ jobs:
                   job["company"],
                   job["role"],
                   applied_date,
-                  "",
+                  APPLIED_EMAIL,
                   "Telegram Bot",
                   "Applied",
               ]

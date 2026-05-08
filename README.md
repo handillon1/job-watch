@@ -58,12 +58,13 @@ You need a Telegram account, a bot, and a Google Sheet.
 ### 4. Add secrets to your fork
 In GitHub → Settings → Secrets and variables → Actions → New repository secret, add:
 
-| Name | Value |
-|---|---|
-| `TELEGRAM_BOT_TOKEN` | from step 1 |
-| `TELEGRAM_CHAT_ID` | from step 1 |
-| `APPLICATIONS_SHEET_ID` | from step 2 |
-| `GOOGLE_SERVICE_ACCOUNT_JSON` | from step 3 — paste the whole JSON file |
+| Name | Required | Value |
+|---|---|---|
+| `TELEGRAM_BOT_TOKEN` | yes | from step 1 |
+| `TELEGRAM_CHAT_ID` | yes | from step 1 |
+| `APPLICATIONS_SHEET_ID` | yes | from step 2 |
+| `GOOGLE_SERVICE_ACCOUNT_JSON` | yes | from step 3 — paste the whole JSON file |
+| `APPLIED_EMAIL` | optional | the email you'll auto-fill in the "Email Applied" column when you tap "Mark as Applied" (e.g. `you@gmail.com`). If unset, the column is left blank for manual fill-in. |
 
 Optional repo **variable** (not secret):
 
