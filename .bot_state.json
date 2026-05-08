@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853581
+    "last_update_id": 575853587
   },
   "pending": {
     "0476af88408a": {
@@ -12,26 +12,19 @@
       "source": "Simplify Repo",
       "message_id": 5,
       "chat_id": 8743352944
-    },
-    "b43c1f33b4d9": {
+    }
+  },
+  "applied": {
+    "3ab2369fd40b": {
       "company": "\ud83d\udd25 Snowflake",
-      "role": "Software Engineer Intern - Infrastructure Automation",
+      "role": "Software Engineer Intern - Security",
       "location": "Menlo Park, CA Bellevue, WA",
       "term": "Fall 2026",
-      "apply_url": "https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application?utm_source=Simplify&ref=Simplify",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 6,
-      "chat_id": 8743352944
-    },
-    "3dea95afa47a": {
-      "company": "\ud83d\udd25 Snowflake",
-      "role": "Software Engineer Intern - Database Engineering",
-      "location": "Menlo Park, CA Bellevue, WA",
-      "term": "Fall 2026",
-      "apply_url": "https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo",
-      "message_id": 7,
-      "chat_id": 8743352944
+      "message_id": 9,
+      "chat_id": 8743352944,
+      "applied_at": "2026-05-08T23:23:44Z"
     },
     "b173b6846803": {
       "company": "\ud83d\udd25 Snowflake",
@@ -41,18 +34,30 @@
       "apply_url": "https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5/application?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 8,
-      "chat_id": 8743352944
+      "chat_id": 8743352944,
+      "applied_at": "2026-05-08T23:23:45Z"
     },
-    "3ab2369fd40b": {
+    "3dea95afa47a": {
       "company": "\ud83d\udd25 Snowflake",
-      "role": "Software Engineer Intern - Security",
+      "role": "Software Engineer Intern - Database Engineering",
       "location": "Menlo Park, CA Bellevue, WA",
       "term": "Fall 2026",
-      "apply_url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application?utm_source=Simplify&ref=Simplify",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
-      "message_id": 9,
-      "chat_id": 8743352944
+      "message_id": 7,
+      "chat_id": 8743352944,
+      "applied_at": "2026-05-08T23:23:47Z"
+    },
+    "b43c1f33b4d9": {
+      "company": "\ud83d\udd25 Snowflake",
+      "role": "Software Engineer Intern - Infrastructure Automation",
+      "location": "Menlo Park, CA Bellevue, WA",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo",
+      "message_id": 6,
+      "chat_id": 8743352944,
+      "applied_at": "2026-05-08T23:23:48Z"
     }
-  },
-  "applied": {}
+  }
 }
