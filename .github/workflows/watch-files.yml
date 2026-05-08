@@ -442,7 +442,7 @@ jobs:
               url = (
                   f"https://sheets.googleapis.com/v4/spreadsheets/{SHEET_ID}"
                   f"/values/{urllib.parse.quote(SHEET_RANGE)}:append"
-                  "?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS"
+                  "?valueInputOption=USER_ENTERED&insertDataOption=OVERWRITE"
               )
               req = urllib.request.Request(
                   url,
