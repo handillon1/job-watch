@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 575853587
+    "last_update_id": 575853592
   },
   "pending": {
     "0476af88408a": {
@@ -21,16 +21,6 @@
       "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000125422009?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo",
       "message_id": 10,
-      "chat_id": 8743352944
-    },
-    "2e73dd00a8bb": {
-      "company": "Uber",
-      "role": "Software Engineering Intern",
-      "location": "San Francisco, CA",
-      "term": "May 09",
-      "apply_url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=github-vansh-ouckah",
-      "source": "Vansh Repo",
-      "message_id": 11,
       "chat_id": 8743352944
     },
     "33aabfc8157c": {
@@ -278,6 +268,17 @@
       "message_id": 6,
       "chat_id": 8743352944,
       "applied_at": "2026-05-08T23:23:48Z"
+    },
+    "2e73dd00a8bb": {
+      "company": "Uber",
+      "role": "Software Engineering Intern",
+      "location": "San Francisco, CA",
+      "term": "May 09",
+      "apply_url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=github-vansh-ouckah",
+      "source": "Vansh Repo",
+      "message_id": 11,
+      "chat_id": 8743352944,
+      "applied_at": "2026-05-10T23:23:25Z"
     }
   }
 }
