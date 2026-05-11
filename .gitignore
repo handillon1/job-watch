@@ -1,5 +1,8 @@
 # Local dashboard config — never commit secrets
 web/.env
+web/.sa*.json
+web/.venv/
+web/venv/
 
 # Python cruft
 web/__pycache__/

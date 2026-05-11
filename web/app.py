@@ -2,6 +2,7 @@
 import json
 import os
 import pathlib
+import ssl
 import time
 import urllib.error
 import urllib.parse
@@ -12,6 +13,15 @@ from dotenv import load_dotenv
 from flask import Flask, render_template
 
 load_dotenv()
+
+# Build an SSL context backed by certifi's CA bundle. On macOS Python from
+# python.org, the system trust store isn't used by urllib, so without this
+# every HTTPS call would fail with CERTIFICATE_VERIFY_FAILED.
+try:
+    import certifi
+    SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+except ImportError:
+    SSL_CONTEXT = ssl.create_default_context()
 
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHER_STATE = REPO_ROOT / ".watcher_state.json"
@@ -44,7 +54,7 @@ def env(name, default=None):
 def urlopen_with_retry(req, attempts=3, timeout=10):
     for i in range(attempts):
         try:
-            return urllib.request.urlopen(req, timeout=timeout)
+            return urllib.request.urlopen(req, timeout=timeout, context=SSL_CONTEXT)
         except (urllib.error.URLError, ConnectionResetError, TimeoutError) as e:
             if isinstance(e, urllib.error.HTTPError) and e.code < 500:
                 raise
