@@ -1,0 +1,12 @@
+# Local dashboard config — never commit secrets
+web/.env
+
+# Python cruft
+web/__pycache__/
+web/*.pyc
+__pycache__/
+*.pyc
+*.pyo
+
+# OS cruft
+.DS_Store
