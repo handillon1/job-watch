@@ -1,0 +1,48 @@
+<details>
+  <summary>Create a new Telegram bot</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Install Telegram on your phone or use <a href="https://web.telegram.org" target="_blank">Telegram Web</a>.</li>
+      <li>In the search bar, find <code>@BotFather</code> (verified blue checkmark).</li>
+      <li>Send <code>/newbot</code> and follow the prompts: pick a display name, then a unique username ending in <code>bot</code>.</li>
+      <li>BotFather replies with your token — looks like <code>1234567890:ABC...</code>. <strong>Save it</strong>; you'll add it as the <code>TELEGRAM_BOT_TOKEN</code> secret next.</li>
+      <li>In Telegram, search for your new bot by username and send it any message (e.g. "hi"). This is required so the bot can DM you back.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Find your Telegram chat ID</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Make sure you've sent your bot at least one message first (see tutorial above).</li>
+      <li>Open a terminal and run, replacing <code>&lt;YOUR_TOKEN&gt;</code>:
+        <pre><code>curl "https://api.telegram.org/bot&lt;YOUR_TOKEN&gt;/getUpdates"</code></pre>
+      </li>
+      <li>Look in the JSON response for <code>"chat":{"id":&lt;number&gt;</code>. That number is your <code>TELEGRAM_CHAT_ID</code> — usually 9-10 digits, positive for a personal DM.</li>
+      <li>If the response is <code>{"ok":true,"result":[]}</code>, you didn't message your bot first. Send it any message and re-run.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Update the bot token or chat ID</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Generate the new value (re-create the bot, or look up your chat ID again).</li>
+      <li>Go to <a href="https://github.com/Mekski/job-watch/settings/secrets/actions" target="_blank">GitHub → Settings → Secrets and variables → Actions</a>.</li>
+      <li>Click the secret name (<code>TELEGRAM_BOT_TOKEN</code> or <code>TELEGRAM_CHAT_ID</code>) → <strong>Update</strong> → paste the new value → <strong>Update secret</strong>.</li>
+      <li>Also update your local <code>web/.env</code> if you want the dashboard to use the new value.</li>
+      <li>The next workflow run (within ~1 min via cron-job.org) will pick up the new value automatically — no code changes needed.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Disable a stuck webhook</summary>
+  <div class="tutorial-body">
+    <p>If the dashboard shows a webhook URL set, <code>getUpdates</code> will return HTTP 409 and the apply-button flow breaks. The workflow auto-clears the webhook on every run as a safety net, but you can also clear it manually:</p>
+    <pre><code>curl "https://api.telegram.org/bot&lt;YOUR_TOKEN&gt;/deleteWebhook"</code></pre>
+    <p>Then refresh the dashboard — the Telegram card should clear back to green.</p>
+  </div>
+</details>

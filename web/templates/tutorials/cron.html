@@ -1,0 +1,86 @@
+<details>
+  <summary>Set up cron-job.org from scratch</summary>
+  <div class="tutorial-body">
+    <p>cron-job.org hits GitHub's <code>workflow_dispatch</code> API every minute to bypass GitHub's flaky internal cron. This is what makes the apply-button reliable.</p>
+    <ol>
+      <li>First, create a GitHub PAT (see next tutorial below).</li>
+      <li>Sign up at <a href="https://cron-job.org" target="_blank">cron-job.org</a> (email + password, no credit card).</li>
+      <li>From the dashboard, click <strong>Create cronjob</strong>.</li>
+      <li>Fill in:
+        <ul>
+          <li><strong>Title</strong>: <code>job-watch trigger</code></li>
+          <li><strong>URL</strong>: <code>https://api.github.com/repos/Mekski/job-watch/actions/workflows/watch-files.yml/dispatches</code></li>
+          <li><strong>Schedule</strong> (Common tab): <strong>Every minute</strong></li>
+        </ul>
+      </li>
+      <li>Switch to the <strong>Advanced</strong> tab:
+        <ul>
+          <li><strong>Request method</strong>: <code>POST</code></li>
+          <li><strong>Request headers</strong> (add three):
+            <ul>
+              <li><code>Authorization</code> → <code>Bearer &lt;YOUR_PAT&gt;</code></li>
+              <li><code>Accept</code> → <code>application/vnd.github+json</code></li>
+              <li><code>Content-Type</code> → <code>application/json</code></li>
+            </ul>
+          </li>
+          <li><strong>Request body</strong>: <code>{"ref":"main"}</code></li>
+        </ul>
+      </li>
+      <li>Click <strong>Create cronjob</strong>. Within ~60 seconds new runs should appear in the GitHub Actions tab.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Create the GitHub PAT for cron-job.org</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank">Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token</a>.</li>
+      <li><strong>Token name</strong>: <code>cron-job-org-trigger</code> (or whatever helps you identify it later).</li>
+      <li><strong>Expiration</strong>: 1 year is the longest fine-grained tokens allow. You'll need to renew it then.</li>
+      <li><strong>Repository access</strong>: choose <strong>Only select repositories</strong> → pick <code>Mekski/job-watch</code> (limit blast radius).</li>
+      <li><strong>Repository permissions</strong>: scroll to <strong>Actions</strong> → set to <strong>Read and write</strong>. Leave everything else at "No access."</li>
+      <li>Click <strong>Generate token</strong>. <strong>Copy it immediately</strong> — GitHub only shows the token value once. Looks like <code>github_pat_...</code>.</li>
+      <li>(Optional) Verify before continuing:
+        <pre><code>curl -X POST \
+  -H "Authorization: Bearer YOUR_PAT" \
+  -H "Accept: application/vnd.github+json" \
+  -d '{"ref":"main"}' \
+  https://api.github.com/repos/Mekski/job-watch/actions/workflows/watch-files.yml/dispatches</code></pre>
+        Expected: empty response, HTTP 204. A new workflow run should appear in the Actions tab within ~5 seconds.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Renew an expired PAT</summary>
+  <div class="tutorial-body">
+    <p>Fine-grained PATs expire after the period you chose (max 1 year). GitHub emails you a heads-up before expiry. When it expires, cron-job.org starts getting 401 responses and runs stop.</p>
+    <ol>
+      <li>Generate a fresh PAT following the steps above. Same scope: <code>Actions: Read and write</code> on this repo.</li>
+      <li>Go to your cron-job.org dashboard → click into the <code>job-watch trigger</code> job → <strong>Advanced</strong> tab → <strong>Headers</strong>.</li>
+      <li>Update the <code>Authorization</code> header value with the new <code>Bearer &lt;NEW_PAT&gt;</code>.</li>
+      <li>Save. The next fire (within ~60s) should succeed. Refresh this dashboard to confirm.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Debug: cron-job.org stopped firing</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>If this card is red, the most recent GH workflow run is &gt;5 minutes old.</li>
+      <li>Go to <a href="https://console.cron-job.org/jobs" target="_blank">cron-job.org dashboard</a>. Open your <code>job-watch trigger</code> job.</li>
+      <li>Click the <strong>History</strong> tab. You'll see each fire and its HTTP response code. Common patterns:
+        <ul>
+          <li><strong>204</strong>: success. If you see 204s but the GH dashboard is stale, the issue is on GitHub's side — check <a href="https://www.githubstatus.com" target="_blank">githubstatus.com</a>.</li>
+          <li><strong>401</strong>: PAT expired or invalid. Regenerate (see above) and update the Authorization header.</li>
+          <li><strong>403</strong>: PAT exists but lacks <code>Actions: Read and write</code>. Re-check token scopes.</li>
+          <li><strong>404</strong>: URL is wrong. Re-check the URL field matches <code>https://api.github.com/repos/Mekski/job-watch/actions/workflows/watch-files.yml/dispatches</code>.</li>
+          <li><strong>Job paused</strong>: check the toggle on the cron-job.org dashboard.</li>
+        </ul>
+      </li>
+      <li>The workflow's built-in <code>schedule:</code> triggers in <code>watch-files.yml</code> are a fallback — they keep the bot working at degraded latency (1 fire/hour-ish) even when cron-job.org is down.</li>
+    </ol>
+  </div>
+</details>

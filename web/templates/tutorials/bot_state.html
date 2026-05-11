@@ -1,0 +1,86 @@
+<details>
+  <summary>Understand pending vs applied</summary>
+  <div class="tutorial-body">
+    <p>The bot maintains a simple state machine for each job alert:</p>
+    <ol>
+      <li><strong>Pending</strong>: a new SWE row was detected, an alert was DM'd to you on Telegram, and the bot is waiting for you to tap "Mark as Applied." The job sits here until tapped.</li>
+      <li><strong>Applied</strong>: you tapped the button. The bot wrote a row to your Google Sheet, edited the original Telegram message to "✅ Logged," and moved the hash from <code>pending</code> to <code>applied</code> with a timestamp.</li>
+      <li><strong>Neither</strong>: you ignore the alert. The hash stays in <code>pending</code> indefinitely (no harm done). If you scroll back and tap the button later, it'll still work as long as the alert message in Telegram still has its button.</li>
+    </ol>
+    <p>The "telegram offset" is internal bookkeeping — the highest update_id the bot has consumed from Telegram's <code>getUpdates</code> queue, used to avoid re-processing the same callback.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Tap an alert and it doesn't process</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>If you tapped "Mark as Applied" and the loading spinner times out without "✅ Logged" showing, the bot will catch up on its next run (within ~1 min with cron-job.org running).</li>
+      <li>Check the GitHub Actions card — is the bot actively running? If no run in the last 5 min, check the cron-job.org card.</li>
+      <li>If the run IS happening but logs show <code>Received 0 update(s)</code>: Telegram dropped the callback. Causes: the message's button was already removed (you tapped one that was already processed), OR Telegram's 24h update TTL expired. Re-tap if the button is still visible on the message.</li>
+      <li>If logs show <code>Sheets append failed</code>: check the Sheets card. Common cause: sheet not shared with SA.</li>
+      <li>If logs show <code>callback hash X not in pending — already logged or stale</code>: the bot already processed this hash but Telegram re-delivered the callback for some reason. Harmless — the row was already added to the sheet.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Re-tap an alert (force re-processing)</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Find the alert in your Telegram chat. Make sure the "Mark as Applied" inline button is still visible (if the message shows "✅ Logged," it's been processed already).</li>
+      <li>Tap the button. Telegram queues a callback_query event for the bot.</li>
+      <li>Within ~60 seconds, the next cron-job.org-triggered workflow run will:
+        <ul>
+          <li>Poll Telegram for new callbacks</li>
+          <li>Look up the hash in <code>pending</code></li>
+          <li>Append a row to your sheet</li>
+          <li>Edit the message to "✅ Logged"</li>
+          <li>Move the hash from <code>pending</code> to <code>applied</code></li>
+        </ul>
+      </li>
+      <li>Refresh this dashboard. The Bot state card should show <code>pending</code> decremented and <code>applied</code> incremented.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Manually fix the state file</summary>
+  <div class="tutorial-body">
+    <p>If <code>.bot_state.json</code> got corrupted (the bot-state card shows "invalid JSON") or you want to remove a stale pending entry that'll never be tapped:</p>
+    <ol>
+      <li>Clone or pull the latest <code>job-watch</code> repo locally.</li>
+      <li>Open <code>.bot_state.json</code> in a text editor.</li>
+      <li>Schema:
+        <pre><code>{
+  "telegram": { "last_update_id": &lt;number&gt; },
+  "pending": { "&lt;hash&gt;": { "company": "...", "role": "...", ... }, ... },
+  "applied": { "&lt;hash&gt;": { ..., "applied_at": "..." }, ... }
+}</code></pre>
+      </li>
+      <li>To remove a stale pending: delete the hash entry from <code>pending</code>. Keep JSON valid (commas, braces).</li>
+      <li>To move pending → applied manually: cut from <code>pending</code>, add to <code>applied</code> with an <code>applied_at</code> ISO timestamp.</li>
+      <li>Commit and push. The next run will use the updated state.</li>
+    </ol>
+    <div class="note">If you make a syntax error, the bot will fail to load state and log "invalid JSON". Re-fix and push. Or delete the file entirely to start fresh — the bot will re-create it.</div>
+  </div>
+</details>
+
+<details>
+  <summary>Full reset</summary>
+  <div class="tutorial-body">
+    <p>Nuclear option: clear all state and start over.</p>
+    <ol>
+      <li>Locally, delete <code>.bot_state.json</code> and <code>.watcher_state.json</code>.</li>
+      <li>Commit and push.</li>
+      <li>Trigger a workflow run manually. The bot will:
+        <ul>
+          <li>Bootstrap each watched repo silently (snapshot the current rows, no alerts)</li>
+          <li>Initialize <code>.bot_state.json</code> with empty pending/applied</li>
+          <li>Reset the Telegram offset to 0</li>
+        </ul>
+      </li>
+      <li>From here forward, only new SWE rows trigger alerts. You'll lose your applied history (rows in the Google Sheet stay — only the in-bot state is reset).</li>
+    </ol>
+  </div>
+</details>

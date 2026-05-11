@@ -1,0 +1,71 @@
+<details>
+  <summary>Create the Applications sheet</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Go to <a href="https://sheets.new" target="_blank">sheets.new</a> to create a fresh Google Sheet.</li>
+      <li>Rename a tab to exactly <code>Applications</code> (case-sensitive). Double-click the tab name at the bottom to rename.</li>
+      <li>In row 1, paste this header across cells A1:F1:
+        <pre><code>Company	Role	Date Applied	Email Applied	Resource	Status</code></pre>
+        (tab-separated — pasting will fill the cells correctly)
+      </li>
+      <li>Copy the sheet ID from your browser URL: <code>docs.google.com/spreadsheets/d/<strong>&lt;THIS_PART&gt;</strong>/edit</code>.</li>
+      <li>Save that ID as the <code>APPLICATIONS_SHEET_ID</code> GitHub secret.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Share the sheet with the service account</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>The service account email is shown on the <strong>GCP service account</strong> card above (looks like <code>...@&lt;project&gt;.iam.gserviceaccount.com</code>).</li>
+      <li>Open your Google Sheet → click the <strong>Share</strong> button (top right).</li>
+      <li>Paste the service account email into the "Add people" field.</li>
+      <li>Set permission to <strong>Editor</strong> (the bot needs to append rows).</li>
+      <li>Uncheck <strong>"Notify people"</strong> (service accounts can't read email).</li>
+      <li>Click <strong>Share</strong>. Refresh this dashboard — the Sheets card should turn green.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Set up the Status column dropdown</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Click the <strong>F</strong> column header to select the whole column.</li>
+      <li>Go to <strong>Data</strong> menu → <strong>Data validation</strong>.</li>
+      <li>Set <strong>Apply to range</strong> to <code>Applications!F:F</code> (covers all current and future rows).</li>
+      <li>Criteria: <strong>Dropdown</strong>. Add these items one per row:
+        <ul>
+          <li><code>Applied</code> (required — the bot writes this exact string)</li>
+          <li><code>OA</code></li>
+          <li><code>Interview</code></li>
+          <li><code>Offer</code></li>
+          <li><code>Rejected</code></li>
+        </ul>
+      </li>
+      <li>Click each item to assign a color (e.g. Offer=green, Rejected=red).</li>
+      <li>Under <strong>Advanced options</strong>, choose how to handle invalid input — "Show a warning" is safer than "Reject input" since the bot might write something unexpected.</li>
+      <li>Save. New cells in column F will render as colored chips.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Add a summary/stats tab</summary>
+  <div class="tutorial-body">
+    <p>Optional: a second tab that counts applications by status. The bot writes only to A:F of the <code>Applications</code> tab, so this won't be touched.</p>
+    <ol>
+      <li>Click the <strong>+</strong> at the bottom-left to add a new tab. Rename it to <code>Summary</code>.</li>
+      <li>In A1:B5, paste:
+        <pre><code>Applied:	=COUNTIF(Applications!F:F, "Applied")
+OA:	=COUNTIF(Applications!F:F, "OA")
+Interview:	=COUNTIF(Applications!F:F, "Interview")
+Rejected:	=COUNTIF(Applications!F:F, "Rejected")
+Offer:	=COUNTIF(Applications!F:F, "Offer")</code></pre>
+      </li>
+      <li>Optional row 6: total apps with <code>=COUNTA(Applications!A:A)-1</code></li>
+      <li>Optional row 7: response rate <code>=(B3+B4+B5)/B6</code> formatted as percent</li>
+    </ol>
+  </div>
+</details>

@@ -1,0 +1,71 @@
+<details>
+  <summary>Add a new repo to watch</summary>
+  <div class="tutorial-body">
+    <p>To watch a new job-aggregator repo (e.g. when the Summer 2027 Simplify repo drops, or you want to add <code>speedyapply/2026-SWE-College-Jobs</code>):</p>
+    <ol>
+      <li>Open <a href="https://github.com/Mekski/job-watch/blob/main/.github/workflows/watch-files.yml" target="_blank"><code>.github/workflows/watch-files.yml</code></a> in your editor.</li>
+      <li>Find the <code>WATCHERS</code> list near the top of the Python heredoc (around line 35).</li>
+      <li>Add a new entry to the list. Example for a HTML-table repo:
+        <pre><code>{
+    "label": "Speedy Apply",
+    "owner": "speedyapply",
+    "repo": "2026-SWE-College-Jobs",
+    "branch": "main",
+    "file": "README.md",
+    "parser": "html",
+    "section_start": "## 💻 Software Engineering Roles",
+    "section_end": "## Other Roles",
+},</code></pre>
+      </li>
+      <li>For a markdown pipe-table repo (like vansh's), use <code>"parser": "markdown"</code> instead.</li>
+      <li>The hard part is finding correct <code>section_start</code> and <code>section_end</code> markers (see "Find section markers" tutorial below).</li>
+      <li>Commit and push the workflow change.</li>
+      <li>Trigger a workflow run manually (Actions tab → Watch files → Run workflow). The first run will <strong>bootstrap</strong> the new source silently — no alerts for existing rows.</li>
+      <li>Add the matching entry to <code>WATCHERS</code> in <code>web/app.py</code> too so the dashboard shows the new source.</li>
+      <li>Refresh the dashboard. The new source should appear under "Watched job repos" with its current SHA and row count.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Find section markers for a new repo</summary>
+  <div class="tutorial-body">
+    <p>Section markers are exact-match strings that bound the area of the README the bot parses. They prevent us from alerting on non-SWE roles, inactive listings, etc.</p>
+    <ol>
+      <li>Open the upstream repo's README on GitHub (the file you want to watch).</li>
+      <li>Switch to <strong>Raw</strong> view to see the source markdown.</li>
+      <li>Identify the section heading just before the SWE table starts. Use that exact text (including emoji, capitalization) as <code>section_start</code>. Example: <code>## 💻 Software Engineering Internship Roles</code></li>
+      <li>Identify the next heading or marker AFTER the SWE section. Use that as <code>section_end</code>. The bot stops parsing at this marker. Example: <code>&lt;summary&gt;🗃️ Inactive roles</code> (Simplify uses this to fence off inactive jobs).</li>
+      <li>If you can't find good markers, you can use the start of the next section heading (e.g. <code>## Data Science</code>) as <code>section_end</code> — but be precise so you don't accidentally include extra rows.</li>
+      <li>After adding the watcher, do a manual workflow run and check the log for <code>Bootstrapped … with N rows</code>. If N is way off from reality, your markers are wrong.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Re-bootstrap a watched source (forget all its rows)</summary>
+  <div class="tutorial-body">
+    <p>Useful when: you changed the parser config and want a clean slate, or the row snapshot got corrupted.</p>
+    <ol>
+      <li>Clone or pull the latest <code>job-watch</code> repo locally.</li>
+      <li>Open <code>.watcher_state.json</code> in a text editor.</li>
+      <li>Find the entry for the source you want to reset, e.g. <code>"SimplifyJobs/Summer2026-Internships": { "last_sha": "...", "rows": [...] }</code>.</li>
+      <li>Delete that entire entry (including the surrounding commas as needed to keep JSON valid).</li>
+      <li>Commit and push.</li>
+      <li>The next workflow run will see the source as missing in state and re-bootstrap silently (logs <code>Bootstrapped REPO at SHA with N rows.</code>). No spurious alerts.</li>
+    </ol>
+    <div class="note">If you delete the file entirely, ALL watched sources re-bootstrap on the next run.</div>
+  </div>
+</details>
+
+<details>
+  <summary>Remove a watched repo</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Edit <code>watch-files.yml</code> → delete the entry from the <code>WATCHERS</code> list.</li>
+      <li>Also delete the corresponding entry from <code>WATCHERS</code> in <code>web/app.py</code>.</li>
+      <li>Optionally clean up <code>.watcher_state.json</code> by removing that source's entry (it's harmless if left — just dormant data).</li>
+      <li>Commit and push. Next run won't poll that source anymore.</li>
+    </ol>
+  </div>
+</details>

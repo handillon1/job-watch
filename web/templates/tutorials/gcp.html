@@ -1,0 +1,55 @@
+<details>
+  <summary>Create a GCP project + service account</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Go to <a href="https://console.cloud.google.com" target="_blank">Google Cloud Console</a> and sign in with the Google account that owns your sheet.</li>
+      <li>Top bar: project selector → <strong>New Project</strong>. Pick any name (e.g. <code>job-watch</code>). Click <strong>Create</strong>.</li>
+      <li>Once the project is created, switch to it via the project selector.</li>
+      <li>In the top search bar, search "Sheets API" → click the result → <strong>Enable</strong>. This is required or sheet writes fail with HTTP 403.</li>
+      <li>Left nav: <strong>IAM &amp; Admin</strong> → <strong>Service Accounts</strong> → <strong>+ Create service account</strong>.</li>
+      <li>Service account name: anything (e.g. <code>job-watch-sheet-writer</code>). Skip the "grant access" step. Click <strong>Done</strong>.</li>
+      <li>Click into the service account → <strong>Keys</strong> tab → <strong>Add Key</strong> → <strong>Create new key</strong> → <strong>JSON</strong> → <strong>Create</strong>. A JSON file downloads automatically.</li>
+      <li>Open the JSON file in a text editor and copy the entire contents. Add it as the <code>GOOGLE_SERVICE_ACCOUNT_JSON</code> GitHub secret (paste the whole JSON as the value).</li>
+      <li>The <code>client_email</code> field in the JSON is the address you'll share your sheet with (see the Google Sheets card → "Share with service account" tutorial).</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Verify the Sheets API is enabled</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Open the direct link to the Sheets API page for your project: <code>https://console.cloud.google.com/apis/library/sheets.googleapis.com?project=&lt;your-project-id&gt;</code> (replace <code>&lt;your-project-id&gt;</code> with the value shown in the GCP service account card details above).</li>
+      <li>If the button says <strong>Enable</strong>, click it.</li>
+      <li>If it says <strong>Manage</strong> or shows "API enabled", you're set.</li>
+      <li>Refresh this dashboard — the Sheets card should be green.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Rotate the service account key (after a leak)</summary>
+  <div class="tutorial-body">
+    <p>If your <code>GOOGLE_SERVICE_ACCOUNT_JSON</code> leaks (e.g. accidentally committed, shared in chat), do this immediately:</p>
+    <ol>
+      <li>In Google Cloud Console: <strong>IAM &amp; Admin</strong> → <strong>Service Accounts</strong> → click your SA → <strong>Keys</strong> tab.</li>
+      <li>Find the leaked key (match by <code>private_key_id</code> in the JSON). Click the trash icon → <strong>Delete</strong>.</li>
+      <li>Create a new key: <strong>Add Key</strong> → <strong>Create new key</strong> → <strong>JSON</strong> → <strong>Create</strong>. A new JSON downloads.</li>
+      <li>Update the <code>GOOGLE_SERVICE_ACCOUNT_JSON</code> GitHub secret with the new JSON content.</li>
+      <li>Update your local <code>web/.env</code> or <code>web/.sa.json</code> file too.</li>
+      <li>The next workflow run will use the new key automatically. The old one is dead immediately.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Switch to a different sheet / service account</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>If switching sheets: get the new sheet's ID from its URL, update <code>APPLICATIONS_SHEET_ID</code> GitHub secret.</li>
+      <li>If switching service accounts: create the new SA (see "Create a GCP project + service account" above), download its JSON, update <code>GOOGLE_SERVICE_ACCOUNT_JSON</code>.</li>
+      <li>Either way: <strong>Share the new sheet with the SA email</strong> (Editor permission). The dashboard's GCP card always shows the current SA email.</li>
+      <li>If the new sheet doesn't have an <code>Applications</code> tab, the bot writes to the first tab. Make sure the schema matches (Company, Role, Date Applied, Email Applied, Resource, Status).</li>
+    </ol>
+  </div>
+</details>

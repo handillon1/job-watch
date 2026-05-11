@@ -9,7 +9,7 @@
   <header class="page-header">
     <div>
       <h1>job-watch <span class="muted">/ dashboard</span></h1>
-      <div class="meta muted">checked at {{ now }}</div>
+      <div class="meta">checked at {{ now }}</div>
     </div>
     <div class="overall-wrap">
       {% if overall_ok %}
@@ -24,7 +24,7 @@
   </header>
 
   <main>
-    {% for name, c in cards %}
+    {% for slug, name, c in cards %}
     <section class="card status-{{ c.status }}">
       <div class="card-head">
         <span class="dot"></span>
@@ -32,69 +32,77 @@
         <span class="summary">{{ c.summary }}</span>
       </div>
 
-      {% if c.details %}
-      <details>
-        <summary>details</summary>
-        <div class="card-body">
+      <div class="card-sections">
 
-          {% if c.details.sources is defined %}
-            {# Watched job repos: list of source dicts #}
-            <ul class="sources">
-              {% for src in c.details.sources %}
-              <li class="source status-{{ src.status }}">
-                <div class="src-head">
-                  <span class="dot"></span>
-                  <strong>{{ src.label }}</strong>
-                  <span class="muted">{{ src.repo }} / {{ src.branch }} / {{ src.file }}</span>
-                </div>
-                <div class="src-body">
-                  <div><span class="k">last_sha</span><code>{{ src.last_sha }}</code></div>
-                  <div><span class="k">rows</span>{{ src.row_count }}</div>
-                  <div><span class="k">state</span>{{ src.state }}</div>
-                  {% if src.upstream_pushed_at %}
-                  <div><span class="k">upstream pushed</span>{{ src.upstream_pushed_at }}</div>
-                  {% endif %}
-                  <div><a href="{{ src.upstream_url }}" target="_blank">open upstream README →</a></div>
-                </div>
-              </li>
-              {% endfor %}
-            </ul>
-          {% else %}
-            {# Generic key/value table #}
-            <table class="kv">
-              {% for k, v in c.details.items() %}
-                {% if v is not none and v != "" and v != [] %}
-                <tr>
-                  <th>{{ k }}</th>
-                  <td>
-                    {% if v is string and (v.startswith('http://') or v.startswith('https://')) %}
-                      <a href="{{ v }}" target="_blank">{{ v }}</a>
-                    {% elif v is iterable and v is not string and v is not mapping %}
-                      <ul class="inline">
-                        {% for item in v %}<li>{{ item }}</li>{% endfor %}
-                      </ul>
-                    {% else %}
-                      {{ v }}
+        {# Current state details #}
+        {% if c.details %}
+        <details>
+          <summary>current state</summary>
+          <div class="card-body">
+
+            {% if c.details.sources is defined %}
+              <ul class="sources">
+                {% for src in c.details.sources %}
+                <li class="source status-{{ src.status }}">
+                  <div class="src-head">
+                    <span class="dot"></span>
+                    <strong>{{ src.label }}</strong>
+                    <span class="muted">{{ src.repo }} / {{ src.branch }} / {{ src.file }}</span>
+                  </div>
+                  <div class="src-body">
+                    <div><span class="k">last_sha</span><code>{{ src.last_sha }}</code></div>
+                    <div><span class="k">rows</span>{{ src.row_count }}</div>
+                    <div><span class="k">state</span>{{ src.state }}</div>
+                    {% if src.upstream_pushed_at %}
+                    <div><span class="k">upstream pushed</span>{{ src.upstream_pushed_at }}</div>
                     {% endif %}
-                  </td>
-                </tr>
-                {% endif %}
-              {% endfor %}
-            </table>
-          {% endif %}
+                    <div><a href="{{ src.upstream_url }}" target="_blank">open upstream README →</a></div>
+                  </div>
+                </li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <table class="kv">
+                {% for k, v in c.details.items() %}
+                  {% if v is not none and v != "" and v != [] %}
+                  <tr>
+                    <th>{{ k }}</th>
+                    <td>
+                      {% if v is string and (v.startswith('http://') or v.startswith('https://')) %}
+                        <a href="{{ v }}" target="_blank">{{ v }}</a>
+                      {% elif v is iterable and v is not string and v is not mapping %}
+                        <ul class="inline">
+                          {% for item in v %}<li>{{ item }}</li>{% endfor %}
+                        </ul>
+                      {% else %}
+                        {{ v }}
+                      {% endif %}
+                    </td>
+                  </tr>
+                  {% endif %}
+                {% endfor %}
+              </table>
+            {% endif %}
 
-        </div>
-      </details>
-      {% endif %}
+          </div>
+        </details>
+        {% endif %}
+
+        {# How-to tutorials #}
+        <details>
+          <summary>how to…</summary>
+          <div class="tutorials">
+            {% include "tutorials/" + slug + ".html" ignore missing %}
+          </div>
+        </details>
+
+      </div>
     </section>
     {% endfor %}
   </main>
 
   <footer>
-    <p class="muted">
-      read-only · localhost only ·
-      <a href="https://github.com/Mekski/job-watch" target="_blank">source</a>
-    </p>
+    read-only · localhost only · <a href="https://github.com/Mekski/job-watch" target="_blank">source</a>
   </footer>
 </body>
 </html>

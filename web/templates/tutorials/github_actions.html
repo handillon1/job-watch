@@ -1,0 +1,65 @@
+<details>
+  <summary>Manually trigger a workflow run</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Go to <a href="https://github.com/Mekski/job-watch/actions/workflows/watch-files.yml" target="_blank">Actions → Watch files in external repo</a>.</li>
+      <li>Top-right of the runs list: click <strong>Run workflow</strong>.</li>
+      <li>Make sure the branch is <code>main</code>. Click the green <strong>Run workflow</strong> button.</li>
+      <li>A new run appears within ~5 seconds. Click into it to watch it progress.</li>
+      <li>Useful when: you just changed a secret, you suspect a missed alert, or cron-job.org is paused.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>View logs for a specific run</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Open <a href="https://github.com/Mekski/job-watch/actions/workflows/watch-files.yml" target="_blank">the workflow runs list</a>.</li>
+      <li>Click any run to open it. You'll see two jobs: <strong>watch</strong> and <strong>process_applies</strong>.</li>
+      <li>Click a job to expand it. The detailed log lives under <strong>Run watcher</strong> (or <strong>Process callbacks</strong> for the apply job).</li>
+      <li>Helpful log lines to look for:
+        <ul>
+          <li><code>Bootstrapped …</code> = first time seeing a source, no alerts sent</li>
+          <li><code>No new listings.</code> = SHA changed but no new SWE rows</li>
+          <li><code>Sent N job alert(s).</code> = alerts went out</li>
+          <li><code>Received N update(s)</code> = N callback queries pulled from Telegram</li>
+          <li><code>logged HASH → COMPANY / ROLE</code> = sheet append succeeded</li>
+        </ul>
+      </li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Diagnose a failed run</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Open the failed run in the Actions tab. Failures usually surface as red ❌ on a specific step.</li>
+      <li>Common failures and fixes:
+        <ul>
+          <li><strong>HTTP 500 on git push</strong>: transient GitHub outage. Workflow retries 5x; if all fail, ignore — the next run will succeed.</li>
+          <li><strong>HTTP 403 on Sheets append</strong>: service account isn't shared on the sheet. Check the GCP card → Share with SA tutorial.</li>
+          <li><strong>HTTP 401 on Telegram</strong>: bot token is invalid. Re-create or check the secret value.</li>
+          <li><strong>HTTP 409 on getUpdates</strong>: webhook is set on the bot. See the Telegram card → "Disable a stuck webhook" tutorial.</li>
+          <li><strong>WARNING: extracted 0 rows</strong>: section markers in the watched README have drifted (e.g. upstream renamed the heading). See the Watched job repos card → "Find section markers".</li>
+        </ul>
+      </li>
+      <li>If a run failed at the commit step but the actual work succeeded, no action needed — the state file was already updated and pushed earlier in the run.</li>
+    </ol>
+  </div>
+</details>
+
+<details>
+  <summary>Add a new GitHub secret</summary>
+  <div class="tutorial-body">
+    <ol>
+      <li>Go to <a href="https://github.com/Mekski/job-watch/settings/secrets/actions" target="_blank">Settings → Secrets and variables → Actions</a>.</li>
+      <li>Click <strong>New repository secret</strong>.</li>
+      <li>Name: use SCREAMING_SNAKE_CASE (e.g. <code>NEW_API_KEY</code>). Value: paste the secret.</li>
+      <li>Click <strong>Add secret</strong>.</li>
+      <li>Reference it in the workflow YAML as <code>{% raw %}${{ secrets.NEW_API_KEY }}{% endraw %}</code> inside an <code>env:</code> block on the step that needs it.</li>
+      <li>Re-trigger the workflow (manually or wait for cron) to pick up the new env var.</li>
+    </ol>
+  </div>
+</details>

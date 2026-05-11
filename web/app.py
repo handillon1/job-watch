@@ -479,16 +479,16 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     cards_list = [
-        ("Telegram bot", check_telegram()),
-        ("Google Sheets", check_sheets()),
-        ("GCP service account", check_gcp_service_account()),
-        ("GitHub Actions", check_github_actions()),
-        ("cron-job.org cadence", check_cron_inference()),
-        ("Watched job repos", check_watched_repos()),
-        ("Bot state", check_bot_state()),
+        ("telegram", "Telegram bot", check_telegram()),
+        ("sheets", "Google Sheets", check_sheets()),
+        ("gcp", "GCP service account", check_gcp_service_account()),
+        ("github_actions", "GitHub Actions", check_github_actions()),
+        ("cron", "cron-job.org cadence", check_cron_inference()),
+        ("watched_repos", "Watched job repos", check_watched_repos()),
+        ("bot_state", "Bot state", check_bot_state()),
     ]
-    overall_ok = all(c[1]["status"] == "ok" for c in cards_list)
-    overall_has_fail = any(c[1]["status"] == "fail" for c in cards_list)
+    overall_ok = all(c[2]["status"] == "ok" for c in cards_list)
+    overall_has_fail = any(c[2]["status"] == "fail" for c in cards_list)
     return render_template(
         "index.html",
         cards=cards_list,
