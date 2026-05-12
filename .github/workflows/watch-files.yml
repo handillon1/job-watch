@@ -45,17 +45,7 @@ jobs:
 
           WATCHERS = [
               {
-                  "label": "Simplify Repo",
-                  "owner": "SimplifyJobs",
-                  "repo": "Summer2026-Internships",
-                  "branch": "dev",
-                  "file": "README-Off-Season.md",
-                  "parser": "html",
-                  "section_start": "## 💻 Software Engineering Internship Roles",
-                  "section_end": "<summary>🗃️ Inactive roles",
-              },
-              {
-                  "label": "Vansh Repo",
+                  "label": "Vansh Repo (DS/DA)",
                   "owner": "vanshb03",
                   "repo": "Summer2027-Internships",
                   "branch": "dev",
@@ -65,6 +55,38 @@ jobs:
                   "section_end": "## We love our contributors",
               },
           ]
+
+          # --- Role-title filter: only alert on Data Science / Data Analyst / ML / AI ---
+          # Apply to row[1] (role title), case-insensitive. Include = must match at
+          # least one. Exclude = drop if matches any (skips PhD/Senior/Staff/Principal).
+          ROLE_INCLUDE_PATTERNS = [
+              re.compile(p, re.IGNORECASE) for p in [
+                  r"\bdata\s*scien",          # data science, data scientist
+                  r"\bdata\s*analy",          # data analyst, data analytics, data analysis
+                  r"\bmachine\s*learning\b", # machine learning
+                  r"\bdeep\s*learning\b",    # deep learning (ML sub-field)
+                  r"\bml\b",                  # ML (engineer, ops, research)
+                  r"\bai\b",                  # AI (engineer, research, etc.)
+                  r"\bartificial\s*intelligence\b",
+                  r"\bapplied\s*scien",       # applied scientist (often DS/ML)
+              ]
+          ]
+          ROLE_EXCLUDE_PATTERNS = [
+              re.compile(p, re.IGNORECASE) for p in [
+                  r"\bph\.?\s*d\b",         # PhD, Ph.D., Ph D
+                  r"\bdoctoral\b",
+                  r"\bsenior\b",
+                  r"\bstaff\b",
+                  r"\bprincipal\b",
+              ]
+          ]
+
+          def role_matches_filter(role):
+              if not any(p.search(role) for p in ROLE_INCLUDE_PATTERNS):
+                  return False
+              if any(p.search(role) for p in ROLE_EXCLUDE_PATTERNS):
+                  return False
+              return True
 
           STATE_FILE = pathlib.Path(".watcher_state.json")
           BOT_STATE_FILE = pathlib.Path(".bot_state.json")
@@ -262,7 +284,10 @@ jobs:
 
               section_text = extract_section(file_text, w["section_start"], w["section_end"])
               parser = parse_html_rows if w["parser"] == "html" else parse_markdown_rows
-              curr_rows = parser(section_text)
+              all_rows = parser(section_text)
+              # Filter for data science / data analyst / ML / AI roles only.
+              curr_rows = [r for r in all_rows if role_matches_filter(r[1])]
+              print(f"{repo_key}: parsed {len(all_rows)} total rows, kept {len(curr_rows)} after role filter.")
 
               if prev_rows and not curr_rows:
                   print(f"WARNING: extracted 0 rows from {repo_key} but had {len(prev_rows)} previously; skipping state update.")
