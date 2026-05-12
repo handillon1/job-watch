@@ -45,6 +45,16 @@ jobs:
 
           WATCHERS = [
               {
+                  "label": "Simplify Repo (DS/AI/ML)",
+                  "owner": "SimplifyJobs",
+                  "repo": "Summer2026-Internships",
+                  "branch": "dev",
+                  "file": "README-Off-Season.md",
+                  "parser": "html",
+                  "section_start": "## 🤖 Data Science, AI & Machine Learning Internship Roles",
+                  "section_end": "## 📈 Quantitative Finance Internship Roles",
+              },
+              {
                   "label": "Vansh Repo (DS/DA)",
                   "owner": "vanshb03",
                   "repo": "Summer2027-Internships",
@@ -61,14 +71,17 @@ jobs:
           # least one. Exclude = drop if matches any (skips PhD/Senior/Staff/Principal).
           ROLE_INCLUDE_PATTERNS = [
               re.compile(p, re.IGNORECASE) for p in [
-                  r"\bdata\s*scien",          # data science, data scientist
-                  r"\bdata\s*analy",          # data analyst, data analytics, data analysis
-                  r"\bmachine\s*learning\b", # machine learning
-                  r"\bdeep\s*learning\b",    # deep learning (ML sub-field)
-                  r"\bml\b",                  # ML (engineer, ops, research)
-                  r"\bai\b",                  # AI (engineer, research, etc.)
+                  r"\bdata\s*scien",              # data science, data scientist
+                  r"\bdata\s*analy",              # data analyst, data analytics, data analysis
+                  r"\bmachine\s*learning\b",     # machine learning
+                  r"\bdeep\s*learning\b",        # deep learning (ML sub-field)
+                  r"\bml\b",                      # ML (engineer, ops, research)
+                  r"\bai\b",                      # AI (engineer, research, etc.)
                   r"\bartificial\s*intelligence\b",
-                  r"\bapplied\s*scien",       # applied scientist (often DS/ML)
+                  r"\bapplied\s*scien",           # applied scientist (often DS/ML)
+                  r"\banalytic",                   # analytics intern, business/marketing analytics
+                  r"\bbusiness\s*intelligence\b",# business intelligence intern
+                  r"\bstatistic",                  # statistics, statistical modeling
               ]
           ]
           ROLE_EXCLUDE_PATTERNS = [
