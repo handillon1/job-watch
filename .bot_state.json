@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170294
+    "last_update_id": 841170296
   },
   "pending": {
     "535de30c3955": {
@@ -62,7 +62,9 @@
       "source": "Vansh Repo (DS/DA)",
       "message_id": 9,
       "chat_id": 8619425244
-    },
+    }
+  },
+  "applied": {
     "ff731dc04eef": {
       "company": "Pindrop",
       "role": "Artificial Intelligence Engineer Intern - Artificial Intelligence",
@@ -71,8 +73,8 @@
       "apply_url": "https://www.pindrop.com/careers/job-title/?gh_jid=7899137&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Repo (DS/AI/ML)",
       "message_id": 10,
-      "chat_id": 8619425244
+      "chat_id": 8619425244,
+      "applied_at": "2026-05-12T16:44:28Z"
     }
-  },
-  "applied": {}
+  }
 }
