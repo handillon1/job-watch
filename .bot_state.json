@@ -2,6 +2,47 @@
   "telegram": {
     "last_update_id": 841170294
   },
-  "pending": {},
+  "pending": {
+    "535de30c3955": {
+      "company": "Amazon",
+      "role": "Business Intelligence Engineer Co-Op",
+      "location": "Seattle, WA",
+      "term": "Aug 27",
+      "apply_url": "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us?utm_source=github-vansh-ouckah",
+      "source": "Vansh Repo (DS/DA)",
+      "message_id": 4,
+      "chat_id": 8619425244
+    },
+    "f104982814db": {
+      "company": "Battelle",
+      "role": "Cyber Trust & Analytics Intern - Fall",
+      "location": "Columbus, OH",
+      "term": "May 06",
+      "apply_url": "",
+      "source": "Vansh Repo (DS/DA)",
+      "message_id": 5,
+      "chat_id": 8619425244
+    },
+    "877504b7e127": {
+      "company": "Tesla",
+      "role": "Software Engineer Intern, Thermal & Chassis Analytics",
+      "location": "Fremont, CA",
+      "term": "Apr 28",
+      "apply_url": "",
+      "source": "Vansh Repo (DS/DA)",
+      "message_id": 6,
+      "chat_id": 8619425244
+    },
+    "7230c3f65a4f": {
+      "company": "TD Bank",
+      "role": "Asset Management Portfolio Analytics Developer Intern/Co-op",
+      "location": "Toronto, Canada",
+      "term": "Apr 28",
+      "apply_url": "",
+      "source": "Vansh Repo (DS/DA)",
+      "message_id": 7,
+      "chat_id": 8619425244
+    }
+  },
   "applied": {}
 }
