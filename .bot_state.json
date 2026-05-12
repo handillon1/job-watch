@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170296
+    "last_update_id": 841170298
   },
   "pending": {
     "535de30c3955": {
@@ -72,16 +72,6 @@
       "source": "Simplify Repo (DS/AI/ML)",
       "message_id": 12,
       "chat_id": 8619425244
-    },
-    "8bb785a5555e": {
-      "company": "Super",
-      "role": "Quality Intern - Travel & AI Enablement",
-      "location": "Toronto, ON, Canada",
-      "term": "Fall 2026",
-      "apply_url": "https://jobs.ashbyhq.com/super.com/3854181c-a5d4-440f-9252-499749acf7c9/application?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Repo (DS/AI/ML)",
-      "message_id": 13,
-      "chat_id": 8619425244
     }
   },
   "applied": {
@@ -95,6 +85,17 @@
       "message_id": 10,
       "chat_id": 8619425244,
       "applied_at": "2026-05-12T16:44:28Z"
+    },
+    "8bb785a5555e": {
+      "company": "Super",
+      "role": "Quality Intern - Travel & AI Enablement",
+      "location": "Toronto, ON, Canada",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.ashbyhq.com/super.com/3854181c-a5d4-440f-9252-499749acf7c9/application?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Repo (DS/AI/ML)",
+      "message_id": 13,
+      "chat_id": 8619425244,
+      "applied_at": "2026-05-12T16:53:30Z"
     }
   }
 }
