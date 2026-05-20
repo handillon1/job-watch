@@ -354,9 +354,11 @@ jobs:
           # --- Process each watcher ---
           total_alerted = 0
           for w in WATCHERS:
-              # File-aware key so multiple watchers can target same repo (different files)
-              repo_key = f"{w['owner']}/{w['repo']}#{w['file']}"
-              latest = get_json(f"https://api.github.com/repos/{repo_key}/commits/{w['branch']}")
+              # File-aware state key so multiple watchers can target same repo (different files).
+              # api_repo is plain owner/repo for GitHub API calls.
+              api_repo = f"{w['owner']}/{w['repo']}"
+              repo_key = f"{api_repo}#{w['file']}"
+              latest = get_json(f"https://api.github.com/repos/{api_repo}/commits/{w['branch']}")
               latest_sha = latest["sha"]
               saved = state.get(repo_key) or {}
               last_sha = saved.get("last_sha")
