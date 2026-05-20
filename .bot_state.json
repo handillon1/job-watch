@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170298
+    "last_update_id": 841170302
   },
   "pending": {
     "535de30c3955": {
@@ -132,16 +132,6 @@
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 19,
       "chat_id": 8619425244
-    },
-    "2d25e0754403": {
-      "company": "Fanatics",
-      "role": "Data Analyst Intern",
-      "location": "Winona, MN",
-      "term": "",
-      "apply_url": "",
-      "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 20,
-      "chat_id": 8619425244
     }
   },
   "applied": {
@@ -166,6 +156,17 @@
       "message_id": 13,
       "chat_id": 8619425244,
       "applied_at": "2026-05-12T16:53:30Z"
+    },
+    "2d25e0754403": {
+      "company": "Fanatics",
+      "role": "Data Analyst Intern",
+      "location": "Winona, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 20,
+      "chat_id": 8619425244,
+      "applied_at": "2026-05-20T23:15:21Z"
     }
   }
 }
