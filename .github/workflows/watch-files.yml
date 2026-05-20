@@ -45,11 +45,21 @@ jobs:
 
           WATCHERS = [
               {
-                  "label": "Simplify Repo (DS/AI/ML)",
+                  "label": "Simplify Off-Season (DS/AI/ML)",
                   "owner": "SimplifyJobs",
                   "repo": "Summer2026-Internships",
                   "branch": "dev",
                   "file": "README-Off-Season.md",
+                  "parser": "html",
+                  "section_start": "## 🤖 Data Science, AI & Machine Learning Internship Roles",
+                  "section_end": "## 📈 Quantitative Finance Internship Roles",
+              },
+              {
+                  "label": "Simplify Summer 2026 main (DS/AI/ML)",
+                  "owner": "SimplifyJobs",
+                  "repo": "Summer2026-Internships",
+                  "branch": "dev",
+                  "file": "README.md",
                   "parser": "html",
                   "section_start": "## 🤖 Data Science, AI & Machine Learning Internship Roles",
                   "section_end": "## 📈 Quantitative Finance Internship Roles",
@@ -344,7 +354,8 @@ jobs:
           # --- Process each watcher ---
           total_alerted = 0
           for w in WATCHERS:
-              repo_key = f"{w['owner']}/{w['repo']}"
+              # File-aware key so multiple watchers can target same repo (different files)
+              repo_key = f"{w['owner']}/{w['repo']}#{w['file']}"
               latest = get_json(f"https://api.github.com/repos/{repo_key}/commits/{w['branch']}")
               latest_sha = latest["sha"]
               saved = state.get(repo_key) or {}
