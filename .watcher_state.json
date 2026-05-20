@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "06c2702b004f0e2fd46da9b2c9cae61f86bb931f",
+    "last_sha": "7514142b9d38589b6bad3c279dd6f649be79511f",
     "rows": [
+      [
+        "Nokia",
+        "Compliance Data Scientist Co-op \ud83c\udf93",
+        "Jackson Township, NJ",
+        "Fall 2026, Winter 2026",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36308?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Medpace, Inc.",
         "AI Engineer Intern \ud83c\udf93",
@@ -6924,12 +6931,26 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "06c2702b004f0e2fd46da9b2c9cae61f86bb931f",
+    "last_sha": "7514142b9d38589b6bad3c279dd6f649be79511f",
     "rows": [
       [
         "Fanatics",
         "Data Analyst Intern",
         "Winona, MN",
+        "",
+        ""
+      ],
+      [
+        "City of Greeley",
+        "Utility Finance Data Analyst Intern - Water & Sewer",
+        "Greeley, CO",
+        "",
+        ""
+      ],
+      [
+        "Eurofins",
+        "Business Intelligence Intern",
+        "Lancaster, PA",
         "",
         ""
       ],
