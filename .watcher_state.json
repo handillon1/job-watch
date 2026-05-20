@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "8b411d1f30d03ab039285f9f4590c26c16c4f80c",
+    "last_sha": "d0d31311df694c266e0fe96ad3ed4f3dd957804c",
     "rows": [
       [
         "Medpace, Inc.",
@@ -6924,8 +6924,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "8b411d1f30d03ab039285f9f4590c26c16c4f80c",
+    "last_sha": "d0d31311df694c266e0fe96ad3ed4f3dd957804c",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "Machine Learning Engineer Intern - Security-Data",
+        "San Jose, CA",
+        "",
+        ""
+      ],
       [
         "Deckers Brands",
         "Loyalty Analytics Intern",
