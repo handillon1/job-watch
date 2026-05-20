@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "29d3f7724cae171e5d33920a81f015d364984506",
+    "last_sha": "fa12c11febde1e522e43ee30b96d208f668dccca",
     "rows": [
       [
         "Medpace, Inc.",
@@ -6924,8 +6924,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "29d3f7724cae171e5d33920a81f015d364984506",
+    "last_sha": "fa12c11febde1e522e43ee30b96d208f668dccca",
     "rows": [
+      [
+        "Keystone AI",
+        "AI and Workflow Analytics Intern \ud83c\udf93",
+        "Boston, MA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 ByteDance",
         "Machine Learning Engineer Intern - Security-Data",
