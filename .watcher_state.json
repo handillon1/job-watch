@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "42509dda3b04c3a4838a92aa69fe2c730435fca5",
+    "last_sha": "1929cdf1e1e76bf3a7c2e034c9633ff5f416a6b4",
     "rows": [
       [
         "Nokia",
@@ -6924,7 +6924,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "42509dda3b04c3a4838a92aa69fe2c730435fca5",
+    "last_sha": "1929cdf1e1e76bf3a7c2e034c9633ff5f416a6b4",
     "rows": [
       [
         "\ud83d\udd25 Apple",
@@ -7174,6 +7174,13 @@
       [
         "\ud83d\udd25 Cloudflare",
         "Machine Learning Engineer Intern",
+        "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Cloudflare",
+        "Data Science Intern",
         "Austin, TX",
         "",
         ""
