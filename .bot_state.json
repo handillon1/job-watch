@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170304
+    "last_update_id": 841170306
   },
   "pending": {
     "535de30c3955": {
@@ -322,16 +322,6 @@
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 42,
       "chat_id": 8619425244
-    },
-    "dbeec13313a0": {
-      "company": "EV Realty",
-      "role": "Data Analytics Intern",
-      "location": "Salt Lake City, UT SF",
-      "term": "",
-      "apply_url": "",
-      "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 43,
-      "chat_id": 8619425244
     }
   },
   "applied": {
@@ -378,6 +368,17 @@
       "message_id": 39,
       "chat_id": 8619425244,
       "applied_at": "2026-05-22T06:50:19Z"
+    },
+    "dbeec13313a0": {
+      "company": "EV Realty",
+      "role": "Data Analytics Intern",
+      "location": "Salt Lake City, UT SF",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 43,
+      "chat_id": 8619425244,
+      "applied_at": "2026-05-22T22:51:19Z"
     }
   }
 }
