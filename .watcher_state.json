@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "23e19c7df58c546722f80d4d63583dda7e9a64c3",
+    "last_sha": "6187845ae60637583835291af78cbec080bf33c7",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -3707,13 +3707,6 @@
         "Mountain View, CA",
         "Fall 2026, Winter 2026",
         "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Comcast",
-        "Data Science & Analytics Co-op",
-        "Philadelphia, PA",
-        "Fall 2026, Winter 2026, Winter 2027, Spring 2027",
-        "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Science---Analytics-Co-op_R436444?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -3839,6 +3832,13 @@
         "HR & Workforce Analytics Data Science Co-op",
         "Philadelphia, PA",
         "Fall 2026, Winter 2027, Spring 2027",
+        ""
+      ],
+      [
+        "Comcast",
+        "Data Science & Analytics Co-op",
+        "Philadelphia, PA",
+        "Fall 2026, Winter 2026, Winter 2027, Spring 2027",
         ""
       ],
       [
@@ -6931,7 +6931,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "23e19c7df58c546722f80d4d63583dda7e9a64c3",
+    "last_sha": "6187845ae60637583835291af78cbec080bf33c7",
     "rows": [
       [
         "Schweitzer Engineering Laboratories",
