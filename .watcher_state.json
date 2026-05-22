@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "4a1558bebfd2259a9b677dda5ae2af213a73cc74",
+    "last_sha": "d9508880a571f656e434db606ca83d5cdd17ca82",
     "rows": [
+      [
+        "Cirrus Logic",
+        "Software Engineer Intern - Software Developer - AI & Test Data Analysis",
+        "Austin, TX",
+        "Fall 2026",
+        "https://jobs.eu.lever.co/cirrus/95f2af3d-6153-4bf4-aae7-4932769fb84b/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - Brand Ads",
@@ -6931,8 +6938,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "4a1558bebfd2259a9b677dda5ae2af213a73cc74",
+    "last_sha": "d9508880a571f656e434db606ca83d5cdd17ca82",
     "rows": [
+      [
+        "C&S Wholesale Grocers",
+        "Data Reporting & Analytics Intern",
+        "East Windsor, CT",
+        "",
+        ""
+      ],
       [
         "Coupang",
         "Machine Learning Intern - AQ",
@@ -6941,9 +6955,30 @@
         ""
       ],
       [
+        "Quadric",
+        "AI Inference Engineer Intern - Model Pruning \ud83c\udf93",
+        "Burlingame, CA",
+        "",
+        ""
+      ],
+      [
+        "PlusAI",
+        "Machine Learning Engineer Intern - Scenario Generation",
+        "Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
         "QinetiQ",
         "Data Science/AI/ML Engineering Intern",
         "Fort Belvoir, VA",
+        "",
+        ""
+      ],
+      [
+        "AAA Club Alliance",
+        "ML/AI Computer Science Intern",
+        "LA",
         "",
         ""
       ],
@@ -6972,13 +7007,6 @@
         "Schweitzer Engineering Laboratories",
         "Data Analyst Intern",
         "Moscow, ID",
-        "",
-        ""
-      ],
-      [
-        "Coupang",
-        "Machine Learning Intern",
-        "Mountain View, CA",
         "",
         ""
       ],
@@ -7084,6 +7112,13 @@
         "PlusAI",
         "Machine Learning Infrastructure Engineer Intern",
         "Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
+        "AAA Club Alliance",
+        "Data & Marketing Analytics Intern",
+        "Newport Beach, CA",
         "",
         ""
       ],
@@ -7643,13 +7678,6 @@
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Scientist Intern - TikTok Recommendation \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Efficient ML Engineer Research Intern - AI Platform \ud83c\udf93",
         "San Jose, CA",
         "",
         ""

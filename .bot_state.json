@@ -100,7 +100,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 16,
+      "message_id": 49,
       "chat_id": 8619425244
     },
     "7135fb7574a3": {
@@ -321,6 +321,56 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 42,
+      "chat_id": 8619425244
+    },
+    "9e685a40bbf1": {
+      "company": "Cirrus Logic",
+      "role": "Software Engineer Intern - Software Developer - AI & Test Data Analysis",
+      "location": "Austin, TX",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.eu.lever.co/cirrus/95f2af3d-6153-4bf4-aae7-4932769fb84b/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 44,
+      "chat_id": 8619425244
+    },
+    "410e01071e84": {
+      "company": "C&S Wholesale Grocers",
+      "role": "Data Reporting & Analytics Intern",
+      "location": "East Windsor, CT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 45,
+      "chat_id": 8619425244
+    },
+    "9a74953a43f2": {
+      "company": "Quadric",
+      "role": "AI Inference Engineer Intern - Model Pruning \ud83c\udf93",
+      "location": "Burlingame, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 46,
+      "chat_id": 8619425244
+    },
+    "4cf27a1d286b": {
+      "company": "PlusAI",
+      "role": "Machine Learning Engineer Intern - Scenario Generation",
+      "location": "Santa Clara, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 47,
+      "chat_id": 8619425244
+    },
+    "9c6588cb11b1": {
+      "company": "AAA Club Alliance",
+      "role": "ML/AI Computer Science Intern",
+      "location": "LA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 48,
       "chat_id": 8619425244
     }
   },
