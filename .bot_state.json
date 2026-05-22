@@ -190,7 +190,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 26,
+      "message_id": 39,
       "chat_id": 8619425244
     },
     "e9b3f8d0b74a": {
@@ -301,6 +301,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 38,
+      "chat_id": 8619425244
+    },
+    "b88bab6b1a4a": {
+      "company": "\ud83d\udd25 Apple",
+      "role": "Machine Learning and Artificial Intelligence Intern \ud83c\udf93",
+      "location": "United States",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 40,
       "chat_id": 8619425244
     }
   },
