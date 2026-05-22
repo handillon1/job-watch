@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170302
+    "last_update_id": 841170304
   },
   "pending": {
     "535de30c3955": {
@@ -183,16 +183,6 @@
       "message_id": 25,
       "chat_id": 8619425244
     },
-    "056bd9f1b1df": {
-      "company": "\ud83d\udd25 Apple",
-      "role": "Machine Learning and Artificial Intelligence Undergraduate Intern",
-      "location": "United States",
-      "term": "",
-      "apply_url": "",
-      "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 39,
-      "chat_id": 8619425244
-    },
     "e9b3f8d0b74a": {
       "company": "\ud83d\udd25 Cloudflare",
       "role": "Data Science Intern",
@@ -347,6 +337,17 @@
       "message_id": 20,
       "chat_id": 8619425244,
       "applied_at": "2026-05-20T23:15:21Z"
+    },
+    "056bd9f1b1df": {
+      "company": "\ud83d\udd25 Apple",
+      "role": "Machine Learning and Artificial Intelligence Undergraduate Intern",
+      "location": "United States",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 39,
+      "chat_id": 8619425244,
+      "applied_at": "2026-05-22T06:50:19Z"
     }
   }
 }
