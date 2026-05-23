@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "60468ea692d1ac701b3d501d1355573e7f0bcf8f",
+    "last_sha": "c03f394d31220e23e1962b2e5f080f0e93a9d65a",
     "rows": [
       [
         "Cirrus Logic",
@@ -3749,13 +3749,6 @@
         "Austin, TX",
         "Fall 2026",
         "https://job-boards.greenhouse.io/integra/jobs/5134522008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Integra FEC",
-        "Data Scientist Intern \ud83c\udf93",
-        "Austin, TX",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Integra FEC",
@@ -3853,6 +3846,13 @@
         "Data Analyst Intern",
         "Moscow, ID",
         "Spring 2026",
+        ""
+      ],
+      [
+        "Integra FEC",
+        "Data Scientist Intern \ud83c\udf93",
+        "Austin, TX",
+        "Fall 2026",
         ""
       ],
       [
@@ -6924,7 +6924,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "60468ea692d1ac701b3d501d1355573e7f0bcf8f",
+    "last_sha": "c03f394d31220e23e1962b2e5f080f0e93a9d65a",
     "rows": [
       [
         "C&S Wholesale Grocers",
@@ -7385,13 +7385,6 @@
         "Solidigm",
         "Corporate Services Business Analytics Intern",
         "Rancho Cordova, CA",
-        "",
-        ""
-      ],
-      [
-        "Everlaw",
-        "GTM Data Analyst Intern",
-        "Oakland, CA",
         "",
         ""
       ],
