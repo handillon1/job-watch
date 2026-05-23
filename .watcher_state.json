@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "07e0c27d335622fa077f79abd970fbde75e48a23",
+    "last_sha": "055c199704b5af2b8db99911e2a09c9fa5a2c3d2",
     "rows": [
       [
         "Cirrus Logic",
@@ -3749,6 +3749,13 @@
         "Austin, TX",
         "Fall 2026",
         "https://job-boards.greenhouse.io/integra/jobs/5134522008?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Integra FEC",
+        "Data Scientist Intern \ud83c\udf93",
+        "Austin, TX",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Integra FEC",
@@ -3846,13 +3853,6 @@
         "Data Analyst Intern",
         "Moscow, ID",
         "Spring 2026",
-        ""
-      ],
-      [
-        "Integra FEC",
-        "Data Scientist Intern \ud83c\udf93",
-        "Austin, TX",
-        "Fall 2026",
         ""
       ],
       [
@@ -6924,7 +6924,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "07e0c27d335622fa077f79abd970fbde75e48a23",
+    "last_sha": "055c199704b5af2b8db99911e2a09c9fa5a2c3d2",
     "rows": [
       [
         "C&S Wholesale Grocers",
@@ -7389,6 +7389,13 @@
         ""
       ],
       [
+        "Everlaw",
+        "GTM Data Analyst Intern",
+        "Oakland, CA",
+        "",
+        ""
+      ],
+      [
         "Vera Institute of Justice",
         "Data Science Intern - Research Central",
         "Brooklyn, NY",
@@ -7665,6 +7672,13 @@
         "iTradeNetwork",
         "Software Engineer Intern - Machine Learning",
         "4 locationsOakland, CA Charlotte, NC Denver, CO Atlanta, GA",
+        "",
+        ""
+      ],
+      [
+        "Interdigital",
+        "Generative AI Implementation Intern",
+        "Conshohocken, PA",
         "",
         ""
       ],
