@@ -340,7 +340,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 45,
+      "message_id": 54,
       "chat_id": 8619425244
     },
     "9a74953a43f2": {
@@ -391,6 +391,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 51,
+      "chat_id": 8619425244
+    },
+    "90bc51f78392": {
+      "company": "Tencent",
+      "role": "Data Science Intern \ud83c\udf93",
+      "location": "Palo Alto, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 55,
       "chat_id": 8619425244
     }
   },
