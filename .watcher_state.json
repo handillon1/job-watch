@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "343aec1cf498f7969615d5b211866868ecb016d5",
+    "last_sha": "95e161ccc9d677955720bcbbe79d96871bfc5a67",
     "rows": [
       [
         "Cirrus Logic",
@@ -6931,7 +6931,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "343aec1cf498f7969615d5b211866868ecb016d5",
+    "last_sha": "95e161ccc9d677955720bcbbe79d96871bfc5a67",
     "rows": [
       [
         "C&S Wholesale Grocers",
@@ -7860,15 +7860,8 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "17afb7e1077d082f611c2a216ef4e06066cdacc8",
+    "last_sha": "49c563f2df4f631b037b3dd84db483914b0b2d62",
     "rows": [
-      [
-        "GoodRx",
-        "AI Agent Developer Intern",
-        "New York City, NY",
-        "May 12",
-        "https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607?utm_source=github-vansh-ouckah"
-      ],
       [
         "BMO",
         "Machine Learning Intern",
@@ -7959,6 +7952,13 @@
         "San Francisco, CA",
         "Jun 06",
         "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "GoodRx",
+        "AI Agent Developer Intern",
+        "New York City, NY",
+        "May 12",
+        ""
       ],
       [
         "Figure",
