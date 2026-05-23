@@ -280,7 +280,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 37,
+      "message_id": 65,
       "chat_id": 8619425244
     },
     "887837449e02": {
@@ -451,6 +451,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 64,
+      "chat_id": 8619425244
+    },
+    "dd38762d6f1a": {
+      "company": "First Quality",
+      "role": "Analytics Engineer Intern/Co-op - Analytics Engineer",
+      "location": "Anderson, SC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 66,
+      "chat_id": 8619425244
+    },
+    "19a763715c41": {
+      "company": "ASM Global",
+      "role": "Automation & AI Technology Experience Intern",
+      "location": "Frisco, TX Conshohocken, PA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 67,
       "chat_id": 8619425244
     }
   },
