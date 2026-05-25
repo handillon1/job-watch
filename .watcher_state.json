@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "5f0c9c43317ff2752eec1c1944be7e5c59438d02",
+    "last_sha": "9a0bfdf4e9c064a8288ce023b8e8dbf51abf3d23",
     "rows": [
       [
         "Cirrus Logic",
@@ -3728,13 +3728,6 @@
         "Austin, TX",
         "Fall 2026",
         "https://job-boards.greenhouse.io/integra/jobs/5134522008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Integra FEC",
-        "Data Scientist Intern \ud83c\udf93",
-        "Austin, TX",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Integra FEC",
@@ -3853,6 +3846,13 @@
         "Data Analyst Intern",
         "Moscow, ID",
         "Spring 2026",
+        ""
+      ],
+      [
+        "Integra FEC",
+        "Data Scientist Intern \ud83c\udf93",
+        "Austin, TX",
+        "Fall 2026",
         ""
       ],
       [
@@ -6896,7 +6896,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "5f0c9c43317ff2752eec1c1944be7e5c59438d02",
+    "last_sha": "9a0bfdf4e9c064a8288ce023b8e8dbf51abf3d23",
     "rows": [
       [
         "C&S Wholesale Grocers",
