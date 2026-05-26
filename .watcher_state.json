@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "7d690d3cfa6d0b0e66c805dc21ca0384dc1b1373",
+    "last_sha": "39629a204b25c66ecb98e0fe5424a13bf2e7883b",
     "rows": [
       [
         "Cirrus Logic",
@@ -6882,7 +6882,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "7d690d3cfa6d0b0e66c805dc21ca0384dc1b1373",
+    "last_sha": "39629a204b25c66ecb98e0fe5424a13bf2e7883b",
     "rows": [
       [
         "PSECU",
@@ -7413,6 +7413,13 @@
         "Cooper University Health Care",
         "Enterprise Analytics Intern",
         "Philadelphia, PA",
+        "",
+        ""
+      ],
+      [
+        "Leidos",
+        "Data Analytics Intern",
+        "Bethesda, MD",
         "",
         ""
       ],
