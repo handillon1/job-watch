@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "136510a7cabf434c2fa1b81e2c8bd8fc07160552",
+    "last_sha": "477fd78a6a29888ae63f8682785e9bcec8c6b77e",
     "rows": [
       [
         "FNBO",
@@ -6889,12 +6889,19 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "136510a7cabf434c2fa1b81e2c8bd8fc07160552",
+    "last_sha": "477fd78a6a29888ae63f8682785e9bcec8c6b77e",
     "rows": [
       [
         "Zone 5 Technologies",
         "Manufacturing Data Analyst Intern",
         "San Luis Obispo, CA",
+        "",
+        ""
+      ],
+      [
+        "Robert Half",
+        "Generative AI Engineer Intern",
+        "San Ramon, CA",
         "",
         ""
       ],
@@ -6993,6 +7000,13 @@
         "\ud83d\udd25 ByteDance",
         "Research Scientist Intern - Seed Responsible AI",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Alteryx",
+        "Revenue Operations Intern - Insights & Analytics",
+        "Irvine, CA",
         "",
         ""
       ],
