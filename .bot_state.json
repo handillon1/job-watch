@@ -410,7 +410,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 58,
+      "message_id": 104,
       "chat_id": 8619425244
     },
     "17d5c9adeef5": {
@@ -721,6 +721,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 101,
+      "chat_id": 8619425244
+    },
+    "dec4e7515e05": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "Data Analysis Intern - Applied System Engineering",
+      "location": "Santa Clara, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analysis-Intern--Applied-System-Engineering---Fall-2026_JR2018687-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 102,
+      "chat_id": 8619425244
+    },
+    "37377b1db30e": {
+      "company": "ASSA ABLOY",
+      "role": "IT Intern \u2013 Security Analytics & Data Management",
+      "location": "New Haven, CT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 103,
       "chat_id": 8619425244
     }
   },
