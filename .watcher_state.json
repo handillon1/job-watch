@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "ca53647576d8400c624e93c028286ba95ef8c2f1",
+    "last_sha": "136510a7cabf434c2fa1b81e2c8bd8fc07160552",
     "rows": [
       [
         "FNBO",
@@ -3735,6 +3735,13 @@
         "Roanoke, VA",
         "Fall 2026",
         "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Integra FEC",
+        "Data Analyst Intern",
+        "Austin, TX",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/integra/jobs/5134522008?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Integra FEC",
@@ -3853,13 +3860,6 @@
         "Data Analyst Intern",
         "Moscow, ID",
         "Spring 2026",
-        ""
-      ],
-      [
-        "Integra FEC",
-        "Data Analyst Intern",
-        "Austin, TX",
-        "Fall 2026",
         ""
       ],
       [
@@ -6885,23 +6885,23 @@
         "Sunnyvale, CA",
         "Winter 2025",
         ""
-      ],
-      [
-        "American Enterprise Institute",
-        "Spring Intern: Data Analysis and Education Policy",
-        "Washington, DC",
-        "Winter 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "ca53647576d8400c624e93c028286ba95ef8c2f1",
+    "last_sha": "136510a7cabf434c2fa1b81e2c8bd8fc07160552",
     "rows": [
       [
         "Zone 5 Technologies",
         "Manufacturing Data Analyst Intern",
         "San Luis Obispo, CA",
+        "",
+        ""
+      ],
+      [
+        "SEKO Logistics",
+        "AI Intern",
+        "Hoffman Estates, IL",
         "",
         ""
       ],
