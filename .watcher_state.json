@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "cfa5d76b92dd793d6b53cdf953db07933afcf72d",
+    "last_sha": "7dbc4b5058f969d8af9a28e48b5d098468331faa",
     "rows": [
       [
         "\ud83d\udd25 NVIDIA",
@@ -3735,13 +3735,6 @@
         "Long Island City, Queens, NY",
         "Fall 2026, Winter 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35743?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "American Enterprise Institute",
-        "Data Analysis and Education Policy Intern",
-        "Washington, DC",
-        "Fall 2026",
-        "https://internships-aei.icims.com/jobs/2615/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "TMEIC",
@@ -3872,6 +3865,13 @@
       [
         "American Enterprise Institute",
         "Data Analysis & AI Policy Intern",
+        "Washington, DC",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "American Enterprise Institute",
+        "Data Analysis and Education Policy Intern",
         "Washington, DC",
         "Fall 2026",
         ""
@@ -6903,7 +6903,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "cfa5d76b92dd793d6b53cdf953db07933afcf72d",
+    "last_sha": "7dbc4b5058f969d8af9a28e48b5d098468331faa",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -7119,13 +7119,6 @@
         "Fanatics",
         "Data Analyst Intern",
         "Winona, MN",
-        "",
-        ""
-      ],
-      [
-        "Eurofins",
-        "Business Intelligence Intern",
-        "Lancaster, PA",
         "",
         ""
       ],
@@ -7441,13 +7434,6 @@
         "CelLink Technologies",
         "Process Development & Data Analytics Intern",
         "San Carlos, CA",
-        "",
-        ""
-      ],
-      [
-        "Cooper University Health Care",
-        "Enterprise Analytics Intern",
-        "Philadelphia, PA",
         "",
         ""
       ],
