@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "9731bf9be45822ec10fe54f5802c18f46075c167",
+    "last_sha": "cfa5d76b92dd793d6b53cdf953db07933afcf72d",
     "rows": [
       [
         "\ud83d\udd25 NVIDIA",
@@ -3735,13 +3735,6 @@
         "Long Island City, Queens, NY",
         "Fall 2026, Winter 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35743?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "American Enterprise Institute",
-        "Data Analysis & AI Policy Intern",
-        "Washington, DC",
-        "Fall 2026",
-        "https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Enterprise Institute",
@@ -3874,6 +3867,13 @@
         "Data Science & Analytics Co-op",
         "Philadelphia, PA",
         "Fall 2026, Winter 2026, Winter 2027, Spring 2027",
+        ""
+      ],
+      [
+        "American Enterprise Institute",
+        "Data Analysis & AI Policy Intern",
+        "Washington, DC",
+        "Fall 2026",
         ""
       ],
       [
@@ -6903,19 +6903,12 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "9731bf9be45822ec10fe54f5802c18f46075c167",
+    "last_sha": "cfa5d76b92dd793d6b53cdf953db07933afcf72d",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
         "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
         "Seattle, WA",
-        "",
-        ""
-      ],
-      [
-        "Fidelity National Financial",
-        "AI Intern",
-        "Washington, DC",
         "",
         ""
       ],
@@ -7154,13 +7147,6 @@
         "Primetals Technologies",
         "Data Science Intern - Data Platforms",
         "Lake Mary, FL",
-        "",
-        ""
-      ],
-      [
-        "Vanasse Hangen Brustlin (VHB)",
-        "Data Analytics Intern",
-        "Washington, DC Raleigh, NC Charlotte, NC",
         "",
         ""
       ],
