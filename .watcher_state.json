@@ -3657,15 +3657,8 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "676d3fe7d339498030c2d39c1ef82874eac9c4da",
+    "last_sha": "fe22e061c6a88e75f7c51e54ce77336b7f0bb2ce",
     "rows": [
-      [
-        "GE Healthcare",
-        "AI Research Intern \ud83c\udf93",
-        "Remote in USA",
-        "Fall 2026",
-        "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/AI-Research-Intern_R4041665-1?utm_source=Simplify&ref=Simplify"
-      ],
       [
         "Samsung Research America",
         "Computer Vision/AI Intern - Computer Vision/AI \ud83c\udf93",
@@ -3796,6 +3789,13 @@
         "\ud83d\udd25 NVIDIA",
         "Data Analysis Intern - Applied System Engineering",
         "Santa Clara, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "GE Healthcare",
+        "AI Research Intern \ud83c\udf93",
+        "Remote in USA",
         "Fall 2026",
         ""
       ],
@@ -6896,7 +6896,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "676d3fe7d339498030c2d39c1ef82874eac9c4da",
+    "last_sha": "fe22e061c6a88e75f7c51e54ce77336b7f0bb2ce",
     "rows": [
       [
         "Johnson & Johnson",
@@ -7167,13 +7167,6 @@
       [
         "Zillow",
         "AI Applied Scientist Intern \ud83c\udf93",
-        "Remote in USA",
-        "",
-        ""
-      ],
-      [
-        "Zillow",
-        "AI Applied Scientist Intern - Foundational AQ & EQ \ud83c\udf93",
         "Remote in USA",
         "",
         ""
