@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "4a3d2c5eaa9321bae8d4b57f474b713b14f54382",
+    "last_sha": "d391ccd14dd6f9e77e3cdfffa6cfb558d65da9eb",
     "rows": [
       [
         "Samsung Research America",
@@ -6889,7 +6889,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "4a3d2c5eaa9321bae8d4b57f474b713b14f54382",
+    "last_sha": "d391ccd14dd6f9e77e3cdfffa6cfb558d65da9eb",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -6941,13 +6941,6 @@
         ""
       ],
       [
-        "Robert Half",
-        "Generative AI Engineer Intern",
-        "San Ramon, CA",
-        "",
-        ""
-      ],
-      [
         "Nationwide Children's Hospital",
         "IT R&1 Data Science Intern",
         "Columbus, OH",
@@ -6986,6 +6979,13 @@
         "\ud83d\udd25 ByteDance",
         "Research Scientist Intern - Seed Responsible AI",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Marvell",
+        "Applied Machine Learning Scientist Intern",
+        "Santa Clara, CA",
         "",
         ""
       ],
