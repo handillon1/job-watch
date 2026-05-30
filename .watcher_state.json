@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "f4b0f726b63193df7aeedbe49daa8ed07a9a7a64",
+    "last_sha": "3d79bdd56804a8f48648b12660ac386e7829e5cd",
     "rows": [
       [
         "Samsung Research America",
@@ -3763,20 +3763,6 @@
         "San Jose, CA",
         "Fall 2026",
         "https://lifeattiktok.com/search/7625929879091300613?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer - Search Ads",
-        "San Jose, CA",
-        "Fall 2026",
-        "https://lifeattiktok.com/search/7623166667125508357?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - App Ads",
-        "San Jose, CA",
-        "Fall 2026",
-        "https://lifeattiktok.com/search/7623166673809770757?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 NVIDIA",
@@ -3957,6 +3943,20 @@
         "GE Healthcare",
         "AI Research Intern \ud83c\udf93",
         "Remote in USA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Engineer - Search Ads",
+        "San Jose, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Engineer Intern - App Ads",
+        "San Jose, CA",
         "Fall 2026",
         ""
       ],
@@ -6889,7 +6889,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "f4b0f726b63193df7aeedbe49daa8ed07a9a7a64",
+    "last_sha": "3d79bdd56804a8f48648b12660ac386e7829e5cd",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
