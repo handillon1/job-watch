@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "1806b962d89755ed268a5d01492260aa635b6e01",
+    "last_sha": "37c796d13f052dcb9b48dd8d8ff95988a3f2bfce",
     "rows": [
       [
         "Samsung Research America",
@@ -6868,7 +6868,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "1806b962d89755ed268a5d01492260aa635b6e01",
+    "last_sha": "37c796d13f052dcb9b48dd8d8ff95988a3f2bfce",
     "rows": [
       [
         "ConnectPrep",
@@ -7322,6 +7322,13 @@
         "Mariana Minerals",
         "Machine Learning Engineering Intern",
         "SF Ann Arbor, MI",
+        "",
+        ""
+      ],
+      [
+        "PHINIA",
+        "AI Agent Developer Intern",
+        "Auburn Hills, MI",
         "",
         ""
       ],
