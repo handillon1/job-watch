@@ -810,7 +810,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 115,
+      "message_id": 121,
       "chat_id": 8619425244
     },
     "9d6a4b63fcf0": {
@@ -821,6 +821,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 116,
+      "chat_id": 8619425244
+    },
+    "f500e0bbe9f7": {
+      "company": "ConnectPrep",
+      "role": "Data Analyst Intern",
+      "location": "Boston, MA Remote in USA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 118,
+      "chat_id": 8619425244
+    },
+    "312d91b4a9e7": {
+      "company": "Boys Town",
+      "role": "Artificial Intelligence & Machine Learning Intern",
+      "location": "Omaha, NE",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 119,
+      "chat_id": 8619425244
+    },
+    "122a07f90e7e": {
+      "company": "AAA Club Alliance",
+      "role": "Information Systems/Data & Analytics Intern",
+      "location": "Newport Beach, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 120,
       "chat_id": 8619425244
     }
   },
