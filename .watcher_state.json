@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "de14b37d4193ee461af856c7a243abec0a28f5f4",
+    "last_sha": "2cc5a22f95431b18d7249b62794504271aa8ea74",
     "rows": [
       [
         "Samsung Research America",
@@ -6868,12 +6868,19 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "de14b37d4193ee461af856c7a243abec0a28f5f4",
+    "last_sha": "2cc5a22f95431b18d7249b62794504271aa8ea74",
     "rows": [
       [
         "ConnectPrep",
         "Data Analyst Intern",
         "Boston, MA Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Boys Town",
+        "Artificial Intelligence & Machine Learning Intern",
+        "Omaha, NE",
         "",
         ""
       ],
