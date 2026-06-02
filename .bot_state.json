@@ -630,7 +630,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 92,
+      "message_id": 134,
       "chat_id": 8619425244
     },
     "0f9ebbe8d1c9": {
@@ -931,6 +931,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 130,
+      "chat_id": 8619425244
+    },
+    "d1dab80a54ce": {
+      "company": "\ud83d\udd25 ByteDance",
+      "role": "Research Intern - AI/LLM Network \ud83c\udf93",
+      "location": "Seattle, WA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 131,
+      "chat_id": 8619425244
+    },
+    "bf570a893278": {
+      "company": "Magnite",
+      "role": "Software Engineering Intern - Data Science Engineering",
+      "location": "Broomfield, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 132,
+      "chat_id": 8619425244
+    },
+    "9559bd2772e5": {
+      "company": "Intelerad",
+      "role": "Data Science Intern",
+      "location": "United States",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 133,
       "chat_id": 8619425244
     }
   },
