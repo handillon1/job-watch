@@ -690,7 +690,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 98,
+      "message_id": 152,
       "chat_id": 8619425244
     },
     "1b2adeafca91": {
@@ -1111,6 +1111,46 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 149,
+      "chat_id": 8619425244
+    },
+    "1fde3b9fadd1": {
+      "company": "NPR",
+      "role": "AI Research \u2013 Ethics and Readiness Intern",
+      "location": "United States",
+      "term": "Fall 2026",
+      "apply_url": "https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4701925005?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 150,
+      "chat_id": 8619425244
+    },
+    "0da5d15c5a67": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Fall 2026, Winter 2026",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36941?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 151,
+      "chat_id": 8619425244
+    },
+    "8851ed39bf13": {
+      "company": "Ameresco",
+      "role": "AI Agent Integration and Powered Land Origination Co-op",
+      "location": "Boston, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 153,
+      "chat_id": 8619425244
+    },
+    "56e656fd8e6f": {
+      "company": "SitusAMC",
+      "role": "AI Software Development Team Intern",
+      "location": "Remote in USA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 154,
       "chat_id": 8619425244
     }
   },
