@@ -280,7 +280,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 65,
+      "message_id": 168,
       "chat_id": 8619425244
     },
     "887837449e02": {
@@ -720,7 +720,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 101,
+      "message_id": 167,
       "chat_id": 8619425244
     },
     "dec4e7515e05": {
@@ -1261,6 +1261,16 @@
       "apply_url": "",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 165,
+      "chat_id": 8619425244
+    },
+    "a7876c46d902": {
+      "company": "Cohere Health",
+      "role": "Machine Learning Engineer Intern",
+      "location": "Remote in USA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 166,
       "chat_id": 8619425244
     }
   },
