@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "9dfc3c03f12f1d839892df105a4139fe7aafe87d",
+    "last_sha": "1b5b5c18665a7fa9f8a2d55794640c810ce39299",
     "rows": [
       [
         "PrizePicks",
@@ -6931,8 +6931,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "9dfc3c03f12f1d839892df105a4139fe7aafe87d",
+    "last_sha": "1b5b5c18665a7fa9f8a2d55794640c810ce39299",
     "rows": [
+      [
+        "Ivy Tech Community College",
+        "Data Analyst Intern",
+        "Indianapolis, IN",
+        "",
+        ""
+      ],
       [
         "EXL",
         "Analytics & AI Solutions Intern",
@@ -7553,13 +7560,6 @@
         "Cloudforce",
         "AI Agent Builder Intern \ud83d\udec2",
         "National Harbor, MD",
-        "",
-        ""
-      ],
-      [
-        "iTradeNetwork",
-        "Software Engineer Intern - Machine Learning",
-        "4 locationsOakland, CA Charlotte, NC Denver, CO Atlanta, GA",
         "",
         ""
       ]
