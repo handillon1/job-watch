@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "b87dd26f6f9954c8b8b8a7f224508fa56030b26b",
+    "last_sha": "ca6c2a0621589ada041c1bd7da034e4937df312f",
     "rows": [
+      [
+        "\ud83d\udd25 Tesla",
+        "Data Analyst Intern - Data Analyst - Energy",
+        "Fremont, CA",
+        "Fall 2026",
+        "https://www.tesla.com/careers/search/job/271329?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Tesla",
         "Data Engineer Intern - Fleet Analytics",
@@ -6906,19 +6913,26 @@
         "Paramus, NJ",
         "Winter 2026, Spring 2026",
         ""
-      ],
-      [
-        "NetraDyne",
-        "AI Research Intern",
-        "San Diego, CA",
-        "Winter 2025",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "b87dd26f6f9954c8b8b8a7f224508fa56030b26b",
+    "last_sha": "ca6c2a0621589ada041c1bd7da034e4937df312f",
     "rows": [
+      [
+        "\ud83d\udd25 Tesla",
+        "AI Engineer Intern",
+        "Palo Alto, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "Data Engineer Intern - Data Engineer - Fleet Analytics",
+        "Palo Alto, CA",
+        "",
+        ""
+      ],
       [
         "XPENG Motors",
         "AI Infrastructure Onboard Performance Intern \ud83c\udf93",
