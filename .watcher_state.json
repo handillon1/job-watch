@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "8c99b6bbfce94de1182f1d8eba0c6db4efc97d57",
+    "last_sha": "d28739839e50a4a18c53229239b3fe105e04c37e",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6910,7 +6910,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "8c99b6bbfce94de1182f1d8eba0c6db4efc97d57",
+    "last_sha": "d28739839e50a4a18c53229239b3fe105e04c37e",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -7301,6 +7301,13 @@
         "PlusAI",
         "Machine Learning Infrastructure Engineer Intern",
         "Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
+        "Zillow",
+        "AI Applied Scientist Intern - Evaluation Systems and Metrics \ud83c\udf93",
+        "Remote in USA",
         "",
         ""
       ],
