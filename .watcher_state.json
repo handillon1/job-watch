@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "c0d1e489cbd3eb6ffc38b7d5ace80f96d107bf61",
+    "last_sha": "8c99b6bbfce94de1182f1d8eba0c6db4efc97d57",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6910,7 +6910,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "c0d1e489cbd3eb6ffc38b7d5ace80f96d107bf61",
+    "last_sha": "8c99b6bbfce94de1182f1d8eba0c6db4efc97d57",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -7137,6 +7137,13 @@
         ""
       ],
       [
+        "Boys Town",
+        "Artificial Intelligence & Machine Learning Intern",
+        "Omaha, NE",
+        "",
+        ""
+      ],
+      [
         "\ud83d\udd25 TikTok",
         "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
         "Seattle, WA",
@@ -7294,13 +7301,6 @@
         "PlusAI",
         "Machine Learning Infrastructure Engineer Intern",
         "Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "Zillow",
-        "AI Applied Scientist Intern - Evaluation Systems and Metrics \ud83c\udf93",
-        "Remote in USA",
         "",
         ""
       ],
