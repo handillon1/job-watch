@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "f052bb13b889366494771980c8aa4c605c5037b8",
+    "last_sha": "200641831f9e6c9e7694eb75e80f4e3e83090ca2",
     "rows": [
       [
         "Great American Insurance Company",
@@ -6917,8 +6917,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "f052bb13b889366494771980c8aa4c605c5037b8",
+    "last_sha": "200641831f9e6c9e7694eb75e80f4e3e83090ca2",
     "rows": [
+      [
+        "Breeze Airways",
+        "Data Analyst Intern",
+        "Cottonwood Heights, UT",
+        "",
+        ""
+      ],
       [
         "Vertex Pharmaceuticals",
         "AI and Governance Co-op - AI and Governance",
@@ -7354,13 +7361,6 @@
         ""
       ],
       [
-        "APM Terminals",
-        "Artificial Intelligence Intern - Artificial Intelligence",
-        "San Pedro, LA",
-        "",
-        ""
-      ],
-      [
         "\ud83d\udd25 Meta",
         "Research Scientist Intern - Multimodal Contextual AI \ud83c\udf93",
         "Redmond, WA",
@@ -7406,6 +7406,13 @@
         "Eluvio",
         "AI Machine Learning Intern - Gen AI - Multimodal",
         "Berkeley, CA",
+        "",
+        ""
+      ],
+      [
+        "Trane Technologies",
+        "Collections Data Analyst Intern",
+        "Winona, MN",
         "",
         ""
       ],
