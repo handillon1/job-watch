@@ -340,7 +340,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 54,
+      "message_id": 192,
       "chat_id": 8619425244
     },
     "9a74953a43f2": {
@@ -1411,6 +1411,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 190,
+      "chat_id": 8619425244
+    },
+    "f050b64f7791": {
+      "company": "Vertex Pharmaceuticals",
+      "role": "AI and Governance Co-op - AI and Governance",
+      "location": "Boston, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 191,
       "chat_id": 8619425244
     }
   },
