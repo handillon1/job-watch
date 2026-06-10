@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "efeb78572e6d2261105b49e51a4f0da23cf3272f",
+    "last_sha": "67ed18b7de429b939e9740c3f1c4b9fd9ce0387a",
     "rows": [
       [
         "Great American Insurance Company",
@@ -6917,7 +6917,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "efeb78572e6d2261105b49e51a4f0da23cf3272f",
+    "last_sha": "67ed18b7de429b939e9740c3f1c4b9fd9ce0387a",
     "rows": [
       [
         "Meshy",
@@ -6930,6 +6930,13 @@
         "Meshy",
         "Generative AI Researcher Intern",
         "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
@@ -7245,6 +7252,13 @@
         "Alteryx",
         "Revenue Operations Intern - Insights & Analytics",
         "Irvine, CA",
+        "",
+        ""
+      ],
+      [
+        "C&S Wholesale Grocers",
+        "Data Reporting & Analytics Intern",
+        "East Windsor, CT",
         "",
         ""
       ],

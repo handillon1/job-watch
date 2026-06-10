@@ -340,7 +340,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 192,
+      "message_id": 202,
       "chat_id": 8619425244
     },
     "9a74953a43f2": {
@@ -1491,6 +1491,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 200,
+      "chat_id": 8619425244
+    },
+    "90352818af25": {
+      "company": "Evolver",
+      "role": "Applied Data Science Intern",
+      "location": "Palo Alto, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 201,
       "chat_id": 8619425244
     }
   },
