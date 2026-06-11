@@ -1500,7 +1500,27 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 203,
+      "message_id": 206,
+      "chat_id": 8619425244
+    },
+    "1a0c4a65a82d": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36921?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 204,
+      "chat_id": 8619425244
+    },
+    "f6db2f0240c0": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36920?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 205,
       "chat_id": 8619425244
     }
   },
