@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "34e5ada52b49a600bca789dbbea495ed51baac40",
+    "last_sha": "3b03b7bca375a2c9da2e155416fe1f7d3f8d8e26",
     "rows": [
       [
         "Memphis Meats",
@@ -6924,12 +6924,19 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "34e5ada52b49a600bca789dbbea495ed51baac40",
+    "last_sha": "3b03b7bca375a2c9da2e155416fe1f7d3f8d8e26",
     "rows": [
       [
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Meta",
+        "Research Scientist Intern - Audio Quality with AI",
+        "Redmond, WA",
         "",
         ""
       ],
