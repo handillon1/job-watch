@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "b51ed83da2e864193265c0b24af58fc86bd0931c",
+    "last_sha": "22d6f553b9e8b9ebb0b83cafc4080729b58a5d1a",
     "rows": [
       [
         "Great American Insurance Company",
@@ -3749,6 +3749,13 @@
         "San Bruno, CA",
         "Fall 2026",
         "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Fall-Intern---Frontier-Research--Prescient-Design--AI-for-Drug-Discovery-_202605-113632?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Fall 2026, Winter 2026",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36923?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Samsung Research America",
@@ -6875,7 +6882,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "b51ed83da2e864193265c0b24af58fc86bd0931c",
+    "last_sha": "22d6f553b9e8b9ebb0b83cafc4080729b58a5d1a",
     "rows": [
       [
         "Meshy",
@@ -6888,13 +6895,6 @@
         "Meshy",
         "Generative AI Researcher Intern",
         "Sunnyvale, CA",
-        "",
-        ""
-      ],
-      [
-        "Evolver",
-        "Applied Data Science Intern",
-        "Palo Alto, CA",
         "",
         ""
       ],
