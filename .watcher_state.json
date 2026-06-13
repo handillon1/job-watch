@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "053e3fd0fabae514291ddf485e38ae4de7ff7e41",
+    "last_sha": "12c821a867d6b1f2b97b5551b4fd0b4f907c8711",
     "rows": [
       [
         "Harbinger Motors",
@@ -3665,13 +3665,6 @@
         "Westminster, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
-        "Mountain View, CA Warren, MI",
-        "Fall 2026",
-        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Memphis Meats",
@@ -3770,13 +3763,6 @@
         "Sunnyvale, CA",
         "Fall 2026, Winter 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36944?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Genentech",
-        "AI for Drug Discovery Intern - Frontier Research - Prescient Design','AI for Drug Discovery \ud83c\udf93",
-        "San Bruno, CA",
-        "Fall 2026",
-        "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Fall-Intern---Frontier-Research--Prescient-Design--AI-for-Drug-Discovery-_202605-113632?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -3905,10 +3891,24 @@
         "https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "General Motors",
+        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
+        "Mountain View, CA Warren, MI",
+        "Fall 2026",
+        ""
+      ],
+      [
         "Leidos",
         "Artificial Intelligence, Machine Learning Observability Intern",
         "Remote in USA",
         "Spring 2026",
+        ""
+      ],
+      [
+        "Genentech",
+        "AI for Drug Discovery Intern - Frontier Research - Prescient Design','AI for Drug Discovery \ud83c\udf93",
+        "San Bruno, CA",
+        "Fall 2026",
         ""
       ],
       [
@@ -6910,7 +6910,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "053e3fd0fabae514291ddf485e38ae4de7ff7e41",
+    "last_sha": "12c821a867d6b1f2b97b5551b4fd0b4f907c8711",
     "rows": [
       [
         "MedElite",
@@ -6958,13 +6958,6 @@
         "\ud83d\udd25 Meta",
         "Research Scientist Intern - Audio Quality with AI",
         "Redmond, WA",
-        "",
-        ""
-      ],
-      [
-        "Axis Communications AB",
-        "Marketing Operation & Data Analytics Intern",
-        "Irvine, CA",
         "",
         ""
       ],
@@ -7235,13 +7228,6 @@
         ""
       ],
       [
-        "Boys Town",
-        "Artificial Intelligence & Machine Learning Intern",
-        "Omaha, NE",
-        "",
-        ""
-      ],
-      [
         "\ud83d\udd25 TikTok",
         "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
         "Seattle, WA",
@@ -7420,13 +7406,6 @@
         "\ud83d\udd25 TikTok",
         "Data Science Operations Intern - Business Integrity Data Cycling Center",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "Commonwealth of Massachusetts",
-        "Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence",
-        "Quincy, MA",
         "",
         ""
       ],
