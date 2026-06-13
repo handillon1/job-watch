@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "87bd3a271d9b5efc869d6d4e806a9784d26290a4",
+    "last_sha": "19bc5e55839fd4373c49cb8c9c09599beb3888ea",
     "rows": [
       [
         "Harbinger Motors",
@@ -6910,7 +6910,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "87bd3a271d9b5efc869d6d4e806a9784d26290a4",
+    "last_sha": "19bc5e55839fd4373c49cb8c9c09599beb3888ea",
     "rows": [
       [
         "MedElite",
@@ -6979,6 +6979,13 @@
         "Meshy",
         "Generative AI Researcher Intern",
         "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
@@ -7189,13 +7196,6 @@
         "Magnite",
         "Software Engineering Intern - Data Science Engineering",
         "Broomfield, CO",
-        "",
-        ""
-      ],
-      [
-        "Applied Materials",
-        "Data Scientist Intern",
-        "Santa Clara, CA",
         "",
         ""
       ],
