@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "2473b5445c718bb8e9a35f21805c304e6a94b277",
+    "last_sha": "6955480d15bcb51fb7829a796b93db89aebf8beb",
     "rows": [
       [
         "Harbinger Motors",
@@ -3665,6 +3665,13 @@
         "Westminster, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
+        "Mountain View, CA Warren, MI",
+        "Fall 2026",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Memphis Meats",
@@ -3889,13 +3896,6 @@
         "8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Corvallis, OR NYC Bellevue, WA San Diego, CA",
         "Fall 2026",
         "https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
-        "Mountain View, CA Warren, MI",
-        "Fall 2026",
-        ""
       ],
       [
         "Great American Insurance Company",
@@ -6903,7 +6903,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "2473b5445c718bb8e9a35f21805c304e6a94b277",
+    "last_sha": "6955480d15bcb51fb7829a796b93db89aebf8beb",
     "rows": [
       [
         "MedElite",
@@ -6958,6 +6958,13 @@
         "Meshy",
         "Generative AI Researcher Intern",
         "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
