@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "12c821a867d6b1f2b97b5551b4fd0b4f907c8711",
+    "last_sha": "c269961fbfd918100c9e1e859975308295fc7d02",
     "rows": [
       [
         "Harbinger Motors",
@@ -3679,13 +3679,6 @@
         "Palo Alto, CA",
         "Fall 2026",
         "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Great American Insurance Company",
-        "Catastrophe Modeling & Data Analytics Intern",
-        "Cincinnati, OH",
-        "Fall 2026",
-        "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2026-_R9102?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -3894,6 +3887,13 @@
         "General Motors",
         "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
         "Mountain View, CA Warren, MI",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Great American Insurance Company",
+        "Catastrophe Modeling & Data Analytics Intern",
+        "Cincinnati, OH",
         "Fall 2026",
         ""
       ],
@@ -6910,7 +6910,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "12c821a867d6b1f2b97b5551b4fd0b4f907c8711",
+    "last_sha": "c269961fbfd918100c9e1e859975308295fc7d02",
     "rows": [
       [
         "MedElite",
@@ -7203,13 +7203,6 @@
         "Applied Materials",
         "Data Scientist Intern",
         "Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "LiveRamp",
-        "AI/Automation Engineer Intern",
-        "Seattle, WA SF",
         "",
         ""
       ],
