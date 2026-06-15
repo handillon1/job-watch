@@ -1500,7 +1500,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 225,
+      "message_id": 230,
       "chat_id": 8619425244
     },
     "1a0c4a65a82d": {
@@ -1661,6 +1661,46 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 222,
+      "chat_id": 8619425244
+    },
+    "1ccd7daf6c07": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Data Analyst Intern - TikTok Shop AMS Data Science",
+      "location": "Seattle, WA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 226,
+      "chat_id": 8619425244
+    },
+    "69ab03858b39": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Data Scientist Intern - TikTok Shop User Product DS \ud83c\udf93",
+      "location": "Seattle, WA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 227,
+      "chat_id": 8619425244
+    },
+    "7d5f6d83708a": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Data Scientist Intern",
+      "location": "Seattle, WA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 228,
+      "chat_id": 8619425244
+    },
+    "630a93d01c0e": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Scientist Intern - Tiktok-Content Ecology-LLM application \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 229,
       "chat_id": 8619425244
     }
   },

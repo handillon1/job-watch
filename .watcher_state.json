@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "a5ea4a5975c7ed32dd104b0b1e9c9877b9ba15be",
+    "last_sha": "bb3c913053b07927180e92b52512fe98352f7e5d",
     "rows": [
       [
         "Harbinger Motors",
@@ -3721,13 +3721,6 @@
         "Remote in USA",
         "Fall 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "NPR",
-        "AI Research \u2013 Ethics and Readiness Intern",
-        "United States",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4701925005?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -3894,6 +3887,13 @@
         "Great American Insurance Company",
         "Catastrophe Modeling & Data Analytics Intern",
         "Cincinnati, OH",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "NPR",
+        "AI Research \u2013 Ethics and Readiness Intern",
+        "United States",
         "Fall 2026",
         ""
       ],
@@ -4123,14 +4123,14 @@
       ],
       [
         "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - App Ads",
+        "Machine Learning Engineer - Search Ads",
         "San Jose, CA",
         "Fall 2026",
         ""
       ],
       [
         "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer - Search Ads",
+        "Machine Learning Engineer Intern - App Ads",
         "San Jose, CA",
         "Fall 2026",
         ""
@@ -6875,8 +6875,36 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "a5ea4a5975c7ed32dd104b0b1e9c9877b9ba15be",
+    "last_sha": "bb3c913053b07927180e92b52512fe98352f7e5d",
     "rows": [
+      [
+        "\ud83d\udd25 TikTok",
+        "Data Analyst Intern - TikTok Shop AMS Data Science",
+        "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Data Scientist Intern - TikTok Shop User Product DS \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Data Scientist Intern",
+        "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Scientist Intern - Tiktok-Content Ecology-LLM application \ud83c\udf93",
+        "San Jose, CA",
+        "",
+        ""
+      ],
       [
         "Solar Turbines",
         "Gas Compressor Data Analyst Intern",
@@ -6923,6 +6951,13 @@
         "Meshy",
         "Generative AI Researcher Intern",
         "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
