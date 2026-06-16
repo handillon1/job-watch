@@ -3657,15 +3657,8 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "8bc9d41eeaf0cefb48b03352dd51e9a8d9df881e",
+    "last_sha": "35a7ae63e9fa5958c1621e5126b746cccaf14095",
     "rows": [
-      [
-        "Harbinger Motors",
-        "Production Data Analytics Intern",
-        "Westminster, CA",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
-      ],
       [
         "Memphis Meats",
         "AI Intern \ud83c\udf93",
@@ -3854,6 +3847,13 @@
         "4 locationsPalo Alto, CA Seattle, WA SF NYC",
         "Fall 2026",
         "https://www.pinterestcareers.com/jobs/?gh_jid=7253017&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Harbinger Motors",
+        "Production Data Analytics Intern",
+        "Westminster, CA",
+        "Fall 2026",
+        ""
       ],
       [
         "General Motors",
@@ -6868,8 +6868,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "8bc9d41eeaf0cefb48b03352dd51e9a8d9df881e",
+    "last_sha": "35a7ae63e9fa5958c1621e5126b746cccaf14095",
     "rows": [
+      [
+        "Itron",
+        "Embedded Systems & Artificial Intelligence Intern",
+        "San Jose, CA",
+        "",
+        ""
+      ],
       [
         "EXL",
         "Healthcare AI Solutions Intern",
@@ -6972,13 +6979,6 @@
         "EXL",
         "AI Intern - Insurance & Healthcare - Agentic AI",
         "United States",
-        "",
-        ""
-      ],
-      [
-        "Breeze Airways",
-        "Data Analyst Intern",
-        "Cottonwood Heights, UT",
         "",
         ""
       ],
