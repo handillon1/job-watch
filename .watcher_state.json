@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "631667ef6613c9fc2e738fab99ad1037dd8d46d3",
+    "last_sha": "ea111081edec73e87f68b9d1dd14e9c23600561f",
     "rows": [
       [
         "ABB",
@@ -3672,13 +3672,6 @@
         "Westminster, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
-        "Mountain View, CA Warren, MI",
-        "Fall 2026",
-        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Memphis Meats",
@@ -3868,6 +3861,13 @@
         "4 locationsPalo Alto, CA Seattle, WA SF NYC",
         "Fall 2026",
         "https://www.pinterestcareers.com/jobs/?gh_jid=7253017&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
+        "Mountain View, CA Warren, MI",
+        "Fall 2026",
+        ""
       ],
       [
         "Great American Insurance Company",
@@ -6875,7 +6875,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "631667ef6613c9fc2e738fab99ad1037dd8d46d3",
+    "last_sha": "ea111081edec73e87f68b9d1dd14e9c23600561f",
     "rows": [
       [
         "Pebl",
@@ -7378,6 +7378,13 @@
         "Eluvio",
         "AI Machine Learning Intern - Gen AI - Multimodal",
         "Berkeley, CA",
+        "",
+        ""
+      ],
+      [
+        "Trane Technologies",
+        "Collections Data Analyst Intern",
+        "Winona, MN",
         "",
         ""
       ],
