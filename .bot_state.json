@@ -180,7 +180,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 194,
+      "message_id": 240,
       "chat_id": 8619425244
     },
     "e9b3f8d0b74a": {
@@ -760,7 +760,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 106,
+      "message_id": 239,
       "chat_id": 8619425244
     },
     "2f5122b2d575": {
@@ -1771,6 +1771,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 237,
+      "chat_id": 8619425244
+    },
+    "c2e4a4f11100": {
+      "company": "Pebl",
+      "role": "Software Engineer Intern - Conversational AI - Alfie",
+      "location": "Palo Alto, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 238,
       "chat_id": 8619425244
     }
   },

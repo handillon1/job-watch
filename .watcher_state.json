@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "80da9e3bde4a711a9e0efac924e79a039207990f",
+    "last_sha": "6de183bc52bb6863f26e66891f273423fbddb9c5",
     "rows": [
       [
         "ABB",
@@ -6875,8 +6875,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "80da9e3bde4a711a9e0efac924e79a039207990f",
+    "last_sha": "6de183bc52bb6863f26e66891f273423fbddb9c5",
     "rows": [
+      [
+        "Pebl",
+        "Software Engineer Intern - Conversational AI - Alfie",
+        "Palo Alto, CA",
+        "",
+        ""
+      ],
       [
         "Itron",
         "Embedded Systems & Artificial Intelligence Intern",
@@ -6894,6 +6901,13 @@
       [
         "Cotiviti",
         "Agentic AI Research Intern",
+        "Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Cotiviti",
+        "Generative AI Research Engineer Intern \ud83c\udf93",
         "Remote in USA",
         "",
         ""
@@ -6965,13 +6979,6 @@
         "Pebl",
         "Product Manager Intern - Alfie - Conversational AI",
         "Palo Alto, CA",
-        "",
-        ""
-      ],
-      [
-        "Meshy",
-        "Generative AI Researcher Intern",
-        "Sunnyvale, CA",
         "",
         ""
       ],
@@ -7375,6 +7382,13 @@
         ""
       ],
       [
+        "Trane Technologies",
+        "Collections Data Analyst Intern",
+        "Winona, MN",
+        "",
+        ""
+      ],
+      [
         "Cresta",
         "Data Science Intern - Customer Success",
         "Remote in USA",
@@ -7392,13 +7406,6 @@
         "Cole Engineering Services",
         "AI Intern \ud83c\uddfa\ud83c\uddf8",
         "Hanover, MD",
-        "",
-        ""
-      ],
-      [
-        "Vera Institute of Justice",
-        "Data Science Intern - Research Central",
-        "Brooklyn, NY",
         "",
         ""
       ],
