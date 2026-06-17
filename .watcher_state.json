@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "d0f5905febe4e6d62fc395ecb457bb6a9e9e24db",
+    "last_sha": "f71e1c6e243dc3558ea4a6253a3a63f51ee714dc",
     "rows": [
+      [
+        "General Motors",
+        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
+        "Mountain View, CA Warren, MI",
+        "Fall 2026",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Memphis Meats",
         "AI Intern \ud83c\udf93",
@@ -3852,13 +3859,6 @@
         "Harbinger Motors",
         "Production Data Analytics Intern",
         "Westminster, CA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
-        "Mountain View, CA Warren, MI",
         "Fall 2026",
         ""
       ],
@@ -6868,12 +6868,26 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "d0f5905febe4e6d62fc395ecb457bb6a9e9e24db",
+    "last_sha": "f71e1c6e243dc3558ea4a6253a3a63f51ee714dc",
     "rows": [
       [
         "Itron",
         "Embedded Systems & Artificial Intelligence Intern",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Synchrony Financial",
+        "Data Analytics Intern",
+        "Stamford, CT",
+        "",
+        ""
+      ],
+      [
+        "Cotiviti",
+        "Agentic AI Research Intern",
+        "Remote in USA",
         "",
         ""
       ],
