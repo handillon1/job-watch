@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "188ac18c619035208b72b38a5dea1f7eb7ca3667",
+    "last_sha": "a2a6916d2efb46b72848319479c76e57aa498bbc",
     "rows": [
       [
         "ABB",
@@ -6798,12 +6798,19 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "188ac18c619035208b72b38a5dea1f7eb7ca3667",
+    "last_sha": "a2a6916d2efb46b72848319479c76e57aa498bbc",
     "rows": [
       [
         "Simple Technology Solutions",
         "AI & Data Engineering Apprentice",
         "Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Vanasse Hangen Brustlin (VHB)",
+        "Data Analytics Intern",
+        "Raleigh, NC",
         "",
         ""
       ],
