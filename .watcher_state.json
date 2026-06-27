@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "7799d9db438b1a9623889e089acb42461681173d",
+    "last_sha": "79842c56a67d5d5324a63bbc854aa03f779a8b96",
     "rows": [
       [
         "Delta Air Lines",
@@ -6707,8 +6707,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "7799d9db438b1a9623889e089acb42461681173d",
+    "last_sha": "79842c56a67d5d5324a63bbc854aa03f779a8b96",
     "rows": [
+      [
+        "Photon",
+        "AI Intern",
+        "Dallas, TX",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 Intel",
         "AI Security Engineer Intern \ud83c\udf93",
