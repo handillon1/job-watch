@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "0131f0d5317a5b7ef1a83ce744a516c4e34d662f",
+    "last_sha": "95d5ec5cba97961317ca3dcd7b7eeb764e6ad757",
     "rows": [
       [
         "Delta Air Lines",
@@ -6640,30 +6640,23 @@
         "Mountain View, CA",
         "Spring 2026",
         ""
-      ],
-      [
-        "Johnson & Johnson",
-        "Data Operations & Analytics Spring Co-op",
-        "New Hope, PA Somerset County, NJ",
-        "Spring 2026",
-        ""
-      ],
-      [
-        "Western & Southern Financial Group",
-        "Artificial Intelligence Developer Intern - Full Year 2026",
-        "Cincinnati, OH",
-        "Winter 2025",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "0131f0d5317a5b7ef1a83ce744a516c4e34d662f",
+    "last_sha": "95d5ec5cba97961317ca3dcd7b7eeb764e6ad757",
     "rows": [
       [
         "Photon",
         "AI Intern",
         "Dallas, TX",
+        "",
+        ""
+      ],
+      [
+        "Xaira Therapeutics",
+        "Lab Automation Vision AI Engineer Intern",
+        "San Bruno, CA",
         "",
         ""
       ],
@@ -6734,13 +6727,6 @@
         "Pebl",
         "Software Engineer Intern - Conversational AI - Alfie",
         "Palo Alto, CA",
-        "",
-        ""
-      ],
-      [
-        "Synchrony Financial",
-        "Data Analytics Intern",
-        "Stamford, CT",
         "",
         ""
       ],
