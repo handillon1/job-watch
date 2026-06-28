@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "ee2ca1bd3cf8f0b531fd7425effd1c5e737bd841",
+    "last_sha": "01be24da1ef3f751a4c256aaeac42e023a970157",
     "rows": [
       [
         "Delta Air Lines",
@@ -6609,7 +6609,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "ee2ca1bd3cf8f0b531fd7425effd1c5e737bd841",
+    "last_sha": "01be24da1ef3f751a4c256aaeac42e023a970157",
     "rows": [
       [
         "Photon",
@@ -6755,6 +6755,13 @@
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation",
+        "Seattle, WA",
         "",
         ""
       ],
