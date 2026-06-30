@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "c7515c67fb78d10ae0f4aed0ddb3bbbaaf3d2f94",
+    "last_sha": "67200ce61e08efe74865a7664b5b1b410c700917",
     "rows": [
       [
         "Delta Air Lines",
@@ -3849,13 +3849,6 @@
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35743?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "TMEIC",
-        "Intern - Applications, AI and Machine Learning \ud83d\udec2",
-        "Roanoke, VA",
-        "Fall 2026",
-        "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Paccar",
         "Data Scientist Intern \ud83c\udf93",
         "Lewisville, TX",
@@ -4006,6 +3999,13 @@
         "American Enterprise Institute",
         "Data Analysis and Education Policy Intern",
         "Washington, DC",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "TMEIC",
+        "Intern - Applications, AI and Machine Learning \ud83d\udec2",
+        "Roanoke, VA",
         "Fall 2026",
         ""
       ],
@@ -6553,7 +6553,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "c7515c67fb78d10ae0f4aed0ddb3bbbaaf3d2f94",
+    "last_sha": "67200ce61e08efe74865a7664b5b1b410c700917",
     "rows": [
       [
         "Photon",
