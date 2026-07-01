@@ -3657,8 +3657,22 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "21bd7dce0b9a966af21e929c734d009db35cfba3",
+    "last_sha": "d1c9d335b2c088a56972dd2aa1f627703786e0e0",
     "rows": [
+      [
+        "\ud83d\udd25 Tesla",
+        "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
+        "Fremont, CA",
+        "Fall 2026",
+        "https://www.tesla.com/careers/search/job/275380?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware",
+        "Palo Alto, CA",
+        "Fall 2026",
+        "https://www.tesla.com/careers/search/job/275316?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Delta Air Lines",
         "Intern, Innovation - AI Engineering \ud83d\udec2",
@@ -3693,13 +3707,6 @@
         "Mountain View, CA Warren, MI",
         "Fall 2026",
         "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Memphis Meats",
-        "AI Intern \ud83c\udf93",
-        "Oakland, CA",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/memphismeats/jobs/7770551003?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Rivian and Volkswagen Group Technologies",
@@ -3852,6 +3859,13 @@
         "Paccar",
         "Data Scientist Intern \ud83c\udf93",
         "Lewisville, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Memphis Meats",
+        "AI Intern \ud83c\udf93",
+        "Oakland, CA",
         "Fall 2026",
         ""
       ],
@@ -6553,12 +6567,33 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "21bd7dce0b9a966af21e929c734d009db35cfba3",
+    "last_sha": "d1c9d335b2c088a56972dd2aa1f627703786e0e0",
     "rows": [
       [
-        "Photon",
+        "PLS",
         "AI Intern",
-        "Dallas, TX",
+        "Chicago, IL",
+        "",
+        ""
+      ],
+      [
+        "BSE Global",
+        "Ticket Strategy & Analytics Intern",
+        "Brooklyn, NY",
+        "",
+        ""
+      ],
+      [
+        "thyssenkrupp",
+        "Analytics Intern",
+        "Cleveland, OH",
+        "",
+        ""
+      ],
+      [
+        "Susquehanna International Group (SIG)",
+        "AI Co-op",
+        "Ardmore, PA",
         "",
         ""
       ],
@@ -6570,16 +6605,16 @@
         ""
       ],
       [
-        "National Laboratory of the Rockies",
-        "Graduate Intern - AI-Assisted Autonomous Electron Microscopy",
-        "Golden, CO",
+        "Point C",
+        "Data Science AI Intern",
+        "Remote in USA",
         "",
         ""
       ],
       [
-        "\ud83d\udd25 Intel",
-        "AI Security Engineer Intern \ud83c\udf93",
-        "Santa Clara, CA Hillsboro, OR",
+        "National Laboratory of the Rockies",
+        "Graduate Intern - AI-Assisted Autonomous Electron Microscopy",
+        "Golden, CO",
         "",
         ""
       ],
@@ -6598,30 +6633,9 @@
         ""
       ],
       [
-        "AirCapture",
-        "Applied AI Research & Engineer Intern \ud83c\udf93",
-        "Berkeley, CA",
-        "",
-        ""
-      ],
-      [
         "Centerfield",
         "Data Science Intern",
         "LA",
-        "",
-        ""
-      ],
-      [
-        "Simple Technology Solutions",
-        "AI & Data Engineering Apprentice",
-        "Remote in USA",
-        "",
-        ""
-      ],
-      [
-        "Vanasse Hangen Brustlin (VHB)",
-        "Data Analytics Intern",
-        "Raleigh, NC",
         "",
         ""
       ],
@@ -6745,13 +6759,6 @@
         ""
       ],
       [
-        "\ud83d\udd25 Meta",
-        "Research Scientist Intern - Audio Quality with AI",
-        "Redmond, WA",
-        "",
-        ""
-      ],
-      [
         "Evolver",
         "Applied Data Science Intern",
         "Palo Alto, CA",
@@ -6797,13 +6804,6 @@
         "Ancestry",
         "Machine Learning Engineer Co-op \ud83c\udf93",
         "Remote in USA",
-        "",
-        ""
-      ],
-      [
-        "Lucid Motors",
-        "Data Analyst Intern",
-        "Concord, NH",
         "",
         ""
       ],
@@ -7081,13 +7081,6 @@
         ""
       ],
       [
-        "Ensemble Health Partners",
-        "Business Intelligence Intern",
-        "Remote in USA",
-        "",
-        ""
-      ],
-      [
         "GenScript",
         "AI Researcher Intern \ud83c\udf93",
         "Remote in USA",
@@ -7133,13 +7126,6 @@
         "Cresta",
         "Data Science Intern - Customer Success",
         "Remote in USA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Microsoft",
-        "Research Intern - AI Frontiers \ud83c\udf93",
-        "Redmond, WA",
         "",
         ""
       ],
