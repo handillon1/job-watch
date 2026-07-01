@@ -1850,7 +1850,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 249,
+      "message_id": 270,
       "chat_id": 8619425244
     },
     "01ef9487a541": {
@@ -2011,6 +2011,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 267,
+      "chat_id": 8619425244
+    },
+    "66e655fc1511": {
+      "company": "National Laboratory of the Rockies",
+      "role": "Graduate Intern - AI-Assisted Autonomous Electron Microscopy",
+      "location": "Golden, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 268,
+      "chat_id": 8619425244
+    },
+    "07b2a08c04a1": {
+      "company": "Nuro",
+      "role": "Data Scientist Intern",
+      "location": "Mountain View, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 269,
       "chat_id": 8619425244
     }
   },
