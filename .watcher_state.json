@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "0e6ff8a1df417009013920d095bc190f17e5fc54",
+    "last_sha": "8505e595dab7c8fd163eeb8c4ad5bee91912109a",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6595,7 +6595,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "0e6ff8a1df417009013920d095bc190f17e5fc54",
+    "last_sha": "8505e595dab7c8fd163eeb8c4ad5bee91912109a",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6776,6 +6776,13 @@
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
