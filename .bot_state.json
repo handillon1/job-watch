@@ -540,7 +540,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 79,
+      "message_id": 282,
       "chat_id": 8619425244
     },
     "83d5e0b7669d": {
@@ -2101,6 +2101,46 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 277,
+      "chat_id": 8619425244
+    },
+    "d8f6c7fd29bd": {
+      "company": "Susquehanna International Group (SIG)",
+      "role": "Analytics Intern",
+      "location": "Richmond, VA",
+      "term": "Fall 2026",
+      "apply_url": "https://careers-sig.icims.com/jobs/11099/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 278,
+      "chat_id": 8619425244
+    },
+    "e35b02cf51e1": {
+      "company": "The Walt Disney Company",
+      "role": "Commercial Data Science Intern",
+      "location": "Celebration, FL",
+      "term": "Fall 2026",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 279,
+      "chat_id": 8619425244
+    },
+    "1bc2d283eef4": {
+      "company": "The Walt Disney Company",
+      "role": "Commercial Data Science Intern",
+      "location": "Celebration, FL",
+      "term": "Fall 2026",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 280,
+      "chat_id": 8619425244
+    },
+    "58d289f3c63c": {
+      "company": "American Heart Association",
+      "role": "Data Science Intern \ud83c\udf93",
+      "location": "Dallas, TX",
+      "term": "Fall 2026",
+      "apply_url": "https://careers-heart.icims.com/jobs/17663/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 281,
       "chat_id": 8619425244
     }
   },
