@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "8b6dda9df2c3fc859aab6ddb6471155c0415710c",
+    "last_sha": "0e6ff8a1df417009013920d095bc190f17e5fc54",
     "rows": [
+      [
+        "\ud83d\udd25 Tesla",
+        "Machine Learning Intern - AI Engineer - Tesla AI",
+        "Palo Alto, CA",
+        "Fall 2026",
+        "https://www.tesla.com/careers/search/job/275331?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Tesla",
         "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
@@ -6588,7 +6595,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "8b6dda9df2c3fc859aab6ddb6471155c0415710c",
+    "last_sha": "0e6ff8a1df417009013920d095bc190f17e5fc54",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6769,13 +6776,6 @@
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
-        "",
-        ""
-      ],
-      [
-        "Evolver",
-        "Applied Data Science Intern",
-        "Palo Alto, CA",
         "",
         ""
       ],
