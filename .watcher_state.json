@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "dcc4bf1f0f2bc46772cd10960f05055384471148",
+    "last_sha": "ddb5fa7a4ccf897c25271c06d9f020adc983f218",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -3742,13 +3742,6 @@
         "Westminster, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
-        "Mountain View, CA Warren, MI",
-        "Fall 2026",
-        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Rivian and Volkswagen Group Technologies",
@@ -3901,6 +3894,13 @@
         "Paccar",
         "Data Scientist Intern \ud83c\udf93",
         "Lewisville, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
+        "Mountain View, CA Warren, MI",
         "Fall 2026",
         ""
       ],
@@ -6532,7 +6532,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "dcc4bf1f0f2bc46772cd10960f05055384471148",
+    "last_sha": "ddb5fa7a4ccf897c25271c06d9f020adc983f218",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6713,6 +6713,13 @@
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
