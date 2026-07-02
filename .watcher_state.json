@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "4afbd79083a7a31c30f0e1f2a8da7b65f02a9a0c",
+    "last_sha": "a60d752b51ad45733b94ee12098f1ebeb31f5c0e",
     "rows": [
       [
         "Bosch Home Comfort",
@@ -6539,7 +6539,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "4afbd79083a7a31c30f0e1f2a8da7b65f02a9a0c",
+    "last_sha": "a60d752b51ad45733b94ee12098f1ebeb31f5c0e",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6720,6 +6720,13 @@
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
