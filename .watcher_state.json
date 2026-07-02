@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "40644c046194f45e9ce673c496409c4d1a22db34",
+    "last_sha": "2e71ce50827b483be82e9bc045ed03176e2d8592",
     "rows": [
       [
         "Bosch Home Comfort",
@@ -3714,13 +3714,6 @@
         "Atlanta, GA",
         "Fall 2026",
         "https://delta.avature.net/en_US/careers/JobDetail?jobId=32774&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Netflix",
-        "AI/ML Scientist Intern - AIMS AI Foundations \ud83c\udf93",
-        "Los Gatos, CA",
-        "Fall 2026",
-        "https://explore.jobs.netflix.net/careers/job/790316547536?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Heart Association",
@@ -3903,6 +3896,13 @@
         "Long Island City, Queens, NY",
         "Fall 2026, Winter 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35743?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Netflix",
+        "AI/ML Scientist Intern - AIMS AI Foundations \ud83c\udf93",
+        "Los Gatos, CA",
+        "Fall 2026",
+        ""
       ],
       [
         "Paccar",
@@ -6532,7 +6532,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "40644c046194f45e9ce673c496409c4d1a22db34",
+    "last_sha": "2e71ce50827b483be82e9bc045ed03176e2d8592",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6713,6 +6713,13 @@
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
