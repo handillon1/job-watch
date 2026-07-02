@@ -1500,7 +1500,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 295,
+      "message_id": 298,
       "chat_id": 8619425244
     },
     "1a0c4a65a82d": {
@@ -2191,6 +2191,26 @@
       "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 294,
+      "chat_id": 8619425244
+    },
+    "d96cfa8ec924": {
+      "company": "Bot Auto",
+      "role": "Deep Learning Engineer Intern \ud83c\udf93",
+      "location": "Houston, TX",
+      "term": "Fall 2026",
+      "apply_url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 296,
+      "chat_id": 8619425244
+    },
+    "83c2e9f38ed1": {
+      "company": "ConnectPrep",
+      "role": "Data Analyst Intern",
+      "location": "Washington, DC Remote in USA",
+      "term": "Fall 2026",
+      "apply_url": "https://apply.workable.com/connectprep/j/C0CA13664F/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 297,
       "chat_id": 8619425244
     }
   },
