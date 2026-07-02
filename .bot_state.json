@@ -1500,7 +1500,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 293,
+      "message_id": 295,
       "chat_id": 8619425244
     },
     "1a0c4a65a82d": {
@@ -2181,6 +2181,16 @@
       "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000134542009?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 290,
+      "chat_id": 8619425244
+    },
+    "d0e6948f9e73": {
+      "company": "Bosch Home Comfort",
+      "role": "Business Intelligence Intern",
+      "location": "Belmont, MA",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 294,
       "chat_id": 8619425244
     }
   },
