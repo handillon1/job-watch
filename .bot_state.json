@@ -1500,7 +1500,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 289,
+      "message_id": 291,
       "chat_id": 8619425244
     },
     "1a0c4a65a82d": {
@@ -2171,6 +2171,16 @@
       "apply_url": "https://www.tesla.com/careers/search/job/275331?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 287,
+      "chat_id": 8619425244
+    },
+    "433e815ce597": {
+      "company": "Bosch Home Comfort",
+      "role": "Foreign Trade Data Analytics Intern",
+      "location": "Western Springs, IL",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000134542009?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 290,
       "chat_id": 8619425244
     }
   },

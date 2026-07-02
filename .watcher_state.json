@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "85bc120d26735877a3e309db95da07b414f64fc2",
+    "last_sha": "ffedb89a9b4fbbcda5a28a09ef3d2b8cc29e5ebb",
     "rows": [
+      [
+        "Bosch Home Comfort",
+        "Foreign Trade Data Analytics Intern",
+        "Western Springs, IL",
+        "Fall 2026",
+        "https://jobs.smartrecruiters.com/BoschGroup/744000134542009?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Tesla",
         "Machine Learning Intern - AI Engineer - Tesla AI",
@@ -3742,6 +3749,13 @@
         "Westminster, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
+        "Mountain View, CA Warren, MI",
+        "Fall 2026",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Rivian and Volkswagen Group Technologies",
@@ -3894,13 +3908,6 @@
         "Paccar",
         "Data Scientist Intern \ud83c\udf93",
         "Lewisville, TX",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "General Motors",
-        "Research and Development Intern - Research & Development: AI/ML \ud83c\udf93",
-        "Mountain View, CA Warren, MI",
         "Fall 2026",
         ""
       ],
@@ -6532,7 +6539,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "85bc120d26735877a3e309db95da07b414f64fc2",
+    "last_sha": "ffedb89a9b4fbbcda5a28a09ef3d2b8cc29e5ebb",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -6713,6 +6720,13 @@
         "Lila Sciences",
         "Machine Learning for Digital Twins Co-op \ud83c\udf93",
         "Cambridge, MA",
+        "",
+        ""
+      ],
+      [
+        "Evolver",
+        "Applied Data Science Intern",
+        "Palo Alto, CA",
         "",
         ""
       ],
