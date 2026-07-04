@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "0cbd60119e6e24ac9fabbca89d206c892a0dc228",
+    "last_sha": "03b0dde65c48a47400ba85b35ba5791953220987",
     "rows": [
       [
         "\ud83d\udd25 ByteDance",
@@ -6532,7 +6532,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "0cbd60119e6e24ac9fabbca89d206c892a0dc228",
+    "last_sha": "03b0dde65c48a47400ba85b35ba5791953220987",
     "rows": [
       [
         "Travelers",
@@ -6867,6 +6867,13 @@
         "\ud83d\udd25 ByteDance",
         "Research Intern - AI/LLM Network \ud83c\udf93",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Boys Town",
+        "Artificial Intelligence & Machine Learning Intern",
+        "Omaha, NE",
         "",
         ""
       ],
