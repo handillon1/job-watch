@@ -3657,8 +3657,22 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "a93edbe2fe58b641bb30cca158bb2f744a1f34bd",
+    "last_sha": "9594cbe6d94ae7e07329d6a459d34989c4d981e6",
     "rows": [
+      [
+        "1X",
+        "AI Residency Intern",
+        "San Carlos, CA",
+        "Fall 2026",
+        "https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Medpace",
+        "Clinical Business Intelligence Intern",
+        "Cincinnati, OH",
+        "Spring 2026",
+        "https://careers.medpace.com/jobs/12845?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Global Infrastructure",
         "Alternative Delivery Project Analytics Intern \ud83c\udf93",
@@ -3933,13 +3947,6 @@
         "https://careers.medpace.com/jobs/12729?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Samsung Research America",
-        "ML/NLP Research Intern \ud83c\udf93",
-        "Mountain View, CA",
-        "Fall 2026, Winter 2026",
-        "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Bosch Home Comfort",
         "Business Intelligence Intern",
         "Belmont, MA",
@@ -4098,6 +4105,13 @@
         "Machine Learning Intern",
         "Chicago, IL",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Samsung Research America",
+        "ML/NLP Research Intern \ud83c\udf93",
+        "Mountain View, CA",
+        "Fall 2026, Winter 2026",
         ""
       ],
       [
@@ -6434,7 +6448,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "a93edbe2fe58b641bb30cca158bb2f744a1f34bd",
+    "last_sha": "9594cbe6d94ae7e07329d6a459d34989c4d981e6",
     "rows": [
       [
         "Blue River Technology",
@@ -6937,13 +6951,6 @@
         "Eluvio",
         "AI Machine Learning Intern - Gen AI - Multimodal",
         "Berkeley, CA",
-        "",
-        ""
-      ],
-      [
-        "Trane Technologies",
-        "Collections Data Analyst Intern",
-        "Winona, MN",
         "",
         ""
       ]
