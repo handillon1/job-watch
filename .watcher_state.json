@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "3c53e82248fc24364d3fd9fc0d0259f6f5714d56",
+    "last_sha": "37ec8e8809160eabce4bc5e4571cc21d01be5728",
     "rows": [
       [
         "Amwins",
@@ -6455,7 +6455,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "3c53e82248fc24364d3fd9fc0d0259f6f5714d56",
+    "last_sha": "37ec8e8809160eabce4bc5e4571cc21d01be5728",
     "rows": [
       [
         "Caterpillar Inc.",
@@ -6930,6 +6930,13 @@
         "PlusAI",
         "Machine Learning Infrastructure Engineer Intern",
         "Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
+        "GenScript",
+        "AI Researcher Intern \ud83c\udf93",
+        "Remote in USA",
         "",
         ""
       ],
