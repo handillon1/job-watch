@@ -3657,8 +3657,22 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "62e17117e35e8745ee11ce1e1e68dfca363fb9fe",
+    "last_sha": "dba422e1d04536636ef5e6b280d09344a4ea665b",
     "rows": [
+      [
+        "ITT",
+        "Supply Chain Data Analyst Co-op",
+        "Seneca Falls, NY",
+        "Fall 2026",
+        "https://careersenus-itt-inc.icims.com/jobs/15908/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cooper University Health Care",
+        "Business Data Analytics Intern",
+        "Philadelphia, PA",
+        "Fall 2026",
+        "https://careers-cooperhealth.icims.com/jobs/84535/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Amwins",
         "Analytics & AI Intern",
@@ -3881,13 +3895,6 @@
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Fall 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36917?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Fall 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36921?utm_source=Simplify&ref=Simplify"
       ],
       [
@@ -4041,6 +4048,13 @@
         "Genentech",
         "AI for Drug Discovery Intern - Frontier Research - Prescient Design','AI for Drug Discovery \ud83c\udf93",
         "San Bruno, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
         "Fall 2026",
         ""
       ],
@@ -6455,7 +6469,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "62e17117e35e8745ee11ce1e1e68dfca363fb9fe",
+    "last_sha": "dba422e1d04536636ef5e6b280d09344a4ea665b",
     "rows": [
       [
         "Caterpillar Inc.",
@@ -6951,13 +6965,6 @@
         "Neuralink",
         "Machine Learning Engineer Intern",
         "Fremont, CA",
-        "",
-        ""
-      ],
-      [
-        "Eluvio",
-        "AI Machine Learning Intern - Gen AI - Multimodal",
-        "Berkeley, CA",
         "",
         ""
       ]
