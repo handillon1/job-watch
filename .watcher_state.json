@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "42631877e7ca23b1eb721aa0bb80ac3e196e2837",
+    "last_sha": "fc99502e366bb2325b59fcfdacbefbc9b43116e9",
     "rows": [
       [
         "Jump Trading",
@@ -3826,13 +3826,6 @@
         "Austin, TX",
         "Fall 2026",
         "https://www.tesla.com/careers/search/job/274560?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Harbinger Motors",
-        "Production Data Analytics Intern",
-        "Westminster, CA",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007?utm_source=Simplify&ref=Simplify"
       ],
       [
         "General Motors",
@@ -4020,6 +4013,13 @@
         "ABB",
         "AI Data Scientist Intern",
         "Morrisville, NC",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Harbinger Motors",
+        "Production Data Analytics Intern",
+        "Westminster, CA",
         "Fall 2026",
         ""
       ],
@@ -6441,7 +6441,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "42631877e7ca23b1eb721aa0bb80ac3e196e2837",
+    "last_sha": "fc99502e366bb2325b59fcfdacbefbc9b43116e9",
     "rows": [
       [
         "Uber Freight",
