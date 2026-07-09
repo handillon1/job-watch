@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "bd64c5ed264cdd6d3f2dd04ccde8c0f4f1d77489",
+    "last_sha": "427bd8360466375775c5d46b6086bcf8bce0aca1",
     "rows": [
       [
         "Jump Trading",
@@ -3693,13 +3693,6 @@
         "Philadelphia, PA",
         "Fall 2026",
         "https://careers-cooperhealth.icims.com/jobs/84535/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Amwins",
-        "Analytics & AI Intern",
-        "Hartford, CT",
-        "Fall 2026",
-        "https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4302229009&utm_source=Simplify&ref=Simplify"
       ],
       [
         "1X",
@@ -3952,6 +3945,13 @@
         "Cincinnati, OH",
         "Fall 2026",
         "https://careers.medpace.com/jobs/12729?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Amwins",
+        "Analytics & AI Intern",
+        "Hartford, CT",
+        "Fall 2026",
+        ""
       ],
       [
         "CSL",
@@ -6434,7 +6434,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "bd64c5ed264cdd6d3f2dd04ccde8c0f4f1d77489",
+    "last_sha": "427bd8360466375775c5d46b6086bcf8bce0aca1",
     "rows": [
       [
         "Caterpillar Inc.",
@@ -6489,13 +6489,6 @@
         "BSE Global",
         "Ticket Strategy & Analytics Intern",
         "Brooklyn, NY",
-        "",
-        ""
-      ],
-      [
-        "thyssenkrupp",
-        "Analytics Intern",
-        "Cleveland, OH",
         "",
         ""
       ],
