@@ -3657,21 +3657,21 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "6a6a6d3447d3f532d9a5a2071ad66616b5d55206",
+    "last_sha": "ff95626cd4587863d00764016ed5e55194e4b1ca",
     "rows": [
+      [
+        "Rivian",
+        "Machine Learning Compiler Intern - Machine Learning Compiler",
+        "Urbana, IL",
+        "Fall 2026",
+        "https://careers.rivian.com/jobs/29851?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Bosch Home Comfort",
         "Business Intelligence Intern \ud83c\udf93",
         "Belmont, MA",
         "Fall 2026",
         "https://jobs.smartrecruiters.com/BoschGroup/744000137672769?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nextiva",
-        "AI Engineer Intern",
-        "Scottsdale, AZ",
-        "Winter 2026, Spring 2026",
-        "https://www.nextiva.com/company/careers-listing?gh_jid=8612423002&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Jump Trading",
@@ -3854,6 +3854,13 @@
         "Mountain View, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nextiva",
+        "AI Engineer Intern",
+        "Scottsdale, AZ",
+        "Winter 2026, Spring 2026",
+        ""
       ],
       [
         "ITT",
@@ -6294,7 +6301,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "6a6a6d3447d3f532d9a5a2071ad66616b5d55206",
+    "last_sha": "ff95626cd4587863d00764016ed5e55194e4b1ca",
     "rows": [
       [
         "NextGen Federal Systems",
