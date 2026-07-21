@@ -3657,15 +3657,8 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "277be44b889fe77d6b48b6ffbadf35629ee0c05b",
+    "last_sha": "bd12933ff576b522bc949b8a1756c36728f1a1aa",
     "rows": [
-      [
-        "Moon",
-        "Software Engineer Intern - Data & Machine Learning",
-        "Glendale, CA",
-        "Fall 2026",
-        "https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094?utm_source=Simplify&ref=Simplify"
-      ],
       [
         "GenMD",
         "AI Research Scientist Intern \ud83c\udf93",
@@ -3966,6 +3959,13 @@
         "Mountain View, CA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Moon",
+        "Software Engineer Intern - Data & Machine Learning",
+        "Glendale, CA",
+        "Fall 2026",
+        ""
       ],
       [
         "Cirrus Logic",
@@ -6206,18 +6206,11 @@
         "San Jose, CA",
         "Winter 2025",
         ""
-      ],
-      [
-        "ASM Global",
-        "Business Analytics Intern",
-        "Winston-Salem, NC",
-        "Winter 2025",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "277be44b889fe77d6b48b6ffbadf35629ee0c05b",
+    "last_sha": "bd12933ff576b522bc949b8a1756c36728f1a1aa",
     "rows": [
       [
         "World Surf League",
