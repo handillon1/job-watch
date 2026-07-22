@@ -1630,7 +1630,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 219,
+      "message_id": 374,
       "chat_id": 8619425244
     },
     "e61f8bc8b7f7": {
@@ -2741,6 +2741,16 @@
       "apply_url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 370,
+      "chat_id": 8619425244
+    },
+    "acc3e93951a8": {
+      "company": "Lennox International",
+      "role": "AI Engineering Co-op",
+      "location": "Richardson, TX",
+      "term": "Fall 2026",
+      "apply_url": "https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 373,
       "chat_id": 8619425244
     }
   },
