@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "6b1a9c8970192dee7d251df29382bb16a7745492",
+    "last_sha": "2940d04a436f5721f7d0192b6b0b6eab6e67e96e",
     "rows": [
       [
         "Red Bull",
@@ -3695,13 +3695,6 @@
         "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Moon",
-        "Software Engineer Intern - Data & Machine Learning",
-        "Glendale, CA",
-        "Fall 2026",
-        "https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "GenMD",
         "AI Research Scientist Intern \ud83c\udf93",
         "Palo Alto, CA",
@@ -3723,13 +3716,6 @@
         "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Fall 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38784?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "HireVue",
         "Data Science Intern",
         "Draper, UT",
@@ -3742,13 +3728,6 @@
         "LA",
         "Fall 2026",
         "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "RTX",
-        "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
-        "Hartford, CT",
-        "Fall 2026",
-        "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Commercial Metals",
@@ -3777,13 +3756,6 @@
         "Andover, MN",
         "Winter 2027",
         "https://www.careers.zurich.com/job/Anoka-Bachelor"
-      ],
-      [
-        "Tencent",
-        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
-        "Palo Alto, CA",
-        "Fall 2026",
-        "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tencent",
@@ -3940,6 +3912,20 @@
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Moon",
+        "Software Engineer Intern - Data & Machine Learning",
+        "Glendale, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
         "Nokia",
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
@@ -3957,6 +3943,13 @@
         "Cirrus Logic",
         "AI Business Analytics Co-op Intern",
         "Austin, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "RTX",
+        "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
+        "Hartford, CT",
         "Fall 2026",
         ""
       ],
@@ -3985,6 +3978,13 @@
         "Constellation Space",
         "Graduate Researcher Intern - Machine Learning \ud83c\udf93",
         "Seattle, WA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Tencent",
+        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
+        "Palo Alto, CA",
         "Fall 2026",
         ""
       ],
@@ -6231,7 +6231,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "6b1a9c8970192dee7d251df29382bb16a7745492",
+    "last_sha": "2940d04a436f5721f7d0192b6b0b6eab6e67e96e",
     "rows": [
       [
         "National Laboratory of the Rockies",
@@ -6258,13 +6258,6 @@
         "BSE Global",
         "Ticket Strategy & Analytics Intern",
         "Brooklyn, NY",
-        "",
-        ""
-      ],
-      [
-        "thyssenkrupp",
-        "Analytics Intern",
-        "Cleveland, OH",
         "",
         ""
       ],
