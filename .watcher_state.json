@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "28e64ccc7852079cc53f9859e426f66c6cb70c01",
+    "last_sha": "1334a539076db7b34357fb6b2ba0840268a051c2",
     "rows": [
       [
         "Red Bull",
@@ -3728,13 +3728,6 @@
         "Sunnyvale, CA",
         "Fall 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38784?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Fall 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38787?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -3966,6 +3959,13 @@
         "Remote in USA",
         "Fall 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Fall 2026",
+        ""
       ],
       [
         "Viavi Solutions",
@@ -6231,7 +6231,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "28e64ccc7852079cc53f9859e426f66c6cb70c01",
+    "last_sha": "1334a539076db7b34357fb6b2ba0840268a051c2",
     "rows": [
       [
         "National Laboratory of the Rockies",
