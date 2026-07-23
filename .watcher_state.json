@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "e76514f0fba07cf4e2c43a58439f3c5bbe926b16",
+    "last_sha": "5ea0530390510312e4be224927194c37240cc15b",
     "rows": [
       [
         "Red Bull",
@@ -3744,6 +3744,13 @@
         "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "RTX",
+        "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
+        "Hartford, CT",
+        "Fall 2026",
+        "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Commercial Metals",
         "AI Intern",
         "Irving, TX",
@@ -3770,6 +3777,13 @@
         "Andover, MN",
         "Winter 2027",
         "https://www.careers.zurich.com/job/Anoka-Bachelor"
+      ],
+      [
+        "Tencent",
+        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
+        "Palo Alto, CA",
+        "Fall 2026",
+        "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tencent",
@@ -3947,13 +3961,6 @@
         ""
       ],
       [
-        "RTX",
-        "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
-        "Hartford, CT",
-        "Fall 2026",
-        ""
-      ],
-      [
         "Viavi Solutions",
         "Software Development Data Analytics Intern",
         "Remote in USA",
@@ -3978,13 +3985,6 @@
         "Constellation Space",
         "Graduate Researcher Intern - Machine Learning \ud83c\udf93",
         "Seattle, WA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Tencent",
-        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
-        "Palo Alto, CA",
         "Fall 2026",
         ""
       ],
@@ -6231,7 +6231,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "e76514f0fba07cf4e2c43a58439f3c5bbe926b16",
+    "last_sha": "5ea0530390510312e4be224927194c37240cc15b",
     "rows": [
       [
         "National Laboratory of the Rockies",
@@ -6510,6 +6510,13 @@
         "\ud83d\udd25 ByteDance",
         "Research Intern - AI/LLM Network \ud83c\udf93",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Boys Town",
+        "Artificial Intelligence & Machine Learning Intern",
+        "Omaha, NE",
         "",
         ""
       ],
