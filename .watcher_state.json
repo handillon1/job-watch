@@ -3657,14 +3657,14 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "64a2fff0e629c3341de60e9534f815a4bca07ee1",
+    "last_sha": "e0e461b63ee42579cb7081da990926d0d6cb84c3",
     "rows": [
       [
-        "Golden Pet Brands",
-        "Data Analytics Intern",
-        "Remote in USA",
+        "MSM Inc.",
+        "AI Solutions Co-op",
+        "Webster, NY",
         "Fall 2026",
-        "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005?utm_source=Simplify&ref=Simplify"
+        "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Red Bull",
@@ -3938,6 +3938,13 @@
         "Remote in USA",
         "Fall 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Golden Pet Brands",
+        "Data Analytics Intern",
+        "Remote in USA",
+        "Fall 2026",
+        ""
       ],
       [
         "Axogen",
@@ -6168,8 +6175,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "64a2fff0e629c3341de60e9534f815a4bca07ee1",
+    "last_sha": "e0e461b63ee42579cb7081da990926d0d6cb84c3",
     "rows": [
+      [
+        "Northwell Health",
+        "Data Analytics / Data Science Intern",
+        "Manhasset, NY",
+        "",
+        ""
+      ],
       [
         "Mistral AI",
         "AI Data Solutions Intern - Data Partnerships",
