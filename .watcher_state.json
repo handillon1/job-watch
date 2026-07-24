@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "a24808f9e3fedbd4f26d089b7f8c35f014427228",
+    "last_sha": "b8566db9732a53ffebc95ff079ad3f2f3c820613",
     "rows": [
       [
         "Golden Pet Brands",
@@ -3681,6 +3681,13 @@
         "https://jobs.smartrecruiters.com/RedBull/744000139168339?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Impulse Space",
+        "Data Analytics Intern",
+        "El Segundo, CA",
+        "Fall 2026",
+        "https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "OpusClip",
         "AI Research Intern \ud83c\udf93",
         "Mountain View, CA",
@@ -3700,6 +3707,13 @@
         "Chicago, IL",
         "Fall 2026",
         "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Moon",
+        "Software Engineer Intern - Data & Machine Learning",
+        "Glendale, CA",
+        "Fall 2026",
+        "https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094?utm_source=Simplify&ref=Simplify"
       ],
       [
         "GenMD",
@@ -3931,20 +3945,6 @@
         "Remote in USA",
         "Fall 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Impulse Space",
-        "Data Analytics Intern",
-        "El Segundo, CA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Moon",
-        "Software Engineer Intern - Data & Machine Learning",
-        "Glendale, CA",
-        "Fall 2026",
-        ""
       ],
       [
         "Nokia",
@@ -6175,7 +6175,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "a24808f9e3fedbd4f26d089b7f8c35f014427228",
+    "last_sha": "b8566db9732a53ffebc95ff079ad3f2f3c820613",
     "rows": [
       [
         "Mistral AI",
@@ -6202,13 +6202,6 @@
         "\ud83d\udd25 Tesla",
         "RL Engineer Intern - RL Engineer - Tesla AI",
         "Palo Alto, CA",
-        "",
-        ""
-      ],
-      [
-        "thyssenkrupp",
-        "Analytics Intern",
-        "Cleveland, OH",
         "",
         ""
       ],
