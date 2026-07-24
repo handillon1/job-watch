@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "b8566db9732a53ffebc95ff079ad3f2f3c820613",
+    "last_sha": "3bb3d646beddc557b26fecc2c35962d1943856cf",
     "rows": [
       [
         "Golden Pet Brands",
@@ -6175,8 +6175,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "b8566db9732a53ffebc95ff079ad3f2f3c820613",
+    "last_sha": "3bb3d646beddc557b26fecc2c35962d1943856cf",
     "rows": [
+      [
+        "Mistral AI",
+        "AI Data Solutions Intern - Data Partnerships",
+        "Palo Alto, CA",
+        "",
+        ""
+      ],
       [
         "Mistral AI",
         "AI Data Solutions Intern - Data Partnerships",
@@ -6202,6 +6209,13 @@
         "\ud83d\udd25 Tesla",
         "RL Engineer Intern - RL Engineer - Tesla AI",
         "Palo Alto, CA",
+        "",
+        ""
+      ],
+      [
+        "thyssenkrupp",
+        "Analytics Intern",
+        "Cleveland, OH",
         "",
         ""
       ],
