@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "f5e82ee59ff21ab06414d9f436fde95cbed517a9",
+    "last_sha": "eda069bb4bb707b0a9a969719b5063e400b592d8",
     "rows": [
       [
         "Toshiba Global Commerce",
@@ -3784,13 +3784,6 @@
         "Andover, MN",
         "Winter 2027",
         "https://www.careers.zurich.com/job/Anoka-Bachelor"
-      ],
-      [
-        "Tencent",
-        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
-        "Palo Alto, CA",
-        "Fall 2026",
-        "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tencent",
@@ -4006,6 +3999,13 @@
         "Constellation Space",
         "Graduate Researcher Intern - Machine Learning \ud83c\udf93",
         "Seattle, WA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Tencent",
+        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
+        "Palo Alto, CA",
         "Fall 2026",
         ""
       ],
@@ -6119,7 +6119,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "f5e82ee59ff21ab06414d9f436fde95cbed517a9",
+    "last_sha": "eda069bb4bb707b0a9a969719b5063e400b592d8",
     "rows": [
       [
         "Mistral AI",
