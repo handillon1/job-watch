@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "693eacbcb1873843aed286de606410f7134a593a",
+    "last_sha": "d1e019aebea490063e22aa45d81af2cf0feebc88",
     "rows": [
+      [
+        "Toshiba Global Commerce",
+        "Product & Business Analytics Intern",
+        "Durham, NC",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Toshiba Global Commerce",
         "AI Engineer Intern",
@@ -3679,13 +3686,6 @@
         "Morristown, NJ",
         "Fall 2026",
         "https://jobs.smartrecruiters.com/RedBull/744000139168339?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Impulse Space",
-        "Data Analytics Intern",
-        "El Segundo, CA",
-        "Fall 2026",
-        "https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq&utm_source=Simplify&ref=Simplify"
       ],
       [
         "OpusClip",
@@ -3957,6 +3957,13 @@
         "Axogen",
         "AI/ML Engineer Intern",
         "Tampa, FL",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Impulse Space",
+        "Data Analytics Intern",
+        "El Segundo, CA",
         "Fall 2026",
         ""
       ],
@@ -6119,7 +6126,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "693eacbcb1873843aed286de606410f7134a593a",
+    "last_sha": "d1e019aebea490063e22aa45d81af2cf0feebc88",
     "rows": [
       [
         "Mistral AI",
