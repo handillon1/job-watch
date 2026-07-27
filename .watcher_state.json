@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "d10845543723c0613be06e62beab6f4aa6147448",
+    "last_sha": "f35913f22b870126547026a9262742f101749970",
     "rows": [
+      [
+        "Kodak",
+        "Marketing Analytics Intern",
+        "Remote in USA",
+        "Fall 2026",
+        "https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "East Penn Manufacturing Company",
         "Power BI & Analytics Intern",
@@ -3805,6 +3812,13 @@
         "Palo Alto, CA",
         "Fall 2026",
         "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Sentara Health",
+        "Enterprise Data & AI Intern",
+        "Virginia Beach, VA",
+        "Fall 2026",
+        "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Jump Trading",
@@ -4034,13 +4048,6 @@
         "Constellation Space",
         "Graduate Researcher Intern - Machine Learning \ud83c\udf93",
         "Seattle, WA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Sentara Health",
-        "Enterprise Data & AI Intern",
-        "Virginia Beach, VA",
         "Fall 2026",
         ""
       ],
@@ -6140,7 +6147,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "d10845543723c0613be06e62beab6f4aa6147448",
+    "last_sha": "f35913f22b870126547026a9262742f101749970",
     "rows": [
       [
         "Mistral AI",
