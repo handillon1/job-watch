@@ -3657,7 +3657,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "9b05028efcb7a38dba2121a02f7b8ebac0eac611",
+    "last_sha": "2f5f19109ef1bcd50db6a9becd53b12f359bc54c",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -3700,13 +3700,6 @@
         "Remote in USA",
         "Fall 2026",
         "https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "East Penn Manufacturing Company",
-        "Power BI & Analytics Intern",
-        "Ann Arbor, MI",
-        "Fall 2026",
-        "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Toshiba Global Commerce",
@@ -3798,13 +3791,6 @@
         "LA",
         "Fall 2026",
         "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "RTX",
-        "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
-        "Hartford, CT",
-        "Fall 2026",
-        "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Commercial Metals",
@@ -3947,13 +3933,6 @@
         "https://delta.avature.net/en_US/careers/JobDetail?jobId=32774&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 Netflix",
-        "AI/ML Scientist Intern - AIMS AI Foundations \ud83c\udf93",
-        "Los Gatos, CA",
-        "Fall 2026",
-        "https://explore.jobs.netflix.net/careers/job/790316547536?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 Tesla",
         "Data Analytics Intern - People Analytics",
         "Austin, TX",
@@ -3987,6 +3966,13 @@
         "Remote in USA",
         "Fall 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "East Penn Manufacturing Company",
+        "Power BI & Analytics Intern",
+        "Ann Arbor, MI",
+        "Fall 2026",
+        ""
       ],
       [
         "\ud83d\udd25 Intel",
@@ -4055,6 +4041,13 @@
         "Cirrus Logic",
         "AI Business Analytics Co-op Intern",
         "Austin, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "RTX",
+        "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
+        "Hartford, CT",
         "Fall 2026",
         ""
       ],
@@ -4216,6 +4209,13 @@
         "The Walt Disney Company",
         "Commercial Data Science Intern",
         "Celebration, FL",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Netflix",
+        "AI/ML Scientist Intern - AIMS AI Foundations \ud83c\udf93",
+        "Los Gatos, CA",
         "Fall 2026",
         ""
       ],
@@ -6161,7 +6161,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "9b05028efcb7a38dba2121a02f7b8ebac0eac611",
+    "last_sha": "2f5f19109ef1bcd50db6a9becd53b12f359bc54c",
     "rows": [
       [
         "Deloitte",
