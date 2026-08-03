@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "4ff62f12f4a7cca272a446e0f977db8c7f118e92",
+    "last_sha": "ccf50a0d289dd97ba7a49c4e0d63e4d8e4df7629",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "Research Scientist Intern - AI Infra Compute \ud83c\udf93",
+        "San Jose, CA",
+        "Fall 2026",
+        "https://jobs.bytedance.com/en/position/7667379221434796341/detail?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "IntelliGenesis",
         "Applied Data Scientist Intern",
@@ -3784,13 +3791,6 @@
         "Durham, NC",
         "Fall 2026",
         "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nelnet",
-        "Program Intern - Agentic AI",
-        "Lincoln, NE",
-        "Fall 2026",
-        "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Mistral AI",
@@ -4160,6 +4160,13 @@
         "Toshiba Global Commerce",
         "AI Engineer Intern",
         "Frisco, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nelnet",
+        "Program Intern - Agentic AI",
+        "Lincoln, NE",
         "Fall 2026",
         ""
       ],
@@ -5005,14 +5012,14 @@
       ],
       [
         "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - App Ads",
+        "Machine Learning Engineer - Search Ads",
         "San Jose, CA",
         "Fall 2026",
         ""
       ],
       [
         "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer - Search Ads",
+        "Machine Learning Engineer Intern - App Ads",
         "San Jose, CA",
         "Fall 2026",
         ""
@@ -6931,8 +6938,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "4ff62f12f4a7cca272a446e0f977db8c7f118e92",
+    "last_sha": "ccf50a0d289dd97ba7a49c4e0d63e4d8e4df7629",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "AI Perception Intern - Pico \ud83c\udf93",
+        "San Jose, CA",
+        "",
+        ""
+      ],
       [
         "JP Morgan Chase",
         "Data Internship - Data & AI Program",
