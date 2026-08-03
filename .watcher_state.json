@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "b13b1cb08905d432fcb6121127c0f182b6f81e87",
+    "last_sha": "e7f44bc5f476ffb33a041768d395f57316380385",
     "rows": [
+      [
+        "Aramark",
+        "Data Analyst Intern",
+        "Newark, DE",
+        "Fall 2026",
+        "https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 ByteDance",
         "Research Scientist Intern - AI Infra Compute \ud83c\udf93",
@@ -3707,13 +3714,6 @@
         "Glendale, CA",
         "Fall 2026",
         "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "PSECU",
-        "Data Analyst Intern",
-        "Harrisburg, PA",
-        "Fall 2026",
-        "https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964?utm_source=Simplify&ref=Simplify"
       ],
       [
         "City of Charlotte",
@@ -4120,6 +4120,13 @@
         "Remote in USA",
         "Fall 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "PSECU",
+        "Data Analyst Intern",
+        "Harrisburg, PA",
+        "Fall 2026",
+        ""
       ],
       [
         "Exclusive Networks",
@@ -6938,7 +6945,7 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "b13b1cb08905d432fcb6121127c0f182b6f81e87",
+    "last_sha": "e7f44bc5f476ffb33a041768d395f57316380385",
     "rows": [
       [
         "\ud83d\udd25 ByteDance",
