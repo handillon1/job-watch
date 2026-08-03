@@ -3657,8 +3657,15 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README-Off-Season.md": {
-    "last_sha": "eafeedda405b36a9cf9ca0513017a843fb448d5e",
+    "last_sha": "13bb06211e1ec81893ef2ca619f26af9dd8fa182",
     "rows": [
+      [
+        "IntelliGenesis",
+        "Applied Data Scientist Intern",
+        "Columbia, MD",
+        "Fall 2026",
+        "http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Postman",
         "AI Engineer Intern",
@@ -6924,8 +6931,22 @@
     ]
   },
   "SimplifyJobs/Summer2026-Internships#README.md": {
-    "last_sha": "eafeedda405b36a9cf9ca0513017a843fb448d5e",
+    "last_sha": "13bb06211e1ec81893ef2ca619f26af9dd8fa182",
     "rows": [
+      [
+        "JP Morgan Chase",
+        "Data Internship - Data & AI Program",
+        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+        "",
+        ""
+      ],
+      [
+        "JP Morgan Chase",
+        "Data & AI Intern - Analyst",
+        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - Recommendation \ud83c\udf93",
@@ -7062,7 +7083,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "1b4ba1a24d886a2fc77c6bc1189d16e04e7826d6",
+    "last_sha": "099dbda5156dd75aac494e0fcc6ffafc93e26f0d",
     "rows": [
       [
         "Postman",
@@ -7126,13 +7147,6 @@
         "Fremont, CA",
         "Jul 26",
         "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Hirevue Inc",
-        "Data Science Intern",
-        "Remote",
-        "Jul 26",
-        "https://jobs.smartrecruiters.com/HireVue/744000138728139?utm_source=github-vansh-ouckah"
       ],
       [
         "SpreeAI",
