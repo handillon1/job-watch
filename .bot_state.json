@@ -1970,7 +1970,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 263,
+      "message_id": 565,
       "chat_id": 8619425244
     },
     "7d088a5fb55b": {
@@ -4391,6 +4391,116 @@
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
       "message_id": 555,
+      "chat_id": 8619425244
+    },
+    "bf6dd9bfca14": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - Recommendation \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 556,
+      "chat_id": 8619425244
+    },
+    "069dbd83325b": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - Trust and Safety \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 557,
+      "chat_id": 8619425244
+    },
+    "49ab0cb15afb": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Scientist Intern - Recommendation \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 558,
+      "chat_id": 8619425244
+    },
+    "813153cc05de": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - Data Search Search Quality \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 559,
+      "chat_id": 8619425244
+    },
+    "963a0020cda0": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - Search Quality",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 561,
+      "chat_id": 8619425244
+    },
+    "98106ff5f732": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - Basic Ranking \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 562,
+      "chat_id": 8619425244
+    },
+    "eed13504c8b6": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - Data Search - Visual Search \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 563,
+      "chat_id": 8619425244
+    },
+    "be41902319a3": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Artificial Intelligence Engineer Intern - Client Architecture",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 566,
+      "chat_id": 8619425244
+    },
+    "675ba383e098": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Scientist Intern - Content Ecology - LLM Application \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 567,
+      "chat_id": 8619425244
+    },
+    "6b9b5c289a06": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Scientist Intern \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 568,
+      "chat_id": 8619425244
+    },
+    "78f20caf58f7": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2026 main (DS/AI/ML)",
+      "message_id": 569,
       "chat_id": 8619425244
     }
   },
