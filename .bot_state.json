@@ -4530,7 +4530,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2026 main (DS/AI/ML)",
-      "message_id": 572,
+      "message_id": 608,
       "chat_id": 8619425244
     },
     "b835c20aea7c": {
@@ -4851,6 +4851,26 @@
       "apply_url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 605,
+      "chat_id": 8619425244
+    },
+    "ac6769902c90": {
+      "company": "Simple Technology Solutions",
+      "role": "AI Apprentice",
+      "location": "Remote in USA",
+      "term": "Fall 2026",
+      "apply_url": "https://job-boards.greenhouse.io/simpletechnologysolutions/jobs/6134105004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 606,
+      "chat_id": 8619425244
+    },
+    "4d8e188bbbab": {
+      "company": "The Federal Reserve System",
+      "role": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
+      "location": "Boston, MA",
+      "term": "Fall 2026",
+      "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 607,
       "chat_id": 8619425244
     }
   },
