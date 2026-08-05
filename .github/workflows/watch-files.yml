@@ -47,7 +47,7 @@ jobs:
               {
                   "label": "Simplify Off-Season (DS/AI/ML)",
                   "owner": "SimplifyJobs",
-                  "repo": "Summer2026-Internships",
+                  "repo": "Summer2027-Internships",
                   "branch": "dev",
                   "file": "README-Off-Season.md",
                   "parser": "html",
@@ -55,9 +55,9 @@ jobs:
                   "section_end": "## 📈 Quantitative Finance Internship Roles",
               },
               {
-                  "label": "Simplify Summer 2026 main (DS/AI/ML)",
+                  "label": "Simplify Summer 2027 main (DS/AI/ML)",
                   "owner": "SimplifyJobs",
-                  "repo": "Summer2026-Internships",
+                  "repo": "Summer2027-Internships",
                   "branch": "dev",
                   "file": "README.md",
                   "parser": "html",
@@ -65,11 +65,21 @@ jobs:
                   "section_end": "## 📈 Quantitative Finance Internship Roles",
               },
               {
-                  "label": "Vansh Repo (DS/DA)",
+                  "label": "Vansh Off-Season (DS/DA)",
                   "owner": "vanshb03",
                   "repo": "Summer2027-Internships",
                   "branch": "dev",
                   "file": "OFFSEASON_README.md",
+                  "parser": "markdown",
+                  "section_start": "## The List",
+                  "section_end": "## We love our contributors",
+              },
+              {
+                  "label": "Vansh Summer 2027 main (DS/DA)",
+                  "owner": "vanshb03",
+                  "repo": "Summer2027-Internships",
+                  "branch": "dev",
+                  "file": "README.md",
                   "parser": "markdown",
                   "section_start": "## The List",
                   "section_end": "## We love our contributors",
@@ -342,7 +352,24 @@ jobs:
 
           # Migrate old {"last_sha": ...} shape to keyed-by-repo shape.
           if "last_sha" in state and isinstance(state.get("last_sha"), str):
-              state = {"SimplifyJobs/Summer2026-Internships": {"last_sha": state["last_sha"]}}
+              state = {"SimplifyJobs/Summer2027-Internships": {"last_sha": state["last_sha"]}}
+
+          # Migrate renamed repos. SimplifyJobs renames the same repo each cycle
+          # (Summer2026-Internships -> Summer2027-Internships, same repo ID), so
+          # carry the row snapshot forward instead of re-bootstrapping. Without
+          # this, the first run after a rename silently swallows a batch of new
+          # listings. Add a new pair here whenever the upstream repo is renamed.
+          REPO_RENAMES = {
+              "SimplifyJobs/Summer2026-Internships": "SimplifyJobs/Summer2027-Internships",
+              "vanshb03/Summer2026-Internships": "vanshb03/Summer2027-Internships",
+          }
+          for old_prefix, new_prefix in REPO_RENAMES.items():
+              for key in [k for k in state if k.split("#")[0] == old_prefix]:
+                  new_key = new_prefix + key[len(old_prefix):]
+                  if new_key not in state:
+                      state[new_key] = state[key]
+                      print(f"Migrated state {key} -> {new_key}")
+                  del state[key]
 
           if BOT_STATE_FILE.exists():
               bot_state = json.loads(BOT_STATE_FILE.read_text())
