@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "42f03b0dff9677197f14c9bb213502ae9d541590",
+    "last_sha": "0be0d449969a2648b938f6b6777feabdce0df7d3",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -3901,13 +3901,6 @@
         "St. Louis, MO",
         "Spring 2027",
         "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Exabeam",
-        "AI Deployment Intern",
-        "Remote in USA",
-        "Fall 2026",
-        "https://jobs.jobvite.com/exabeam/job/oRNAAfwy?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "ITT",
@@ -4377,6 +4370,13 @@
         "Palo Alto, CA",
         "Fall 2026",
         "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Exabeam",
+        "AI Deployment Intern",
+        "Remote in USA",
+        "Fall 2026",
+        ""
       ],
       [
         "Simple Technology Solutions",
@@ -7237,19 +7237,12 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "42f03b0dff9677197f14c9bb213502ae9d541590",
+    "last_sha": "0be0d449969a2648b938f6b6777feabdce0df7d3",
     "rows": [
       [
         "\ud83d\udd25 ByteDance",
         "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "Sargent & Lundy",
-        "AI & Automation Intern - Summer 2027",
-        "Wilmington, DE",
         "",
         ""
       ],
