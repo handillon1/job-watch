@@ -3865,8 +3865,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "af72afc0e59c1b15517832069a92d9817463171a",
+    "last_sha": "6b1f37ba1b450da4760e73c065faa920d5ea8c2a",
     "rows": [
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance \ud83c\udf93",
+        "Seattle, WA",
+        "Fall 2026",
+        "https://lifeattiktok.com/search/7670247810111768837?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 ByteDance",
         "AI/LLM Network Research Intern - High Speed Network \ud83c\udf93",
@@ -4062,13 +4069,6 @@
         "San Jose, CA",
         "Fall 2026",
         "https://lifeattiktok.com/search/7667690418804902149?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Rockwell Automation",
-        "Applied AI Intern",
-        "Austin, TX",
-        "Fall 2026",
-        "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Rockwell Automation",
@@ -4393,20 +4393,6 @@
         "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 Tesla",
-        "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-        "Palo Alto, CA",
-        "Summer 2026, Fall 2026",
-        "https://www.tesla.com/careers/search/job/263759?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Tesla",
-        "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
-        "Palo Alto, CA",
-        "Fall 2026",
-        "https://www.tesla.com/careers/search/job/272619?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "NBT Bank",
         "Data Warehouse & Analytics Intern",
         "Williamsville, NY",
@@ -4438,6 +4424,13 @@
         "Exclusive Networks",
         "Data Quality & Business Data Analyst Intern",
         "Hermiston, OR",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Rockwell Automation",
+        "Applied AI Intern",
+        "Austin, TX",
         "Fall 2026",
         ""
       ],
@@ -4781,6 +4774,20 @@
         "Great American Insurance Company",
         "Catastrophe Modeling & Data Analytics Intern",
         "Cincinnati, OH",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
+        "Palo Alto, CA",
+        "Summer 2026, Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
+        "Palo Alto, CA",
         "Fall 2026",
         ""
       ],
@@ -7258,8 +7265,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "af72afc0e59c1b15517832069a92d9817463171a",
+    "last_sha": "6b1f37ba1b450da4760e73c065faa920d5ea8c2a",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+        "San Jose, CA",
+        "",
+        ""
+      ],
       [
         "Sargent & Lundy",
         "AI & Automation Intern - Summer 2027",
