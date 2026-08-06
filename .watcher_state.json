@@ -3865,8 +3865,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "852a721a99f32d2f79779fa174229e474474c616",
+    "last_sha": "23a800d2f6b79e449db0e676afb6c159e273c8f2",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "AI/LLM Network Research Intern - High Speed Network \ud83c\udf93",
+        "Seattle, WA",
+        "Fall 2026",
+        "https://jobs.bytedance.com/en/position/7670281454740818181/detail?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "US Acute Care Solutions",
         "People Analytics Intern",
@@ -4400,13 +4407,6 @@
         "https://www.tesla.com/careers/search/job/272619?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 Tesla",
-        "Data Analyst Intern - Data Analyst - Energy",
-        "Fremont, CA",
-        "Fall 2026",
-        "https://www.tesla.com/careers/search/job/271329?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "NBT Bank",
         "Data Warehouse & Analytics Intern",
         "Williamsville, NY",
@@ -4781,6 +4781,13 @@
         "Great American Insurance Company",
         "Catastrophe Modeling & Data Analytics Intern",
         "Cincinnati, OH",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "Data Analyst Intern - Data Analyst - Energy",
+        "Fremont, CA",
         "Fall 2026",
         ""
       ],
@@ -7251,8 +7258,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "852a721a99f32d2f79779fa174229e474474c616",
+    "last_sha": "23a800d2f6b79e449db0e676afb6c159e273c8f2",
     "rows": [
+      [
+        "Sargent & Lundy",
+        "AI & Automation Intern - Summer 2027",
+        "Wilmington, DE",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - Search",
