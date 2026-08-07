@@ -5090,7 +5090,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 632,
+      "message_id": 637,
       "chat_id": 8619425244
     },
     "a3db2481d6cc": {
@@ -5111,6 +5111,36 @@
       "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361617?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 634,
+      "chat_id": 8619425244
+    },
+    "b68c7ffb32ed": {
+      "company": "GCI",
+      "role": "Telecommunications Intern - Computer Science/Data Analytics",
+      "location": "Anchorage, AK",
+      "term": "Fall 2026",
+      "apply_url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 635,
+      "chat_id": 8619425244
+    },
+    "09856ecd5f57": {
+      "company": "General Dynamics Information Technology",
+      "role": "Artificial Intelligence/Machine Learning Intern",
+      "location": "Falls Church, VA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 636,
+      "chat_id": 8619425244
+    },
+    "63f378d248cd": {
+      "company": "JP Morgan Chase",
+      "role": "Data & AI Intern - Analyst",
+      "location": "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 638,
       "chat_id": 8619425244
     }
   },

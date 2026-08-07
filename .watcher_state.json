@@ -3865,8 +3865,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "24afbc58d460c6750aa2f2523837800612dbb4bc",
+    "last_sha": "b2cc42aa67730f02a608988e16c4c69799f92925",
     "rows": [
+      [
+        "GCI",
+        "Telecommunications Intern - Computer Science/Data Analytics",
+        "Anchorage, AK",
+        "Fall 2026",
+        "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Nokia",
         "AI R&D Engineer Co-op \ud83c\udf93",
@@ -7251,12 +7258,19 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "24afbc58d460c6750aa2f2523837800612dbb4bc",
+    "last_sha": "b2cc42aa67730f02a608988e16c4c69799f92925",
     "rows": [
       [
         "\ud83d\udd25 ByteDance",
         "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93",
         "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "General Dynamics Information Technology",
+        "Artificial Intelligence/Machine Learning Intern",
+        "Falls Church, VA",
         "",
         ""
       ],
@@ -7397,6 +7411,20 @@
         "\ud83d\udd25 ByteDance",
         "AI Perception Intern - Pico \ud83c\udf93",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "JP Morgan Chase",
+        "Data Internship - Data & AI Program",
+        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+        "",
+        ""
+      ],
+      [
+        "JP Morgan Chase",
+        "Data & AI Intern - Analyst",
+        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
         "",
         ""
       ],
