@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f0630fe32a87847f7d62c36717fcb0ffa975e640",
+    "last_sha": "78ee06df14f676a0e63b0e12e852c3313448dafd",
     "rows": [
       [
         "Nokia",
@@ -7265,8 +7265,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f0630fe32a87847f7d62c36717fcb0ffa975e640",
+    "last_sha": "78ee06df14f676a0e63b0e12e852c3313448dafd",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 ByteDance",
         "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
