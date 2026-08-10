@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "32495ecf3a01d3a1863e61d93bddaae6bc16de05",
+    "last_sha": "a82b37e6e04a5e35c6cefe4a7255b41234be663e",
     "rows": [
       [
         "Turabify",
@@ -3957,13 +3957,6 @@
         "Seattle, WA",
         "Fall 2026",
         "https://jobs.bytedance.com/en/position/7670281454740818181/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "US Acute Care Solutions",
-        "People Analytics Intern",
-        "Remote in USA Ohio",
-        "Fall 2026",
-        "https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ameren",
@@ -4274,13 +4267,6 @@
         "https://www.careers.zurich.com/job/Anoka-Bachelor"
       ],
       [
-        "Tencent",
-        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
-        "Palo Alto, CA",
-        "Fall 2026",
-        "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Rivian",
         "Machine Learning Compiler Intern - Machine Learning Compiler",
         "Urbana, IL",
@@ -4405,6 +4391,13 @@
         "Remote in USA",
         "Summer 2026, Fall 2026",
         "https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "US Acute Care Solutions",
+        "People Analytics Intern",
+        "Remote in USA Ohio",
+        "Fall 2026",
+        ""
       ],
       [
         "RTX",
@@ -4627,6 +4620,13 @@
         "DNV",
         "AI Research Intern \ud83c\udf93",
         "Oakland, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Tencent",
+        "Research Intern - Video World Models - Research & ML Systems \ud83c\udf93",
+        "Palo Alto, CA",
         "Fall 2026",
         ""
       ],
@@ -7216,7 +7216,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "32495ecf3a01d3a1863e61d93bddaae6bc16de05",
+    "last_sha": "a82b37e6e04a5e35c6cefe4a7255b41234be663e",
     "rows": [
       [
         "The Nuclear Company",
