@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "08d986e41a0e5246529b57d40f6a5cb5071db226",
+    "last_sha": "73cd79aa418203ba75fd59df85758757459575e4",
     "rows": [
       [
         "Commence",
@@ -7244,8 +7244,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "08d986e41a0e5246529b57d40f6a5cb5071db226",
+    "last_sha": "73cd79aa418203ba75fd59df85758757459575e4",
     "rows": [
+      [
+        "Deloitte",
+        "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
+        "Austin, TX",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 ByteDance",
         "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
