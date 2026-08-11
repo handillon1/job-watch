@@ -5140,7 +5140,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 638,
+      "message_id": 662,
       "chat_id": 8619425244
     },
     "b4771b91917b": {
@@ -5341,6 +5341,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 658,
+      "chat_id": 8619425244
+    },
+    "160a55787ab5": {
+      "company": "Foxconn Industrial Internet",
+      "role": "Data Visualization & Analytics Intern - Engineering",
+      "location": "Houston, TX",
+      "term": "Fall 2026",
+      "apply_url": "http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 659,
+      "chat_id": 8619425244
+    },
+    "cd02a2d81b6a": {
+      "company": "CCC Intelligent Solutions",
+      "role": "Data Science Intern - R&D",
+      "location": "Chicago, IL",
+      "term": "Fall 2026",
+      "apply_url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 660,
+      "chat_id": 8619425244
+    },
+    "01460b20d291": {
+      "company": "Motorola",
+      "role": "Supply Chain Data Analyst Intern",
+      "location": "Chicago, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 661,
       "chat_id": 8619425244
     }
   },

@@ -3865,14 +3865,28 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f951b61c59164a7fa66c304da7d2b9df21d6108c",
+    "last_sha": "5a4028ae0486ac3dc42cd312593fb97ff85a50ec",
     "rows": [
+      [
+        "Foxconn Industrial Internet",
+        "Data Visualization & Analytics Intern - Engineering",
+        "Houston, TX",
+        "Fall 2026",
+        "http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Commence",
         "Health Data Analyst Intern",
         "Virginia Beach, VA",
         "Fall 2026",
         "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CCC Intelligent Solutions",
+        "Data Science Intern - R&D",
+        "Chicago, IL",
+        "Fall 2026",
+        "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Global Partners",
@@ -4345,13 +4359,6 @@
       ],
       [
         "\ud83d\udd25 Tesla",
-        "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
-        "Fremont, CA",
-        "Fall 2026",
-        "https://www.tesla.com/careers/search/job/275380?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Tesla",
         "AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware",
         "Palo Alto, CA",
         "Fall 2026",
@@ -4788,6 +4795,13 @@
         "Bosch Home Comfort",
         "Foreign Trade Data Analytics Intern",
         "Western Springs, IL",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
+        "Fremont, CA",
         "Fall 2026",
         ""
       ],
@@ -7244,7 +7258,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f951b61c59164a7fa66c304da7d2b9df21d6108c",
+    "last_sha": "5a4028ae0486ac3dc42cd312593fb97ff85a50ec",
     "rows": [
       [
         "Deloitte",
@@ -7278,6 +7292,13 @@
         "\ud83d\udd25 ByteDance",
         "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK",
         "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "Motorola",
+        "Supply Chain Data Analyst Intern",
+        "Chicago, IL",
         "",
         ""
       ],
@@ -7487,6 +7508,13 @@
       [
         "JP Morgan Chase",
         "Data Internship - Data & AI Program",
+        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+        "",
+        ""
+      ],
+      [
+        "JP Morgan Chase",
+        "Data & AI Intern - Analyst",
         "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
         "",
         ""
