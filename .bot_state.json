@@ -5140,7 +5140,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 662,
+      "message_id": 672,
       "chat_id": 8619425244
     },
     "b4771b91917b": {
@@ -5441,6 +5441,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 669,
+      "chat_id": 8619425244
+    },
+    "829772c5b380": {
+      "company": "Cotiviti",
+      "role": "Agentic AI Research Intern",
+      "location": "Remote in USA",
+      "term": "Fall 2026",
+      "apply_url": "https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 670,
+      "chat_id": 8619425244
+    },
+    "bef5257238fd": {
+      "company": "IES Holdings",
+      "role": "Data Analytics Intern",
+      "location": "Manitowoc, WI",
+      "term": "Fall 2026",
+      "apply_url": "https://joinus.ies-co.com/jobs/24176?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 671,
       "chat_id": 8619425244
     }
   },
