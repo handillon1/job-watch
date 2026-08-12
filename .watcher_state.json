@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3befbfcb95af32f4cd14374c1cd7e8eb7bf5d3b3",
+    "last_sha": "628d0702c9e5fb62c331741c001e3db12dd9e6c7",
     "rows": [
       [
         "Foxconn Industrial Internet",
@@ -3964,13 +3964,6 @@
         "Sunnyvale, CA",
         "Fall 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Otter Products",
-        "Artificial Intelligence Intern",
-        "Fort Collins, CO",
-        "Fall 2026",
-        "https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -4391,6 +4384,13 @@
         "Remote in USA",
         "Summer 2026, Fall 2026",
         "https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Otter Products",
+        "Artificial Intelligence Intern",
+        "Fort Collins, CO",
+        "Fall 2026",
+        ""
       ],
       [
         "US Acute Care Solutions",
@@ -7265,7 +7265,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3befbfcb95af32f4cd14374c1cd7e8eb7bf5d3b3",
+    "last_sha": "628d0702c9e5fb62c331741c001e3db12dd9e6c7",
     "rows": [
       [
         "Deloitte",
