@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "38869a5c1604ab8b51ed7d1e5884965a96a19e13",
+    "last_sha": "998bb650bdc52612fcbd41ec006e12293b7252aa",
     "rows": [
       [
         "AARP",
@@ -4435,13 +4435,6 @@
         "https://delta.avature.net/en_US/careers/JobDetail?jobId=32774&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 Netflix",
-        "AI/ML Scientist Intern - AIMS AI Foundations \ud83c\udf93",
-        "Los Gatos, CA",
-        "Fall 2026",
-        "https://explore.jobs.netflix.net/careers/job/790316547536?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 Tesla",
         "Data Analytics Intern - People Analytics",
         "Austin, TX",
@@ -4921,6 +4914,13 @@
         "The Walt Disney Company",
         "Commercial Data Science Intern",
         "Celebration, FL",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Netflix",
+        "AI/ML Scientist Intern - AIMS AI Foundations \ud83c\udf93",
+        "Los Gatos, CA",
         "Fall 2026",
         ""
       ],
@@ -7244,7 +7244,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "38869a5c1604ab8b51ed7d1e5884965a96a19e13",
+    "last_sha": "998bb650bdc52612fcbd41ec006e12293b7252aa",
     "rows": [
       [
         "KeyBank",
