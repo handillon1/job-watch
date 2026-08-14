@@ -5140,7 +5140,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 672,
+      "message_id": 696,
       "chat_id": 8619425244
     },
     "b4771b91917b": {
@@ -5611,6 +5611,76 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 688,
+      "chat_id": 8619425244
+    },
+    "1c089033ff23": {
+      "company": "Arevon",
+      "role": "Data Science Intern - Interconnection & Transmission",
+      "location": "Scottsdale, AZ",
+      "term": "Fall 2026",
+      "apply_url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 689,
+      "chat_id": 8619425244
+    },
+    "afb4409267ca": {
+      "company": "The Nuclear Company",
+      "role": "AI Applied Research Intern",
+      "location": "Washington, DC",
+      "term": "Spring 2027",
+      "apply_url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 690,
+      "chat_id": 8619425244
+    },
+    "a6de5d83d440": {
+      "company": "onsemi",
+      "role": "Tax AI and Automation Intern",
+      "location": "Scottsdale, AZ",
+      "term": "Fall 2026",
+      "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 691,
+      "chat_id": 8619425244
+    },
+    "db27b76fdde5": {
+      "company": "The Nuclear Company",
+      "role": "Data Science & Machine Learning Fellow Intern \ud83c\udf93",
+      "location": "Washington, DC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 692,
+      "chat_id": 8619425244
+    },
+    "751c1a47f683": {
+      "company": "WEC Energy Group",
+      "role": "Renewables Data Analytics Intern",
+      "location": "Milwaukee, WI Green Bay, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 693,
+      "chat_id": 8619425244
+    },
+    "2ffdab98b868": {
+      "company": "Vertiv",
+      "role": "Planning Analytics Intern - Summer 2027",
+      "location": "Westerville, OH",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 694,
+      "chat_id": 8619425244
+    },
+    "4de0722d4a4b": {
+      "company": "GuideWell Mutual",
+      "role": "Enterprise Analytics Intern",
+      "location": "Jacksonville, FL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 695,
       "chat_id": 8619425244
     }
   },
