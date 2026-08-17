@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "955e8e95c5e42f577d303f1b526b97f4467fcb33",
+    "last_sha": "0b80dc1dffc345551888c4e8b65a0b929d391e54",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -4104,13 +4104,6 @@
         "Seattle, WA",
         "Fall 2026",
         "https://jobs.bytedance.com/en/position/7670281454740818181/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Ameren",
-        "Data Analytics Co-op",
-        "St. Louis, MO",
-        "Spring 2027",
-        "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "ITT",
@@ -4474,6 +4467,13 @@
         "Machine Learning Researcher Intern/Co-op \ud83c\udf93",
         "East Hartford, CT",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Ameren",
+        "Data Analytics Co-op",
+        "St. Louis, MO",
+        "Spring 2027",
         ""
       ],
       [
@@ -7139,8 +7139,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "955e8e95c5e42f577d303f1b526b97f4467fcb33",
+    "last_sha": "0b80dc1dffc345551888c4e8b65a0b929d391e54",
     "rows": [
+      [
+        "Ryan Companies",
+        "Business Intelligence Intern - Mission Critical",
+        "7 locationsDes Moines, IA Austin, TX Tampa, FL Dallas, TX Chicago, IL Minneapolis, MN Atlanta, GA",
+        "",
+        ""
+      ],
       [
         "The Nuclear Company",
         "Data Science & Machine Learning Fellow Intern \ud83c\udf93",
