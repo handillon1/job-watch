@@ -5140,7 +5140,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 713,
+      "message_id": 718,
       "chat_id": 8619425244
     },
     "b4771b91917b": {
@@ -5851,6 +5851,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 715,
+      "chat_id": 8619425244
+    },
+    "bbe48cd74b8b": {
+      "company": "Assurant",
+      "role": "Digital & AI Transformation Intern 1 - Internship Program",
+      "location": "Atlanta, GA",
+      "term": "Fall 2026",
+      "apply_url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 716,
+      "chat_id": 8619425244
+    },
+    "d27e8112a482": {
+      "company": "Amcor",
+      "role": "AI Innovation Engineer Intern",
+      "location": "Atlanta, GA",
+      "term": "Fall 2026",
+      "apply_url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 717,
       "chat_id": 8619425244
     }
   },
