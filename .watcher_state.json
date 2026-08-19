@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cdc6bbded9847b92e3e523604d6c5e66d0801fa4",
+    "last_sha": "6bb632c1432f472b40bb14a5893b2bce2b796988",
     "rows": [
       [
         "Nextiva",
@@ -7174,8 +7174,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cdc6bbded9847b92e3e523604d6c5e66d0801fa4",
+    "last_sha": "6bb632c1432f472b40bb14a5893b2bce2b796988",
     "rows": [
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+        "San Jose, CA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 NVIDIA",
         "Deep Learning Computer Architecture Intern",
@@ -7613,6 +7620,13 @@
       [
         "JP Morgan Chase",
         "Data Internship - Data & AI Program",
+        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
+        "",
+        ""
+      ],
+      [
+        "JP Morgan Chase",
+        "Data & AI Intern - Analyst",
         "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
         "",
         ""

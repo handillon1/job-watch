@@ -5140,7 +5140,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 718,
+      "message_id": 725,
       "chat_id": 8619425244
     },
     "b4771b91917b": {
@@ -5921,6 +5921,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 723,
+      "chat_id": 8619425244
+    },
+    "7f706fda9b3f": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 724,
       "chat_id": 8619425244
     }
   },
