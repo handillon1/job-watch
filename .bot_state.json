@@ -5750,7 +5750,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 703,
+      "message_id": 734,
       "chat_id": 8619425244
     },
     "2437313b23af": {
@@ -5760,7 +5760,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 704,
+      "message_id": 735,
       "chat_id": 8619425244
     },
     "c964f590931f": {
@@ -6001,6 +6001,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 732,
+      "chat_id": 8619425244
+    },
+    "438e72c66ee2": {
+      "company": "Mosaic",
+      "role": "Artificial Intelligence Co-op Intern",
+      "location": "Tampa, FL",
+      "term": "Spring 2027",
+      "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 733,
       "chat_id": 8619425244
     }
   },
