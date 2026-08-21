@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "29142230dc80b6b1e0a09961aef201d64070993a",
+    "last_sha": "ae7e6d1be8a8818ee35b4ec674298954e293cb08",
     "rows": [
       [
         "Mosaic",
@@ -4083,13 +4083,6 @@
         "Sunnyvale, CA",
         "Fall 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Fall 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39286?utm_source=Simplify&ref=Simplify"
       ],
       [
         "PlusAI",
@@ -4494,6 +4487,13 @@
         "Otter Products",
         "Artificial Intelligence Intern",
         "Fort Collins, CO",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
         "Fall 2026",
         ""
       ],
@@ -7139,7 +7139,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "29142230dc80b6b1e0a09961aef201d64070993a",
+    "last_sha": "ae7e6d1be8a8818ee35b4ec674298954e293cb08",
     "rows": [
       [
         "\ud83d\udd25 AMD",
@@ -7677,13 +7677,6 @@
         "\ud83d\udd25 ByteDance",
         "AI Perception Intern - Pico \ud83c\udf93",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "JP Morgan Chase",
-        "Data Internship - Data & AI Program",
-        "8 locationsPalo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
         "",
         ""
       ],
