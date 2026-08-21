@@ -3865,7 +3865,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3b65172b094c9a450f6f87798d85afef48e57c4d",
+    "last_sha": "72cf0fe101654df101f66f28889bc90a037df552",
     "rows": [
       [
         "Mosaic",
@@ -4076,13 +4076,6 @@
         "Sunnyvale, CA",
         "Fall 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39287?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Fall 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39285?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -4487,6 +4480,13 @@
         "CCC Intelligent Solutions",
         "Data Science Intern - R&D",
         "Chicago, IL",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
         "Fall 2026",
         ""
       ],
@@ -7146,7 +7146,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3b65172b094c9a450f6f87798d85afef48e57c4d",
+    "last_sha": "72cf0fe101654df101f66f28889bc90a037df552",
     "rows": [
       [
         "\ud83d\udd25 AMD",
