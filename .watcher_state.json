@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3e5c691e7391d6e61d81306adcfafc5e653c14f5",
+    "last_sha": "7f41d3a1fa89945d2d583731a4697878ef0b2599",
     "rows": [
+      [
+        "Kodiak Robotics",
+        "AI/ML Intern - Artificial Intelligence/Machine Learning",
+        "Mountain View, CA",
+        "Winter 2027",
+        "https://job-boards.greenhouse.io/kodiak/jobs/4377407009?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Audax Group",
         "Data Analyst Co-op - Business Solutions",
@@ -3964,6 +3971,13 @@
         "Cincinnati, OH",
         "Winter 2027, Spring 2028",
         "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship--Advanced-Analytics-_R000157697?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Johnson & Johnson",
+        "Data Operations & Analytics Co-op",
+        "Somerset County, NJ Hopewell Township, NJ",
+        "Fall 2026",
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Canadian Solar",
@@ -7258,7 +7272,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3e5c691e7391d6e61d81306adcfafc5e653c14f5",
+    "last_sha": "7f41d3a1fa89945d2d583731a4697878ef0b2599",
     "rows": [
       [
         "BNY",
@@ -7278,6 +7292,13 @@
         "BNY",
         "Data Science Intern - Engineering",
         "Lake Mary, FL",
+        "",
+        ""
+      ],
+      [
+        "The Hartford",
+        "Data Engineer Intern - Technology, Data, AI, and Operations",
+        "Hartford, CT",
         "",
         ""
       ],
