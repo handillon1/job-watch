@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "49809b303b4a9e2c67f23be56ce3d137e87d2587",
+    "last_sha": "96684a1b3212152b573cd37480f4b9790eb273cf",
     "rows": [
       [
         "Audax Group",
@@ -4118,20 +4118,6 @@
         "Chicago, IL",
         "Fall 2026",
         "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Foxconn Industrial Internet",
-        "Data Visualization & Analytics Intern - Engineering",
-        "Houston, TX",
-        "Fall 2026",
-        "http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Booz Allen",
-        "AI RAN Telecommunications Engineer Intern",
-        "McLean, VA",
-        "Fall 2026",
-        "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Turabify",
@@ -4547,6 +4533,13 @@
         ""
       ],
       [
+        "Foxconn Industrial Internet",
+        "Data Visualization & Analytics Intern - Engineering",
+        "Houston, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
         "Commence",
         "Health Data Analyst Intern",
         "Virginia Beach, VA",
@@ -4571,6 +4564,13 @@
         "Global Partners",
         "Advanced Analytics Intern",
         "Newton, MA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "AI RAN Telecommunications Engineer Intern",
+        "McLean, VA",
         "Fall 2026",
         ""
       ],
@@ -7251,7 +7251,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "49809b303b4a9e2c67f23be56ce3d137e87d2587",
+    "last_sha": "96684a1b3212152b573cd37480f4b9790eb273cf",
     "rows": [
       [
         "BNY",
@@ -7271,6 +7271,13 @@
         "BNY",
         "Data Science Intern - Engineering",
         "Lake Mary, FL",
+        "",
+        ""
+      ],
+      [
+        "Polaris",
+        "Predictive Data Science Intern - Digital & IT",
+        "Medina, MN Plymouth, MN",
         "",
         ""
       ],
