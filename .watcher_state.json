@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "aff738b11b41fb8db44dc293164975e6f35f0777",
+    "last_sha": "56ec31b6fd8ab74053a73ba81e65f6c9bd67ebf9",
     "rows": [
       [
         "Meridian Partners",
@@ -3915,6 +3915,13 @@
         "Boise, ID",
         "Fall 2026",
         "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1490?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Kodiak Robotics",
+        "AI/ML Intern - Artificial Intelligence/Machine Learning",
+        "Mountain View, CA",
+        "Winter 2027",
+        "https://job-boards.greenhouse.io/kodiak/jobs/4377407009?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Audax Group",
@@ -4509,13 +4516,6 @@
         "Data Scientist Co-op",
         "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
         "Fall 2026",
-        ""
-      ],
-      [
-        "Kodiak Robotics",
-        "AI/ML Intern - Artificial Intelligence/Machine Learning",
-        "Mountain View, CA",
-        "Winter 2027",
         ""
       ],
       [
@@ -7307,12 +7307,19 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "aff738b11b41fb8db44dc293164975e6f35f0777",
+    "last_sha": "56ec31b6fd8ab74053a73ba81e65f6c9bd67ebf9",
     "rows": [
       [
         "BNY",
         "Data Science Intern - Engineering",
         "Pittsburgh, PA",
+        "",
+        ""
+      ],
+      [
+        "BNY",
+        "Data Science Intern - Engineering",
+        "Jersey City, NJ",
         "",
         ""
       ],
@@ -7348,13 +7355,6 @@
         "Polaris",
         "Predictive Data Science Intern - Digital & IT",
         "Medina, MN Plymouth, MN",
-        "",
-        ""
-      ],
-      [
-        "LPL Financial Holdings",
-        "Service Transformation & Data Analytics Intern",
-        "Fort Mill, SC Charlotte, NC",
         "",
         ""
       ],
@@ -7432,13 +7432,6 @@
         "\ud83d\udd25 AMD",
         "Data Analyst Intern/Co-op \ud83c\udf93",
         "San Jose, CA Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "LPL Financial Holdings",
-        "Data Analytics Intern - FAR Program",
-        "Fort Mill, SC Charlotte, NC",
         "",
         ""
       ],
