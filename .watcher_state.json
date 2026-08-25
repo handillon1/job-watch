@@ -3893,8 +3893,29 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d049f70255590f7b68201a43f73b2fdf570b6675",
+    "last_sha": "16e13a5c328b31a7fe753ca221a4e77dd554441d",
     "rows": [
+      [
+        "Meridian Partners",
+        "Data Scientist Co-op",
+        "Cambridge, MA Arlington County, Arlington, VA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Meridian Partners",
+        "Machine Learning Engineer Co-op",
+        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Meridian Partners",
+        "Data Scientist Co-op",
+        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Hoffman Construction",
         "Data Analyst Intern",
@@ -4503,27 +4524,6 @@
         "Palo Alto, CA",
         "Fall 2026",
         "https://www.tesla.com/careers/search/job/275316?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Meridian Partners",
-        "Data Scientist Co-op",
-        "Cambridge, MA Arlington County, Arlington, VA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Meridian Partners",
-        "Machine Learning Engineer Co-op",
-        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Meridian Partners",
-        "Data Scientist Co-op",
-        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
-        "Fall 2026",
-        ""
       ],
       [
         "Hoffman Construction",
@@ -7314,7 +7314,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d049f70255590f7b68201a43f73b2fdf570b6675",
+    "last_sha": "16e13a5c328b31a7fe753ca221a4e77dd554441d",
     "rows": [
       [
         "BNY",
@@ -7362,6 +7362,13 @@
         "Polaris",
         "Predictive Data Science Intern - Digital & IT",
         "Medina, MN Plymouth, MN",
+        "",
+        ""
+      ],
+      [
+        "LPL Financial Holdings",
+        "Service Transformation & Data Analytics Intern",
+        "Fort Mill, SC Charlotte, NC",
         "",
         ""
       ],
@@ -7439,6 +7446,20 @@
         "\ud83d\udd25 AMD",
         "Data Analyst Intern/Co-op \ud83c\udf93",
         "San Jose, CA Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
+        "LPL Financial Holdings",
+        "Data Analytics Intern - FAR Program",
+        "Fort Mill, SC Charlotte, NC",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Engineer Intern \ud83c\udf93",
+        "Seattle, WA",
         "",
         ""
       ],
