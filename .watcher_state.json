@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cc7a8a433310800a5b65af6415afe1a4cdf56ef6",
+    "last_sha": "58362636414ab986a34609554d48ba13f55cc899",
     "rows": [
+      [
+        "Nokia",
+        "Data Analytics & AI Co-op",
+        "United States",
+        "Fall 2026",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Johns Hopkins Applied Physics Laboratory",
         "Data Scientist Intern - Data Science - System Performance Evaluation",
@@ -7342,12 +7349,19 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cc7a8a433310800a5b65af6415afe1a4cdf56ef6",
+    "last_sha": "58362636414ab986a34609554d48ba13f55cc899",
     "rows": [
       [
         "Cigna Group",
         "Legal Operations Financial Data & AI Analytics Intern",
         "St. Louis, MO",
+        "",
+        ""
+      ],
+      [
+        "Brunswick",
+        "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
+        "Fond du Lac, WI",
         "",
         ""
       ],
@@ -7481,13 +7495,6 @@
         "\ud83d\udd25 AMD",
         "Data Analyst Intern/Co-op \ud83c\udf93",
         "San Jose, CA Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "LPL Financial Holdings",
-        "Data Analytics Intern - FAR Program",
-        "Fort Mill, SC Charlotte, NC",
         "",
         ""
       ],
