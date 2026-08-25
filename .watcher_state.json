@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b026316ccf6ae95fec910c3183dae88dc8363dd6",
+    "last_sha": "126d2a3c92a0781fc7278b54689a6f041bd30266",
     "rows": [
       [
         "Susquehanna International Group",
@@ -4265,13 +4265,6 @@
         "Sunnyvale, CA",
         "Fall 2026",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "PlusAI",
-        "Deep Learning Research Intern - Multimodal BEV Perception \ud83c\udf93",
-        "Santa Clara, CA",
-        "Fall 2026",
-        "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 TikTok",
@@ -4704,6 +4697,13 @@
         "Nokia",
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "PlusAI",
+        "Deep Learning Research Intern - Multimodal BEV Perception \ud83c\udf93",
+        "Santa Clara, CA",
         "Fall 2026",
         ""
       ],
@@ -7356,7 +7356,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b026316ccf6ae95fec910c3183dae88dc8363dd6",
+    "last_sha": "126d2a3c92a0781fc7278b54689a6f041bd30266",
     "rows": [
       [
         "Honeywell",
