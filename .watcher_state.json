@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "126d2a3c92a0781fc7278b54689a6f041bd30266",
+    "last_sha": "4eb23d998414486f58929894fdb312fce609a916",
     "rows": [
       [
         "Susquehanna International Group",
@@ -4258,13 +4258,6 @@
         "Anchorage, AK",
         "Fall 2026",
         "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Fall 2026",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 TikTok",
@@ -4669,6 +4662,13 @@
         "Booz Allen",
         "AI RAN Telecommunications Engineer Intern",
         "McLean, VA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
         "Fall 2026",
         ""
       ],
@@ -7356,7 +7356,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "126d2a3c92a0781fc7278b54689a6f041bd30266",
+    "last_sha": "4eb23d998414486f58929894fdb312fce609a916",
     "rows": [
       [
         "Honeywell",
