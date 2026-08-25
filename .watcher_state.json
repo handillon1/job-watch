@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5e31115bd1882d00a9cea480cd02297b12217929",
+    "last_sha": "aff738b11b41fb8db44dc293164975e6f35f0777",
     "rows": [
       [
         "Meridian Partners",
@@ -3910,25 +3910,11 @@
         "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Meridian Partners",
-        "Data Scientist Co-op",
-        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Hoffman Construction",
         "Data Analyst Intern",
         "Boise, ID",
         "Fall 2026",
         "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1490?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Kodiak Robotics",
-        "AI/ML Intern - Artificial Intelligence/Machine Learning",
-        "Mountain View, CA",
-        "Winter 2027",
-        "https://job-boards.greenhouse.io/kodiak/jobs/4377407009?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Audax Group",
@@ -4517,6 +4503,20 @@
         "Palo Alto, CA",
         "Fall 2026",
         "https://www.tesla.com/careers/search/job/275316?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Meridian Partners",
+        "Data Scientist Co-op",
+        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Kodiak Robotics",
+        "AI/ML Intern - Artificial Intelligence/Machine Learning",
+        "Mountain View, CA",
+        "Winter 2027",
+        ""
       ],
       [
         "Hoffman Construction",
@@ -7307,19 +7307,12 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5e31115bd1882d00a9cea480cd02297b12217929",
+    "last_sha": "aff738b11b41fb8db44dc293164975e6f35f0777",
     "rows": [
       [
         "BNY",
         "Data Science Intern - Engineering",
         "Pittsburgh, PA",
-        "",
-        ""
-      ],
-      [
-        "BNY",
-        "Data Science Intern - Engineering",
-        "Jersey City, NJ",
         "",
         ""
       ],
