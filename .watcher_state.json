@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "16e13a5c328b31a7fe753ca221a4e77dd554441d",
+    "last_sha": "f30e9ac1de5f531612518f26881ca9944ef8ac96",
     "rows": [
       [
         "Meridian Partners",
@@ -4062,13 +4062,6 @@
         "Scottsdale, AZ",
         "Fall 2026",
         "https://www.nextiva.com/company/careers-listing?gh_jid=8687999002&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 NVIDIA",
-        "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "Santa Clara, CA",
-        "Fall 2026",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Crowe",
@@ -4529,6 +4522,13 @@
         "Hoffman Construction",
         "Data Analyst Intern",
         "Boise, ID",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 NVIDIA",
+        "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
+        "Santa Clara, CA",
         "Fall 2026",
         ""
       ],
@@ -7314,7 +7314,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "16e13a5c328b31a7fe753ca221a4e77dd554441d",
+    "last_sha": "f30e9ac1de5f531612518f26881ca9944ef8ac96",
     "rows": [
       [
         "BNY",
@@ -7529,13 +7529,6 @@
       [
         "\ud83d\udd25 NVIDIA",
         "Deep Learning Computer Architecture Intern",
-        "Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 NVIDIA",
-        "Computer Vision and Deep Learning Intern \ud83c\udf93",
         "Santa Clara, CA",
         "",
         ""
