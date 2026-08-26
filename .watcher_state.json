@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "2f48c4b91226b89857fc476bdc1d2ef9e74b007d",
+    "last_sha": "09487bd4fbf55705b84f5918691571cc953ae6d9",
     "rows": [
       [
         "Sabre Systems",
@@ -7370,8 +7370,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "2f48c4b91226b89857fc476bdc1d2ef9e74b007d",
+    "last_sha": "09487bd4fbf55705b84f5918691571cc953ae6d9",
     "rows": [
+      [
+        "WhiteWater Midstream",
+        "Data Science Intern - Summer 2027",
+        "Austin, TX",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 TikTok",
         "AI Infrastructure Engineer Intern - Recommendation & LLM",
@@ -7838,6 +7845,13 @@
         "Motorola",
         "Supply Chain Data Analyst Intern",
         "Chicago, IL",
+        "",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "AI RAN Telecommunications Engineer Intern",
+        "McLean, VA",
         "",
         ""
       ],

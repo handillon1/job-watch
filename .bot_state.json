@@ -5390,7 +5390,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 664,
+      "message_id": 814,
       "chat_id": 8619425244
     },
     "54652b97de35": {
@@ -6721,6 +6721,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 812,
+      "chat_id": 8619425244
+    },
+    "8132d3709a92": {
+      "company": "WhiteWater Midstream",
+      "role": "Data Science Intern - Summer 2027",
+      "location": "Austin, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 813,
       "chat_id": 8619425244
     }
   },
