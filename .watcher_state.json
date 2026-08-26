@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "719374cd2b7ef07089ed4b77746fd5b64559fb8d",
+    "last_sha": "227e6909253f3a9d28b95ae0cc5060ec8e9669a7",
     "rows": [
+      [
+        "Sabre Systems",
+        "AI Intern",
+        "Lexington Park, MD",
+        "Fall 2026",
+        "https://careers.sabresystems.com/jobs/4759?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "GrayMatter Robotics",
         "AI Research Intern - Foundation Models \ud83c\udf93",
@@ -7363,12 +7370,19 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "719374cd2b7ef07089ed4b77746fd5b64559fb8d",
+    "last_sha": "227e6909253f3a9d28b95ae0cc5060ec8e9669a7",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
         "AI Infrastructure Engineer Intern - Recommendation & LLM",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "MKS Instruments",
+        "Business Intelligence/Data Analytics Intern",
+        "Andover, MA",
         "",
         ""
       ],
