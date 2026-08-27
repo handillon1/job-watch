@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170310
+    "last_update_id": 841170313
   },
   "pending": {
     "535de30c3955": {
@@ -6593,16 +6593,6 @@
       "message_id": 799,
       "chat_id": 8619425244
     },
-    "07b77683ac34": {
-      "company": "Johnson & Johnson",
-      "role": "Strategic Insights & Analytics Co-op",
-      "location": "Horsham, PA Hopewell Township, NJ",
-      "term": "Spring 2027",
-      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Off-Season (DS/AI/ML)",
-      "message_id": 800,
-      "chat_id": 8619425244
-    },
     "609905b69856": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "role": "Data Scientist Intern - Data Science - System Performance Evaluation",
@@ -6661,16 +6651,6 @@
       "apply_url": "https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 806,
-      "chat_id": 8619425244
-    },
-    "bf2483618d3a": {
-      "company": "Honeywell",
-      "role": "Artificial Intelligence/Machine Learning Intern",
-      "location": "United States",
-      "term": "",
-      "apply_url": "",
-      "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 807,
       "chat_id": 8619425244
     },
     "a076a5952b32": {
@@ -6941,6 +6921,28 @@
       "message_id": 179,
       "chat_id": 8619425244,
       "applied_at": "2026-06-07T01:50:24Z"
+    },
+    "bf2483618d3a": {
+      "company": "Honeywell",
+      "role": "Artificial Intelligence/Machine Learning Intern",
+      "location": "United States",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 807,
+      "chat_id": 8619425244,
+      "applied_at": "2026-08-27T01:50:26Z"
+    },
+    "07b77683ac34": {
+      "company": "Johnson & Johnson",
+      "role": "Strategic Insights & Analytics Co-op",
+      "location": "Horsham, PA Hopewell Township, NJ",
+      "term": "Spring 2027",
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 800,
+      "chat_id": 8619425244,
+      "applied_at": "2026-08-27T01:50:27Z"
     }
   }
 }
