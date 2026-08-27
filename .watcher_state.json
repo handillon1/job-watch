@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cae1d11b434128f95b0011948c4e69f9f61b5bf1",
+    "last_sha": "b7ffb6f415ea4a861fbdf86c1d3911e38b444580",
     "rows": [
       [
         "Clyde Companies",
@@ -3915,6 +3915,13 @@
         "Green Bay, WI Wisconsin",
         "Fall 2026",
         "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Data-Science-Intern---Breakthrough_R8528-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Micron Technology",
+        "Technical Customer Management Intern - AI",
+        "Longmont, CO",
+        "Fall 2026",
+        "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Conduent",
@@ -7440,12 +7447,19 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cae1d11b434128f95b0011948c4e69f9f61b5bf1",
+    "last_sha": "b7ffb6f415ea4a861fbdf86c1d3911e38b444580",
     "rows": [
       [
         "Grant Thornton",
         "AI, Data & Technology Intern - Summer 2027",
         "Chicago, IL",
+        "",
+        ""
+      ],
+      [
+        "Wells Fargo",
+        "Quantitative Analytics Intern - Applied Computational Intelligence \ud83c\udf93",
+        "Charlotte, NC",
         "",
         ""
       ],
@@ -7464,9 +7478,23 @@
         ""
       ],
       [
+        "Leidos",
+        "Data Engineering & Analytics Intern",
+        "Shiloh, IL",
+        "",
+        ""
+      ],
+      [
         "Finastra",
         "AI Engineer Intern - Summer 2027",
         "Atlanta, GA",
+        "",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "Data Scientist Intern - University - Summer Games",
+        "El Segundo, CA",
         "",
         ""
       ],
