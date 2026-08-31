@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 862,
+      "message_id": 869,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -7101,6 +7101,66 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 856,
+      "chat_id": 8619425244
+    },
+    "39f0def85bd9": {
+      "company": "Qorvo",
+      "role": "Data Analytics Intern",
+      "location": "Greensboro, NC",
+      "term": "Fall 2026",
+      "apply_url": "https://careers.qorvo.com/job/Greensboro-Data-Analytics-Intern-NC-27409/1421970400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 863,
+      "chat_id": 8619425244
+    },
+    "484dbb3e6b97": {
+      "company": "GE Aerospace",
+      "role": "Applied AI Engineer Co-op",
+      "location": "Evendale, OH Atlanta, GA",
+      "term": "Spring 2027",
+      "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 864,
+      "chat_id": 8619425244
+    },
+    "ccdea9b3ee5c": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph \ud83c\udf93",
+      "location": "San Jose, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 865,
+      "chat_id": 8619425244
+    },
+    "d7994eff52b4": {
+      "company": "\ud83d\udd25 TikTok",
+      "role": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph \ud83c\udf93",
+      "location": "Seattle, WA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 866,
+      "chat_id": 8619425244
+    },
+    "3cafd87d8b5b": {
+      "company": "Stryker",
+      "role": "Data Analytics Intern - Multiple Teams",
+      "location": "Portage, MI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 867,
+      "chat_id": 8619425244
+    },
+    "6ee2e3847f2c": {
+      "company": "GE Aerospace",
+      "role": "Applied AI Intern",
+      "location": "Evendale, OH Atlanta, GA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 868,
       "chat_id": 8619425244
     }
   },
