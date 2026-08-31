@@ -5750,7 +5750,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 734,
+      "message_id": 905,
       "chat_id": 8619425244
     },
     "2437313b23af": {
@@ -7381,6 +7381,106 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 894,
+      "chat_id": 8619425244
+    },
+    "d0dc1d1372ef": {
+      "company": "Resonetics",
+      "role": "AI Automation Engineer Intern Co-op",
+      "location": "Dayton, OH",
+      "term": "Spring 2026",
+      "apply_url": "https://careers-resonetics.icims.com/jobs/5326/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 895,
+      "chat_id": 8619425244
+    },
+    "396ec9befb57": {
+      "company": "The Walt Disney Company",
+      "role": "Revenue Planning & Analytics Intern - Spring 2027",
+      "location": "Anaheim, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Spring-2027_10159737-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 896,
+      "chat_id": 8619425244
+    },
+    "6818f673135d": {
+      "company": "The Walt Disney Company",
+      "role": "Revenue Planning & Analytics Intern - Spring 2027",
+      "location": "Anaheim, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Spring-2027_10159737?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 897,
+      "chat_id": 8619425244
+    },
+    "2e109846cc4b": {
+      "company": "Sony",
+      "role": "Account Management & Business Analytics Intern",
+      "location": "San Diego, CA",
+      "term": "Fall 2026",
+      "apply_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 898,
+      "chat_id": 8619425244
+    },
+    "8bc0d9750936": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Diligence Analytics Intern - Deals",
+      "location": "14 locationsBoston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 899,
+      "chat_id": 8619425244
+    },
+    "2272aa91f02a": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Deals Analytics Intern - DTDS",
+      "location": "14 locationsBoston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 900,
+      "chat_id": 8619425244
+    },
+    "0d6bf463d3d6": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Business Analytics Intern - Mida",
+      "location": "4 locationsBoston, MA Tampa, FL Rosemont, IL NYC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 901,
+      "chat_id": 8619425244
+    },
+    "d1ec07851b07": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Market Information and Data Analytics Intern - Multiple Teams",
+      "location": "4 locationsBoston, MA Tampa, FL Rosemont, IL NYC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 902,
+      "chat_id": 8619425244
+    },
+    "d60128cea835": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "role": "Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027",
+      "location": "Rosemont, IL NYC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 903,
+      "chat_id": 8619425244
+    },
+    "3a030068caa2": {
+      "company": "Arch Capital Group",
+      "role": "Data and Analytics Intern",
+      "location": "Farmington, CT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 904,
       "chat_id": 8619425244
     }
   },
