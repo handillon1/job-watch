@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "28e8d76dcdc048acaa99a5cf882f77c480af1fb0",
+    "last_sha": "42ebcb4babc4bc53ac6e374302767226c18c4b51",
     "rows": [
       [
         "Qorvo",
@@ -7482,7 +7482,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "28e8d76dcdc048acaa99a5cf882f77c480af1fb0",
+    "last_sha": "42ebcb4babc4bc53ac6e374302767226c18c4b51",
     "rows": [
       [
         "Exelon",
@@ -7534,6 +7534,20 @@
         ""
       ],
       [
+        "The Home Depot",
+        "Data Science & Analytics Intern",
+        "Atlanta, GA",
+        "",
+        ""
+      ],
+      [
+        "The Home Depot",
+        "Data Science Intern \ud83c\udf93",
+        "Atlanta, GA",
+        "",
+        ""
+      ],
+      [
         "Stryker",
         "Data Analytics Intern - Multiple Teams",
         "Portage, MI",
@@ -7544,6 +7558,13 @@
         "Medline",
         "Business Intelligence Development/Analytics Intern",
         "Northbrook, IL",
+        "",
+        ""
+      ],
+      [
+        "Mastercard",
+        "Data Scientist Intern",
+        "O'Fallon, MO",
         "",
         ""
       ],
