@@ -6720,7 +6720,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 817,
+      "message_id": 891,
       "chat_id": 8619425244
     },
     "76f572e0d295": {
@@ -7271,6 +7271,86 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 881,
+      "chat_id": 8619425244
+    },
+    "8e484b98b19e": {
+      "company": "Integra FEC",
+      "role": "Data Analyst Intern",
+      "location": "Austin, TX",
+      "term": "Spring 2026",
+      "apply_url": "https://job-boards.greenhouse.io/integra/jobs/5406100008?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 882,
+      "chat_id": 8619425244
+    },
+    "f1c0a31d14fe": {
+      "company": "Astrion",
+      "role": "Data Analyst Intern",
+      "location": "Cape Canaveral, FL",
+      "term": "Fall 2026",
+      "apply_url": "https://careers.astrion.us/jobs/24801?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 883,
+      "chat_id": 8619425244
+    },
+    "3adacd9b790a": {
+      "company": "Marmon Holdings",
+      "role": "AI Intern",
+      "location": "Sauget, IL",
+      "term": "Fall 2026",
+      "apply_url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 884,
+      "chat_id": 8619425244
+    },
+    "bf623c534c23": {
+      "company": "Dow Chemical Company",
+      "role": "Analytical Science Co-op - Analytical Science R&D",
+      "location": "Auburn, MI Midland, MI",
+      "term": "Fall 2026",
+      "apply_url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op---Analytical-Science-R-D_R2066435?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 885,
+      "chat_id": 8619425244
+    },
+    "152a492ddaae": {
+      "company": "Compeer Financial",
+      "role": "Data Analytics Intern",
+      "location": "5 locationsEau Claire, WI Rochester, MN Lakeville, MN Mankato, MN Bloomington, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 886,
+      "chat_id": 8619425244
+    },
+    "582f9bb35031": {
+      "company": "C3.ai",
+      "role": "Data Scientist Intern - Summer 2027 \ud83c\udf93",
+      "location": "Redwood City, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 887,
+      "chat_id": 8619425244
+    },
+    "2964e6b1e4f2": {
+      "company": "Robert Bosch Venture Capital",
+      "role": "Calibration Process Data Science Intern - 8 months/40 hours per week",
+      "location": "Farmington Hills, MI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 888,
+      "chat_id": 8619425244
+    },
+    "e035c772a10f": {
+      "company": "DraftKings",
+      "role": "Analytics Intern - Summer 2027",
+      "location": "Boston, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 890,
       "chat_id": 8619425244
     }
   },
