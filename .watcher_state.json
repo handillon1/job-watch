@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b8ec4f8027f45d8aa0825874199a27489ba8ba3b",
+    "last_sha": "28c09eb46b8b4b4e1a4442a738f322bad2b67821",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -7650,8 +7650,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b8ec4f8027f45d8aa0825874199a27489ba8ba3b",
+    "last_sha": "28c09eb46b8b4b4e1a4442a738f322bad2b67821",
     "rows": [
+      [
+        "Dev Technology Group",
+        "Microsoft Power Platform & AI Intern - Summer 2027",
+        "Reston, VA",
+        "",
+        ""
+      ],
+      [
+        "Dev Technology Group",
+        "AI/ML Intern - Summer 2027",
+        "Reston, VA",
+        "",
+        ""
+      ],
       [
         "Edison International",
         "Data Analytics Intern - Data Science/Applied Math",
@@ -7754,6 +7768,13 @@
         "First National Bank",
         "Retail Administration Analytics Intern",
         "Pittsburgh, PA",
+        "",
+        ""
+      ],
+      [
+        "DraftKings",
+        "Data Science Intern",
+        "Boston, MA",
         "",
         ""
       ],
