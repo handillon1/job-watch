@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "571c5acb72521b5def4902fb9d095a071b2976da",
+    "last_sha": "d103e00cd5567b5a540116295f4edd35ae4b5b1e",
     "rows": [
       [
         "Emerson Electric",
@@ -7615,8 +7615,29 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "571c5acb72521b5def4902fb9d095a071b2976da",
+    "last_sha": "d103e00cd5567b5a540116295f4edd35ae4b5b1e",
     "rows": [
+      [
+        "Edison International",
+        "Data Analytics Intern - Data Science/Applied Math",
+        "Pomona, CA Rosemead, CA",
+        "",
+        ""
+      ],
+      [
+        "Edison International",
+        "Data Analytics Intern - Data Science - Applied Math",
+        "Pomona, CA Rosemead, CA",
+        "",
+        ""
+      ],
+      [
+        "Edison International",
+        "Summer Internship - Data Analytics/Science/Applied Math",
+        "4 locationsSanta Ana, CA Fullerton, CA Irvine, CA Westminster, CA",
+        "",
+        ""
+      ],
       [
         "Trane Technologies",
         "AI & Analytics Intern",
