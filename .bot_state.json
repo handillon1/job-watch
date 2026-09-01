@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 912,
+      "message_id": 958,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -7931,6 +7931,66 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 951,
+      "chat_id": 8619425244
+    },
+    "c1aa7b2f5502": {
+      "company": "\ud83d\udd25 Google",
+      "role": "Data Analytics Apprentice - February 2027 Start",
+      "location": "4 locationsLA Chicago, IL NYC Atlanta, GA",
+      "term": "Winter 2027",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 952,
+      "chat_id": 8619425244
+    },
+    "3a5b0332461e": {
+      "company": "Post Holdings",
+      "role": "Data Science Intern - Summer 2027",
+      "location": "Lakeville, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 953,
+      "chat_id": 8619425244
+    },
+    "ef8b13a57604": {
+      "company": "Post Holdings",
+      "role": "Business Intelligence Intern - Summer 2027",
+      "location": "Lakeville, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 954,
+      "chat_id": 8619425244
+    },
+    "2473214874e4": {
+      "company": "Perpay",
+      "role": "Analytics Intern",
+      "location": "Philadelphia, PA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 955,
+      "chat_id": 8619425244
+    },
+    "20cf14763b19": {
+      "company": "RTX",
+      "role": "Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning",
+      "location": "East Hartford, CT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 956,
+      "chat_id": 8619425244
+    },
+    "f5e2fc822a91": {
+      "company": "Johnson & Johnson",
+      "role": "Data Science Co-op - Summer 2027",
+      "location": "Cincinnati, OH",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 957,
       "chat_id": 8619425244
     }
   },
