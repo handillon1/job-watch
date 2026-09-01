@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a4480d457d9179cb373ded5eda2ee68cee96d996",
+    "last_sha": "3a99d60517da4ab36365c5c341741a54d5e60f82",
     "rows": [
       [
         "Emerson Electric",
@@ -4041,13 +4041,6 @@
         "La Crosse, WI",
         "Winter 2026",
         "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Jabil",
-        "Supply Chain Data Analyst Intern",
-        "Tampa, FL St. Petersburg, FL",
-        "Fall 2026",
-        "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Supply-Chain-Data-Analyst-Intern_J2462080?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Analog Devices",
@@ -4725,6 +4718,13 @@
         "Leidos",
         "Data Science Intern \ud83c\udf93",
         "San Diego, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Jabil",
+        "Supply Chain Data Analyst Intern",
+        "Tampa, FL St. Petersburg, FL",
         "Fall 2026",
         ""
       ],
@@ -7615,7 +7615,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a4480d457d9179cb373ded5eda2ee68cee96d996",
+    "last_sha": "3a99d60517da4ab36365c5c341741a54d5e60f82",
     "rows": [
       [
         "Edison International",
