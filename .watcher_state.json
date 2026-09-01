@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "eb112f023177a5031cfac35f42e3bd4de44ede63",
+    "last_sha": "ffbf239dc2b53c96a97f55a0ccbacd8727584cc0",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "Research Intern - Frontier AI Systems \ud83c\udf93",
+        "San Jose, CA",
+        "Winter 2026",
+        "https://jobs.bytedance.com/en/position/7679894132806650165/detail?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Resonetics",
         "AI Automation Engineer Intern Co-op",
@@ -7545,8 +7552,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "eb112f023177a5031cfac35f42e3bd4de44ede63",
+    "last_sha": "ffbf239dc2b53c96a97f55a0ccbacd8727584cc0",
     "rows": [
+      [
+        "\ud83d\udd25 ByteDance",
+        "Research Intern - AI Compute \ud83c\udf93",
+        "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 ByteDance",
+        "Research Intern - AI Compute \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        ""
+      ],
       [
         "Bosch Home Comfort",
         "AI Application Intern",
