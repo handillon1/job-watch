@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "28c09eb46b8b4b4e1a4442a738f322bad2b67821",
+    "last_sha": "497723d170c0b8078d1da8e9ec3bc7c98cc054bc",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -4106,25 +4106,11 @@
         "https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "U.S. Venture",
-        "Data Science Intern - Breakthrough",
-        "Green Bay, WI Wisconsin",
-        "Fall 2026",
-        "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Data-Science-Intern---Breakthrough_R8528-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Micron Technology",
         "Technical Customer Management Intern - AI",
         "Longmont, CO",
         "Fall 2026",
         "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "American Institutes for Research",
-        "Data Science Intern",
-        "Arlington County, Arlington, VA",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Netflix",
@@ -4785,9 +4771,23 @@
         ""
       ],
       [
+        "U.S. Venture",
+        "Data Science Intern - Breakthrough",
+        "Green Bay, WI Wisconsin",
+        "Fall 2026",
+        ""
+      ],
+      [
         "Conduent",
         "Applied AI Engineer Intern - Government Healthcare Solutions",
         "Remote in USA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "American Institutes for Research",
+        "Data Science Intern",
+        "Arlington County, Arlington, VA",
         "Fall 2026",
         ""
       ],
@@ -7650,8 +7650,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "28c09eb46b8b4b4e1a4442a738f322bad2b67821",
+    "last_sha": "497723d170c0b8078d1da8e9ec3bc7c98cc054bc",
     "rows": [
+      [
+        "Western & Southern Financial Group",
+        "Digital Analytics Intern - Spring or Summer 2027",
+        "Cincinnati, OH",
+        "",
+        ""
+      ],
+      [
+        "Western & Southern Financial Group",
+        "Data Engineering and Analytics Intern - Summer 2027",
+        "Cincinnati, OH",
+        "",
+        ""
+      ],
       [
         "Dev Technology Group",
         "Microsoft Power Platform & AI Intern - Summer 2027",
@@ -7773,6 +7787,13 @@
       ],
       [
         "DraftKings",
+        "Data Science Intern - Summer 2027",
+        "Boston, MA",
+        "",
+        ""
+      ],
+      [
+        "DraftKings",
         "Data Science Intern",
         "Boston, MA",
         "",
@@ -7782,6 +7803,34 @@
         "Clarios",
         "IT Digital/AI Intern - Summer 2027",
         "Milwaukee, WI",
+        "",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "Data Scientist Intern - University - Summer Games",
+        "Fort Walton Beach, FL",
+        "",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "Data Scientist Intern",
+        "Huntsville, AL",
+        "",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "Data Scientist Intern - University",
+        "Annapolis Junction, MD",
+        "",
+        ""
+      ],
+      [
+        "Booz Allen",
+        "Data Scientist Intern - 2027 Summer Games",
+        "Honolulu, HI",
         "",
         ""
       ],
@@ -8062,13 +8111,6 @@
         "Wells Fargo",
         "Quantitative Analytics Intern - Applied Computational Intelligence \ud83c\udf93",
         "Charlotte, NC",
-        "",
-        ""
-      ],
-      [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
         "",
         ""
       ],
