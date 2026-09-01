@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "12a619fb0cadd745ed450888addb2f1f94588e30",
+    "last_sha": "f8a53aac55abb912bb02d3c5bee6c1e358588a4d",
     "rows": [
       [
         "\ud83d\udd25 ByteDance",
@@ -3931,6 +3931,13 @@
         "https://careers.qorvo.com/job/Greensboro-Data-Analytics-Intern-NC-27409/1421970400/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Verdantas",
+        "Environmental Data Analytics Intern - Geographic Information Systems",
+        "Syracuse, NY",
+        "Winter 2026",
+        "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "The Walt Disney Company",
         "Revenue Planning & Analytics Intern - Spring 2027",
         "Anaheim, CA",
@@ -3950,6 +3957,13 @@
         "San Diego, CA",
         "Fall 2026",
         "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Philips",
+        "Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs",
+        "Cambridge, MA Bothell, WA Plymouth, MN",
+        "Winter 2027",
+        "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Cybersecurity---Data-Analytics--Ultrasound-Regulatory-Affairs----Cambridge--MA---January-2027_590901?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Micron Technology",
@@ -4307,13 +4321,6 @@
         "Washington, DC",
         "Fall 2026",
         "https://careers.aarp.org/jobs/7437?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "GSK",
-        "AI Commercial Strategy & Activation Co-op - AI Strike Team",
-        "Durham, NC",
-        "Fall 2026",
-        "https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Reyes Beverage Group",
@@ -4767,6 +4774,13 @@
         "Arevon",
         "Data Science Intern - Interconnection & Transmission",
         "Scottsdale, AZ",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "GSK",
+        "AI Commercial Strategy & Activation Co-op - AI Strike Team",
+        "Durham, NC",
         "Fall 2026",
         ""
       ],
@@ -7552,7 +7566,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "12a619fb0cadd745ed450888addb2f1f94588e30",
+    "last_sha": "f8a53aac55abb912bb02d3c5bee6c1e358588a4d",
     "rows": [
       [
         "\ud83d\udd25 ByteDance",
@@ -7758,6 +7772,13 @@
         ""
       ],
       [
+        "\ud83d\udd25 Adobe",
+        "Machine Learning Engineer Intern",
+        "6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT",
+        "",
+        ""
+      ],
+      [
         "Northwood Space",
         "Supply Chain Data & Analytics Intern",
         "LA Torrance, CA",
@@ -7817,6 +7838,13 @@
         "Wells Fargo",
         "Quantitative Analytics Intern - Applied Computational Intelligence \ud83c\udf93",
         "Charlotte, NC",
+        "",
+        ""
+      ],
+      [
+        "Marsh",
+        "Summer Analyst - Data and Analytics",
+        "Raleigh, NC",
         "",
         ""
       ],
