@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "34be3dd74e80e48582b30bde4c73398945a7cde6",
+    "last_sha": "bcb1346ea87bef6778a8681b083c9f3917858eea",
     "rows": [
+      [
+        "\ud83d\udd25 Microsoft",
+        "Data Scientist Intern \ud83c\udf93",
+        "Redmond, WA",
+        "Winter 2026",
+        "https://apply.careers.microsoft.com/careers/job/1970393556982928?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Google",
         "Data Analytics Apprentice - February 2027 Start",
@@ -7657,7 +7664,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "34be3dd74e80e48582b30bde4c73398945a7cde6",
+    "last_sha": "bcb1346ea87bef6778a8681b083c9f3917858eea",
     "rows": [
       [
         "Corning",
@@ -7824,6 +7831,13 @@
         "American Express",
         "Data Analytics Intern - Enterprise Technology Services",
         "Palo Alto, CA",
+        "",
+        ""
+      ],
+      [
+        "United Parcel Service",
+        "Finance Analytics Intern - Global Finance",
+        "Atlanta, GA",
         "",
         ""
       ],
