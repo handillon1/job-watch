@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "79ecad5d72c2eefedd61f7f1825ec39f3fa96c0d",
+    "last_sha": "f573eab91b7e137d6a955f690919eea4648aa0dd",
     "rows": [
       [
         "\ud83d\udd25 Microsoft",
@@ -4356,13 +4356,6 @@
         "5 locationsRochester, NY DeWitt, IA Albany, NY Binghamton, NY Buffalo, NY",
         "Fall 2026",
         "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nextiva",
-        "Marketing Intern - Data Science",
-        "Scottsdale, AZ",
-        "Fall 2026",
-        "https://www.nextiva.com/company/careers-listing?gh_jid=8687999002&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 NVIDIA",
@@ -4886,6 +4879,13 @@
         "Hoffman Construction",
         "Data Analyst Intern",
         "Boise, ID",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Nextiva",
+        "Marketing Intern - Data Science",
+        "Scottsdale, AZ",
         "Fall 2026",
         ""
       ],
@@ -7692,7 +7692,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "79ecad5d72c2eefedd61f7f1825ec39f3fa96c0d",
+    "last_sha": "f573eab91b7e137d6a955f690919eea4648aa0dd",
     "rows": [
       [
         "Boston Scientific",
@@ -8377,13 +8377,6 @@
         "The Hartford",
         "Data Engineer Intern - Technology, Data, AI, and Operations",
         "Chicago, IL",
-        "",
-        ""
-      ],
-      [
-        "MKS Instruments",
-        "Business Intelligence/Data Analytics Intern",
-        "Andover, MA",
         "",
         ""
       ],
