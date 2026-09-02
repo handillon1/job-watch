@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "8b1799f63487210cd62ebeec5d91315af8831d18",
+    "last_sha": "ba58823d4ed59dcb20537876fb5f1535d9e9eac5",
     "rows": [
       [
         "\ud83d\udd25 Microsoft",
@@ -7685,7 +7685,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "8b1799f63487210cd62ebeec5d91315af8831d18",
+    "last_sha": "ba58823d4ed59dcb20537876fb5f1535d9e9eac5",
     "rows": [
       [
         "Corning",
@@ -7964,6 +7964,13 @@
         "Booz Allen",
         "Data Scientist Intern - 2027 Summer Games",
         "Honolulu, HI",
+        "",
+        ""
+      ],
+      [
+        "AeroVironment",
+        "Machine Learning Intern",
+        "Centreville, VA Minneapolis, MN",
         "",
         ""
       ],
