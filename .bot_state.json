@@ -1,6 +1,6 @@
 {
   "telegram": {
-    "last_update_id": 841170313
+    "last_update_id": 841170316
   },
   "pending": {
     "535de30c3955": {
@@ -8083,16 +8083,6 @@
       "message_id": 967,
       "chat_id": 8619425244
     },
-    "3bbf096160d4": {
-      "company": "\ud83d\udd25 Microsoft",
-      "role": "Data Science Intern",
-      "location": "Redmond, WA",
-      "term": "Winter 2026",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982897?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify Off-Season (DS/AI/ML)",
-      "message_id": 968,
-      "chat_id": 8619425244
-    },
     "2f10484a1208": {
       "company": "\ud83d\udd25 Tesla",
       "role": "Machine Learning Engineer Intern - Charging Data Modeling",
@@ -8253,6 +8243,17 @@
       "message_id": 800,
       "chat_id": 8619425244,
       "applied_at": "2026-08-27T01:50:27Z"
+    },
+    "3bbf096160d4": {
+      "company": "\ud83d\udd25 Microsoft",
+      "role": "Data Science Intern",
+      "location": "Redmond, WA",
+      "term": "Winter 2026",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982897?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 968,
+      "chat_id": 8619425244,
+      "applied_at": "2026-09-02T02:50:24Z"
     }
   }
 }
