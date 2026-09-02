@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0b372af1777ac596cc6871a2920c3671fb65da97",
+    "last_sha": "3cbb515d0235cd60cd5d709ded39b6539be2bdfb",
     "rows": [
       [
         "\ud83d\udd25 Microsoft",
@@ -4279,13 +4279,6 @@
         "Boston, MA",
         "Winter 2027, Spring 2027",
         "https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Wex",
-        "Artificial Intelligence Intern - AI/ML/NLP Engineer \ud83c\udf93",
-        "6 locationsBoston, MA Seattle, WA SF Dallas, TX Chicago, IL Portland, ME",
-        "Fall 2026",
-        "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834?utm_source=Simplify&ref=Simplify"
       ],
       [
         "The Walt Disney Company",
@@ -4851,6 +4844,13 @@
         "Hoffman Construction",
         "Data Analyst Intern",
         "Boise, ID",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Wex",
+        "Artificial Intelligence Intern - AI/ML/NLP Engineer \ud83c\udf93",
+        "6 locationsBoston, MA Seattle, WA SF Dallas, TX Chicago, IL Portland, ME",
         "Fall 2026",
         ""
       ],
@@ -7692,8 +7692,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0b372af1777ac596cc6871a2920c3671fb65da97",
+    "last_sha": "3cbb515d0235cd60cd5d709ded39b6539be2bdfb",
     "rows": [
+      [
+        "Boston Scientific",
+        "Research Algorithm & Data Science Intern - Interns/Graduates \ud83c\udf93",
+        "Arden Hills, MN",
+        "",
+        ""
+      ],
       [
         "Boston Scientific",
         "Research Data Science Intern - Active Implantable Systems \ud83c\udf93",
