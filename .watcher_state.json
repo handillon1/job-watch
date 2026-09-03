@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "2050aea30081f9e727750d5b0ca1b31aa634fec1",
+    "last_sha": "05f4fea6d1fb7ee6914724d0f82085c15f72949d",
     "rows": [
       [
         "Winsupply",
@@ -3901,13 +3901,6 @@
         "Moraine, OH",
         "Winter 2026",
         "https://jobs.smartrecruiters.com/Winsupply1/3743990015046116?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Geotab",
-        "Data Scientist Intern",
-        "Atlanta, GA",
-        "Winter 2027",
-        "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383409008?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Lawrence Livermore National Laboratory (LLNL)",
@@ -4769,6 +4762,13 @@
         "San Jose, CA",
         "Fall 2026",
         "https://lifeattiktok.com/search/7659527183984019765?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Geotab",
+        "Data Scientist Intern",
+        "Atlanta, GA",
+        "Winter 2027",
+        ""
       ],
       [
         "Vermeer",
@@ -7776,7 +7776,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "2050aea30081f9e727750d5b0ca1b31aa634fec1",
+    "last_sha": "05f4fea6d1fb7ee6914724d0f82085c15f72949d",
     "rows": [
       [
         "Transcard Payments",
@@ -9301,13 +9301,6 @@
         "\ud83d\udd25 TikTok",
         "Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics \ud83c\udf93",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "American Express",
-        "Undergraduate Intern - Strategy & Analytics",
-        "Phoenix, AZ",
         "",
         ""
       ],
