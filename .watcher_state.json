@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a9145806e2b57b3c6f28f02b208ccf02aab5f029",
+    "last_sha": "283fdf3fc67c3d6d1e10e28c5d7ff058c4613a30",
     "rows": [
       [
         "Flagship Pioneering",
@@ -4076,13 +4076,6 @@
         "San Diego, CA",
         "Fall 2026",
         "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Philips",
-        "Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs",
-        "Cambridge, MA Bothell, WA Plymouth, MN",
-        "Winter 2027",
-        "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Cybersecurity---Data-Analytics--Ultrasound-Regulatory-Affairs----Cambridge--MA---January-2027_590901?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Micron Technology",
@@ -4768,6 +4761,13 @@
         "Data Analytics and Corporate Strategy Intern",
         "Pella, IA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Philips",
+        "Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs",
+        "Cambridge, MA Bothell, WA Plymouth, MN",
+        "Winter 2027",
         ""
       ],
       [
@@ -7685,7 +7685,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a9145806e2b57b3c6f28f02b208ccf02aab5f029",
+    "last_sha": "283fdf3fc67c3d6d1e10e28c5d7ff058c4613a30",
     "rows": [
       [
         "Boston Scientific",
@@ -7898,13 +7898,6 @@
         ""
       ],
       [
-        "Stryker",
-        "Statistical Programming Intern",
-        "Irvine, CA",
-        "",
-        ""
-      ],
-      [
         "RTX",
         "Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning",
         "East Hartford, CT",
@@ -8013,20 +8006,6 @@
         "AeroVironment",
         "Machine Learning Intern",
         "Centreville, VA Minneapolis, MN",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Research Intern - AI Compute \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Research Intern - AI Compute \ud83c\udf93",
-        "Seattle, WA",
         "",
         ""
       ],
@@ -8167,6 +8146,13 @@
         "PricewaterhouseCoopers (PwC)",
         "Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027",
         "Rosemont, IL NYC",
+        "",
+        ""
+      ],
+      [
+        "NiSource",
+        "People Analytics Intern",
+        "Columbus, OH",
         "",
         ""
       ],
