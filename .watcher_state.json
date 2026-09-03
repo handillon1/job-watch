@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7e464ad1d2a5e870f8fbb48fe65cd6d190387170",
+    "last_sha": "6a3a6014a31476558dd37d2e139b5b25f0eb27e7",
     "rows": [
       [
         "Geotab",
@@ -7748,8 +7748,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7e464ad1d2a5e870f8fbb48fe65cd6d190387170",
+    "last_sha": "6a3a6014a31476558dd37d2e139b5b25f0eb27e7",
     "rows": [
+      [
+        "Hadrian",
+        "Data Science/Data Engineer Intern",
+        "LA Torrance, CA",
+        "",
+        ""
+      ],
       [
         "Shure",
         "Artificial Intelligence Engineer Intern",
@@ -7803,6 +7810,13 @@
         "McKesson",
         "Data Analyst Intern",
         "Columbus, OH",
+        "",
+        ""
+      ],
+      [
+        "Mastercard",
+        "Data Scientist Intern",
+        "O'Fallon, MO",
         "",
         ""
       ],
