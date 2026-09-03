@@ -6640,7 +6640,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 805,
+      "message_id": 1019,
       "chat_id": 8619425244
     },
     "9ceb5f2ff735": {
@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 983,
+      "message_id": 1016,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -6970,7 +6970,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 843,
+      "message_id": 1017,
       "chat_id": 8619425244
     },
     "4bb7e69044a5": {
@@ -8511,6 +8511,16 @@
       "apply_url": "",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 1014,
+      "chat_id": 8619425244
+    },
+    "903193cf1b7d": {
+      "company": "Brunswick",
+      "role": "Power BI/Ops Analytics Co-op",
+      "location": "Fond du Lac, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1018,
       "chat_id": 8619425244
     }
   },
