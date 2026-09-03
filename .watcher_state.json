@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ddc67e5adae123047f38fff80949f7f076b91b6c",
+    "last_sha": "ef385cc0a4a439f4c16daf1119a8baca6e03ffa8",
     "rows": [
       [
         "Geotab",
@@ -3950,13 +3950,6 @@
         "Bellevue, WA",
         "Fall 2026",
         "https://jobs.smartrecruiters.com/Acumatica/744000146749696?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Google",
-        "Data Analytics Apprentice - February 2027 Start",
-        "4 locationsLA Chicago, IL NYC Atlanta, GA",
-        "Winter 2027",
-        "https://www.google.com/about/careers/applications/jobs/results/132315893450318534?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Western & Southern Financial Group",
@@ -4209,13 +4202,6 @@
         "Milpitas, CA",
         "Fall 2026",
         "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Netflix",
-        "Machine Learning Scientist Intern - AI \ud83c\udf93",
-        "Los Gatos, CA",
-        "Winter 2027",
-        "https://explore.jobs.netflix.net/careers/job/790317916733?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Gulfstream",
@@ -4582,13 +4568,6 @@
         "https://apply.careers.microsoft.com/careers/job/1970393556922929?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "The Federal Reserve System",
-        "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "Boston, MA",
-        "Fall 2026",
-        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "NTT DATA AIVista",
         "AI Scientist Intern \ud83c\udf93",
         "Palo Alto, CA SF",
@@ -4629,13 +4608,6 @@
         "Austin, TX",
         "Fall 2026",
         "https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Brio Water Technology",
-        "AI Automation & Business Analytics Intern - Rotational Program",
-        "Glendale, CA",
-        "Fall 2026",
-        "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb?utm_source=Simplify&ref=Simplify"
       ],
       [
         "PSECU",
@@ -4806,6 +4778,13 @@
         "https://lifeattiktok.com/search/7659527183984019765?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "\ud83d\udd25 Google",
+        "Data Analytics Apprentice - February 2027 Start",
+        "4 locationsLA Chicago, IL NYC Atlanta, GA",
+        "Winter 2027",
+        ""
+      ],
+      [
         "Vermeer",
         "Data Analytics and Corporate Strategy Intern",
         "Pella, IA",
@@ -4873,6 +4852,13 @@
         "Data Science Intern",
         "Arlington County, Arlington, VA",
         "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Netflix",
+        "Machine Learning Scientist Intern - AI \ud83c\udf93",
+        "Los Gatos, CA",
+        "Winter 2027",
         ""
       ],
       [
@@ -5163,6 +5149,13 @@
         ""
       ],
       [
+        "The Federal Reserve System",
+        "Graduate Statistical Analysis Intern - Regional & Community Outreach",
+        "Boston, MA",
+        "Fall 2026",
+        ""
+      ],
+      [
         "NBT Bank",
         "Data Warehouse & Analytics Intern",
         "Williamsville, NY",
@@ -5194,6 +5187,13 @@
         "Clyde Companies",
         "Business Intelligence Intern",
         "Orem, UT",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Brio Water Technology",
+        "AI Automation & Business Analytics Intern - Rotational Program",
+        "Glendale, CA",
         "Fall 2026",
         ""
       ],
@@ -7748,7 +7748,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ddc67e5adae123047f38fff80949f7f076b91b6c",
+    "last_sha": "ef385cc0a4a439f4c16daf1119a8baca6e03ffa8",
     "rows": [
       [
         "Hadrian",
@@ -8437,13 +8437,6 @@
         ""
       ],
       [
-        "Leidos",
-        "Data Engineering & Analytics Intern",
-        "Shiloh, IL",
-        "",
-        ""
-      ],
-      [
         "Finastra",
         "AI Engineer Intern - Summer 2027",
         "Atlanta, GA",
@@ -8594,13 +8587,6 @@
         "Polaris",
         "Predictive Data Science Intern - Digital & IT",
         "Medina, MN Plymouth, MN",
-        "",
-        ""
-      ],
-      [
-        "LPL Financial Holdings",
-        "Service Transformation & Data Analytics Intern",
-        "Fort Mill, SC Charlotte, NC",
         "",
         ""
       ],
