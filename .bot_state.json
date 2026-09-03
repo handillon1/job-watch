@@ -5030,7 +5030,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 626,
+      "message_id": 986,
       "chat_id": 8619425244
     },
     "9f1b721c4f67": {
@@ -8221,6 +8221,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 982,
+      "chat_id": 8619425244
+    },
+    "6e344d2669c9": {
+      "company": "United Airlines",
+      "role": "Operations Data & Analytics Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 984,
+      "chat_id": 8619425244
+    },
+    "11d0857b883e": {
+      "company": "United Airlines",
+      "role": "Operations Strategy & Analytics Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 985,
       "chat_id": 8619425244
     }
   },

@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7205ac51123f53aaadb0c89770486958c16e0052",
+    "last_sha": "a9145806e2b57b3c6f28f02b208ccf02aab5f029",
     "rows": [
       [
         "Flagship Pioneering",
@@ -7685,7 +7685,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7205ac51123f53aaadb0c89770486958c16e0052",
+    "last_sha": "a9145806e2b57b3c6f28f02b208ccf02aab5f029",
     "rows": [
       [
         "Boston Scientific",
@@ -7796,6 +7796,20 @@
         "Dev Technology Group",
         "AI/ML Intern - Summer 2027",
         "Reston, VA",
+        "",
+        ""
+      ],
+      [
+        "United Airlines",
+        "Operations Data & Analytics Intern - Summer 2027",
+        "Chicago, IL",
+        "",
+        ""
+      ],
+      [
+        "United Airlines",
+        "Operations Strategy & Analytics Intern - Summer 2027",
+        "Chicago, IL",
         "",
         ""
       ],
@@ -8888,6 +8902,13 @@
         "\ud83d\udd25 ByteDance",
         "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93",
         "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 ByteDance",
+        "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+        "San Jose, CA",
         "",
         ""
       ],
