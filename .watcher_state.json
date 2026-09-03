@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3319c97eca148f7f252d03f22561c5e3c1974bb5",
+    "last_sha": "995b78e1015baf0f89069afe739fd59e82c27b63",
     "rows": [
       [
         "Winsupply",
@@ -4477,13 +4477,6 @@
         "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Crowe",
-        "AI Functional Intern - Consulting Practice",
-        "Chicago, IL",
-        "Fall 2026",
-        "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "The Nuclear Company",
         "AI/ML Engineer Intern - Platform Integration & AI/Data",
         "Washington, DC",
@@ -5005,6 +4998,13 @@
         "Magnera",
         "Data Analyst Intern - Information Technology",
         "Evansville, IN",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Crowe",
+        "AI Functional Intern - Consulting Practice",
+        "Chicago, IL",
         "Fall 2026",
         ""
       ],
@@ -7769,8 +7769,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3319c97eca148f7f252d03f22561c5e3c1974bb5",
+    "last_sha": "995b78e1015baf0f89069afe739fd59e82c27b63",
     "rows": [
+      [
+        "Transcard Payments",
+        "Artificial Intelligence Intern",
+        "Chattanooga, TN",
+        "",
+        ""
+      ],
       [
         "Crum & Forster Insurance",
         "Actuarial, Data Science or Product Services Intern - Commercial Lines",
@@ -8447,6 +8454,13 @@
         "Wells Fargo",
         "Quantitative Analytics Intern - Applied Computational Intelligence \ud83c\udf93",
         "Charlotte, NC",
+        "",
+        ""
+      ],
+      [
+        "Marsh",
+        "Summer Analyst - Data and Analytics",
+        "Raleigh, NC",
         "",
         ""
       ],
