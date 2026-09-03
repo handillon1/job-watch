@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5955d7734aa5f86f2ebd0f440a53807952216b13",
+    "last_sha": "a4b0c634672b896610d5df8f468125b6dd5c58db",
     "rows": [
       [
         "Winsupply",
@@ -4426,13 +4426,6 @@
         "Washington, DC",
         "Spring 2027",
         "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "onsemi",
-        "Tax AI and Automation Intern",
-        "Scottsdale, AZ",
-        "Fall 2026",
-        "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307?utm_source=Simplify&ref=Simplify"
       ],
       [
         "AARP",
@@ -4983,6 +4976,13 @@
       [
         "Arevon",
         "Data Science Intern - Interconnection & Transmission",
+        "Scottsdale, AZ",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "onsemi",
+        "Tax AI and Automation Intern",
         "Scottsdale, AZ",
         "Fall 2026",
         ""
@@ -7769,7 +7769,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5955d7734aa5f86f2ebd0f440a53807952216b13",
+    "last_sha": "a4b0c634672b896610d5df8f468125b6dd5c58db",
     "rows": [
       [
         "Crum & Forster Insurance",
