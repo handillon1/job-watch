@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 958,
+      "message_id": 983,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -8201,6 +8201,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 980,
+      "chat_id": 8619425244
+    },
+    "3dd5649494e3": {
+      "company": "Acumatica",
+      "role": "AI & Automation Intern - Office of the CFO",
+      "location": "Bellevue, WA",
+      "term": "Fall 2026",
+      "apply_url": "https://jobs.smartrecruiters.com/Acumatica/744000146749696?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 981,
+      "chat_id": 8619425244
+    },
+    "20ffc9c32bd0": {
+      "company": "Baird",
+      "role": "Capital Markets Compliance Data & Analytics Intern",
+      "location": "Milwaukee, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 982,
       "chat_id": 8619425244
     }
   },
