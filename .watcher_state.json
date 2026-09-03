@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "283fdf3fc67c3d6d1e10e28c5d7ff058c4613a30",
+    "last_sha": "4154a8c863c86e7ee3dab712d319df73467b4f37",
     "rows": [
       [
         "Flagship Pioneering",
@@ -4078,6 +4078,13 @@
         "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Oshkosh",
+        "Supply Chain Data Analytics Intern - Year Round",
+        "Greenville, WI",
+        "Fall 2026",
+        "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Micron Technology",
         "AI Systems and Infrastructure Engineering Intern \ud83c\udf93",
         "Austin, TX",
@@ -4097,13 +4104,6 @@
         "Evendale, OH Atlanta, GA",
         "Spring 2027",
         "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Dow Chemical Company",
-        "Analytical Science Co-op - Analytical Science R&D",
-        "Auburn, MI Midland, MI",
-        "Fall 2026",
-        "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op---Analytical-Science-R-D_R2066435?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Dairyland Power Cooperative",
@@ -4768,6 +4768,13 @@
         "Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs",
         "Cambridge, MA Bothell, WA Plymouth, MN",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Dow Chemical Company",
+        "Analytical Science Co-op - Analytical Science R&D",
+        "Auburn, MI Midland, MI",
+        "Fall 2026",
         ""
       ],
       [
@@ -7685,7 +7692,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "283fdf3fc67c3d6d1e10e28c5d7ff058c4613a30",
+    "last_sha": "4154a8c863c86e7ee3dab712d319df73467b4f37",
     "rows": [
       [
         "Boston Scientific",
@@ -8125,13 +8132,6 @@
         "PricewaterhouseCoopers (PwC)",
         "Deals Analytics Intern - DTDS",
         "14 locationsBoston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA",
-        "",
-        ""
-      ],
-      [
-        "PricewaterhouseCoopers (PwC)",
-        "Business Analytics Intern - Mida",
-        "4 locationsBoston, MA Tampa, FL Rosemont, IL NYC",
         "",
         ""
       ],
