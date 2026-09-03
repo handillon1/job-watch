@@ -7620,7 +7620,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 920,
+      "message_id": 1026,
       "chat_id": 8619425244
     },
     "bda72f6d5eca": {
@@ -7740,7 +7740,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 932,
+      "message_id": 1025,
       "chat_id": 8619425244
     },
     "565f080953c2": {
@@ -8000,7 +8000,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 959,
+      "message_id": 1021,
       "chat_id": 8619425244
     },
     "4f4ce7bac86c": {
@@ -8190,7 +8190,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 979,
+      "message_id": 1022,
       "chat_id": 8619425244
     },
     "496e13f42fed": {
@@ -8230,7 +8230,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 984,
+      "message_id": 1023,
       "chat_id": 8619425244
     },
     "11d0857b883e": {
@@ -8240,7 +8240,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 985,
+      "message_id": 1024,
       "chat_id": 8619425244
     },
     "c0541fa06772": {
@@ -8521,6 +8521,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1018,
+      "chat_id": 8619425244
+    },
+    "9ebf7eab1e70": {
+      "company": "Momentive",
+      "role": "Data Science Intern - Enterprise Reporting & Analytics",
+      "location": "Niskayuna, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1020,
       "chat_id": 8619425244
     }
   },
