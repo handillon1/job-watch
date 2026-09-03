@@ -7980,7 +7980,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 956,
+      "message_id": 1030,
       "chat_id": 8619425244
     },
     "f5e2fc822a91": {
@@ -8340,7 +8340,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 996,
+      "message_id": 1029,
       "chat_id": 8619425244
     },
     "a8c25fd40903": {
@@ -8541,6 +8541,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1027,
+      "chat_id": 8619425244
+    },
+    "b9402b25d866": {
+      "company": "Winsupply",
+      "role": "Data Analyst Intern",
+      "location": "Moraine, OH",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.smartrecruiters.com/Winsupply1/3743990015046116?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1028,
       "chat_id": 8619425244
     }
   },
