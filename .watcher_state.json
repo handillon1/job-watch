@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "891f587a3bd65ead4d4f1eb1bae9607b0cf6839e",
+    "last_sha": "c934db0518581a55edf1848f105252229daefb8d",
     "rows": [
       [
         "Winsupply",
@@ -4715,13 +4715,6 @@
         "https://www.careers.zurich.com/job/Anoka-Bachelor"
       ],
       [
-        "Rivian",
-        "Machine Learning Compiler Intern - Machine Learning Compiler",
-        "Urbana, IL",
-        "Fall 2026",
-        "https://careers.rivian.com/jobs/29851?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Amcor",
         "AI Innovation Engineer Intern",
         "Atlanta, GA",
@@ -5502,6 +5495,13 @@
         "Sentara Health",
         "Enterprise Data & AI Intern",
         "Virginia Beach, VA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Rivian",
+        "Machine Learning Compiler Intern - Machine Learning Compiler",
+        "Urbana, IL",
         "Fall 2026",
         ""
       ],
@@ -7755,7 +7755,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "891f587a3bd65ead4d4f1eb1bae9607b0cf6839e",
+    "last_sha": "c934db0518581a55edf1848f105252229daefb8d",
     "rows": [
       [
         "Transcard Payments",
@@ -8951,13 +8951,6 @@
         "\ud83d\udd25 ByteDance",
         "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK",
         "Seattle, WA",
-        "",
-        ""
-      ],
-      [
-        "Booz Allen",
-        "AI RAN Telecommunications Engineer Intern",
-        "McLean, VA",
         "",
         ""
       ],
