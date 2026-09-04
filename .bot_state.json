@@ -7200,7 +7200,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 874,
+      "message_id": 1069,
       "chat_id": 8619425244
     },
     "50de864cf9d3": {
@@ -8861,6 +8861,16 @@
       "apply_url": "https://careers.united.com/us/en/job/WHQ00026618?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 1064,
+      "chat_id": 8619425244
+    },
+    "6e64d6416b58": {
+      "company": "United Parcel Service",
+      "role": "Business Analytics Intern - Americas Region",
+      "location": "Atlanta, GA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1068,
       "chat_id": 8619425244
     }
   },
