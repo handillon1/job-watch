@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a25a3cd30d1d380de3bb06c7d4265dae3ff79382",
+    "last_sha": "94c19e5ce34dc130b8f53a98a8a3c48efe13e58a",
     "rows": [
       [
         "Entergy",
@@ -3915,13 +3915,6 @@
         "Livermore, CA",
         "Winter 2026",
         "https://jobs.smartrecruiters.com/LLNL/3743990015035697?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Walmart",
-        "Data Scientist 3 Intern",
-        "Bentonville, AR",
-        "Winter 2026",
-        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Bentonville_R-2630126?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tyson Foods",
@@ -4090,6 +4083,13 @@
         "San Jose, CA",
         "Winter 2026",
         "https://jobs.bytedance.com/en/position/7679894132806650165/detail?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Resonetics",
+        "AI Automation Engineer Intern Co-op",
+        "Dayton, OH",
+        "Spring 2026",
+        "https://careers-resonetics.icims.com/jobs/5326/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Integra FEC",
@@ -4820,17 +4820,17 @@
         ""
       ],
       [
-        "Vermeer",
-        "Data Analytics and Corporate Strategy Intern",
-        "Pella, IA",
+        "Walmart",
+        "Data Scientist 3 Intern",
+        "Bentonville, AR",
         "Winter 2026",
         ""
       ],
       [
-        "Resonetics",
-        "AI Automation Engineer Intern Co-op",
-        "Dayton, OH",
-        "Spring 2026",
+        "Vermeer",
+        "Data Analytics and Corporate Strategy Intern",
+        "Pella, IA",
+        "Winter 2026",
         ""
       ],
       [
@@ -7804,7 +7804,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a25a3cd30d1d380de3bb06c7d4265dae3ff79382",
+    "last_sha": "94c19e5ce34dc130b8f53a98a8a3c48efe13e58a",
     "rows": [
       [
         "Skydio",
@@ -8006,6 +8006,13 @@
         "Allied Solutions",
         "AI Solutions Intern",
         "Carmel, IN",
+        "",
+        ""
+      ],
+      [
+        "Corning",
+        "Artificial Intelligence and Machine Learning Intern",
+        "Wilmington, NC",
         "",
         ""
       ],
@@ -8545,6 +8552,13 @@
         "Manulife Financial",
         "AI Intern - AI",
         "Boston, MA",
+        "",
+        ""
+      ],
+      [
+        "Leidos",
+        "Data Engineering & Analytics Intern",
+        "Shiloh, IL",
         "",
         ""
       ],
