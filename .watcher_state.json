@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d9607c66e3366adc1aa6a313e31893f1cd1a619c",
+    "last_sha": "90c224cdb1a7a130cbbbbd35407e3a6ff496970b",
     "rows": [
       [
         "Entergy",
@@ -4475,13 +4475,6 @@
         "Chicago, IL",
         "Fall 2026",
         "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "SchoolMint",
-        "Marketing Technology & Analytics Intern",
-        "Lafayette, LA",
-        "Fall 2026, Spring 2027",
-        "https://job-boards.greenhouse.io/schoolmint/jobs/8697562002?utm_source=Simplify&ref=Simplify"
       ],
       [
         "ConnectPrep",
@@ -5069,6 +5062,13 @@
         "Data Analyst Intern - Information Technology",
         "Evansville, IN",
         "Fall 2026",
+        ""
+      ],
+      [
+        "SchoolMint",
+        "Marketing Technology & Analytics Intern",
+        "Lafayette, LA",
+        "Fall 2026, Spring 2027",
         ""
       ],
       [
@@ -7818,7 +7818,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d9607c66e3366adc1aa6a313e31893f1cd1a619c",
+    "last_sha": "90c224cdb1a7a130cbbbbd35407e3a6ff496970b",
     "rows": [
       [
         "Skydio",
@@ -8097,13 +8097,6 @@
         "Perpay",
         "Analytics Intern",
         "Philadelphia, PA",
-        "",
-        ""
-      ],
-      [
-        "United Airlines",
-        "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
-        "Chicago, IL",
         "",
         ""
       ],
