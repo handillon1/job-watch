@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "c934db0518581a55edf1848f105252229daefb8d",
+    "last_sha": "3e0e4861332f3742944ce083f2416bc8de2cbe1f",
     "rows": [
+      [
+        "Entergy",
+        "Artificial Intelligence Intern",
+        "New Orleans, LA",
+        "Spring 2027",
+        "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Spring-2027-Loui/1426669200/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Winsupply",
         "Data Analyst Intern",
@@ -3908,6 +3915,48 @@
         "Livermore, CA",
         "Winter 2026",
         "https://jobs.smartrecruiters.com/LLNL/3743990015035697?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Walmart",
+        "Data Scientist 3 Intern",
+        "Bentonville, AR",
+        "Winter 2026",
+        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Bentonville_R-2630126?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Tyson Foods",
+        "Analytics Intern - Transportation Services",
+        "Springdale, AR",
+        "Winter 2026",
+        "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Year-round-Intern---Transportation-Services_R0483113-2?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Premier",
+        "Data Science Intern",
+        "Charlotte, NC",
+        "Winter 2026",
+        "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Data-Science-Intern_R0008481?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Micron Technology",
+        "AI Agentic Systems Engineer Intern \ud83c\udf93",
+        "San Jose, CA Folsom, CA",
+        "Winter 2026",
+        "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Clorox",
+        "Sales & Customer Analytics Co-op",
+        "5 locationsBentonville, AR Oakland, CA Pleasanton, CA Durham, NC Mason, OH",
+        "Winter 2026",
+        "https://clorox.wd1.myworkdayjobs.com/InviteClorox/job/Oakland-CA---USA/Sales---Customer-Analytics-Co-op_JR23362?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Ancestry",
+        "Applied AI Science Co-op - Embedding models - Personalization \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2026",
+        "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Flagship Pioneering",
@@ -4300,6 +4349,13 @@
         "Boston, MA",
         "Winter 2027",
         "https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Audax Group",
+        "AI Engineer Co-op",
+        "Boston, MA",
+        "Winter 2027, Spring 2027",
+        "https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005?utm_source=Simplify&ref=Simplify"
       ],
       [
         "The Walt Disney Company",
@@ -4887,13 +4943,6 @@
         "Data Analyst Intern",
         "Boise, ID",
         "Fall 2026",
-        ""
-      ],
-      [
-        "Audax Group",
-        "AI Engineer Co-op",
-        "Boston, MA",
-        "Winter 2027, Spring 2027",
         ""
       ],
       [
@@ -7755,8 +7804,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "c934db0518581a55edf1848f105252229daefb8d",
+    "last_sha": "3e0e4861332f3742944ce083f2416bc8de2cbe1f",
     "rows": [
+      [
+        "Corning",
+        "Data Analytics Intern - Summer 2027",
+        "Painted Post, NY",
+        "",
+        ""
+      ],
+      [
+        "Hormel Foods",
+        "Enterprise Analytics Intern - Campus Recruiting",
+        "Austin, MN Eden Prairie, MN",
+        "",
+        ""
+      ],
       [
         "Transcard Payments",
         "Artificial Intelligence Intern",
@@ -7800,9 +7863,23 @@
         ""
       ],
       [
+        "Walmart",
+        "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
+        "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
         "Momentive",
         "Data Science Intern - Enterprise Reporting & Analytics",
         "Niskayuna, NY",
+        "",
+        ""
+      ],
+      [
+        "Land O'Lakes",
+        "Business Insights & Analytics Intern - Animal Nutrition",
+        "Arden Hills, MN",
         "",
         ""
       ],
