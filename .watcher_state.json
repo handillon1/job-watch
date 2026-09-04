@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bd875ab93c1ee3060ac2dad00751f9d1796dfe22",
+    "last_sha": "22b5e6e38b010980462ccf802a9890b2df553a54",
     "rows": [
       [
         "Entergy",
@@ -4356,13 +4356,6 @@
         "Boston, MA",
         "Winter 2027, Spring 2027",
         "https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "The Walt Disney Company",
-        "Transportation Logistics & Analytics Intern - Spring 2027",
-        "Lake Buena Vista, FL",
-        "Spring 2027",
-        "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "The Walt Disney Company",
@@ -4985,6 +4978,13 @@
         "Labor Systems Data Analytics & Integration Intern - Spring 2027",
         "Lake Buena Vista, FL",
         "Winter 2027",
+        ""
+      ],
+      [
+        "The Walt Disney Company",
+        "Transportation Logistics & Analytics Intern - Spring 2027",
+        "Lake Buena Vista, FL",
+        "Spring 2027",
         ""
       ],
       [
@@ -7825,7 +7825,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bd875ab93c1ee3060ac2dad00751f9d1796dfe22",
+    "last_sha": "22b5e6e38b010980462ccf802a9890b2df553a54",
     "rows": [
       [
         "Skydio",
@@ -8682,13 +8682,6 @@
         ""
       ],
       [
-        "Honeywell",
-        "Information Systems Intern - IT - Cyber Engineer & Data Science",
-        "United States",
-        "",
-        ""
-      ],
-      [
         "Cigna Group",
         "Legal Operations Financial Data & AI Analytics Intern",
         "St. Louis, MO",
@@ -8836,6 +8829,13 @@
         ""
       ],
       [
+        "\ud83d\udd25 TikTok",
+        "Machine Learning Engineer Intern \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        ""
+      ],
+      [
         "Wells Fargo",
         "Quantitative Analytics Intern - Risk Analytics and Decision Sciences \ud83c\udf93",
         "Charlotte, NC",
@@ -8853,6 +8853,13 @@
         "Vanguard",
         "Data Science Intern - Information Technology",
         "Malvern, PA",
+        "",
+        ""
+      ],
+      [
+        "Vanguard",
+        "Data Analyst Intern - College to Corporate IT",
+        "Charlotte, NC",
         "",
         ""
       ],
