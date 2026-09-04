@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d63591e5fdd5edc75e38c1919e36e38f287b6c8e",
+    "last_sha": "a25a3cd30d1d380de3bb06c7d4265dae3ff79382",
     "rows": [
       [
         "Entergy",
@@ -4090,13 +4090,6 @@
         "San Jose, CA",
         "Winter 2026",
         "https://jobs.bytedance.com/en/position/7679894132806650165/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Resonetics",
-        "AI Automation Engineer Intern Co-op",
-        "Dayton, OH",
-        "Spring 2026",
-        "https://careers-resonetics.icims.com/jobs/5326/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Integra FEC",
@@ -4831,6 +4824,13 @@
         "Data Analytics and Corporate Strategy Intern",
         "Pella, IA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Resonetics",
+        "AI Automation Engineer Intern Co-op",
+        "Dayton, OH",
+        "Spring 2026",
         ""
       ],
       [
@@ -7804,7 +7804,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d63591e5fdd5edc75e38c1919e36e38f287b6c8e",
+    "last_sha": "a25a3cd30d1d380de3bb06c7d4265dae3ff79382",
     "rows": [
       [
         "Skydio",
@@ -8006,13 +8006,6 @@
         "Allied Solutions",
         "AI Solutions Intern",
         "Carmel, IN",
-        "",
-        ""
-      ],
-      [
-        "Corning",
-        "Artificial Intelligence and Machine Learning Intern",
-        "Wilmington, NC",
         "",
         ""
       ],
@@ -8552,13 +8545,6 @@
         "Manulife Financial",
         "AI Intern - AI",
         "Boston, MA",
-        "",
-        ""
-      ],
-      [
-        "Leidos",
-        "Data Engineering & Analytics Intern",
-        "Shiloh, IL",
         "",
         ""
       ],
