@@ -8190,7 +8190,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1022,
+      "message_id": 1065,
       "chat_id": 8619425244
     },
     "496e13f42fed": {
@@ -8851,6 +8851,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1063,
+      "chat_id": 8619425244
+    },
+    "23f8843cd5d9": {
+      "company": "United Airlines",
+      "role": "Operations Strategy & Analytics Intern",
+      "location": "Chicago, IL",
+      "term": "Fall 2026",
+      "apply_url": "https://careers.united.com/us/en/job/WHQ00026618?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1064,
       "chat_id": 8619425244
     }
   },
