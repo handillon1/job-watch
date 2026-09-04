@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "94c19e5ce34dc130b8f53a98a8a3c48efe13e58a",
+    "last_sha": "79c9a147279d9b01467d7d0310090197aafc12b8",
     "rows": [
       [
         "Entergy",
@@ -3915,6 +3915,13 @@
         "Livermore, CA",
         "Winter 2026",
         "https://jobs.smartrecruiters.com/LLNL/3743990015035697?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Walmart",
+        "Data Scientist 3 Intern",
+        "Bentonville, AR",
+        "Winter 2026",
+        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Bentonville_R-2630126?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Tyson Foods",
@@ -4771,6 +4778,13 @@
         "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Chevron",
+        "Previous Intern - Information Technology - Information and Analytics",
+        "Houston, TX",
+        "Fall 2026",
+        "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027--Information-Technology---Information-and-Analytics---Full-Time--Previous-Intern-_R000072348?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Jump Trading",
         "AI Research Engineer Intern",
         "Chicago, IL NYC",
@@ -4817,13 +4831,6 @@
         "Data Scientist Intern",
         "Atlanta, GA",
         "Winter 2027",
-        ""
-      ],
-      [
-        "Walmart",
-        "Data Scientist 3 Intern",
-        "Bentonville, AR",
-        "Winter 2026",
         ""
       ],
       [
@@ -7804,7 +7811,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "94c19e5ce34dc130b8f53a98a8a3c48efe13e58a",
+    "last_sha": "79c9a147279d9b01467d7d0310090197aafc12b8",
     "rows": [
       [
         "Skydio",
@@ -9153,13 +9160,6 @@
       [
         "\ud83d\udd25 TikTok",
         "Data Science Intern - Integrity and Safety",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Brand Ads",
         "San Jose, CA",
         "",
         ""
