@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ce93e3cf48ee8634053cbe1154a8e3e10ff6adc7",
+    "last_sha": "d9607c66e3366adc1aa6a313e31893f1cd1a619c",
     "rows": [
       [
         "Entergy",
@@ -4104,13 +4104,6 @@
         "Austin, TX",
         "Spring 2026",
         "https://job-boards.greenhouse.io/integra/jobs/5406100008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Astrion",
-        "Data Analyst Intern",
-        "Cape Canaveral, FL",
-        "Fall 2026",
-        "https://careers.astrion.us/jobs/24801?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Qorvo",
@@ -4845,6 +4838,13 @@
         "Data Analytics and Corporate Strategy Intern",
         "Pella, IA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Astrion",
+        "Data Analyst Intern",
+        "Cape Canaveral, FL",
+        "Fall 2026",
         ""
       ],
       [
@@ -7818,7 +7818,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ce93e3cf48ee8634053cbe1154a8e3e10ff6adc7",
+    "last_sha": "d9607c66e3366adc1aa6a313e31893f1cd1a619c",
     "rows": [
       [
         "Skydio",
@@ -7949,6 +7949,13 @@
       [
         "Corning",
         "Digital & IT Intern - Analyst - Data & AI Platform Engineering",
+        "Charlotte, NC",
+        "",
+        ""
+      ],
+      [
+        "Corning",
+        "Digital & IT Intern - Manufacturing AI/ML",
         "Charlotte, NC",
         "",
         ""
