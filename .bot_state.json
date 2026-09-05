@@ -7930,7 +7930,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 951,
+      "message_id": 1087,
       "chat_id": 8619425244
     },
     "c1aa7b2f5502": {
@@ -9031,6 +9031,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1085,
+      "chat_id": 8619425244
+    },
+    "7e78c30c28fc": {
+      "company": "Applied Materials",
+      "role": "Data Analyst Intern - Global Technical Learning Center",
+      "location": "Albany, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1086,
       "chat_id": 8619425244
     }
   },
