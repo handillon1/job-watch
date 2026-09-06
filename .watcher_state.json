@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "4d7b26d6c9de0a8121edd0a80ab59dacbd3a1b7e",
+    "last_sha": "2c8f4af733bbea76f11ae997058aad2475816f8e",
     "rows": [
       [
         "Loram",
@@ -4666,13 +4666,6 @@
         "https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Brio Water Technology",
-        "AI Automation & Business Analytics Intern - Rotational Program",
-        "Glendale, CA",
-        "Fall 2026",
-        "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "PSECU",
         "Data Analyst Intern",
         "Harrisburg, PA",
@@ -5278,6 +5271,13 @@
         "Clyde Companies",
         "Business Intelligence Intern",
         "Orem, UT",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Brio Water Technology",
+        "AI Automation & Business Analytics Intern - Rotational Program",
+        "Glendale, CA",
         "Fall 2026",
         ""
       ],
@@ -7804,8 +7804,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "4d7b26d6c9de0a8121edd0a80ab59dacbd3a1b7e",
+    "last_sha": "2c8f4af733bbea76f11ae997058aad2475816f8e",
     "rows": [
+      [
+        "AArete",
+        "Business Analytics Intern - Summer 2027",
+        "Chicago, IL",
+        "",
+        ""
+      ],
       [
         "Ernst & Young",
         "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
