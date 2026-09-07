@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "8312dbbdb6b568a4acc329226fe7f211c1f508a2",
+    "last_sha": "6cb92f4f2abd1583cdbb65f384fff476530a9b19",
     "rows": [
       [
         "Loram",
@@ -4484,13 +4484,6 @@
         "https://careers.aarp.org/jobs/7437?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Reyes Beverage Group",
-        "Commercial Analytics Intern - Beverage Alliance Support",
-        "Irvine, CA",
-        "Fall 2026",
-        "https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Crowe",
         "Data Analytics Developer Intern - Consulting Practice",
         "Chicago, IL",
@@ -5040,6 +5033,13 @@
         "Arlington County VA",
         "Business Intelligence Intern",
         "Arlington County, Arlington, VA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Reyes Beverage Group",
+        "Commercial Analytics Intern - Beverage Alliance Support",
+        "Irvine, CA",
         "Fall 2026",
         ""
       ],
@@ -7783,8 +7783,43 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "8312dbbdb6b568a4acc329226fe7f211c1f508a2",
+    "last_sha": "6cb92f4f2abd1583cdbb65f384fff476530a9b19",
     "rows": [
+      [
+        "Xcel Energy",
+        "Power Generation Analytics Intern",
+        "Henderson, CO",
+        "",
+        ""
+      ],
+      [
+        "Xcel Energy",
+        "Data Analyst Intern",
+        "Denver, CO",
+        "",
+        ""
+      ],
+      [
+        "Xcel Energy",
+        "Data Science Intern",
+        "Minneapolis, MN Denver, CO",
+        "",
+        ""
+      ],
+      [
+        "Xcel Energy",
+        "Data Scientist Intern",
+        "Minneapolis, MN Denver, CO",
+        "",
+        ""
+      ],
+      [
+        "Tokyo Electron",
+        "Business Intelligence Analyst Intern",
+        "Austin, TX",
+        "",
+        ""
+      ],
       [
         "AArete",
         "Business Analytics Intern - Summer 2027",
@@ -7992,6 +8027,13 @@
         "Corning",
         "Digital & IT Intern - Manufacturing AI/ML",
         "Charlotte, NC",
+        "",
+        ""
+      ],
+      [
+        "Xcel Energy",
+        "Gas & Electric Design Analytics and Process Improvement Intern - MN",
+        "Minneapolis, MN",
         "",
         ""
       ],

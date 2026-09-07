@@ -8310,7 +8310,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 993,
+      "message_id": 1098,
       "chat_id": 8619425244
     },
     "e68123befe96": {
@@ -9041,6 +9041,56 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1086,
+      "chat_id": 8619425244
+    },
+    "70515474e07a": {
+      "company": "Xcel Energy",
+      "role": "Power Generation Analytics Intern",
+      "location": "Henderson, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1093,
+      "chat_id": 8619425244
+    },
+    "713f575a7daf": {
+      "company": "Xcel Energy",
+      "role": "Data Analyst Intern",
+      "location": "Denver, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1094,
+      "chat_id": 8619425244
+    },
+    "5a78558805da": {
+      "company": "Xcel Energy",
+      "role": "Data Science Intern",
+      "location": "Minneapolis, MN Denver, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1095,
+      "chat_id": 8619425244
+    },
+    "7a1ca585f6f2": {
+      "company": "Xcel Energy",
+      "role": "Data Scientist Intern",
+      "location": "Minneapolis, MN Denver, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1096,
+      "chat_id": 8619425244
+    },
+    "fd9b85b2c1d8": {
+      "company": "Tokyo Electron",
+      "role": "Business Intelligence Analyst Intern",
+      "location": "Austin, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1097,
       "chat_id": 8619425244
     }
   },
