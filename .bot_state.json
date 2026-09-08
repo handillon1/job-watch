@@ -7460,7 +7460,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 902,
+      "message_id": 1132,
       "chat_id": 8619425244
     },
     "d60128cea835": {
@@ -7890,7 +7890,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 947,
+      "message_id": 1131,
       "chat_id": 8619425244
     },
     "7d9b9124910d": {
@@ -9191,6 +9191,206 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1110,
+      "chat_id": 8619425244
+    },
+    "1723d35d4e87": {
+      "company": "Eudia",
+      "role": "AI Engineer Intern",
+      "location": "Palo Alto, CA",
+      "term": "Spring 2026, Summer 2026",
+      "apply_url": "https://job-boards.greenhouse.io/eudia/jobs/4020078009?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1111,
+      "chat_id": 8619425244
+    },
+    "e6d8934e1b8b": {
+      "company": "Syntiant",
+      "role": "Machine Learning Intern - KWS/AED",
+      "location": "Redwood City, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://apply.workable.com/syntiant/j/113F994B7B/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1112,
+      "chat_id": 8619425244
+    },
+    "4ec7eb6707a4": {
+      "company": "Flagship Pioneering",
+      "role": "Data Science Co-op - Embedded Science Team",
+      "location": "Cambridge, MA",
+      "term": "Winter 2026",
+      "apply_url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1113,
+      "chat_id": 8619425244
+    },
+    "ea475bee023b": {
+      "company": "Formlabs",
+      "role": "AI Software Intern",
+      "location": "Somerville, MA",
+      "term": "Winter 2027, Spring 2027",
+      "apply_url": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1114,
+      "chat_id": 8619425244
+    },
+    "334034cd4795": {
+      "company": "Dominion Energy",
+      "role": "Electrical Engineer Intern - Operations Analytics",
+      "location": "Glen Allen, VA",
+      "term": "Spring 2028",
+      "apply_url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1115,
+      "chat_id": 8619425244
+    },
+    "85f0d74317b5": {
+      "company": "Booz Allen",
+      "role": "Applied AI Software Development Intern",
+      "location": "McLean, VA",
+      "term": "Spring 2028, Summer 2028",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1116,
+      "chat_id": 8619425244
+    },
+    "e22bf31c8f7c": {
+      "company": "Acxiom",
+      "role": "Data Scientist Intern",
+      "location": "Conway, AR",
+      "term": "Winter 2027",
+      "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1117,
+      "chat_id": 8619425244
+    },
+    "f9525cf1468c": {
+      "company": "Allen Control Systems",
+      "role": "Computer Vision Intern - Machine Learning",
+      "location": "Austin, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1118,
+      "chat_id": 8619425244
+    },
+    "88a53992b589": {
+      "company": "ONE Finance",
+      "role": "AI Research Intern",
+      "location": "Remote in USA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1119,
+      "chat_id": 8619425244
+    },
+    "07dea63fee9e": {
+      "company": "Protective Life",
+      "role": "Business Analytics Intern",
+      "location": "Birmingham, AL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1120,
+      "chat_id": 8619425244
+    },
+    "3d45dd2721b2": {
+      "company": "Vertiv",
+      "role": "Data and Analytics Intern - Summer 2027",
+      "location": "Westerville, OH",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1121,
+      "chat_id": 8619425244
+    },
+    "9cda60d4c25e": {
+      "company": "Spirit AeroSystems",
+      "role": "Data Analytics Intern - Production & Industrial Engineering - Paid",
+      "location": "Wichita, KS",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1122,
+      "chat_id": 8619425244
+    },
+    "39bb9be1a1ab": {
+      "company": "Xcel Energy",
+      "role": "Data Analyst Intern",
+      "location": "Amarillo, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1123,
+      "chat_id": 8619425244
+    },
+    "87b46f2bcf7c": {
+      "company": "U.S. Bank",
+      "role": "Business Analytics Intern",
+      "location": "Minneapolis, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1124,
+      "chat_id": 8619425244
+    },
+    "8ae947d0433e": {
+      "company": "RTX",
+      "role": "Artificial Intelligence / Machine Learning Methods Intern",
+      "location": "East Hartford, CT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1125,
+      "chat_id": 8619425244
+    },
+    "3d49d34f6d57": {
+      "company": "Meijer",
+      "role": "Store Analytics Intern",
+      "location": "Grand Rapids, MI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1126,
+      "chat_id": 8619425244
+    },
+    "dd1076955a82": {
+      "company": "Meijer",
+      "role": "Data Science Intern",
+      "location": "Grand Rapids, MI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1127,
+      "chat_id": 8619425244
+    },
+    "053beccad150": {
+      "company": "Ercot",
+      "role": "IT Intern - Enterprise Data & AI Administration",
+      "location": "Austin, TX Taylor, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1128,
+      "chat_id": 8619425244
+    },
+    "d63a2bea8fb7": {
+      "company": "COUNTRY Financial",
+      "role": "Market Analytics Intern",
+      "location": "Bloomington, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1129,
+      "chat_id": 8619425244
+    },
+    "2934285e7e70": {
+      "company": "BlueCross BlueShield of Nebraska",
+      "role": "Healthcare Reimbursement Analytics Intern - Summer 2027",
+      "location": "Omaha, NE",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1130,
       "chat_id": 8619425244
     }
   },
