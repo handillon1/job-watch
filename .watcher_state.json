@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "8c81e81cac18c2e1911a09316a2542a58c9b794c",
+    "last_sha": "045099109cee56e34d942a46a15332ba3ce52702",
     "rows": [
+      [
+        "OneMain Financial",
+        "Analytics Intern",
+        "Charlotte, NC Wilmington, DE",
+        "Winter 2026",
+        "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Intern_R2608-52225?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Loram",
         "Machine Learning / Artificial Intelligence Intern",
@@ -4645,6 +4652,13 @@
         "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "PSECU",
+        "Data Analyst Intern",
+        "Harrisburg, PA",
+        "Fall 2026",
+        "https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "CALSTART",
         "Data Analysis Intern \ud83c\udf93",
         "Remote in USA",
@@ -5250,13 +5264,6 @@
         "Clyde Companies",
         "Business Intelligence Intern",
         "Orem, UT",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "PSECU",
-        "Data Analyst Intern",
-        "Harrisburg, PA",
         "Fall 2026",
         ""
       ],
@@ -7776,7 +7783,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "8c81e81cac18c2e1911a09316a2542a58c9b794c",
+    "last_sha": "045099109cee56e34d942a46a15332ba3ce52702",
     "rows": [
       [
         "Merck",
@@ -7796,6 +7803,13 @@
         "Merck",
         "Optical Imaging Data Science Intern",
         "Boston, MA",
+        "",
+        ""
+      ],
+      [
+        "Dick's Sporting Goods",
+        "Data Analytics & Engineering Intern",
+        "Pittsburgh, PA",
         "",
         ""
       ],
