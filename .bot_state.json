@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1092,
+      "message_id": 1135,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -9391,6 +9391,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1130,
+      "chat_id": 8619425244
+    },
+    "1818d8c8491e": {
+      "company": "Interstates",
+      "role": "Data Analyst Intern",
+      "location": "Sioux Center, IA Sioux Falls, SD",
+      "term": "Spring 2027",
+      "apply_url": "https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1133,
+      "chat_id": 8619425244
+    },
+    "d22d46bc16ee": {
+      "company": "Equifax",
+      "role": "Data Analytics Intern \ud83c\udf93",
+      "location": "Alpharetta, GA",
+      "term": "Winter 2026",
+      "apply_url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data-Analytics-Intern_J00178975-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1134,
       "chat_id": 8619425244
     }
   },

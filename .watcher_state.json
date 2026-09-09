@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "38fa308f86b1020551bebef3cc54e61a6b2e6dc6",
+    "last_sha": "7206afa2794b1d9d0bda01e6bbe3d0e6908d2bd9",
     "rows": [
+      [
+        "Interstates",
+        "Data Analyst Intern",
+        "Sioux Center, IA Sioux Falls, SD",
+        "Spring 2027",
+        "https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Eudia",
         "AI Engineer Intern",
@@ -3943,6 +3950,13 @@
         "Charlotte, NC Wilmington, DE",
         "Winter 2026",
         "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Intern_R2608-52225?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Equifax",
+        "Data Analytics Intern \ud83c\udf93",
+        "Alpharetta, GA",
+        "Winter 2026",
+        "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data-Analytics-Intern_J00178975-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Booz Allen",
@@ -7828,18 +7842,11 @@
         "Pittsburgh, PA",
         "Spring 2026",
         ""
-      ],
-      [
-        "10x Genomics",
-        "Finance & Data Analytics Intern",
-        "Pleasanton, CA",
-        "Spring 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "38fa308f86b1020551bebef3cc54e61a6b2e6dc6",
+    "last_sha": "7206afa2794b1d9d0bda01e6bbe3d0e6908d2bd9",
     "rows": [
       [
         "Allen Control Systems",
@@ -8027,6 +8034,13 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "AArete",
+        "Business Analytics Intern - Summer 2027",
+        "Chicago, IL",
         "",
         ""
       ],
