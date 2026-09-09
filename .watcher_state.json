@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cb244cb4c9b861d90e68d3c85ec7dacfce23d416",
+    "last_sha": "e0dc727930e64b5bf9277913e4411da19f48ccf2",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -4090,13 +4090,6 @@
         "Cambridge, MA",
         "Winter 2026",
         "https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Microsoft",
-        "Data Science Intern",
-        "Redmond, WA",
-        "Winter 2026",
-        "https://apply.careers.microsoft.com/careers/job/1970393556982897?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -4817,6 +4810,13 @@
         "Data Scientist Intern",
         "Atlanta, GA",
         "Winter 2027",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Microsoft",
+        "Data Science Intern",
+        "Redmond, WA",
+        "Winter 2026",
         ""
       ],
       [
@@ -7846,7 +7846,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cb244cb4c9b861d90e68d3c85ec7dacfce23d416",
+    "last_sha": "e0dc727930e64b5bf9277913e4411da19f48ccf2",
     "rows": [
       [
         "Wells Fargo",
@@ -8808,13 +8808,6 @@
         ""
       ],
       [
-        "Mastercard",
-        "Data Scientist Intern - Summer 2027",
-        "O'Fallon, MO",
-        "",
-        ""
-      ],
-      [
         "Huntington Bancshares",
         "Data and Analytics Intern",
         "4 locationsDetroit, MI Dallas, TX Charlotte, NC Columbus, OH",
@@ -8964,13 +8957,6 @@
       [
         "Brunswick",
         "Power BI/Ops Analytics Co-op",
-        "Fond du Lac, WI",
-        "",
-        ""
-      ],
-      [
-        "Brunswick",
-        "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
         "Fond du Lac, WI",
         "",
         ""
