@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1135,
+      "message_id": 1165,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -9521,6 +9521,96 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1154,
+      "chat_id": 8619425244
+    },
+    "9472fe578349": {
+      "company": "\ud83d\udd25 Tesla",
+      "role": "Machine Learning Engineer Intern - Factory Software",
+      "location": "Fremont, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://www.tesla.com/careers/search/job/282916?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1156,
+      "chat_id": 8619425244
+    },
+    "f5de3fdb3391": {
+      "company": "Smartly.io",
+      "role": "Business Analytics Intern",
+      "location": "Chicago, IL",
+      "term": "Fall 2026",
+      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6186905004?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1157,
+      "chat_id": 8619425244
+    },
+    "383d19f590bf": {
+      "company": "Entegris",
+      "role": "Pricing & Commercial Analytics Co-op",
+      "location": "Bedford, MA",
+      "term": "Spring 2027",
+      "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Pricing---Commercial-Analytics-Co-op_REQ-14511?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1158,
+      "chat_id": 8619425244
+    },
+    "86d4f900d40b": {
+      "company": "Ankura Consulting Group",
+      "role": "Forensic Data & Analytics Intern",
+      "location": "Chicago, IL",
+      "term": "Winter 2026",
+      "apply_url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1159,
+      "chat_id": 8619425244
+    },
+    "c079ce1582e9": {
+      "company": "Ankura Consulting Group",
+      "role": "University Intern - Forensic Data & Analytics",
+      "location": "Washington, DC",
+      "term": "Winter 2026",
+      "apply_url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1160,
+      "chat_id": 8619425244
+    },
+    "85cc34c898d7": {
+      "company": "Barnes & Thornburg",
+      "role": "Information Technology AI Intern",
+      "location": "Indianapolis, IN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1161,
+      "chat_id": 8619425244
+    },
+    "6985249ecfc0": {
+      "company": "Delta Dental of Iowa",
+      "role": "Data Analyst Intern",
+      "location": "Johnston, IA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1162,
+      "chat_id": 8619425244
+    },
+    "8240e6123072": {
+      "company": "Northrop Grumman",
+      "role": "Data Analytics Intern",
+      "location": "Roy, UT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1163,
+      "chat_id": 8619425244
+    },
+    "e9867218f5ea": {
+      "company": "Kensho",
+      "role": "Machine Learning Engineer Intern",
+      "location": "Cambridge, MA NYC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1164,
       "chat_id": 8619425244
     }
   },

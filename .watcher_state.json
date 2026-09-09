@@ -3893,8 +3893,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bcad3d7f42c619c7a1b1d72e0ef3321f2c11550d",
+    "last_sha": "f85f66e5987d1aae093af437b8075eaf6f411e5f",
     "rows": [
+      [
+        "\ud83d\udd25 Tesla",
+        "Machine Learning Engineer Intern - Factory Software",
+        "Fremont, CA",
+        "Spring 2027",
+        "https://www.tesla.com/careers/search/job/282916?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Smartly.io",
+        "Business Analytics Intern",
+        "Chicago, IL",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/smartlyio/jobs/6186905004?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Robert Bosch Venture Capital",
         "Data Analytics Intern - Engineering & SAP Operations",
@@ -3922,6 +3936,27 @@
         "San Jose, CA",
         "Winter 2026",
         "https://lifeattiktok.com/search/7681633701767612677?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Entegris",
+        "Pricing & Commercial Analytics Co-op",
+        "Bedford, MA",
+        "Spring 2027",
+        "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Pricing---Commercial-Analytics-Co-op_REQ-14511?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Ankura Consulting Group",
+        "Forensic Data & Analytics Intern",
+        "Chicago, IL",
+        "Winter 2026",
+        "https://ankura.wd5.myworkdayjobs.com/ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Ankura Consulting Group",
+        "University Intern - Forensic Data & Analytics",
+        "Washington, DC",
+        "Winter 2026",
+        "https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Eudia",
@@ -7835,33 +7870,26 @@
         "San Mateo, CA",
         "Spring 2026",
         ""
-      ],
-      [
-        "PTC",
-        "AI Research & Development Intern",
-        "San Ramon, CA",
-        "Spring 2026",
-        ""
-      ],
-      [
-        "Paccar",
-        "Summer 2026 Intern - Warranty Data Analyst",
-        "Kirkland, WA",
-        "Spring 2026",
-        ""
-      ],
-      [
-        "\ud83d\udd25 LinkedIn",
-        "Apprentice Engineer - Artificial Intelligence / Machine Learning",
-        "Mountain View, CA",
-        "Spring 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bcad3d7f42c619c7a1b1d72e0ef3321f2c11550d",
+    "last_sha": "f85f66e5987d1aae093af437b8075eaf6f411e5f",
     "rows": [
+      [
+        "Barnes & Thornburg",
+        "Information Technology AI Intern",
+        "Indianapolis, IN",
+        "",
+        ""
+      ],
+      [
+        "Delta Dental of Iowa",
+        "Data Analyst Intern",
+        "Johnston, IA",
+        "",
+        ""
+      ],
       [
         "Peraton",
         "Data Science Intern",
@@ -7892,6 +7920,20 @@
       ],
       [
         "S&P Global",
+        "Machine Learning Engineer Intern",
+        "Cambridge, MA NYC",
+        "",
+        ""
+      ],
+      [
+        "Northrop Grumman",
+        "Data Analytics Intern",
+        "Roy, UT",
+        "",
+        ""
+      ],
+      [
+        "Kensho",
         "Machine Learning Engineer Intern",
         "Cambridge, MA NYC",
         "",
@@ -8090,6 +8132,13 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "AArete",
+        "Business Analytics Intern - Summer 2027",
+        "Chicago, IL",
         "",
         ""
       ],
