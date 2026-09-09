@@ -6250,7 +6250,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 796,
+      "message_id": 1147,
       "chat_id": 8619425244
     },
     "2e95d965dfc5": {
@@ -9431,6 +9431,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1143,
+      "chat_id": 8619425244
+    },
+    "76f49434e254": {
+      "company": "Peraton",
+      "role": "Data Science Intern",
+      "location": "Blacksburg, VA Herndon, VA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1145,
+      "chat_id": 8619425244
+    },
+    "1baee0591561": {
+      "company": "Verizon Communications",
+      "role": "AI/ML Engineering Intern - Consumer Group",
+      "location": "Basking Ridge, Bernards, NJ",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1146,
       "chat_id": 8619425244
     }
   },
