@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b9822f953ad162152f33910cb0591f51a9f48223",
+    "last_sha": "bcad3d7f42c619c7a1b1d72e0ef3321f2c11550d",
     "rows": [
       [
         "Robert Bosch Venture Capital",
@@ -7860,7 +7860,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b9822f953ad162152f33910cb0591f51a9f48223",
+    "last_sha": "bcad3d7f42c619c7a1b1d72e0ef3321f2c11550d",
     "rows": [
       [
         "Peraton",
@@ -7894,6 +7894,20 @@
         "S&P Global",
         "Machine Learning Engineer Intern",
         "Cambridge, MA NYC",
+        "",
+        ""
+      ],
+      [
+        "Cigna Group",
+        "AI Engineer Intern",
+        "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "Cigna Group",
+        "Data & Analytics Engineering Intern - Technology Development Program",
+        "4 locationsBloomington, MN Morris Plains, NJ St. Louis, MO Bloomfield, CT",
         "",
         ""
       ],
@@ -8076,13 +8090,6 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
-        "",
-        ""
-      ],
-      [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
         "",
         ""
       ],
@@ -8888,6 +8895,13 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
+        "",
+        ""
+      ],
+      [
+        "Marsh",
+        "Summer Analyst - Data and Analytics",
+        "Raleigh, NC",
         "",
         ""
       ],

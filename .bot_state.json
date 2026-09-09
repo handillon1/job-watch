@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1102,
+      "message_id": 1155,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -9501,6 +9501,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1152,
+      "chat_id": 8619425244
+    },
+    "bda52881ad93": {
+      "company": "Cigna Group",
+      "role": "AI Engineer Intern",
+      "location": "Austin, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1153,
+      "chat_id": 8619425244
+    },
+    "f9844c2a3332": {
+      "company": "Cigna Group",
+      "role": "Data & Analytics Engineering Intern - Technology Development Program",
+      "location": "4 locationsBloomington, MN Morris Plains, NJ St. Louis, MO Bloomfield, CT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1154,
       "chat_id": 8619425244
     }
   },
