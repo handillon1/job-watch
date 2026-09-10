@@ -3893,14 +3893,35 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "99364d2dee38fcffa86e7fc0f237448328e6dc75",
+    "last_sha": "fb984d74cce6bf4d48d14b2e02e424e2047d6cb1",
     "rows": [
       [
-        "CIM Group",
+        "SCOR",
         "Data Science Intern",
-        "LA",
+        "Charlotte, NC",
         "Winter 2026",
-        "https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply?utm_source=Simplify&ref=Simplify"
+        "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Dominion Energy",
+        "Business Intelligence Analyst Intern - Design COE",
+        "Richmond, VA",
+        "Winter 2026",
+        "https://careers.dominionenergy.com/job/RICHMOND-Intern-Associate-Business-Intelligence-Analyst-(Design-COE)-VA-23219/1428771400/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "AI Software Engineer Intern - Artificial Intelligence \ud83c\udf93",
+        "Hillsboro, OR Phoenix, AZ",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Gables Residential",
+        "Business Analytics Intern",
+        "Atlanta, GA",
+        "Winter 2026",
+        "https://gables.wd5.myworkdayjobs.com/Gables_Careers/job/Atlanta-Corporate---Atlanta-GA/Business-Analytics-Intern_2026-11903?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -4811,6 +4832,13 @@
         "Atlanta, GA",
         "Fall 2026",
         "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CIM Group",
+        "Data Science Intern",
+        "LA",
+        "Winter 2026",
+        ""
       ],
       [
         "Interstates",
@@ -7860,12 +7888,33 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "99364d2dee38fcffa86e7fc0f237448328e6dc75",
+    "last_sha": "fb984d74cce6bf4d48d14b2e02e424e2047d6cb1",
     "rows": [
       [
         "Constellation Energy",
         "Business Performance & Analytics Intern",
         "Houston, TX",
+        "",
+        ""
+      ],
+      [
+        "Walmart",
+        "Data Science Intern 3",
+        "Bentonville, AR",
+        "",
+        ""
+      ],
+      [
+        "Humana",
+        "Analytics Intern \ud83c\udf93",
+        "6 locationsLouisville, KY Nashville, TN Chicago, IL Fort Lauderdale, FL Arlington County, Arlington, VA NYC",
+        "",
+        ""
+      ],
+      [
+        "Danaher",
+        "Data Analytics Intern",
+        "Logan, UT",
         "",
         ""
       ],
@@ -8125,13 +8174,6 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
-        "",
-        ""
-      ],
-      [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
         "",
         ""
       ],
@@ -8937,13 +8979,6 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
-        "",
-        ""
-      ],
-      [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
         "",
         ""
       ],
