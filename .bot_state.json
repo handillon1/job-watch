@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1165,
+      "message_id": 1168,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -9611,6 +9611,26 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1164,
+      "chat_id": 8619425244
+    },
+    "c379835866c4": {
+      "company": "CIM Group",
+      "role": "Data Science Intern",
+      "location": "LA",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1166,
+      "chat_id": 8619425244
+    },
+    "a199aee31ec0": {
+      "company": "The Aerospace Corporation",
+      "role": "Machine Learning Engineering Intern \ud83c\udf93",
+      "location": "Colorado Springs, CO El Segundo, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1167,
       "chat_id": 8619425244
     }
   },
