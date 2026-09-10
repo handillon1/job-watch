@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5d26371f29b9109f2a1c2d287a8fcf0548c38d31",
+    "last_sha": "da51156bf04756e0cb225879af8e517da60cae00",
     "rows": [
       [
         "CIM Group",
@@ -7874,7 +7874,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5d26371f29b9109f2a1c2d287a8fcf0548c38d31",
+    "last_sha": "da51156bf04756e0cb225879af8e517da60cae00",
     "rows": [
       [
         "Constellation Energy",
@@ -9273,6 +9273,13 @@
         "Regions Bank",
         "Technology, Operations, Digital, and Data Analytics Intern",
         "Hoover, AL",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 NVIDIA",
+        "Deep Learning Computer Architecture Intern",
+        "Santa Clara, CA",
         "",
         ""
       ],
