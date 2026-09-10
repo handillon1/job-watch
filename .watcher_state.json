@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "eede8718a5ac4302f8022167fbe5cd7e99be0c14",
+    "last_sha": "f57a57cf6f2b875f27e5ae6c748e608cb74bf6c0",
     "rows": [
       [
         "CIM Group",
@@ -4195,13 +4195,6 @@
         "Marshalltown, IA",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Emerson Electric",
-        "Data Science Engineering Intern",
-        "Boulder, CO",
-        "Winter 2026",
-        "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Emerson Electric",
@@ -4865,6 +4858,13 @@
         "ZS",
         "Decision Analytics Associate Intern - University Students",
         "10 locationsBoston, MA South SF Philadelphia, PA Thousand Oaks, CA Chicago, IL Princeton, NJ NYC Bellevue, WA Evanston, IL San Diego, CA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Emerson Electric",
+        "Data Science Engineering Intern",
+        "Boulder, CO",
         "Winter 2026",
         ""
       ],
@@ -7860,7 +7860,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "eede8718a5ac4302f8022167fbe5cd7e99be0c14",
+    "last_sha": "f57a57cf6f2b875f27e5ae6c748e608cb74bf6c0",
     "rows": [
       [
         "Constellation Energy",
