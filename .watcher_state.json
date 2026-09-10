@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "43f3ce902ab2829b2c50cac1394f3f2a41d820c0",
+    "last_sha": "d61b655f2be5a6241794dae9900994b0d33d21bc",
     "rows": [
       [
         "CIM Group",
@@ -4174,13 +4174,6 @@
         "Cincinnati, OH",
         "Winter 2026",
         "https://careers-westernsouthern.icims.com/jobs/25211/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "ZS",
-        "Decision Analytics Associate Intern - University Students",
-        "10 locationsBoston, MA South SF Philadelphia, PA Thousand Oaks, CA Chicago, IL Princeton, NJ NYC Bellevue, WA Evanston, IL San Diego, CA",
-        "Winter 2026",
-        "https://jobs.zs.com/jobs/63439?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "ZS",
@@ -4873,6 +4866,13 @@
         "Data Analytics Apprentice - February 2027 Start",
         "4 locationsLA Chicago, IL NYC Atlanta, GA",
         "Winter 2027",
+        ""
+      ],
+      [
+        "ZS",
+        "Decision Analytics Associate Intern - University Students",
+        "10 locationsBoston, MA South SF Philadelphia, PA Thousand Oaks, CA Chicago, IL Princeton, NJ NYC Bellevue, WA Evanston, IL San Diego, CA",
+        "Winter 2026",
         ""
       ],
       [
@@ -7874,7 +7874,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "43f3ce902ab2829b2c50cac1394f3f2a41d820c0",
+    "last_sha": "d61b655f2be5a6241794dae9900994b0d33d21bc",
     "rows": [
       [
         "Constellation Energy",
@@ -8461,13 +8461,6 @@
         "John Deere",
         "Data & Analytics Intern",
         "Moline, IL",
-        "",
-        ""
-      ],
-      [
-        "United Airlines",
-        "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-        "Arlington Heights, IL",
         "",
         ""
       ],
