@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1155,
+      "message_id": 1187,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1168,
+      "message_id": 1186,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -9711,6 +9711,66 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1179,
+      "chat_id": 8619425244
+    },
+    "4f7b2e072135": {
+      "company": "Epiroc",
+      "role": "Data Analyst Intern - Digital Solutions Division",
+      "location": "Broomfield, CO",
+      "term": "Summer 2026, Spring 2027",
+      "apply_url": "https://www.careerprofile.epiroc.com/job/Broomfield-Intern-Data-Analyst-CO-80020/1435969833/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1180,
+      "chat_id": 8619425244
+    },
+    "369e5604afb1": {
+      "company": "Ameriprise Financial",
+      "role": "Data Analytics & AI Intern",
+      "location": "Minneapolis, MN",
+      "term": "Winter 2026",
+      "apply_url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1181,
+      "chat_id": 8619425244
+    },
+    "b647fa0ba49e": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "AI & Data Science Intern - Analytic Capabilities",
+      "location": "Laurel, MD",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1182,
+      "chat_id": 8619425244
+    },
+    "594f849914e1": {
+      "company": "State Farm",
+      "role": "Data Science Intern - Magnet Program - Online MS Analytics \ud83c\udf93",
+      "location": "Athens, GA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1183,
+      "chat_id": 8619425244
+    },
+    "714c80493e06": {
+      "company": "Securian Financial Group",
+      "role": "Data Science and Advanced Analytics Intern - Multiple Teams",
+      "location": "St Paul, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1184,
+      "chat_id": 8619425244
+    },
+    "23a41af31721": {
+      "company": "Ketjen",
+      "role": "Data Science Intern",
+      "location": "Houston, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1185,
       "chat_id": 8619425244
     }
   },
