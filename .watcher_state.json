@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f57a57cf6f2b875f27e5ae6c748e608cb74bf6c0",
+    "last_sha": "d193011e843cf74050e6635f259cda3011191dd6",
     "rows": [
       [
         "CIM Group",
@@ -4155,13 +4155,6 @@
         "https://apply.careers.microsoft.com/careers/job/1970393556982928?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Acumatica",
-        "AI & Automation Intern - Office of the CFO",
-        "Bellevue, WA",
-        "Fall 2026",
-        "https://jobs.smartrecruiters.com/Acumatica/744000146749696?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "United Airlines",
         "Operations Strategy & Analytics Intern",
         "Chicago, IL",
@@ -4195,6 +4188,13 @@
         "Marshalltown, IA",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Emerson Electric",
+        "Data Science Engineering Intern",
+        "Boulder, CO",
+        "Winter 2026",
+        "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Emerson Electric",
@@ -4848,6 +4848,13 @@
         ""
       ],
       [
+        "Acumatica",
+        "AI & Automation Intern - Office of the CFO",
+        "Bellevue, WA",
+        "Fall 2026",
+        ""
+      ],
+      [
         "\ud83d\udd25 Google",
         "Data Analytics Apprentice - February 2027 Start",
         "4 locationsLA Chicago, IL NYC Atlanta, GA",
@@ -4858,13 +4865,6 @@
         "ZS",
         "Decision Analytics Associate Intern - University Students",
         "10 locationsBoston, MA South SF Philadelphia, PA Thousand Oaks, CA Chicago, IL Princeton, NJ NYC Bellevue, WA Evanston, IL San Diego, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Emerson Electric",
-        "Data Science Engineering Intern",
-        "Boulder, CO",
         "Winter 2026",
         ""
       ],
@@ -7860,7 +7860,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f57a57cf6f2b875f27e5ae6c748e608cb74bf6c0",
+    "last_sha": "d193011e843cf74050e6635f259cda3011191dd6",
     "rows": [
       [
         "Constellation Energy",
