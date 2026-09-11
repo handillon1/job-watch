@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d484d4270dab357349a30d2f9f0e5c1878c925cf",
+    "last_sha": "22a23c73da04219ed2f9cb30de9faca445f746af",
     "rows": [
+      [
+        "\ud83d\udd25 Tesla",
+        "Data Engineer Intern - Fleet Analytics",
+        "Palo Alto, CA",
+        "Winter 2027, Spring 2027",
+        "https://www.tesla.com/careers/search/job/283138?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Garmin",
         "Data Scientist Intern",
@@ -3957,6 +3964,13 @@
         "Salt Lake City, UT",
         "Winter 2027",
         "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Amcor",
+        "Business Intelligence Intern",
+        "Oshkosh, WI",
+        "Fall 2026",
+        "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Internship_REQ_95255?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Epiroc",
@@ -7958,8 +7972,43 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d484d4270dab357349a30d2f9f0e5c1878c925cf",
+    "last_sha": "22a23c73da04219ed2f9cb30de9faca445f746af",
     "rows": [
+      [
+        "Perpay",
+        "Data Science Intern \ud83c\udf93",
+        "Philadelphia, PA",
+        "",
+        ""
+      ],
+      [
+        "Veeam Software",
+        "Customer Care AI Analyst Intern - Summer 2027",
+        "Columbus, OH",
+        "",
+        ""
+      ],
+      [
+        "Veeam Software",
+        "Machine Learning Intern - AI \ud83c\udf93",
+        "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 AMD",
+        "AI Systems & GPU Performance Engineer Intern \ud83c\udf93",
+        "San Jose, CA Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 AMD",
+        "Machine Learning System Engineering Intern/Co-op \ud83c\udf93",
+        "San Jose, CA Santa Clara, CA",
+        "",
+        ""
+      ],
       [
         "The Friedkin Group",
         "IT Data Analytics Intern - Business Systems & AI",
@@ -8017,9 +8066,72 @@
         ""
       ],
       [
+        "Oshkosh",
+        "AI Engineer Intern",
+        "Oshkosh, WI",
+        "",
+        ""
+      ],
+      [
+        "Merck",
+        "Quality Assurance Research Clinical Quality, Analytics & AI Co-op",
+        "Upper Gwynedd Township, PA Rahway, NJ",
+        "",
+        ""
+      ],
+      [
+        "Merck",
+        "Data Analytics and Insights Intern",
+        "Rahway, NJ",
+        "",
+        ""
+      ],
+      [
+        "LabCorp",
+        "Financial Analytics & Technology Intern - Financial Analytics Team",
+        "Remote in USA",
+        "",
+        ""
+      ],
+      [
         "Genworth Financial",
         "Data Analytics Intern - Summer 2027",
         "Richmond, VA",
+        "",
+        ""
+      ],
+      [
+        "Baird",
+        "IT Data & Analytics Intern",
+        "Madison, WI Milwaukee, WI",
+        "",
+        ""
+      ],
+      [
+        "Amgen",
+        "Machine Learning Engineer Intern \ud83c\udf93",
+        "Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Amgen",
+        "Machine Learning Engineer Intern - Technology & Medical Organizations",
+        "Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Amgen",
+        "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
+        "Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Amgen",
+        "Data Scientist Intern",
+        "Remote in USA",
         "",
         ""
       ],
