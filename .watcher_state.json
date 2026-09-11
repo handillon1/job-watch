@@ -3893,14 +3893,70 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0ece53897b031e15e08888f74e0adbb8bc1643f9",
+    "last_sha": "d484d4270dab357349a30d2f9f0e5c1878c925cf",
     "rows": [
+      [
+        "Garmin",
+        "Data Scientist Intern",
+        "Olathe, KS",
+        "Winter 2026",
+        "https://careers.garmin.com/jobs/19926?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "TD Bank",
         "Data Analyst Co-op - Global Technology & Solutions",
         "Mt Laurel Township, NJ",
         "Winter 2027",
         "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "KBR",
+        "Data Science Intern \ud83c\udf93",
+        "Chicago, IL Mountain View, CA",
+        "Winter 2026",
+        "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Data-Science-Intern_R2129795?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Advanced Data Analytics and Insights Co-op \ud83c\udf93",
+        "Boston, MA",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Advanced-Data-Analytics-and-Insights_2135232?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Machine Learning Co-op - Graph Technology Team \ud83c\udf93",
+        "Boston, MA",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Data Scientist Co-op",
+        "Boston, MA Durham, NC",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Data Analyst Co-op",
+        "Boston, MA Westlake, TX",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Risk Data Analyst Co-op",
+        "Boston, MA Smithfield, RI Merrimack, NH",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Risk-Data-Analyst_2135234?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cone Health",
+        "Healthcare Innovation Intern - AI",
+        "Salt Lake City, UT",
+        "Winter 2027",
+        "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Epiroc",
@@ -4617,6 +4673,13 @@
         "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "CCC Intelligent Solutions",
+        "Data Science Intern - R&D",
+        "Chicago, IL",
+        "Fall 2026",
+        "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Commercial Metals",
         "AI Intern",
         "Irving, TX",
@@ -5278,13 +5341,6 @@
         "Warner Bros.",
         "Research & Analytics Internships - Multiple Teams",
         "Atlanta, GA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "CCC Intelligent Solutions",
-        "Data Science Intern - R&D",
-        "Chicago, IL",
         "Fall 2026",
         ""
       ],
@@ -7902,8 +7958,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0ece53897b031e15e08888f74e0adbb8bc1643f9",
+    "last_sha": "d484d4270dab357349a30d2f9f0e5c1878c925cf",
     "rows": [
+      [
+        "The Friedkin Group",
+        "IT Data Analytics Intern - Business Systems & AI",
+        "Houston, TX",
+        "",
+        ""
+      ],
       [
         "Citizens Financial Group",
         "Data Science Intern - Multiple Teams",
@@ -7950,6 +8013,13 @@
         "The Toro Company",
         "Enterprise Analytics Intern",
         "Bloomington, MN",
+        "",
+        ""
+      ],
+      [
+        "Genworth Financial",
+        "Data Analytics Intern - Summer 2027",
+        "Richmond, VA",
         "",
         ""
       ],
