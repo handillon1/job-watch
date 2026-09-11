@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "95a19d78120e3b823e859989dfff601da5a0543f",
+    "last_sha": "0fde82a77a495d556601ec2f9e048adf0d255c13",
     "rows": [
       [
         "Epiroc",
@@ -4841,13 +4841,6 @@
         "https://www.careers.zurich.com/job/Anoka-Bachelor"
       ],
       [
-        "Amcor",
-        "AI Innovation Engineer Intern",
-        "Atlanta, GA",
-        "Fall 2026",
-        "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "CIM Group",
         "Data Science Intern",
         "LA",
@@ -5769,6 +5762,13 @@
         "AI Engineer Intern",
         "Scottsdale, AZ",
         "Winter 2026, Spring 2026",
+        ""
+      ],
+      [
+        "Amcor",
+        "AI Innovation Engineer Intern",
+        "Atlanta, GA",
+        "Fall 2026",
         ""
       ],
       [
@@ -7891,18 +7891,11 @@
         "Chantilly, VA",
         "Spring 2026",
         ""
-      ],
-      [
-        "Audax Group",
-        "AI Engineer \u2013 Business Solutions Co-Op",
-        "Boston, MA",
-        "Summer 2026, Fall 2026, Winter 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "95a19d78120e3b823e859989dfff601da5a0543f",
+    "last_sha": "0fde82a77a495d556601ec2f9e048adf0d255c13",
     "rows": [
       [
         "Johns Hopkins Applied Physics Laboratory",
