@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "066c3ce07ba443358a70e1c50131c5a28c2a13d7",
+    "last_sha": "4683acdd3b86c757b99ae4a4320157f97456aee4",
     "rows": [
       [
         "Cooper University Health Care",
@@ -4855,13 +4855,6 @@
         "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Pennsylvania State University",
-        "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "State College, PA",
-        "Fall 2026, Spring 2027",
-        "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "GenMD",
         "AI Research Scientist Intern \ud83c\udf93",
         "Palo Alto, CA",
@@ -5657,6 +5650,13 @@
         "AI Engineer Intern",
         "Frisco, TX",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Pennsylvania State University",
+        "AI/ML Research Support Intern - Visualization and Decision Support Division",
+        "State College, PA",
+        "Fall 2026, Spring 2027",
         ""
       ],
       [
@@ -7986,7 +7986,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "066c3ce07ba443358a70e1c50131c5a28c2a13d7",
+    "last_sha": "4683acdd3b86c757b99ae4a4320157f97456aee4",
     "rows": [
       [
         "Perpay",
@@ -8608,13 +8608,6 @@
         "Shure",
         "Web Analytics Intern",
         "Niles, IL",
-        "",
-        ""
-      ],
-      [
-        "Walmart",
-        "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
-        "Sunnyvale, CA",
         "",
         ""
       ],
