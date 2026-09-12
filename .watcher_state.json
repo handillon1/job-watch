@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "33ef1fcff0d964012de6f2e2cdd9f6aea1ba777c",
+    "last_sha": "15840b06493ca323d4439ac54281fdf8633511b8",
     "rows": [
       [
         "SCOR",
@@ -7975,25 +7975,11 @@
         "Marlborough, MA",
         "Spring 2026",
         ""
-      ],
-      [
-        "Intermountain Healthcare",
-        "Analytics Intern",
-        "Murray, UT",
-        "Spring 2026",
-        ""
-      ],
-      [
-        "Paccar",
-        "Data Analyst Intern Fall 2026",
-        "Columbus, MS",
-        "Fall 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "33ef1fcff0d964012de6f2e2cdd9f6aea1ba777c",
+    "last_sha": "15840b06493ca323d4439ac54281fdf8633511b8",
     "rows": [
       [
         "Perpay",
@@ -8104,6 +8090,13 @@
         "Merck",
         "Data Analytics and Insights Intern",
         "Rahway, NJ",
+        "",
+        ""
+      ],
+      [
+        "Leidos",
+        "Artificial Intelligence/Machine Learning Intern",
+        "Huntsville, AL",
         "",
         ""
       ],
