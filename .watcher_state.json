@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "1b87ff21c28deb10959556db80c8479e065e0993",
+    "last_sha": "f30e5aaeae8593be57ce46a43879bac727554ee3",
     "rows": [
       [
         "Reply",
@@ -7972,8 +7972,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "1b87ff21c28deb10959556db80c8479e065e0993",
+    "last_sha": "f30e5aaeae8593be57ce46a43879bac727554ee3",
     "rows": [
+      [
+        "Intuit",
+        "AI Scientist Intern",
+        "4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA",
+        "",
+        ""
+      ],
+      [
+        "Intuit",
+        "AI Research Intern \ud83c\udf93",
+        "Mountain View, CA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 Google",
         "Data Scientist Intern - Product \ud83c\udf93",
