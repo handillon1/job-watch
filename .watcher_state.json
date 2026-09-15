@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d2248d25c201994f17e7b0b4eb20a939121f199f",
+    "last_sha": "85795e46dae1c79681e9c22ad340172b1955e59c",
     "rows": [
+      [
+        "Cook Group",
+        "AI and Data Solutions Intern",
+        "West Lafayette, IN",
+        "Fall 2026",
+        "https://americas-cookmedical.icims.com/jobs/19270/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "HF Sinclair",
         "Engineering Analytics Intern",
@@ -8042,7 +8049,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d2248d25c201994f17e7b0b4eb20a939121f199f",
+    "last_sha": "85795e46dae1c79681e9c22ad340172b1955e59c",
     "rows": [
       [
         "HF Sinclair",
@@ -8059,9 +8066,30 @@
         ""
       ],
       [
+        "The Toro Company",
+        "ISC Analytics Intern",
+        "Bloomington, MN",
+        "",
+        ""
+      ],
+      [
         "QTS",
         "Tableau Analytics and Business Intelligence Intern",
         "Overland Park, KS",
+        "",
+        ""
+      ],
+      [
+        "LexisNexis Legal & Professional",
+        "Data Science Intern",
+        "Raleigh, NC",
+        "",
+        ""
+      ],
+      [
+        "Altar'd State",
+        "Store Operations Data Analyst Intern",
+        "Knoxville, TN",
         "",
         ""
       ],
@@ -8181,13 +8209,6 @@
         "Genworth Financial",
         "Commercial Analytics and Optimization Team Intern",
         "Raleigh, NC",
-        "",
-        ""
-      ],
-      [
-        "General Motors",
-        "Race Strategy & Analytics Intern - IndyCar",
-        "Concord, NC",
         "",
         ""
       ],
@@ -8692,13 +8713,6 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
-        "",
-        ""
-      ],
-      [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
         "",
         ""
       ],
@@ -9497,13 +9511,6 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
-        "",
-        ""
-      ],
-      [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
         "",
         ""
       ],
