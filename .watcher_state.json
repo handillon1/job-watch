@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0b2859def23dea0abc39684205c2c4e5e5aef93d",
+    "last_sha": "82fc76ec7b088b47ee942a34353f761248bf3b64",
     "rows": [
       [
         "VersaDesk",
@@ -8059,18 +8059,11 @@
         "Celebration, FL",
         "Summer 2026, Fall 2026",
         ""
-      ],
-      [
-        "ConnectPrep",
-        "Data Analyst Internship",
-        "Remote in USA Boston, MA",
-        "Spring 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0b2859def23dea0abc39684205c2c4e5e5aef93d",
+    "last_sha": "82fc76ec7b088b47ee942a34353f761248bf3b64",
     "rows": [
       [
         "APEX Analytix",
@@ -8083,6 +8076,13 @@
         "APEX Analytix",
         "Data Analyst Intern - Summer 2027",
         "Greensboro, NC",
+        "",
+        ""
+      ],
+      [
+        "Elire",
+        "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+        "Remote in USA Minneapolis, MN",
         "",
         ""
       ],
@@ -8125,6 +8125,20 @@
         "QTS",
         "Tableau Analytics and Business Intelligence Intern",
         "Overland Park, KS",
+        "",
+        ""
+      ],
+      [
+        "Q2",
+        "Data Science Intern",
+        "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "Q2",
+        "Machine Learning Intern",
+        "Austin, TX",
         "",
         ""
       ],
