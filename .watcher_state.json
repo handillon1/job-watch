@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "85795e46dae1c79681e9c22ad340172b1955e59c",
+    "last_sha": "0b2859def23dea0abc39684205c2c4e5e5aef93d",
     "rows": [
+      [
+        "VersaDesk",
+        "Data Analyst Intern",
+        "LA",
+        "Winter 2026",
+        "https://versa.applytojob.com/apply/0Au1NyF4gb/Data-Analyst-Intern?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Cook Group",
         "AI and Data Solutions Intern",
@@ -3922,6 +3929,20 @@
         "Austin, TX",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009195?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 NVIDIA",
+        "Generative AI Research Intern - Fundamental Generative AI \ud83c\udf93",
+        "Santa Clara, CA",
+        "Winter 2026",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Baxter International",
+        "Associate Data Scientist Co-op \ud83c\udf93",
+        "Skaneateles, NY",
+        "Winter 2026",
+        "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Avis Budget Group",
@@ -4503,6 +4524,20 @@
         "Evendale, OH Atlanta, GA",
         "Spring 2027",
         "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Dairyland Power Cooperative",
+        "Energy Data Science Intern",
+        "La Crosse, WI",
+        "Winter 2026",
+        "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Science_JR101053?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Dairyland Power Cooperative",
+        "Energy Data Analyst Intern",
+        "La Crosse, WI",
+        "Winter 2026",
+        "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Qualified Health",
@@ -5118,20 +5153,6 @@
         "Analytical Science Co-op - Analytical Science R&D",
         "Auburn, MI Midland, MI",
         "Fall 2026",
-        ""
-      ],
-      [
-        "Dairyland Power Cooperative",
-        "Energy Data Science Intern",
-        "La Crosse, WI",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Dairyland Power Cooperative",
-        "Energy Data Analyst Intern",
-        "La Crosse, WI",
-        "Winter 2026",
         ""
       ],
       [
@@ -8049,8 +8070,36 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "85795e46dae1c79681e9c22ad340172b1955e59c",
+    "last_sha": "0b2859def23dea0abc39684205c2c4e5e5aef93d",
     "rows": [
+      [
+        "APEX Analytix",
+        "Data Science Intern",
+        "Greensboro, NC",
+        "",
+        ""
+      ],
+      [
+        "APEX Analytix",
+        "Data Analyst Intern - Summer 2027",
+        "Greensboro, NC",
+        "",
+        ""
+      ],
+      [
+        "Alliance Laundry Systems",
+        "Data & Analytics Intern",
+        "Ripon, WI",
+        "",
+        ""
+      ],
+      [
+        "National Information Solutions Cooperative",
+        "Software Development Intern - AI Development",
+        "Lake St Louis, MO",
+        "",
+        ""
+      ],
       [
         "HF Sinclair",
         "Reporting & Analytics Intern",
@@ -8083,6 +8132,13 @@
         "LexisNexis Legal & Professional",
         "Data Science Intern",
         "Raleigh, NC",
+        "",
+        ""
+      ],
+      [
+        "AspenTech",
+        "Data Science Intern \ud83c\udf93",
+        "Bedford, MA",
         "",
         ""
       ],
@@ -8209,6 +8265,13 @@
         "Genworth Financial",
         "Commercial Analytics and Optimization Team Intern",
         "Raleigh, NC",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
         "",
         ""
       ],
@@ -8713,6 +8776,13 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "AArete",
+        "Business Analytics Intern - Summer 2027",
+        "Chicago, IL",
         "",
         ""
       ],
@@ -9511,6 +9581,13 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
+        "",
+        ""
+      ],
+      [
+        "Marsh",
+        "Summer Analyst - Data and Analytics",
+        "Raleigh, NC",
         "",
         ""
       ],

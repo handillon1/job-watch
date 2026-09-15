@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1294,
+      "message_id": 1309,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1293,
+      "message_id": 1308,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1292,
+      "message_id": 1307,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -10621,6 +10621,86 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1298,
+      "chat_id": 8619425244
+    },
+    "7a32e55919a7": {
+      "company": "VersaDesk",
+      "role": "Data Analyst Intern",
+      "location": "LA",
+      "term": "Winter 2026",
+      "apply_url": "https://versa.applytojob.com/apply/0Au1NyF4gb/Data-Analyst-Intern?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1299,
+      "chat_id": 8619425244
+    },
+    "504adef7958e": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "role": "Generative AI Research Intern - Fundamental Generative AI \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1300,
+      "chat_id": 8619425244
+    },
+    "a0bb0e4b2679": {
+      "company": "Baxter International",
+      "role": "Associate Data Scientist Co-op \ud83c\udf93",
+      "location": "Skaneateles, NY",
+      "term": "Winter 2026",
+      "apply_url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1301,
+      "chat_id": 8619425244
+    },
+    "bcde39a38f24": {
+      "company": "APEX Analytix",
+      "role": "Data Science Intern",
+      "location": "Greensboro, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1302,
+      "chat_id": 8619425244
+    },
+    "f0c447a1cf6e": {
+      "company": "APEX Analytix",
+      "role": "Data Analyst Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1303,
+      "chat_id": 8619425244
+    },
+    "a40ee13da4dc": {
+      "company": "Alliance Laundry Systems",
+      "role": "Data & Analytics Intern",
+      "location": "Ripon, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1304,
+      "chat_id": 8619425244
+    },
+    "215ed830d9a3": {
+      "company": "National Information Solutions Cooperative",
+      "role": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1305,
+      "chat_id": 8619425244
+    },
+    "f6a041048a9f": {
+      "company": "AspenTech",
+      "role": "Data Science Intern \ud83c\udf93",
+      "location": "Bedford, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1306,
       "chat_id": 8619425244
     }
   },
