@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ed90ee07dd7033f4302daecf1d71b98486c10945",
+    "last_sha": "413582e5f7906195d7de92fbf61acb42b071b00f",
     "rows": [
       [
         "VersaDesk",
@@ -8063,8 +8063,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ed90ee07dd7033f4302daecf1d71b98486c10945",
+    "last_sha": "413582e5f7906195d7de92fbf61acb42b071b00f",
     "rows": [
+      [
+        "Lawrence Livermore National Laboratory (LLNL)",
+        "Data Science Undergraduate Student Intern - Summer 2027",
+        "Livermore, CA",
+        "",
+        ""
+      ],
       [
         "APEX Analytix",
         "Data Science Intern",
@@ -8139,6 +8146,13 @@
         "Q2",
         "Machine Learning Intern",
         "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "NJM Insurance Group",
+        "Data Science Intern",
+        "Trenton, NJ",
         "",
         ""
       ],
