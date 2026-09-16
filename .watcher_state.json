@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f379304511e4b257fd3d5c6e7dec3bdebc71ca5f",
+    "last_sha": "23164df6db74b54aa1c7f53e8c0ca2e99865196b",
     "rows": [
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "AI and Autonomous Systems Engineer Intern",
+        "Laurel, MD",
+        "Winter 2026",
+        "https://careers.jhuapl.edu/jobs/60021?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "VersaDesk",
         "Data Analyst Intern",
@@ -4554,6 +4561,13 @@
         "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Analog Devices",
+        "AI/ML Engineer Intern",
+        "Wilmington, MA",
+        "Fall 2026",
+        "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Clyde Companies",
         "Business Intelligence Intern",
         "Orem, UT",
@@ -5173,13 +5187,6 @@
         "CCC Intelligent Solutions",
         "AI Enablement Intern",
         "Chicago, IL",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Analog Devices",
-        "AI/ML Engineer Intern",
-        "Wilmington, MA",
         "Fall 2026",
         ""
       ],
@@ -8063,7 +8070,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f379304511e4b257fd3d5c6e7dec3bdebc71ca5f",
+    "last_sha": "23164df6db74b54aa1c7f53e8c0ca2e99865196b",
     "rows": [
       [
         "Lawrence Livermore National Laboratory (LLNL)",
@@ -8125,6 +8132,13 @@
         "The Toro Company",
         "ISC Analytics Intern",
         "Bloomington, MN",
+        "",
+        ""
+      ],
+      [
+        "RSM",
+        "Business Intelligence Consulting Intern",
+        "5 locationsDes Moines, IA Irvine, CA Dallas, TX Chicago, IL Denver, CO",
         "",
         ""
       ],
