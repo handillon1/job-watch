@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cb3f0645a35e6dfb6a4122420e9a131a42bc8b31",
+    "last_sha": "edab8968fb212bf775eea1c343ea283abd1212f8",
     "rows": [
       [
         "Johns Hopkins Applied Physics Laboratory",
@@ -8063,8 +8063,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cb3f0645a35e6dfb6a4122420e9a131a42bc8b31",
+    "last_sha": "edab8968fb212bf775eea1c343ea283abd1212f8",
     "rows": [
+      [
+        "V2X",
+        "Artificial Intelligence Intern",
+        "Indianapolis, IN",
+        "",
+        ""
+      ],
       [
         "Lawrence Livermore National Laboratory (LLNL)",
         "Data Science Undergraduate Student Intern - Summer 2027",
