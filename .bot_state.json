@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1309,
+      "message_id": 1338,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1308,
+      "message_id": 1337,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1307,
+      "message_id": 1336,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -10801,6 +10801,146 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1321,
+      "chat_id": 8619425244
+    },
+    "c3ce213e4de9": {
+      "company": "D3 Embedded",
+      "role": "Computer Vision / AI Co-op",
+      "location": "West Henrietta, NY",
+      "term": "Winter 2026",
+      "apply_url": "https://d3engineering.applytojob.com/apply/9Yw3SuZeX8/Computer-Vision-AI-Engineer-Coop?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1322,
+      "chat_id": 8619425244
+    },
+    "192ee5d160bf": {
+      "company": "Kitware",
+      "role": "AI Research Intern \ud83c\udf93",
+      "location": "Clifton Park, NY",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1323,
+      "chat_id": 8619425244
+    },
+    "053e6edcca2d": {
+      "company": "Wellington Management",
+      "role": "People Analytics Co-op - Human Resources",
+      "location": "Boston, MA",
+      "term": "Winter 2026, Winter 2027",
+      "apply_url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1324,
+      "chat_id": 8619425244
+    },
+    "f23c1bd6499e": {
+      "company": "Wellington Management",
+      "role": "Portfolio Reference Data Analyst Co-op",
+      "location": "Boston, MA",
+      "term": "Winter 2027",
+      "apply_url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1325,
+      "chat_id": 8619425244
+    },
+    "24b588c39714": {
+      "company": "Louisiana Blue",
+      "role": "Healthcare Data Science Intern - Spring 2027",
+      "location": "Baton Rouge, LA",
+      "term": "Spring 2027",
+      "apply_url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1326,
+      "chat_id": 8619425244
+    },
+    "0f37c04d3126": {
+      "company": "\ud83d\udd25 Intel",
+      "role": "Operations Research Engineering Analytics Intern \ud83c\udf93",
+      "location": "Phoenix, AZ",
+      "term": "Winter 2026",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1327,
+      "chat_id": 8619425244
+    },
+    "1c337ab74a5e": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Machine Learning Intern - Computer Vision \ud83c\udf93",
+      "location": "Mountain View, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1328,
+      "chat_id": 8619425244
+    },
+    "4e92990ceac1": {
+      "company": "GM financial",
+      "role": "Data Science Intern",
+      "location": "Fort Worth, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1329,
+      "chat_id": 8619425244
+    },
+    "847f9f09ec51": {
+      "company": "\ud83d\udd25 AMD",
+      "role": "AI Model Optimization & Software Engineer Intern/Co-op \ud83c\udf93",
+      "location": "San Jose, CA Santa Clara, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1330,
+      "chat_id": 8619425244
+    },
+    "0f0f395591a3": {
+      "company": "\ud83d\udd25 AMD",
+      "role": "AI Model Optimization & Software Engineer Intern/Co-op \ud83c\udf93",
+      "location": "Austin, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1331,
+      "chat_id": 8619425244
+    },
+    "4ad6d46d4614": {
+      "company": "CoVar",
+      "role": "Machine Learning Intern",
+      "location": "Durham, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1332,
+      "chat_id": 8619425244
+    },
+    "b6f45b73460b": {
+      "company": "Gordon Food Service",
+      "role": "Data Science Engineer Intern",
+      "location": "Atlanta, GA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1333,
+      "chat_id": 8619425244
+    },
+    "da2138416c33": {
+      "company": "Charter Manufacturing",
+      "role": "Automation & Analytics Intern",
+      "location": "Milwaukee, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1334,
+      "chat_id": 8619425244
+    },
+    "dc04522ab1dc": {
+      "company": "Barr",
+      "role": "Data Science Intern",
+      "location": "Minneapolis, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1335,
       "chat_id": 8619425244
     }
   },
