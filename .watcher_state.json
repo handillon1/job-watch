@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "9130c84be318234e856221ef625d034c23b0bc2c",
+    "last_sha": "c583d03aee69fd3c233184344ef499a9e0d15e9b",
     "rows": [
       [
         "Johns Hopkins Applied Physics Laboratory",
@@ -4307,13 +4307,6 @@
         "Westchester, IL",
         "Winter 2026",
         "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Ingredion",
-        "AI Solutions & Value MBA Intern \ud83c\udf93",
-        "Westchester, IL Bridgewater, NJ",
-        "Winter 2026",
-        "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI-Solutions---Value-MBA-Intern_Req-40221-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Entergy",
@@ -5041,6 +5034,13 @@
         "Commercial Data Science Intern - Spring 2027",
         "Celebration, FL",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Ingredion",
+        "AI Solutions & Value MBA Intern \ud83c\udf93",
+        "Westchester, IL Bridgewater, NJ",
+        "Winter 2026",
         ""
       ],
       [
@@ -8063,7 +8063,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "9130c84be318234e856221ef625d034c23b0bc2c",
+    "last_sha": "c583d03aee69fd3c233184344ef499a9e0d15e9b",
     "rows": [
       [
         "Lawrence Livermore National Laboratory (LLNL)",
