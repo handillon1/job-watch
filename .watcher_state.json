@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "52878a9570c26b610e609aedd894e6c5fb157f41",
+    "last_sha": "af53f16498f564789cfe9ac8efd934f08b3acc8e",
     "rows": [
       [
         "D3 Embedded",
@@ -8126,8 +8126,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "52878a9570c26b610e609aedd894e6c5fb157f41",
+    "last_sha": "af53f16498f564789cfe9ac8efd934f08b3acc8e",
     "rows": [
+      [
+        "Smith+Nephew",
+        "Data Science Intern - AI Center of Excellence",
+        "Pittsburgh, PA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 Waymo",
         "Machine Learning Intern - Computer Vision \ud83c\udf93",
