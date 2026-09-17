@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cfcca9d6cfb7dfd4e3abd32e78c0d45f898b0e9c",
+    "last_sha": "32c3f63705361e803e193118e5590cbed4df724a",
     "rows": [
+      [
+        "Great American Insurance Company",
+        "Catastrophe Modeling & Data Analytics Intern",
+        "Cincinnati, OH",
+        "Spring 2027",
+        "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "D3 Embedded",
         "Computer Vision / AI Co-op",
@@ -4160,6 +4167,13 @@
         "Boston, MA Westlake, TX",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Risk Data Analyst Co-op",
+        "Boston, MA Smithfield, RI Merrimack, NH",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Risk-Data-Analyst_2135234?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Cone Health",
@@ -5047,13 +5061,6 @@
         "\ud83d\udd25 Intel",
         "AI Solutions Engineer Intern",
         "Hillsboro, OR",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Fidelity Investments",
-        "Risk Data Analyst Co-op",
-        "Boston, MA Smithfield, RI Merrimack, NH",
         "Winter 2026",
         ""
       ],
@@ -8126,8 +8133,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cfcca9d6cfb7dfd4e3abd32e78c0d45f898b0e9c",
+    "last_sha": "32c3f63705361e803e193118e5590cbed4df724a",
     "rows": [
+      [
+        "Howmet Aerospace",
+        "Artificial Intelligence Intern - AI",
+        "Pittsburgh, PA",
+        "",
+        ""
+      ],
       [
         "Smith+Nephew",
         "Data Science Intern - AI Center of Excellence",
@@ -8944,13 +8958,6 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
-        "",
-        ""
-      ],
-      [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
         "",
         ""
       ],
