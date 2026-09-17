@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "e03a8d936d01c4fc4b72a423ff8066996ea43bf1",
+    "last_sha": "04ee799f0754eb7ac097fff5a9a4a5e864e6494e",
     "rows": [
       [
         "D3 Embedded",
@@ -4139,13 +4139,6 @@
         "Boston, MA",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Advanced-Data-Analytics-and-Insights_2135232?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Fidelity Investments",
-        "Machine Learning Co-op - Graph Technology Team \ud83c\udf93",
-        "Boston, MA",
-        "Winter 2026",
-        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Fidelity Investments",
@@ -5054,6 +5047,13 @@
         "\ud83d\udd25 Intel",
         "AI Solutions Engineer Intern",
         "Hillsboro, OR",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Fidelity Investments",
+        "Machine Learning Co-op - Graph Technology Team \ud83c\udf93",
+        "Boston, MA",
         "Winter 2026",
         ""
       ],
@@ -8126,7 +8126,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "e03a8d936d01c4fc4b72a423ff8066996ea43bf1",
+    "last_sha": "04ee799f0754eb7ac097fff5a9a4a5e864e6494e",
     "rows": [
       [
         "Smith+Nephew",
@@ -9749,13 +9749,6 @@
         "Manulife Financial",
         "AI Intern - AI",
         "Boston, MA",
-        "",
-        ""
-      ],
-      [
-        "Finastra",
-        "AI Engineer Intern - Summer 2027",
-        "Atlanta, GA",
         "",
         ""
       ],
