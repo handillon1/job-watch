@@ -8230,7 +8230,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1023,
+      "message_id": 1342,
       "chat_id": 8619425244
     },
     "11d0857b883e": {
@@ -8240,7 +8240,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1024,
+      "message_id": 1343,
       "chat_id": 8619425244
     },
     "c0541fa06772": {
@@ -10941,6 +10941,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1335,
+      "chat_id": 8619425244
+    },
+    "b5c436ca9acd": {
+      "company": "Wellington Management",
+      "role": "People Analytics Co-op - HR",
+      "location": "Boston, MA",
+      "term": "Winter 2026, Winter 2027",
+      "apply_url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1339,
+      "chat_id": 8619425244
+    },
+    "4701f2d6d94d": {
+      "company": "Wellington Management",
+      "role": "Portfolio Reference Data Analyst Co-op",
+      "location": "Boston, MA",
+      "term": "Winter 2026, Winter 2027",
+      "apply_url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1340,
+      "chat_id": 8619425244
+    },
+    "7220ef472154": {
+      "company": "Ancestry",
+      "role": "Data Science Co-op - AI Document Understanding \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Winter 2026",
+      "apply_url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1341,
       "chat_id": 8619425244
     }
   },
