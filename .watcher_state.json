@@ -3893,8 +3893,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "56055ebbec6c904dff413fbc261d74165692ce16",
+    "last_sha": "b1b0bedc7061665d27f67a8d4361435aff3444fe",
     "rows": [
+      [
+        "Allen Lund Company",
+        "Technology and AI Intern - Technology and AI",
+        "La Ca\u00f1ada Flintridge, CA",
+        "Winter 2026",
+        "https://allenlundcompany.applytojob.com/apply/keuBELmaXy/Internship-TechAI?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Toyota Research Institute",
+        "Human-Centered AI Research Intern - Causal Reasoning Models \ud83c\udf93",
+        "Los Altos, CA",
+        "Winter 2027",
+        "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Wellington Management",
         "Business Intelligence Co-op",
@@ -3908,6 +3922,20 @@
         "Boston, MA",
         "Winter 2026",
         "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Insperity",
+        "Rotational Data Analytics Intern",
+        "Kingwood, Houston, TX",
+        "Winter 2026",
+        "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103293?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Insperity",
+        "Rotational AI Intern",
+        "Kingwood, Houston, TX",
+        "Winter 2026",
+        "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Great American Insurance Company",
@@ -8126,12 +8154,54 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "56055ebbec6c904dff413fbc261d74165692ce16",
+    "last_sha": "b1b0bedc7061665d27f67a8d4361435aff3444fe",
     "rows": [
+      [
+        "Lennox International",
+        "AI & Analytics Intern",
+        "Richardson, TX",
+        "",
+        ""
+      ],
+      [
+        "Lennox International",
+        "AI Engineering Intern - Summer 2027 \ud83c\udf93",
+        "Richardson, TX",
+        "",
+        ""
+      ],
+      [
+        "Boston Scientific",
+        "Data Science Co-op",
+        "Maple Grove, MN",
+        "",
+        ""
+      ],
+      [
+        "Honeywell",
+        "Data Science Co-op",
+        "Pittsford, NY",
+        "",
+        ""
+      ],
+      [
+        "JP Morgan Chase",
+        "Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management \ud83c\udf93",
+        "Jersey City, NJ",
+        "",
+        ""
+      ],
       [
         "Howmet Aerospace",
         "Artificial Intelligence Intern - AI",
         "Pittsburgh, PA",
+        "",
+        ""
+      ],
+      [
+        "Watts Water",
+        "Product Marketing Data Analyst Intern",
+        "North Andover, MA",
         "",
         ""
       ],
@@ -8146,6 +8216,13 @@
         "Smith+Nephew",
         "Data Science Intern - AI Center of Excellence",
         "Pittsburgh, PA",
+        "",
+        ""
+      ],
+      [
+        "Republic Airways",
+        "Data Analytics Intern",
+        "Carmel, IN",
         "",
         ""
       ],
@@ -8167,6 +8244,13 @@
         "Fidelity National Information Services",
         "Data Analytics and AI Intern - FIS University Program",
         "Milwaukee, WI Jacksonville, FL Atlanta, GA",
+        "",
+        ""
+      ],
+      [
+        "Clarios",
+        "Data Science Intern",
+        "Milwaukee, WI",
         "",
         ""
       ],
@@ -8489,6 +8573,13 @@
         "Genworth Financial",
         "Commercial Analytics and Optimization Team Intern",
         "Raleigh, NC",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
         "",
         ""
       ],
@@ -8979,6 +9070,13 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
+        "",
+        ""
+      ],
+      [
+        "AArete",
+        "Business Analytics Intern - Summer 2027",
+        "Chicago, IL",
         "",
         ""
       ],
@@ -9763,6 +9861,13 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
+        "",
+        ""
+      ],
+      [
+        "Marsh",
+        "Summer Analyst - Data and Analytics",
+        "Raleigh, NC",
         "",
         ""
       ],

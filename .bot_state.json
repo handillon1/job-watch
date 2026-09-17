@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1338,
+      "message_id": 1371,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1350,
+      "message_id": 1370,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1336,
+      "message_id": 1369,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -11071,6 +11071,126 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1356,
+      "chat_id": 8619425244
+    },
+    "6694de37d820": {
+      "company": "Allen Lund Company",
+      "role": "Technology and AI Intern - Technology and AI",
+      "location": "La Ca\u00f1ada Flintridge, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://allenlundcompany.applytojob.com/apply/keuBELmaXy/Internship-TechAI?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1357,
+      "chat_id": 8619425244
+    },
+    "65197b5f9739": {
+      "company": "Toyota Research Institute",
+      "role": "Human-Centered AI Research Intern - Causal Reasoning Models \ud83c\udf93",
+      "location": "Los Altos, CA",
+      "term": "Winter 2027",
+      "apply_url": "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1358,
+      "chat_id": 8619425244
+    },
+    "e0c2d16a2f66": {
+      "company": "Insperity",
+      "role": "Rotational Data Analytics Intern",
+      "location": "Kingwood, Houston, TX",
+      "term": "Winter 2026",
+      "apply_url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103293?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1359,
+      "chat_id": 8619425244
+    },
+    "94a6771cc135": {
+      "company": "Insperity",
+      "role": "Rotational AI Intern",
+      "location": "Kingwood, Houston, TX",
+      "term": "Winter 2026",
+      "apply_url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1360,
+      "chat_id": 8619425244
+    },
+    "b215c7cda6dd": {
+      "company": "Lennox International",
+      "role": "AI & Analytics Intern",
+      "location": "Richardson, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1361,
+      "chat_id": 8619425244
+    },
+    "aa9ddcd25cf9": {
+      "company": "Lennox International",
+      "role": "AI Engineering Intern - Summer 2027 \ud83c\udf93",
+      "location": "Richardson, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1362,
+      "chat_id": 8619425244
+    },
+    "70e493935ef2": {
+      "company": "Boston Scientific",
+      "role": "Data Science Co-op",
+      "location": "Maple Grove, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1363,
+      "chat_id": 8619425244
+    },
+    "e21b939e5df4": {
+      "company": "Honeywell",
+      "role": "Data Science Co-op",
+      "location": "Pittsford, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1364,
+      "chat_id": 8619425244
+    },
+    "92986323b2eb": {
+      "company": "JP Morgan Chase",
+      "role": "Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management \ud83c\udf93",
+      "location": "Jersey City, NJ",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1365,
+      "chat_id": 8619425244
+    },
+    "b39fd94b15fd": {
+      "company": "Watts Water",
+      "role": "Product Marketing Data Analyst Intern",
+      "location": "North Andover, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1366,
+      "chat_id": 8619425244
+    },
+    "d5c89b32c2f5": {
+      "company": "Republic Airways",
+      "role": "Data Analytics Intern",
+      "location": "Carmel, IN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1367,
+      "chat_id": 8619425244
+    },
+    "2aacc13a07fd": {
+      "company": "Clarios",
+      "role": "Data Science Intern",
+      "location": "Milwaukee, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1368,
       "chat_id": 8619425244
     }
   },
