@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7cce1f87405e4a3e37440c75fd15ff563cbf20f6",
+    "last_sha": "4b5ada4edb0a9c3c8d07b2b137c95cf67835f222",
     "rows": [
+      [
+        "Upstart",
+        "Applied Scientist Intern",
+        "Remote in USA",
+        "Winter 2026",
+        "https://careers.upstart.com/jobs?gh_jid=8213476&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "XPENG Motors",
         "AI Research Intern - Predictive World Model \ud83c\udf93",
@@ -8122,23 +8129,23 @@
         "El Segundo, CA",
         "Spring 2026",
         ""
-      ],
-      [
-        "The Coca-Cola Company",
-        "Product Development & Data Analytics",
-        "Atlanta, GA",
-        "Spring 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7cce1f87405e4a3e37440c75fd15ff563cbf20f6",
+    "last_sha": "4b5ada4edb0a9c3c8d07b2b137c95cf67835f222",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - E-Commerce Recommendation Mall \ud83c\udf93",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Altar'd State",
+        "IT Analytics Intern",
+        "Knoxville, TN",
         "",
         ""
       ],
