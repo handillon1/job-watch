@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "fa7c9e469abb5d221e8a40c68726dc589900329d",
+    "last_sha": "946392bc6558c8a3e937cc99da19bf7cfe317880",
     "rows": [
       [
         "XPENG Motors",
@@ -3994,13 +3994,6 @@
         "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815-1?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Wellington Management",
-        "Portfolio Reference Data Analyst Co-op",
-        "Boston, MA",
-        "Winter 2027",
-        "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Oshkosh",
         "Supply Chain Intern - Data Analytics & AI",
         "Hagerstown, MD",
@@ -4013,6 +4006,13 @@
         "Baton Rouge, LA",
         "Spring 2027",
         "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Operations Research Engineering Analytics Intern \ud83c\udf93",
+        "Phoenix, AZ",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ancestry",
@@ -5065,10 +5065,10 @@
         "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 Intel",
-        "Operations Research Engineering Analytics Intern \ud83c\udf93",
-        "Phoenix, AZ",
-        "Winter 2026",
+        "Wellington Management",
+        "Portfolio Reference Data Analyst Co-op",
+        "Boston, MA",
+        "Winter 2027",
         ""
       ],
       [
@@ -8133,7 +8133,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "fa7c9e469abb5d221e8a40c68726dc589900329d",
+    "last_sha": "946392bc6558c8a3e937cc99da19bf7cfe317880",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -8341,6 +8341,13 @@
       [
         "APEX Analytix",
         "Data Science Intern",
+        "Greensboro, NC",
+        "",
+        ""
+      ],
+      [
+        "APEX Analytix",
+        "Data Analyst Intern - Summer 2027",
         "Greensboro, NC",
         "",
         ""
@@ -9053,13 +9060,6 @@
         ""
       ],
       [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
-        "",
-        ""
-      ],
-      [
         "Ernst & Young",
         "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
         "Dallas, TX NYC",
@@ -9140,13 +9140,6 @@
         "DIRECTV",
         "Operational Analytics Intern",
         "Remote in USA",
-        "",
-        ""
-      ],
-      [
-        "Applied Materials",
-        "Data Analyst Intern - Global Technical Learning Center",
-        "Albany, NY",
         "",
         ""
       ],
