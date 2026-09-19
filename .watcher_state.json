@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "633b3fb45c52ba6352d68ba31e721bbaf66dd111",
+    "last_sha": "a3e2a8f5d8155d12cf192a438b6661dc8af81f32",
     "rows": [
       [
         "Healthesystems",
@@ -4286,13 +4286,6 @@
         "Charlotte, NC",
         "Winter 2026",
         "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Dominion Energy",
-        "Business Intelligence Analyst Intern - Design COE",
-        "Richmond, VA",
-        "Winter 2026",
-        "https://careers.dominionenergy.com/job/RICHMOND-Intern-Associate-Business-Intelligence-Analyst-(Design-COE)-VA-23219/1428771400/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Gables Residential",
@@ -5117,6 +5110,13 @@
         "KBR",
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Dominion Energy",
+        "Business Intelligence Analyst Intern - Design COE",
+        "Richmond, VA",
         "Winter 2026",
         ""
       ],
@@ -8175,7 +8175,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "633b3fb45c52ba6352d68ba31e721bbaf66dd111",
+    "last_sha": "a3e2a8f5d8155d12cf192a438b6661dc8af81f32",
     "rows": [
       [
         "MetOx International",
@@ -10106,6 +10106,13 @@
         "\ud83d\udd25 AMD",
         "Data Analyst Intern/Co-op \ud83c\udf93",
         "San Jose, CA Santa Clara, CA",
+        "",
+        ""
+      ],
+      [
+        "LPL Financial Holdings",
+        "Data Analytics Intern - FAR Program",
+        "Fort Mill, SC Charlotte, NC",
         "",
         ""
       ],
