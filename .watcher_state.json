@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7c70259aaf196ed71060a40d61018abd16a51e08",
+    "last_sha": "ba99204146bb89e257d28e03a50814937d79cb45",
     "rows": [
       [
         "Healthesystems",
@@ -3922,13 +3922,6 @@
         "Remote in USA",
         "Fall 2026",
         "https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Upstart",
-        "Applied Scientist Intern",
-        "Remote in USA",
-        "Winter 2026",
-        "https://careers.upstart.com/jobs?gh_jid=8213476&utm_source=Simplify&ref=Simplify"
       ],
       [
         "XPENG Motors",
@@ -5091,6 +5084,13 @@
         "State College, PA",
         "Fall 2026, Spring 2027",
         "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Upstart",
+        "Applied Scientist Intern",
+        "Remote in USA",
+        "Winter 2026",
+        ""
       ],
       [
         "VersaDesk",
@@ -8175,7 +8175,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7c70259aaf196ed71060a40d61018abd16a51e08",
+    "last_sha": "ba99204146bb89e257d28e03a50814937d79cb45",
     "rows": [
       [
         "MetOx International",
@@ -8188,6 +8188,13 @@
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - E-Commerce Recommendation Mall \ud83c\udf93",
         "San Jose, CA",
+        "",
+        ""
+      ],
+      [
+        "Flex",
+        "Manufacturing Data & Analytics Co-op",
+        "Libertyville, IL",
         "",
         ""
       ],
@@ -9105,13 +9112,6 @@
         "NXP Semiconductors",
         "Data Analytics Engineer Intern - Summer 2027",
         "Austin, TX",
-        "",
-        ""
-      ],
-      [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
         "",
         ""
       ],
