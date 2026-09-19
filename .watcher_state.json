@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "6b922266256ed199b09c96edcb6591448e74bf18",
+    "last_sha": "ce2e4fb20f43771a9a87ca98ed9e4f2d0dd3ac2c",
     "rows": [
       [
         "Healthesystems",
@@ -4673,13 +4673,6 @@
         "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "GE Aerospace",
-        "Applied AI Engineer Co-op",
-        "Evendale, OH Atlanta, GA",
-        "Spring 2027",
-        "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Dairyland Power Cooperative",
         "Energy Data Science Intern",
         "La Crosse, WI",
@@ -5272,6 +5265,13 @@
         "Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs",
         "Cambridge, MA Bothell, WA Plymouth, MN",
         "Winter 2027",
+        ""
+      ],
+      [
+        "GE Aerospace",
+        "Applied AI Engineer Co-op",
+        "Evendale, OH Atlanta, GA",
+        "Spring 2027",
         ""
       ],
       [
@@ -8175,7 +8175,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "6b922266256ed199b09c96edcb6591448e74bf18",
+    "last_sha": "ce2e4fb20f43771a9a87ca98ed9e4f2d0dd3ac2c",
     "rows": [
       [
         "MetOx International",
