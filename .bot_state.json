@@ -9020,7 +9020,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1376,
+      "message_id": 1392,
       "chat_id": 8619425244
     },
     "01ef10371af9": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1369,
+      "message_id": 1391,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -10610,7 +10610,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1318,
+      "message_id": 1390,
       "chat_id": 8619425244
     },
     "ace18b7fe6f9": {
@@ -11241,6 +11241,96 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1379,
+      "chat_id": 8619425244
+    },
+    "3a612521c9e0": {
+      "company": "Healthesystems",
+      "role": "Artificial Intelligence Engineer Intern",
+      "location": "Remote in USA",
+      "term": "Winter 2026",
+      "apply_url": "https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1381,
+      "chat_id": 8619425244
+    },
+    "c69578801bee": {
+      "company": "Grow Financial Federal Credit Union",
+      "role": "Collections Data Analyst Intern",
+      "location": "Remote in USA",
+      "term": "Spring 2027",
+      "apply_url": "https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1382,
+      "chat_id": 8619425244
+    },
+    "a1d35c4f37f9": {
+      "company": "Rivian",
+      "role": "Supply Chain Data, AI and Business Intelligence Co-op Intern \ud83c\udf93",
+      "location": "Normal, IL",
+      "term": "Winter 2027",
+      "apply_url": "https://careers.rivian.com/jobs/33800?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1383,
+      "chat_id": 8619425244
+    },
+    "2b16fe9e2831": {
+      "company": "Cotiviti",
+      "role": "Generative AI Research Engineer Intern \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Fall 2026",
+      "apply_url": "https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1384,
+      "chat_id": 8619425244
+    },
+    "cf3b55d59efc": {
+      "company": "Transamerica",
+      "role": "Data Analytics Intern",
+      "location": "Cedar Rapids, IA",
+      "term": "Spring 2027",
+      "apply_url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1385,
+      "chat_id": 8619425244
+    },
+    "4db980ad0f17": {
+      "company": "Risepoint",
+      "role": "Marketing & Operations Analytics Co-op - Strategy & Analytics",
+      "location": "Remote in USA",
+      "term": "Winter 2027",
+      "apply_url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1386,
+      "chat_id": 8619425244
+    },
+    "379e1f031b4f": {
+      "company": "Johnson & Johnson",
+      "role": "Production Data Analyst Co-op - Manufacturing",
+      "location": "Danvers, MA",
+      "term": "Winter 2026",
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1387,
+      "chat_id": 8619425244
+    },
+    "8e6a0e37b872": {
+      "company": "MetOx International",
+      "role": "Data Science Intern - Spring 2027",
+      "location": "Houston, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1388,
+      "chat_id": 8619425244
+    },
+    "3c88c311bdf0": {
+      "company": "American Family Insurance Group",
+      "role": "Internal Data and Analytics Intern - Summer 2027",
+      "location": "Madison, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1389,
       "chat_id": 8619425244
     }
   },
