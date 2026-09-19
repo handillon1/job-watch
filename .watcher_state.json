@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "e51c3c9e1a0fa06127d7ca46284242766e4c180f",
+    "last_sha": "8af01efdc0042a6d4ae81bc62bfd0abc84fac413",
     "rows": [
       [
         "Healthesystems",
@@ -3964,13 +3964,6 @@
         "Los Altos, CA",
         "Winter 2027",
         "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Wellington Management",
-        "Business Intelligence Co-op",
-        "Boston, MA",
-        "Winter 2026",
-        "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Wellington Management",
@@ -4223,6 +4216,13 @@
         "Mt Laurel Township, NJ",
         "Winter 2027",
         "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Advanced Data Analytics and Insights Co-op \ud83c\udf93",
+        "Boston, MA",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Advanced-Data-Analytics-and-Insights_2135232?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Fidelity Investments",
@@ -5079,6 +5079,13 @@
         ""
       ],
       [
+        "Wellington Management",
+        "Business Intelligence Co-op",
+        "Boston, MA",
+        "Winter 2026",
+        ""
+      ],
+      [
         "VersaDesk",
         "Data Analyst Intern",
         "LA",
@@ -5110,13 +5117,6 @@
         "KBR",
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Fidelity Investments",
-        "Advanced Data Analytics and Insights Co-op \ud83c\udf93",
-        "Boston, MA",
         "Winter 2026",
         ""
       ],
@@ -8175,7 +8175,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "e51c3c9e1a0fa06127d7ca46284242766e4c180f",
+    "last_sha": "8af01efdc0042a6d4ae81bc62bfd0abc84fac413",
     "rows": [
       [
         "MetOx International",
@@ -8818,13 +8818,6 @@
         "Amgen",
         "Data Scientist Intern",
         "Remote in USA",
-        "",
-        ""
-      ],
-      [
-        "Johns Hopkins Applied Physics Laboratory",
-        "AI & Data Science Intern - Analytic Capabilities",
-        "Laurel, MD",
         "",
         ""
       ],
@@ -9480,9 +9473,9 @@
         ""
       ],
       [
-        "Edison International",
-        "Summer Internship - Data Analytics/Science/Applied Math",
-        "4 locationsSanta Ana, CA Fullerton, CA Irvine, CA Westminster, CA",
+        "Trane Technologies",
+        "AI & Analytics Intern",
+        "Minneapolis, MN Davidson, NC",
         "",
         ""
       ],
