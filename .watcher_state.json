@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ee3665eb1f633c7a4ae1deb6ef5a7ffbcd7d2d23",
+    "last_sha": "24db63a139d807b2a17dc08b2afaaaf7e6d0370f",
     "rows": [
       [
         "Healthesystems",
@@ -8140,7 +8140,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ee3665eb1f633c7a4ae1deb6ef5a7ffbcd7d2d23",
+    "last_sha": "24db63a139d807b2a17dc08b2afaaaf7e6d0370f",
     "rows": [
       [
         "The Aerospace Corporation",
@@ -8545,6 +8545,13 @@
         "URBN",
         "Data Science Intern",
         "Philadelphia, PA",
+        "",
+        ""
+      ],
+      [
+        "Xcel Energy",
+        "AI and Analytics Intern",
+        "Minneapolis, MN Denver, CO",
         "",
         ""
       ],
