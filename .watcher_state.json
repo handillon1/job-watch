@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "1b075b974015c371fdac7f136122b925a0513dcf",
+    "last_sha": "ee3665eb1f633c7a4ae1deb6ef5a7ffbcd7d2d23",
     "rows": [
       [
         "Healthesystems",
@@ -8140,8 +8140,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "1b075b974015c371fdac7f136122b925a0513dcf",
+    "last_sha": "ee3665eb1f633c7a4ae1deb6ef5a7ffbcd7d2d23",
     "rows": [
+      [
+        "The Aerospace Corporation",
+        "Reliability and Statistics Intern",
+        "El Segundo, CA",
+        "",
+        ""
+      ],
       [
         "MetOx International",
         "Data Science Intern - Spring 2027",
@@ -8538,13 +8545,6 @@
         "URBN",
         "Data Science Intern",
         "Philadelphia, PA",
-        "",
-        ""
-      ],
-      [
-        "Xcel Energy",
-        "AI and Analytics Intern",
-        "Minneapolis, MN Denver, CO",
         "",
         ""
       ],
