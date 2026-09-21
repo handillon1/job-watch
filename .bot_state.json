@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1371,
+      "message_id": 1442,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1398,
+      "message_id": 1441,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -10610,7 +10610,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1390,
+      "message_id": 1440,
       "chat_id": 8619425244
     },
     "ace18b7fe6f9": {
@@ -11481,6 +11481,156 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1424,
+      "chat_id": 8619425244
+    },
+    "687e2089a9a8": {
+      "company": "Headlands Tech Holdings",
+      "role": "Deep Learning Research Intern",
+      "location": "Chicago, IL NYC",
+      "term": "Winter 2026",
+      "apply_url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1425,
+      "chat_id": 8619425244
+    },
+    "abc1e55c994c": {
+      "company": "Windstar Cruises",
+      "role": "Revenue and Data Analytics Intern",
+      "location": "Miami, FL",
+      "term": "Winter 2026",
+      "apply_url": "https://xanterra.jibeapply.com/jobs/39609?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1426,
+      "chat_id": 8619425244
+    },
+    "e9e8233994cb": {
+      "company": "The Walt Disney Company",
+      "role": "Consumer Insight Data Analyst Intern",
+      "location": "Celebration, FL",
+      "term": "Winter 2027",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1427,
+      "chat_id": 8619425244
+    },
+    "502aa6462cad": {
+      "company": "The Walt Disney Company",
+      "role": "Consumer Insight Data Analyst Intern",
+      "location": "Celebration, FL",
+      "term": "Winter 2027",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Consumer-Insight-Data-Analyst-Intern--Spring-2027_10159634-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1428,
+      "chat_id": 8619425244
+    },
+    "297f2e418bec": {
+      "company": "Sanofi",
+      "role": "mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op \ud83c\udf93",
+      "location": "Waltham, MA",
+      "term": "Spring 2027",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-mRNA-Drug-Substance-Process-Characterization-Data-Analytics-and-Visualization--Waltham--MA_R2854370?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1429,
+      "chat_id": 8619425244
+    },
+    "3ac73191915e": {
+      "company": "Mastercard",
+      "role": "AI & Data Co-op",
+      "location": "Harrison, NY",
+      "term": "Spring 2027",
+      "apply_url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1430,
+      "chat_id": 8619425244
+    },
+    "2494a09c25b1": {
+      "company": "Johnson & Johnson",
+      "role": "Commercial Data Science & AI Co-op \ud83c\udf93",
+      "location": "Raritan, NJ",
+      "term": "Winter 2026",
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1431,
+      "chat_id": 8619425244
+    },
+    "b38384f9929e": {
+      "company": "Koch Industries",
+      "role": "Business Analytics & Insights Intern",
+      "location": "Green Bay, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1432,
+      "chat_id": 8619425244
+    },
+    "9c75623c8ed4": {
+      "company": "Boston Scientific",
+      "role": "Data Science Engineer Intern",
+      "location": "Arden Hills, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1433,
+      "chat_id": 8619425244
+    },
+    "8d347f1a5929": {
+      "company": "\ud83d\udd25 AMD",
+      "role": "AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1434,
+      "chat_id": 8619425244
+    },
+    "718bee2990cb": {
+      "company": "Watts Water",
+      "role": "B2C E-Commerce Analytics & Website Intern - Summer 2027",
+      "location": "North Andover, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1435,
+      "chat_id": 8619425244
+    },
+    "64883ee6b785": {
+      "company": "Live Oak Bank",
+      "role": "Data Science Intern",
+      "location": "Wilmington, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1436,
+      "chat_id": 8619425244
+    },
+    "fbd021c14f90": {
+      "company": "GE Healthcare",
+      "role": "Data Analytics Intern",
+      "location": "Salt Lake City, UT",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1437,
+      "chat_id": 8619425244
+    },
+    "ddffb60df941": {
+      "company": "Commerce Bank",
+      "role": "Data Science Intern",
+      "location": "Kansas City, MO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1438,
+      "chat_id": 8619425244
+    },
+    "3d51ba64ead4": {
+      "company": "Athene",
+      "role": "Operations Reporting & Analytics Intern",
+      "location": "West Des Moines, IA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1439,
       "chat_id": 8619425244
     }
   },
