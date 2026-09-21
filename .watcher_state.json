@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b14bc865a6ba443e98c75df4b31c387205b126cb",
+    "last_sha": "3569bf079e4186e19d56b7e95570612c8d319656",
     "rows": [
+      [
+        "Gordon Food Service",
+        "Data Analyst Intern - Imports & Commodities",
+        "Wyoming, MI",
+        "Winter 2026",
+        "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Healthesystems",
         "Artificial Intelligence Engineer Intern",
@@ -8063,12 +8070,26 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b14bc865a6ba443e98c75df4b31c387205b126cb",
+    "last_sha": "3569bf079e4186e19d56b7e95570612c8d319656",
     "rows": [
       [
         "AutoZone",
         "Data Science Intern",
         "Memphis, TN",
+        "",
+        ""
+      ],
+      [
+        "Upbound Group",
+        "Customer Performance Analytics Intern",
+        "Plano, TX",
+        "",
+        ""
+      ],
+      [
+        "RSM",
+        "Tax Digital Services Intern - AI Engineering",
+        "Charlotte, NC",
         "",
         ""
       ],
@@ -8314,6 +8335,13 @@
         "Elire",
         "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
         "Remote in USA Minneapolis, MN",
+        "",
+        ""
+      ],
+      [
+        "Alliance Laundry Systems",
+        "Data & Analytics Intern",
+        "Ripon, WI",
         "",
         ""
       ],

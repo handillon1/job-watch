@@ -10680,7 +10680,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1304,
+      "message_id": 1414,
       "chat_id": 8619425244
     },
     "215ed830d9a3": {
@@ -11361,6 +11361,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1406,
+      "chat_id": 8619425244
+    },
+    "56041ac90475": {
+      "company": "Gordon Food Service",
+      "role": "Data Analyst Intern - Imports & Commodities",
+      "location": "Wyoming, MI",
+      "term": "Winter 2026",
+      "apply_url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1411,
+      "chat_id": 8619425244
+    },
+    "7c35dc36fa15": {
+      "company": "Upbound Group",
+      "role": "Customer Performance Analytics Intern",
+      "location": "Plano, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1412,
+      "chat_id": 8619425244
+    },
+    "1eb4890e6174": {
+      "company": "RSM",
+      "role": "Tax Digital Services Intern - AI Engineering",
+      "location": "Charlotte, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1413,
       "chat_id": 8619425244
     }
   },
