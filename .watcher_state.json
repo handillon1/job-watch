@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "9ea0aa80ac99a08b19331867c10b6d8c340e5e37",
+    "last_sha": "d050b1cbde9e6ba08b2bee2b6d6346f3ea568392",
     "rows": [
       [
         "Healthesystems",
@@ -4013,13 +4013,6 @@
         "Clifton Park, NY",
         "Winter 2026",
         "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Johns Hopkins Applied Physics Laboratory",
-        "AI and Autonomous Systems Engineer Intern",
-        "Laurel, MD",
-        "Winter 2026",
-        "https://careers.jhuapl.edu/jobs/60021?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Wellington Management",
@@ -5082,6 +5075,13 @@
         "Upstart",
         "Applied Scientist Intern",
         "Remote in USA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "AI and Autonomous Systems Engineer Intern",
+        "Laurel, MD",
         "Winter 2026",
         ""
       ],
@@ -8063,7 +8063,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "9ea0aa80ac99a08b19331867c10b6d8c340e5e37",
+    "last_sha": "d050b1cbde9e6ba08b2bee2b6d6346f3ea568392",
     "rows": [
       [
         "AutoZone",
