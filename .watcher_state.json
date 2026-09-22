@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5d025c684123ce65effe57163d1dec5e486fda7e",
+    "last_sha": "e4c83420179dec1361d3c3039673f2dc9e5bbfe1",
     "rows": [
       [
         "Headlands Tech Holdings",
@@ -4307,13 +4307,6 @@
         "Boston, MA",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Advanced-Data-Analytics-and-Insights_2135232?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Fidelity Investments",
-        "Machine Learning Co-op - Graph Technology Team \ud83c\udf93",
-        "Boston, MA",
-        "Winter 2026",
-        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Fidelity Investments",
@@ -5180,6 +5173,13 @@
         "KBR",
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Fidelity Investments",
+        "Machine Learning Co-op - Graph Technology Team \ud83c\udf93",
+        "Boston, MA",
         "Winter 2026",
         ""
       ],
@@ -8140,7 +8140,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5d025c684123ce65effe57163d1dec5e486fda7e",
+    "last_sha": "e4c83420179dec1361d3c3039673f2dc9e5bbfe1",
     "rows": [
       [
         "Epic Games",
@@ -8622,13 +8622,6 @@
         "NJM Insurance Group",
         "Data Science Intern",
         "Trenton, NJ",
-        "",
-        ""
-      ],
-      [
-        "LexisNexis Legal & Professional",
-        "Data Science Intern",
-        "Raleigh, NC",
         "",
         ""
       ],
@@ -9609,13 +9602,6 @@
         "Edison International",
         "Summer Internship - Data Analytics/Science/Applied Math",
         "4 locationsSanta Ana, CA Fullerton, CA Irvine, CA Westminster, CA",
-        "",
-        ""
-      ],
-      [
-        "Trane Technologies",
-        "AI & Analytics Intern",
-        "Minneapolis, MN Davidson, NC",
         "",
         ""
       ],
