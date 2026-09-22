@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1442,
+      "message_id": 1465,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -10610,7 +10610,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1450,
+      "message_id": 1464,
       "chat_id": 8619425244
     },
     "ace18b7fe6f9": {
@@ -11741,6 +11741,76 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1456,
+      "chat_id": 8619425244
+    },
+    "66b25697d340": {
+      "company": "Dominion Energy",
+      "role": "GIS Development Data Analyst Intern",
+      "location": "Cayce, SC",
+      "term": "Winter 2026",
+      "apply_url": "https://careers.dominionenergy.com/job/CAYCE-Intern-GIS-SC-29033/1432505500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1457,
+      "chat_id": 8619425244
+    },
+    "efa391ce81c3": {
+      "company": "Vantor",
+      "role": "AI Engineer Intern",
+      "location": "Remote in USA",
+      "term": "Winter 2026",
+      "apply_url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1458,
+      "chat_id": 8619425244
+    },
+    "19ee29466ccc": {
+      "company": "Danaher",
+      "role": "IT Data Analyst Intern",
+      "location": "Brea, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1459,
+      "chat_id": 8619425244
+    },
+    "b16a2f93e072": {
+      "company": "USAA",
+      "role": "AI/ML Engineer Intern",
+      "location": "Plano, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1460,
+      "chat_id": 8619425244
+    },
+    "2f1a8f25d33d": {
+      "company": "USAA",
+      "role": "Data Scientist Intern",
+      "location": "Plano, TX",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1461,
+      "chat_id": 8619425244
+    },
+    "090ed152686f": {
+      "company": "Stryker",
+      "role": "Data Analytics Intern",
+      "location": "Fort Wayne, IN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1462,
+      "chat_id": 8619425244
+    },
+    "3f54317082ce": {
+      "company": "American Family Insurance Group",
+      "role": "Customer Analytics Intern",
+      "location": "Madison, WI Boston, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1463,
       "chat_id": 8619425244
     }
   },
