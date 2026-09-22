@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d23f915d8953accd8db91021281457029bceb727",
+    "last_sha": "cd71f2cd58a0700118ac05e4cb09069bcf05ec45",
     "rows": [
       [
         "Headlands Tech Holdings",
@@ -4482,13 +4482,6 @@
         "Amarillo, TX",
         "Fall 2026",
         "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Formlabs",
-        "AI Software Intern",
-        "Somerville, MA",
-        "Winter 2027, Spring 2027",
-        "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Dominion Energy",
@@ -5209,6 +5202,13 @@
         "Data Analyst Intern",
         "Sioux Center, IA Sioux Falls, SD",
         "Spring 2027",
+        ""
+      ],
+      [
+        "Formlabs",
+        "AI Software Intern",
+        "Somerville, MA",
+        "Winter 2027, Spring 2027",
         ""
       ],
       [
@@ -8140,7 +8140,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d23f915d8953accd8db91021281457029bceb727",
+    "last_sha": "cd71f2cd58a0700118ac05e4cb09069bcf05ec45",
     "rows": [
       [
         "Epic Games",
