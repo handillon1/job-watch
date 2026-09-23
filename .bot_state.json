@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1465,
+      "message_id": 1484,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -11871,6 +11871,56 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1477,
+      "chat_id": 8619425244
+    },
+    "ed5b46ad4b45": {
+      "company": "Brunswick",
+      "role": "Data Analytics Intern",
+      "location": "Fond du Lac, WI",
+      "term": "Winter 2026",
+      "apply_url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1479,
+      "chat_id": 8619425244
+    },
+    "e2f7e166f4db": {
+      "company": "\ud83d\udd25 Waymo",
+      "role": "Machine Learning Engineer Intern - Road Understanding \ud83c\udf93",
+      "location": "Mountain View, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1480,
+      "chat_id": 8619425244
+    },
+    "dfe3d5c29430": {
+      "company": "\ud83d\udd25 AMD",
+      "role": "ML Systems Research Engineering Intern \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1481,
+      "chat_id": 8619425244
+    },
+    "b3b1beceb423": {
+      "company": "Klaviyo",
+      "role": "Machine Learning Engineer Intern \ud83c\udf93",
+      "location": "Palo Alto, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1482,
+      "chat_id": 8619425244
+    },
+    "c92f4a087f35": {
+      "company": "Jabil",
+      "role": "Operations Analytics & Reporting Intern",
+      "location": "Tampa, FL St. Petersburg, FL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1483,
       "chat_id": 8619425244
     }
   },
