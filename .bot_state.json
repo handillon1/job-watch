@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1452,
+      "message_id": 1475,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -11811,6 +11811,56 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1463,
+      "chat_id": 8619425244
+    },
+    "03784d22670e": {
+      "company": "Excellus BCBS",
+      "role": "Healthcare Analytics Intern - Healthcare Analytics",
+      "location": "6 locationsRochester, NY De Witt, NY Utica, NY Albany, NY Binghamton, NY Buffalo, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1470,
+      "chat_id": 8619425244
+    },
+    "80cadbdba56d": {
+      "company": "Excellus BCBS",
+      "role": "College Intern - Healthcare Statistical Analytics",
+      "location": "6 locationsRochester, NY De Witt, NY Utica, NY Albany, NY Binghamton, NY Buffalo, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1471,
+      "chat_id": 8619425244
+    },
+    "eff7682376a3": {
+      "company": "Excellus BCBS",
+      "role": "College Intern - Data Governance & AI Governance",
+      "location": "6 locationsRochester, NY De Witt, NY Utica, NY Albany, NY Binghamton, NY Buffalo, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1472,
+      "chat_id": 8619425244
+    },
+    "4129e78ccabe": {
+      "company": "Excellus BCBS",
+      "role": "College Intern - Digital Analytics",
+      "location": "6 locationsRochester, NY De Witt, NY Utica, NY Albany, NY Binghamton, NY Buffalo, NY",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1473,
+      "chat_id": 8619425244
+    },
+    "49e1647610b0": {
+      "company": "CACI",
+      "role": "AI Systems Engineer Intern - Summer 2027",
+      "location": "Annapolis Junction, MD Fort Meade, MD",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1474,
       "chat_id": 8619425244
     }
   },
