@@ -8970,7 +8970,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1079,
+      "message_id": 1478,
       "chat_id": 8619425244
     },
     "4ff6d99c5624": {
@@ -11450,7 +11450,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1420,
+      "message_id": 1476,
       "chat_id": 8619425244
     },
     "fcc868bc94f8": {
@@ -11861,6 +11861,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1474,
+      "chat_id": 8619425244
+    },
+    "8305798cd197": {
+      "company": "West Bend Insurance",
+      "role": "Data Scientist Intern",
+      "location": "Madison, WI West Bend, WI",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1477,
       "chat_id": 8619425244
     }
   },
