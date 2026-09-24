@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7cec2aaf1de836171082fc8a167e9c67a9e51a6e",
+    "last_sha": "7e1726568b49127afd87f98e2f85e26dac19d137",
     "rows": [
       [
         "Brunswick",
@@ -4356,13 +4356,6 @@
         "Boston, MA Smithfield, RI Merrimack, NH",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Risk-Data-Analyst_2135234?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Cone Health",
-        "Healthcare Innovation Intern - AI",
-        "Salt Lake City, UT",
-        "Winter 2027",
-        "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Amcor",
@@ -5209,6 +5202,13 @@
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Cone Health",
+        "Healthcare Innovation Intern - AI",
+        "Salt Lake City, UT",
+        "Winter 2027",
         ""
       ],
       [
@@ -8098,7 +8098,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7cec2aaf1de836171082fc8a167e9c67a9e51a6e",
+    "last_sha": "7e1726568b49127afd87f98e2f85e26dac19d137",
     "rows": [
       [
         "\ud83d\udd25 Atlassian",
@@ -10190,13 +10190,6 @@
         "BNY",
         "Data Science Intern - Engineering",
         "Lake Mary, FL",
-        "",
-        ""
-      ],
-      [
-        "The Hartford",
-        "Data Engineer Intern - Technology, Data, AI, and Operations",
-        "Hartford, CT",
         "",
         ""
       ],
