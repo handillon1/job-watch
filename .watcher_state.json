@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a473295f73297ae552f5deeb4bf8001f09497086",
+    "last_sha": "a7fe3b396467b9e52e616c1dbfb93f829938b6b9",
     "rows": [
       [
         "Brunswick",
@@ -8119,8 +8119,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a473295f73297ae552f5deeb4bf8001f09497086",
+    "last_sha": "a7fe3b396467b9e52e616c1dbfb93f829938b6b9",
     "rows": [
+      [
+        "\ud83d\udd25 Atlassian",
+        "Data Scientist Intern - Multiple Teams \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 Waymo",
         "Machine Learning Engineer Intern - Road Understanding \ud83c\udf93",
@@ -8160,6 +8167,13 @@
         "West Bend Insurance",
         "Data Scientist Intern",
         "Madison, WI West Bend, WI",
+        "",
+        ""
+      ],
+      [
+        "Zekelman Industries",
+        "Business Intelligence Intern - Program Development",
+        "Austin, TX Troy, MI",
         "",
         ""
       ],
@@ -8853,6 +8867,13 @@
         "BlueCross BlueShield of Nebraska",
         "Healthcare Analytics Intern",
         "Omaha, NE",
+        "",
+        ""
+      ],
+      [
+        "AtkinsR\u00e9alis",
+        "Data Scientist Intern - Summer 2027",
+        "Tempe, AZ",
         "",
         ""
       ],
