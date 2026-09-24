@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1484,
+      "message_id": 1492,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -11941,6 +11941,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1486,
+      "chat_id": 8619425244
+    },
+    "f278a6a3f90f": {
+      "company": "Wurl",
+      "role": "Data Science Intern",
+      "location": "Remote in USA",
+      "term": "Winter 2026",
+      "apply_url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1491,
       "chat_id": 8619425244
     }
   },
