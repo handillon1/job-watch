@@ -6530,7 +6530,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 787,
+      "message_id": 1498,
       "chat_id": 8619425244
     },
     "1bc4fc5027e8": {
@@ -11000,7 +11000,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1348,
+      "message_id": 1497,
       "chat_id": 8619425244
     },
     "e1dde11475f2": {
@@ -11951,6 +11951,46 @@
       "apply_url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 1491,
+      "chat_id": 8619425244
+    },
+    "3bb53da24dbb": {
+      "company": "The US Oncology Network",
+      "role": "Data Analyst Intern",
+      "location": "Dallas, TX",
+      "term": "Winter 2026",
+      "apply_url": "https://careers.usoncology.com/jobs/43158?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1493,
+      "chat_id": 8619425244
+    },
+    "98673b6e8eed": {
+      "company": "Ivy Tech Community College",
+      "role": "Data Analysis Intern",
+      "location": "Indianapolis, IN",
+      "term": "Winter 2026",
+      "apply_url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1494,
+      "chat_id": 8619425244
+    },
+    "c3a82da802d8": {
+      "company": "CVS Health",
+      "role": "Data Scientist Intern - Grad Conversion \ud83c\udf93",
+      "location": "4 locationsHartford, CT NYC Woonsocket, RI Wellesley, MA",
+      "term": "Winter 2026",
+      "apply_url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1495,
+      "chat_id": 8619425244
+    },
+    "824e2a650cf7": {
+      "company": "CHS",
+      "role": "Data Analyst Intern",
+      "location": "Inver Grove Heights, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1496,
       "chat_id": 8619425244
     }
   },

@@ -3893,14 +3893,35 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "c4ecf6612b352f1c2cd55b459b12dd0e6b3619d0",
+    "last_sha": "aba891b7d6b9eb4995860dc9abedea1bf80ae367",
     "rows": [
+      [
+        "The US Oncology Network",
+        "Data Analyst Intern",
+        "Dallas, TX",
+        "Winter 2026",
+        "https://careers.usoncology.com/jobs/43158?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Wurl",
         "Data Science Intern",
         "Remote in USA",
         "Winter 2026",
         "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Ivy Tech Community College",
+        "Data Analysis Intern",
+        "Indianapolis, IN",
+        "Winter 2026",
+        "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CVS Health",
+        "Data Scientist Intern - Grad Conversion \ud83c\udf93",
+        "4 locationsHartford, CT NYC Woonsocket, RI Wellesley, MA",
+        "Winter 2026",
+        "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Brunswick",
@@ -8091,8 +8112,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "c4ecf6612b352f1c2cd55b459b12dd0e6b3619d0",
+    "last_sha": "aba891b7d6b9eb4995860dc9abedea1bf80ae367",
     "rows": [
+      [
+        "CHS",
+        "Data Analyst Intern",
+        "Inver Grove Heights, MN",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 Waymo",
         "Machine Learning Engineer Intern - Road Understanding \ud83c\udf93",
@@ -8419,6 +8447,13 @@
         "Honeywell",
         "Data Science Co-op",
         "Pittsford, NY",
+        "",
+        ""
+      ],
+      [
+        "Howmet Aerospace",
+        "Artificial Intelligence Intern - AI",
+        "Pittsburgh, PA",
         "",
         ""
       ],
@@ -10026,13 +10061,6 @@
         ""
       ],
       [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
-        "",
-        ""
-      ],
-      [
         "Manulife Financial",
         "AI Intern - AI",
         "Boston, MA",
@@ -10148,6 +10176,13 @@
         "BNY",
         "Data Science Intern - Engineering",
         "Lake Mary, FL",
+        "",
+        ""
+      ],
+      [
+        "The Hartford",
+        "Data Engineer Intern - Technology, Data, AI, and Operations",
+        "Hartford, CT",
         "",
         ""
       ],
