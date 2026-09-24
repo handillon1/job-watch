@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1492,
+      "message_id": 1507,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -11991,6 +11991,86 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1496,
+      "chat_id": 8619425244
+    },
+    "494a83357133": {
+      "company": "Brightstar.AI",
+      "role": "Applied AI Engineer Intern - Advancing Agent Quality \ud83c\udf93",
+      "location": "Miami, FL",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1499,
+      "chat_id": 8619425244
+    },
+    "cee100759cf1": {
+      "company": "Heven AeroTech",
+      "role": "AI / Machine Learning Intern",
+      "location": "Winchester, VA Bingen, WA",
+      "term": "Winter 2026",
+      "apply_url": "https://job-boards.greenhouse.io/hevenaerotech/jobs/4410288009?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1500,
+      "chat_id": 8619425244
+    },
+    "0ab15a8e4347": {
+      "company": "Susquehanna International Group",
+      "role": "Machine Learning Engineer Intern",
+      "location": "Bala Cynwyd, PA",
+      "term": "Winter 2026",
+      "apply_url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1501,
+      "chat_id": 8619425244
+    },
+    "ab12db58b95d": {
+      "company": "PathAI",
+      "role": "Machine Learning Intern/Co-op \ud83c\udf93",
+      "location": "Boston, MA Remote in USA NYC",
+      "term": "Fall 2026, Winter 2027",
+      "apply_url": "https://www.pathai.com/careers/8843495002?gh_jid=8843495002&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1502,
+      "chat_id": 8619425244
+    },
+    "d8e3f299fe11": {
+      "company": "Johnson & Johnson",
+      "role": "Data Science Co-op - Critical Care - Applied Sciences & AI",
+      "location": "Danvers, MA",
+      "term": "Winter 2026",
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1503,
+      "chat_id": 8619425244
+    },
+    "1e8a6461e43f": {
+      "company": "Biogen",
+      "role": "Data Science & AI Co-op - Portfolio Data & Digital Innovation \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Winter 2027",
+      "apply_url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1504,
+      "chat_id": 8619425244
+    },
+    "a22abb322022": {
+      "company": "Biogen",
+      "role": "Data Science Co-op",
+      "location": "Remote in USA",
+      "term": "Winter 2027, Spring 2027",
+      "apply_url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1505,
+      "chat_id": 8619425244
+    },
+    "e7189c7dc5ff": {
+      "company": "State Farm",
+      "role": "Data Science Intern - Magnet Program \ud83c\udf93",
+      "location": "Tempe, AZ",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1506,
       "chat_id": 8619425244
     }
   },
