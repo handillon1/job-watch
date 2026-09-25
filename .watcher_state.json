@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a6f7f2b1b2312d161d6485c09b1c888ff8a6f54b",
+    "last_sha": "e5831c111ec3c417dca0ee54a3e0b3e0083664ab",
     "rows": [
       [
         "Intuitive Surgical",
@@ -4377,13 +4377,6 @@
         "United States",
         "Winter 2026",
         "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Cone Health",
-        "Healthcare Innovation Intern - AI",
-        "Greensboro, NC",
-        "Winter 2027",
-        "https://careers.conehealth.com/us/en/job/JR155166?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -5272,6 +5265,13 @@
         "AI Solutions Engineer Intern",
         "Hillsboro, OR",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Cone Health",
+        "Healthcare Innovation Intern - AI",
+        "Greensboro, NC",
+        "Winter 2027",
         ""
       ],
       [
@@ -8115,18 +8115,11 @@
         "Boston, MA",
         "Spring 2026",
         ""
-      ],
-      [
-        "Meridian Partners",
-        "Data Scientist Co-op",
-        "Cambridge, MA",
-        "Spring 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a6f7f2b1b2312d161d6485c09b1c888ff8a6f54b",
+    "last_sha": "e5831c111ec3c417dca0ee54a3e0b3e0083664ab",
     "rows": [
       [
         "State Farm",
