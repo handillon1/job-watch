@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cb6c78487bf2d2396ede513c6c408f116fff1dc7",
+    "last_sha": "87288e3ef0903c1fb26e5658896b8cd7f531124f",
     "rows": [
       [
         "Brightstar.AI",
@@ -5205,13 +5205,6 @@
         "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Pennsylvania State University",
-        "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "State College, PA",
-        "Fall 2026, Spring 2027",
-        "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Headlands Tech Holdings",
         "Deep Learning Research Intern",
         "Chicago, IL NYC",
@@ -6119,6 +6112,13 @@
         "AI Engineer Intern",
         "Frisco, TX",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Pennsylvania State University",
+        "AI/ML Research Support Intern - Visualization and Decision Support Division",
+        "State College, PA",
+        "Fall 2026, Spring 2027",
         ""
       ],
       [
@@ -8115,32 +8115,11 @@
         "Cambridge, MA",
         "Spring 2026",
         ""
-      ],
-      [
-        "Comcast",
-        "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
-        "North Hollywood, LA",
-        "Spring 2026",
-        ""
-      ],
-      [
-        "Alation",
-        "Alation Data & AI Intern",
-        "San Carlos, CA",
-        "Summer 2026, Winter 2026",
-        ""
-      ],
-      [
-        "McAfee",
-        "Data Science Intern",
-        "San Jose, CA",
-        "Spring 2026",
-        ""
       ]
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cb6c78487bf2d2396ede513c6c408f116fff1dc7",
+    "last_sha": "87288e3ef0903c1fb26e5658896b8cd7f531124f",
     "rows": [
       [
         "State Farm",
