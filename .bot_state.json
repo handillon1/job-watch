@@ -11700,7 +11700,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1449,
+      "message_id": 1518,
       "chat_id": 8619425244
     },
     "22ee552b3c09": {
@@ -12091,6 +12091,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1510,
+      "chat_id": 8619425244
+    },
+    "7a83866654fa": {
+      "company": "Bosch Home Comfort",
+      "role": "Multi-modal Sensing AI Research Intern \ud83c\udf93",
+      "location": "Pittsburgh, PA",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151890105?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1515,
+      "chat_id": 8619425244
+    },
+    "5f61c95c3550": {
+      "company": "\ud83d\udd25 DoorDash",
+      "role": "Machine Learning Engineer Intern - Masters \ud83c\udf93",
+      "location": "4 locationsSeattle, WA SF NYC Sunnyvale, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1516,
+      "chat_id": 8619425244
+    },
+    "98965be9e87f": {
+      "company": "\ud83d\udd25 Atlassian",
+      "role": "Data Scientist Intern \ud83c\udf93",
+      "location": "Seattle, WA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1517,
       "chat_id": 8619425244
     }
   },

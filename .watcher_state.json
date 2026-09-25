@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a622ee96d0cca870d02e8373542908ad43cb4f9a",
+    "last_sha": "cd3333a7f2fc89b6b667b881f0a3db22ef4a1464",
     "rows": [
+      [
+        "Bosch Home Comfort",
+        "Multi-modal Sensing AI Research Intern \ud83c\udf93",
+        "Pittsburgh, PA",
+        "Winter 2026",
+        "https://jobs.smartrecruiters.com/BoschGroup/744000151890105?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Intuitive Surgical",
         "AI Research Intern \ud83c\udf93",
@@ -5177,13 +5184,6 @@
         "https://lifeattiktok.com/search/7667690418804902149?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "East Penn Manufacturing Company",
-        "Power BI & Analytics Intern",
-        "Ann Arbor, MI",
-        "Fall 2026",
-        "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Biogen",
         "Data Science Co-op",
         "Remote in USA",
@@ -6104,6 +6104,13 @@
         "Kodak",
         "Marketing Analytics Intern",
         "Remote in USA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "East Penn Manufacturing Company",
+        "Power BI & Analytics Intern",
+        "Ann Arbor, MI",
         "Fall 2026",
         ""
       ],
@@ -8112,8 +8119,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a622ee96d0cca870d02e8373542908ad43cb4f9a",
+    "last_sha": "cd3333a7f2fc89b6b667b881f0a3db22ef4a1464",
     "rows": [
+      [
+        "\ud83d\udd25 DoorDash",
+        "Machine Learning Engineer Intern - Masters \ud83c\udf93",
+        "4 locationsSeattle, WA SF NYC Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Atlassian",
+        "Data Scientist Intern \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        ""
+      ],
       [
         "State Farm",
         "Data Science Intern - Magnet Program \ud83c\udf93",
@@ -8355,6 +8376,13 @@
       [
         "Commerce Bank",
         "Data Science Intern",
+        "Kansas City, MO",
+        "",
+        ""
+      ],
+      [
+        "Commerce Bank",
+        "Data Analyst Intern - Summer 2027",
         "Kansas City, MO",
         "",
         ""
@@ -10029,13 +10057,6 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
-        "",
-        ""
-      ],
-      [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
         "",
         ""
       ],
