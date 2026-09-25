@@ -6900,7 +6900,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1507,
+      "message_id": 1526,
       "chat_id": 8619425244
     },
     "40c26075295c": {
@@ -12121,6 +12121,76 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1517,
+      "chat_id": 8619425244
+    },
+    "7cdaf5f86880": {
+      "company": "RGA Reinsurance Company",
+      "role": "Data Science/AI Intern",
+      "location": "Chesterfield, MO",
+      "term": "Fall 2026",
+      "apply_url": "https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Fall-Intern---Data-Science-AI_J28774?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1519,
+      "chat_id": 8619425244
+    },
+    "a8dbe07e8444": {
+      "company": "Cencora",
+      "role": "Business Analytics Intern",
+      "location": "Texas Remote in USA",
+      "term": "Winter 2026",
+      "apply_url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1520,
+      "chat_id": 8619425244
+    },
+    "3222d25adc1f": {
+      "company": "American Family Insurance Group",
+      "role": "Machine Learning Operations Intern",
+      "location": "Madison, WI",
+      "term": "Winter 2026",
+      "apply_url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1521,
+      "chat_id": 8619425244
+    },
+    "a9030f7a61f0": {
+      "company": "Red Ventures",
+      "role": "Data Science Intern - Launch Program",
+      "location": "Charlotte, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1522,
+      "chat_id": 8619425244
+    },
+    "2a43e80e7e80": {
+      "company": "GCM Grosvenor",
+      "role": "Fund Data Reporting and Analytics Intern",
+      "location": "Chicago, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1523,
+      "chat_id": 8619425244
+    },
+    "6dc78ffae656": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
+      "location": "Laurel, MD",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1524,
+      "chat_id": 8619425244
+    },
+    "45622ea1c5cd": {
+      "company": "ICF International",
+      "role": "Data Scientist Intern",
+      "location": "Remote in USA Reston, VA Denver, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1525,
       "chat_id": 8619425244
     }
   },
