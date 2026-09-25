@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "81cc1a9b75509a52896066f5e4e72afe9f4a403d",
+    "last_sha": "924b11ba8f34586b9df53b1cf6d65a934504d42d",
     "rows": [
       [
         "Intuitive Surgical",
@@ -4960,13 +4960,6 @@
         "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-Co-Op_R-095717?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Kodiak Robotics",
-        "AI/ML Intern - Artificial Intelligence/Machine Learning",
-        "Mountain View, CA",
-        "Winter 2027",
-        "https://job-boards.greenhouse.io/kodiak/jobs/4377407009?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Audax Group",
         "Data Analyst Co-op - Business Solutions",
         "Boston, MA",
@@ -5573,6 +5566,13 @@
         "Data Analyst Intern",
         "Boise, ID",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Kodiak Robotics",
+        "AI/ML Intern - Artificial Intelligence/Machine Learning",
+        "Mountain View, CA",
+        "Winter 2027",
         ""
       ],
       [
@@ -8112,7 +8112,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "81cc1a9b75509a52896066f5e4e72afe9f4a403d",
+    "last_sha": "924b11ba8f34586b9df53b1cf6d65a934504d42d",
     "rows": [
       [
         "State Farm",
@@ -8370,13 +8370,6 @@
         "Commerce Bank",
         "Data Science Intern",
         "Kansas City, MO",
-        "",
-        ""
-      ],
-      [
-        "Booz Allen",
-        "Data Scientist Intern",
-        "McLean, VA",
         "",
         ""
       ],
