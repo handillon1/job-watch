@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bb62c7116b2a7117f994b73c8693fa71a5022753",
+    "last_sha": "e8ecefd923a111f3ec82becf47e0193f2f6460a2",
     "rows": [
       [
         "Bosch Home Comfort",
@@ -4223,13 +4223,6 @@
         "Clifton Park, NY",
         "Winter 2026",
         "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Wellington Management",
-        "People Analytics Co-op - HR",
-        "Boston, MA",
-        "Winter 2026, Winter 2027",
-        "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Oshkosh",
@@ -5195,6 +5188,13 @@
         "AI and Autonomous Systems Engineer Intern",
         "Laurel, MD",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Wellington Management",
+        "People Analytics Co-op - HR",
+        "Boston, MA",
+        "Winter 2026, Winter 2027",
         ""
       ],
       [
@@ -8063,7 +8063,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bb62c7116b2a7117f994b73c8693fa71a5022753",
+    "last_sha": "e8ecefd923a111f3ec82becf47e0193f2f6460a2",
     "rows": [
       [
         "Red Ventures",
@@ -8766,13 +8766,6 @@
         ""
       ],
       [
-        "Johnson & Johnson",
-        "Business Intelligence Co-op",
-        "Irving, TX",
-        "",
-        ""
-      ],
-      [
         "Clarios",
         "People Analytics Intern - Summer 2027",
         "Milwaukee, WI",
@@ -8888,6 +8881,13 @@
         "The Toro Company",
         "Enterprise Analytics Intern",
         "Bloomington, MN",
+        "",
+        ""
+      ],
+      [
+        "Oshkosh",
+        "AI Engineer Intern",
+        "Oshkosh, WI",
         "",
         ""
       ],
