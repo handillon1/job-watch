@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "1e867f248a0e0a3f35a7ce1a40342b1d70dd7ceb",
+    "last_sha": "1515201e1540c190bb979870c9b409953a7d696f",
     "rows": [
       [
         "Intuitive Surgical",
@@ -4155,6 +4155,13 @@
         "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Wellington Management",
+        "Business Intelligence Co-op",
+        "Boston, MA",
+        "Winter 2026",
+        "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Insperity",
         "Rotational Data Analytics Intern",
         "Kingwood, Houston, TX",
@@ -4181,6 +4188,20 @@
         "Clifton Park, NY",
         "Winter 2026",
         "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Wellington Management",
+        "People Analytics Co-op - HR",
+        "Boston, MA",
+        "Winter 2026, Winter 2027",
+        "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Wellington Management",
+        "Portfolio Reference Data Analyst Co-op",
+        "Boston, MA",
+        "Winter 2026, Winter 2027",
+        "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Oshkosh",
@@ -4841,13 +4862,6 @@
         "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Susquehanna International Group",
-        "AI Co-op - Drexel University",
-        "Bala Cynwyd, PA",
-        "Fall 2026",
-        "https://careers-sig.icims.com/jobs/11368/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Johns Hopkins Applied Physics Laboratory",
         "Data Scientist Intern - Data Science - System Performance Evaluation",
         "Laurel, MD",
@@ -5156,13 +5170,6 @@
         ""
       ],
       [
-        "Wellington Management",
-        "Business Intelligence Co-op",
-        "Boston, MA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "D3 Embedded",
         "Computer Vision / AI Co-op",
         "West Henrietta, NY",
@@ -5174,20 +5181,6 @@
         "AI and Autonomous Systems Engineer Intern",
         "Laurel, MD",
         "Winter 2026",
-        ""
-      ],
-      [
-        "Wellington Management",
-        "People Analytics Co-op - HR",
-        "Boston, MA",
-        "Winter 2026, Winter 2027",
-        ""
-      ],
-      [
-        "Wellington Management",
-        "Portfolio Reference Data Analyst Co-op",
-        "Boston, MA",
-        "Winter 2026, Winter 2027",
         ""
       ],
       [
@@ -5544,6 +5537,13 @@
         "Customers Bank",
         "AI Innovation Risk Co-op",
         "Malvern, PA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Susquehanna International Group",
+        "AI Co-op - Drexel University",
+        "Bala Cynwyd, PA",
         "Fall 2026",
         ""
       ],
@@ -8035,7 +8035,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "1e867f248a0e0a3f35a7ce1a40342b1d70dd7ceb",
+    "last_sha": "1515201e1540c190bb979870c9b409953a7d696f",
     "rows": [
       [
         "Red Ventures",
@@ -9924,13 +9924,6 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
-        "",
-        ""
-      ],
-      [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
         "",
         ""
       ],
