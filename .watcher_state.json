@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "9926ceefbe3366a95630a8700445ff8ea8438742",
+    "last_sha": "9d93390ee93b8b501b925c91b894ed73c5d01bc3",
     "rows": [
       [
         "Bosch Home Comfort",
@@ -4295,6 +4295,13 @@
         "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Tencent",
+        "Machine Learning Intern \ud83c\udf93",
+        "Palo Alto, CA",
+        "Winter 2026",
+        "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "NCR Atleos",
         "Data Science Intern",
         "Frisco, TX Atlanta, GA",
@@ -4363,6 +4370,13 @@
         "Boston, MA",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Data Scientist Co-op",
+        "Boston, MA Durham, NC",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Fidelity Investments",
@@ -5226,13 +5240,6 @@
         ""
       ],
       [
-        "Tencent",
-        "Machine Learning Intern \ud83c\udf93",
-        "Palo Alto, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "MVP Health Care",
         "Analytics Intern",
         "Schenectady, NY",
@@ -5257,13 +5264,6 @@
         "KBR",
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Fidelity Investments",
-        "Data Scientist Co-op",
-        "Boston, MA Durham, NC",
         "Winter 2026",
         ""
       ],
@@ -8035,7 +8035,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "9926ceefbe3366a95630a8700445ff8ea8438742",
+    "last_sha": "9d93390ee93b8b501b925c91b894ed73c5d01bc3",
     "rows": [
       [
         "Red Ventures",
@@ -9567,13 +9567,6 @@
         "Edison International",
         "Data Analytics Intern - Data Science - Applied Math",
         "Pomona, CA Rosemead, CA",
-        "",
-        ""
-      ],
-      [
-        "Edison International",
-        "Summer Internship - Data Analytics/Science/Applied Math",
-        "4 locationsSanta Ana, CA Fullerton, CA Irvine, CA Westminster, CA",
         "",
         ""
       ],
