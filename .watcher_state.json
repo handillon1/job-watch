@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b446cca95c2f882d8364727efe6948cbd37a4e68",
+    "last_sha": "9fed3c162b6e8c2766735248169dbb7cec9aa3aa",
     "rows": [
       [
         "Intuitive Surgical",
@@ -8035,12 +8035,33 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b446cca95c2f882d8364727efe6948cbd37a4e68",
+    "last_sha": "9fed3c162b6e8c2766735248169dbb7cec9aa3aa",
     "rows": [
       [
         "H&R Block",
         "Machine Learning Intern",
         "Kansas City, MO",
+        "",
+        ""
+      ],
+      [
+        "Verizon Communications",
+        "Data Scientist Intern - Fiber Engineering & Operations",
+        "Irving, TX",
+        "",
+        ""
+      ],
+      [
+        "Verizon Communications",
+        "Data Science Intern - Network and Technology",
+        "Irving, TX",
+        "",
+        ""
+      ],
+      [
+        "Verizon Communications",
+        "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+        "Irving, TX",
         "",
         ""
       ],
@@ -9903,13 +9924,6 @@
         "Vertiv",
         "Business Analytics Intern - Summer 2027",
         "Westerville, OH",
-        "",
-        ""
-      ],
-      [
-        "Marsh",
-        "Summer Analyst - Data and Analytics",
-        "Raleigh, NC",
         "",
         ""
       ],
