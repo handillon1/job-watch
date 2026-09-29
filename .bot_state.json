@@ -11380,7 +11380,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1412,
+      "message_id": 1552,
       "chat_id": 8619425244
     },
     "1eb4890e6174": {
@@ -12241,6 +12241,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1548,
+      "chat_id": 8619425244
+    },
+    "f21ffc0a7e9b": {
+      "company": "Q2",
+      "role": "Data Science Intern",
+      "location": "Cary, NC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1551,
       "chat_id": 8619425244
     }
   },
