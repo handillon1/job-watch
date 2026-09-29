@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0a5c9db7f83b85608485bf7338265c8b70e28176",
+    "last_sha": "72c000ef077640ce97d68d3bea3b5be036486454",
     "rows": [
       [
         "Intuitive Surgical",
@@ -4216,13 +4216,6 @@
         "Austin, TX",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009195?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Baxter International",
-        "Associate Data Scientist Co-op \ud83c\udf93",
-        "Skaneateles, NY",
-        "Winter 2026",
-        "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Avis Budget Group",
@@ -5201,6 +5194,13 @@
         "\ud83d\udd25 NVIDIA",
         "Generative AI Research Intern - Fundamental Generative AI \ud83c\udf93",
         "Santa Clara, CA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Baxter International",
+        "Associate Data Scientist Co-op \ud83c\udf93",
+        "Skaneateles, NY",
         "Winter 2026",
         ""
       ],
@@ -8035,7 +8035,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0a5c9db7f83b85608485bf7338265c8b70e28176",
+    "last_sha": "72c000ef077640ce97d68d3bea3b5be036486454",
     "rows": [
       [
         "H&R Block",
@@ -10267,13 +10267,6 @@
         "PIMCO",
         "Client Solutions & Analytics Analyst Intern",
         "Newport Beach, CA",
-        "",
-        ""
-      ],
-      [
-        "TMEIC Corporation Americas",
-        "Applications Intern - AI and Machine Learning",
-        "Roanoke, VA",
         "",
         ""
       ],
