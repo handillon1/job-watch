@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "8340b0424c82ab98046eb0288a7d621d95b6f230",
+    "last_sha": "1a6f5e9e7e3ef45315a8abc5c5636c376a289132",
     "rows": [
       [
         "Intuitive Surgical",
@@ -3966,11 +3966,11 @@
         "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "CVS Health",
-        "Data Scientist Intern - Grad Conversion \ud83c\udf93",
-        "4 locationsHartford, CT NYC Woonsocket, RI Wellesley, MA",
+        "Brunswick",
+        "Data Analytics Intern",
+        "Fond du Lac, WI",
         "Winter 2026",
-        "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976?utm_source=Simplify&ref=Simplify"
+        "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Dominion Energy",
@@ -4257,6 +4257,13 @@
         "Machine Learning Intern \ud83c\udf93",
         "Palo Alto, CA",
         "Winter 2026",
+        "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Tencent",
+        "Machine Learning Intern \ud83c\udf93",
+        "Palo Alto, CA",
+        "Winter 2026",
         "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140?utm_source=Simplify&ref=Simplify"
       ],
       [
@@ -4335,6 +4342,20 @@
         "Boston, MA Durham, NC",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Data Analyst Co-op",
+        "Boston, MA Westlake, TX",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Fidelity Investments",
+        "Risk Data Analyst Co-op",
+        "Boston, MA Smithfield, RI Merrimack, NH",
+        "Winter 2026",
+        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Risk-Data-Analyst_2135234?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Amcor",
@@ -5058,6 +5079,13 @@
         ""
       ],
       [
+        "CVS Health",
+        "Data Scientist Intern - Grad Conversion \ud83c\udf93",
+        "4 locationsHartford, CT NYC Woonsocket, RI Wellesley, MA",
+        "Winter 2026",
+        ""
+      ],
+      [
         "Biogen",
         "Data Science & AI Co-op - Portfolio Data & Digital Innovation \ud83c\udf93",
         "Remote in USA",
@@ -5069,13 +5097,6 @@
         "Data Science Co-op",
         "Remote in USA",
         "Winter 2027, Spring 2027",
-        ""
-      ],
-      [
-        "Brunswick",
-        "Data Analytics Intern",
-        "Fond du Lac, WI",
-        "Winter 2026",
         ""
       ],
       [
@@ -5191,13 +5212,6 @@
         ""
       ],
       [
-        "Tencent",
-        "Machine Learning Intern \ud83c\udf93",
-        "Palo Alto, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "MVP Health Care",
         "Analytics Intern",
         "Schenectady, NY",
@@ -5222,20 +5236,6 @@
         "KBR",
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Fidelity Investments",
-        "Data Analyst Co-op",
-        "Boston, MA Westlake, TX",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Fidelity Investments",
-        "Risk Data Analyst Co-op",
-        "Boston, MA Smithfield, RI Merrimack, NH",
         "Winter 2026",
         ""
       ],
@@ -8035,7 +8035,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "8340b0424c82ab98046eb0288a7d621d95b6f230",
+    "last_sha": "1a6f5e9e7e3ef45315a8abc5c5636c376a289132",
     "rows": [
       [
         "H&R Block",
@@ -8067,8 +8067,22 @@
       ],
       [
         "Q2",
+        "Machine Learning Engineer Intern",
+        "Cary, NC",
+        "",
+        ""
+      ],
+      [
+        "Q2",
         "Data Science Intern",
         "Cary, NC",
+        "",
+        ""
+      ],
+      [
+        "Cigna Group",
+        "AI/ML Engineer Intern \ud83c\udf93",
+        "Austin, TX Morris Plains, NJ St. Louis, MO",
         "",
         ""
       ],
@@ -8550,6 +8564,13 @@
       ],
       [
         "APEX Analytix",
+        "Data Science Intern",
+        "Greensboro, NC",
+        "",
+        ""
+      ],
+      [
+        "APEX Analytix",
         "Data Analyst Intern - Summer 2027",
         "Greensboro, NC",
         "",
@@ -8629,6 +8650,13 @@
         "AspenTech",
         "Data Science Intern \ud83c\udf93",
         "Bedford, MA",
+        "",
+        ""
+      ],
+      [
+        "Altar'd State",
+        "Store Operations Data Analyst Intern",
+        "Knoxville, TN",
         "",
         ""
       ],
@@ -8727,6 +8755,13 @@
         "Oshkosh",
         "Advanced Analytics Intern",
         "Frederick, MD",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
         "",
         ""
       ],
@@ -8850,6 +8885,13 @@
         ""
       ],
       [
+        "Oshkosh",
+        "AI Engineer Intern",
+        "Oshkosh, WI",
+        "",
+        ""
+      ],
+      [
         "Merck",
         "Quality Assurance Research Clinical Quality, Analytics & AI Co-op",
         "Upper Gwynedd Township, PA Rahway, NJ",
@@ -8901,6 +8943,13 @@
       [
         "Amgen",
         "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
+        "Remote in USA",
+        "",
+        ""
+      ],
+      [
+        "Amgen",
+        "Data Scientist Intern",
         "Remote in USA",
         "",
         ""
@@ -9242,6 +9291,13 @@
         ""
       ],
       [
+        "Applied Materials",
+        "Data Analyst Intern - Global Technical Learning Center",
+        "Albany, NY",
+        "",
+        ""
+      ],
+      [
         "Allied Solutions",
         "Sales Analytics Intern",
         "Carmel, IN",
@@ -9515,6 +9571,13 @@
         ""
       ],
       [
+        "Trane Technologies",
+        "AI & Analytics Intern",
+        "Minneapolis, MN Davidson, NC",
+        "",
+        ""
+      ],
+      [
         "American Express",
         "Data Analytics Intern - Enterprise Technology Services",
         "Phoenix, AZ",
@@ -9669,6 +9732,13 @@
         ""
       ],
       [
+        "Baird",
+        "Capital Markets Compliance Data & Analytics Intern",
+        "Milwaukee, WI",
+        "",
+        ""
+      ],
+      [
         "AeroVironment",
         "Machine Learning Intern",
         "Centreville, VA Minneapolis, MN",
@@ -9774,13 +9844,6 @@
         ""
       ],
       [
-        "Mastercard",
-        "Data Scientist Intern",
-        "O'Fallon, MO",
-        "",
-        ""
-      ],
-      [
         "DraftKings",
         "Analytics Intern - Summer 2027",
         "Boston, MA",
@@ -9805,6 +9868,13 @@
         "Arch Capital Group",
         "Data and Analytics Intern",
         "Farmington, CT",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Adobe",
+        "Machine Learning Engineer Intern",
+        "6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT",
         "",
         ""
       ],
@@ -9903,6 +9973,13 @@
         "Cigna Group",
         "Legal Operations Financial Data & AI Analytics Intern",
         "St. Louis, MO",
+        "",
+        ""
+      ],
+      [
+        "Brunswick",
+        "Power BI/Ops Analytics Co-op",
+        "Fond du Lac, WI",
         "",
         ""
       ],
