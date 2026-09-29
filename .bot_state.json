@@ -9690,7 +9690,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1402,
+      "message_id": 1577,
       "chat_id": 8619425244
     },
     "4751d6ccf5f8": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1557,
+      "message_id": 1576,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -12301,6 +12301,76 @@
       "apply_url": "https://careers.acuityinc.com/job/Atlanta-Data-and-AI-Intern-Flexible-GA-30309/1434321900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 1567,
+      "chat_id": 8619425244
+    },
+    "d12797a5f397": {
+      "company": "Honeywell",
+      "role": "Artificial Intelligence/Machine Learning Co-op",
+      "location": "United States",
+      "term": "Spring 2027",
+      "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1569,
+      "chat_id": 8619425244
+    },
+    "be90b4c380fd": {
+      "company": "Risepoint",
+      "role": "Analytics Engineering Co-op",
+      "location": "Remote in USA",
+      "term": "Winter 2027",
+      "apply_url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1570,
+      "chat_id": 8619425244
+    },
+    "a9ef8802e6a9": {
+      "company": "Risepoint",
+      "role": "Analytics Solutions Co-op",
+      "location": "Remote in USA",
+      "term": "Winter 2027",
+      "apply_url": "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1571,
+      "chat_id": 8619425244
+    },
+    "4b3500e5c395": {
+      "company": "Nike",
+      "role": "AI/ML Engineer Intern \ud83c\udf93",
+      "location": "Beaverton, OR",
+      "term": "Winter 2026",
+      "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1572,
+      "chat_id": 8619425244
+    },
+    "41a5b5d9f1e3": {
+      "company": "ibotta",
+      "role": "Business Intelligence Intern",
+      "location": "Denver, CO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1573,
+      "chat_id": 8619425244
+    },
+    "4ca30cb62441": {
+      "company": "The Toro Company",
+      "role": "Ecommerce Data Analytics Intern",
+      "location": "Bloomington, MN",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1574,
+      "chat_id": 8619425244
+    },
+    "ac5bb30588f1": {
+      "company": "ICF International",
+      "role": "AI Engineer Intern",
+      "location": "Reston, VA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1575,
       "chat_id": 8619425244
     }
   },

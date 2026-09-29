@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "2413075352c914c3812cf1607d55bed8a0da5529",
+    "last_sha": "f15bc172d4da1519e7dd4221ad2b54d1919ab318",
     "rows": [
+      [
+        "Honeywell",
+        "Artificial Intelligence/Machine Learning Co-op",
+        "United States",
+        "Spring 2027",
+        "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Keysight Technologies",
         "EDA AI/ML Software Intern \ud83c\udf93",
@@ -3908,6 +3915,27 @@
         "Calabasas, CA",
         "Winter 2026",
         "https://jobs.keysight.com/jobs/54606?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Risepoint",
+        "Analytics Engineering Co-op",
+        "Remote in USA",
+        "Winter 2027",
+        "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Risepoint",
+        "Analytics Solutions Co-op",
+        "Remote in USA",
+        "Winter 2027",
+        "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Analytics-Solutions-Co-Op_JR101354?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nike",
+        "AI/ML Engineer Intern \ud83c\udf93",
+        "Beaverton, OR",
+        "Winter 2026",
+        "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Acuity",
@@ -8056,8 +8084,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "2413075352c914c3812cf1607d55bed8a0da5529",
+    "last_sha": "f15bc172d4da1519e7dd4221ad2b54d1919ab318",
     "rows": [
+      [
+        "ibotta",
+        "Business Intelligence Intern",
+        "Denver, CO",
+        "",
+        ""
+      ],
       [
         "H&R Block",
         "Machine Learning Intern",
@@ -8087,6 +8122,13 @@
         ""
       ],
       [
+        "The Toro Company",
+        "Ecommerce Data Analytics Intern",
+        "Bloomington, MN",
+        "",
+        ""
+      ],
+      [
         "Q2",
         "Machine Learning Engineer Intern",
         "Cary, NC",
@@ -8097,6 +8139,13 @@
         "Q2",
         "Data Science Intern",
         "Cary, NC",
+        "",
+        ""
+      ],
+      [
+        "ICF International",
+        "AI Engineer Intern",
+        "Reston, VA",
         "",
         ""
       ],
@@ -8787,6 +8836,13 @@
         ""
       ],
       [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
+        "",
+        ""
+      ],
+      [
         "Clarios",
         "People Analytics Intern - Summer 2027",
         "Milwaukee, WI",
@@ -8993,6 +9049,13 @@
         "Constellation Energy",
         "Business Performance & Analytics Intern",
         "Houston, TX",
+        "",
+        ""
+      ],
+      [
+        "Walmart",
+        "Data Science Intern 3",
+        "Bentonville, AR",
         "",
         ""
       ],
