@@ -11470,7 +11470,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1423,
+      "message_id": 1568,
       "chat_id": 8619425244
     },
     "4fe6f7f5c828": {
@@ -12271,6 +12271,36 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1554,
+      "chat_id": 8619425244
+    },
+    "647f03c14aa3": {
+      "company": "Keysight Technologies",
+      "role": "EDA AI/ML Software Intern \ud83c\udf93",
+      "location": "Calabasas, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.keysight.com/jobs/54582?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1565,
+      "chat_id": 8619425244
+    },
+    "4a81c700e20b": {
+      "company": "Keysight Technologies",
+      "role": "EDA AI/ML Layout Engineering Intern \ud83c\udf93",
+      "location": "Calabasas, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.keysight.com/jobs/54606?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1566,
+      "chat_id": 8619425244
+    },
+    "7b9da065d931": {
+      "company": "Acuity",
+      "role": "Data and AI Intern",
+      "location": "Atlanta, GA",
+      "term": "Winter 2026",
+      "apply_url": "https://careers.acuityinc.com/job/Atlanta-Data-and-AI-Intern-Flexible-GA-30309/1434321900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1567,
       "chat_id": 8619425244
     }
   },
