@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "514d82b4bdaff6db7669a47d10805b3d1a3e9d46",
+    "last_sha": "98b997fa51d0fc114405b0159ea9889fa6c6d3ed",
     "rows": [
       [
         "Honeywell",
@@ -4295,13 +4295,6 @@
         "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Tencent",
-        "Machine Learning Intern \ud83c\udf93",
-        "Palo Alto, CA",
-        "Winter 2026",
-        "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "NCR Atleos",
         "Data Science Intern",
         "Frisco, TX Atlanta, GA",
@@ -4370,13 +4363,6 @@
         "Boston, MA",
         "Winter 2026",
         "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Fidelity Investments",
-        "Data Scientist Co-op",
-        "Boston, MA Durham, NC",
-        "Winter 2026",
-        "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Fidelity Investments",
@@ -5247,6 +5233,13 @@
         ""
       ],
       [
+        "Tencent",
+        "Machine Learning Intern \ud83c\udf93",
+        "Palo Alto, CA",
+        "Winter 2026",
+        ""
+      ],
+      [
         "MVP Health Care",
         "Analytics Intern",
         "Schenectady, NY",
@@ -5271,6 +5264,13 @@
         "KBR",
         "Data Science Intern \ud83c\udf93",
         "Chicago, IL Mountain View, CA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Fidelity Investments",
+        "Data Scientist Co-op",
+        "Boston, MA Durham, NC",
         "Winter 2026",
         ""
       ],
@@ -8084,7 +8084,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "514d82b4bdaff6db7669a47d10805b3d1a3e9d46",
+    "last_sha": "98b997fa51d0fc114405b0159ea9889fa6c6d3ed",
     "rows": [
       [
         "\ud83d\udd25 Robinhood",
