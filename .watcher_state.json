@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0de6821ac97fe5c2576a1d0b66bcb7c54fe4f042",
+    "last_sha": "c7c9fa3f837ecf5f5d6f6af21bc1a91906d9f424",
     "rows": [
       [
         "PrizePicks",
@@ -8049,8 +8049,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0de6821ac97fe5c2576a1d0b66bcb7c54fe4f042",
+    "last_sha": "c7c9fa3f837ecf5f5d6f6af21bc1a91906d9f424",
     "rows": [
+      [
+        "ITT",
+        "Data Analytics / AI Intern - Summer 2027",
+        "Irvine, CA",
+        "",
+        ""
+      ],
       [
         "\ud83d\udd25 Robinhood",
         "Data Science Intern",
@@ -8062,6 +8069,13 @@
         "\ud83d\udd25 Amazon",
         "Applied Science Intern - Information & Knowledge Management \ud83c\udf93",
         "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "DraftKings",
+        "Analytics Intern",
+        "Boston, MA",
         "",
         ""
       ],
