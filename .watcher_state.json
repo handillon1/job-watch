@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "e401308b99f10bf6ca098379722ba34f39045460",
+    "last_sha": "2ea7918fe517a89a8add61f33fb9264475751055",
     "rows": [
       [
         "Honeywell",
@@ -8084,7 +8084,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "e401308b99f10bf6ca098379722ba34f39045460",
+    "last_sha": "2ea7918fe517a89a8add61f33fb9264475751055",
     "rows": [
       [
         "\ud83d\udd25 Robinhood",
@@ -8174,6 +8174,13 @@
         "\ud83d\udd25 Waymo",
         "Machine Learning Research Intern - Planning/Prediction \ud83c\udf93",
         "Mountain View, CA",
+        "",
+        ""
+      ],
+      [
+        "H&R Block",
+        "Financial Services Data Analytics Intern",
+        "Kansas City, MO",
         "",
         ""
       ],
@@ -9126,13 +9133,6 @@
         "Tokyo Electron",
         "Software Engineer Intern - AI Research",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "The Aerospace Corporation",
-        "Machine Learning Engineering Intern \ud83c\udf93",
-        "Colorado Springs, CO El Segundo, CA",
         "",
         ""
       ],
