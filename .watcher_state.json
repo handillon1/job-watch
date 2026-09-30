@@ -3893,14 +3893,35 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "c7c9fa3f837ecf5f5d6f6af21bc1a91906d9f424",
+    "last_sha": "7a7ecf9de0678ec41bb74302b39751798320bbfe",
     "rows": [
+      [
+        "IDeaS",
+        "Data Science Research Intern",
+        "Bloomington, MN",
+        "Winter 2026",
+        "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "PrizePicks",
         "Product Analytics Intern",
         "Atlanta, GA",
         "Spring 2026",
         "http://prizepicks.com/position?gh_jid=8008103003&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Abbott",
+        "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML \ud83c\udf93",
+        "St Paul, MN",
+        "Winter 2027",
+        "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Honeywell",
@@ -8049,8 +8070,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "c7c9fa3f837ecf5f5d6f6af21bc1a91906d9f424",
+    "last_sha": "7a7ecf9de0678ec41bb74302b39751798320bbfe",
     "rows": [
+      [
+        "Noblis",
+        "Data Science and Innovation Intern",
+        "Springfield, VA Reston, VA",
+        "",
+        ""
+      ],
       [
         "ITT",
         "Data Analytics / AI Intern - Summer 2027",
@@ -8069,6 +8097,13 @@
         "\ud83d\udd25 Amazon",
         "Applied Science Intern - Information & Knowledge Management \ud83c\udf93",
         "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "Life Fitness",
+        "Marketing Analytics Intern",
+        "Rosemont, IL",
         "",
         ""
       ],

@@ -12452,6 +12452,56 @@
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1587,
       "chat_id": 8619425244
+    },
+    "66b2884f6c92": {
+      "company": "IDeaS",
+      "role": "Data Science Research Intern",
+      "location": "Bloomington, MN",
+      "term": "Winter 2026",
+      "apply_url": "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1588,
+      "chat_id": 8619425244
+    },
+    "6a6b22247f29": {
+      "company": "\ud83d\udd25 Intel",
+      "role": "Research Scientist Intern - Graphics - ML \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "Winter 2026",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1589,
+      "chat_id": 8619425244
+    },
+    "8ea9a5acb389": {
+      "company": "Abbott",
+      "role": "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML \ud83c\udf93",
+      "location": "St Paul, MN",
+      "term": "Winter 2027",
+      "apply_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1590,
+      "chat_id": 8619425244
+    },
+    "8c51be90cb30": {
+      "company": "Noblis",
+      "role": "Data Science and Innovation Intern",
+      "location": "Springfield, VA Reston, VA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1591,
+      "chat_id": 8619425244
+    },
+    "c1f403573774": {
+      "company": "Life Fitness",
+      "role": "Marketing Analytics Intern",
+      "location": "Rosemont, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1592,
+      "chat_id": 8619425244
     }
   },
   "applied": {
