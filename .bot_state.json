@@ -10770,7 +10770,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1316,
+      "message_id": 1605,
       "chat_id": 8619425244
     },
     "dd448eac35a8": {
@@ -12551,6 +12551,46 @@
       "apply_url": "https://jobs.keysight.com/jobs/54637?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 1597,
+      "chat_id": 8619425244
+    },
+    "3bc86a3fe577": {
+      "company": "The Federal Reserve System",
+      "role": "Advanced Analytics Intern",
+      "location": "Cleveland, OH",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1601,
+      "chat_id": 8619425244
+    },
+    "9969945cffe7": {
+      "company": "The Federal Reserve System",
+      "role": "Data Science and Business Analytics Intern",
+      "location": "Chicago, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1602,
+      "chat_id": 8619425244
+    },
+    "185bc2cf3803": {
+      "company": "The Federal Reserve System",
+      "role": "Statistics and Analysis Intern",
+      "location": "Cleveland, OH",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1603,
+      "chat_id": 8619425244
+    },
+    "2b881527fe59": {
+      "company": "The Federal Reserve System",
+      "role": "Data Science Intern",
+      "location": "Chicago, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1604,
       "chat_id": 8619425244
     }
   },
