@@ -9390,7 +9390,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1236,
+      "message_id": 1636,
       "chat_id": 8619425244
     },
     "1818d8c8491e": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1576,
+      "message_id": 1635,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -12591,6 +12591,276 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1604,
+      "chat_id": 8619425244
+    },
+    "9bea2420e9af": {
+      "company": "\ud83d\udd25 Stripe",
+      "role": "Data Analyst Intern",
+      "location": "Seattle, WA South SF NYC",
+      "term": "Winter 2026",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194291&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1606,
+      "chat_id": 8619425244
+    },
+    "c54d5f506d4e": {
+      "company": "\ud83d\udd25 Stripe",
+      "role": "Data Scientist Intern \ud83c\udf93",
+      "location": "Seattle, WA South SF NYC",
+      "term": "Winter 2026",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194283&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1607,
+      "chat_id": 8619425244
+    },
+    "6e5b839257fa": {
+      "company": "Stand Together",
+      "role": "Analytics Intern",
+      "location": "Chicago, IL",
+      "term": "Spring 2027",
+      "apply_url": "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1608,
+      "chat_id": 8619425244
+    },
+    "3dae193cf599": {
+      "company": "Novelis",
+      "role": "Analytics & Data Consumption Co-op",
+      "location": "Kennesaw, GA",
+      "term": "Winter 2026",
+      "apply_url": "https://careers-novelis.icims.com/jobs/54350/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1609,
+      "chat_id": 8619425244
+    },
+    "692f0a42f9da": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40689?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1610,
+      "chat_id": 8619425244
+    },
+    "2d0a0cf92614": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40701?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1611,
+      "chat_id": 8619425244
+    },
+    "c5f0c5644f4c": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40695?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1612,
+      "chat_id": 8619425244
+    },
+    "483bbd7be986": {
+      "company": "Nokia",
+      "role": "AI Research and Development Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40681?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1613,
+      "chat_id": 8619425244
+    },
+    "78168b8f333c": {
+      "company": "Nokia",
+      "role": "AI Research and Development Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40685?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1614,
+      "chat_id": 8619425244
+    },
+    "072ac9ccc283": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40692?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1615,
+      "chat_id": 8619425244
+    },
+    "964d78a3d288": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40699?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1616,
+      "chat_id": 8619425244
+    },
+    "1d3e2d936952": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40687?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1617,
+      "chat_id": 8619425244
+    },
+    "60cb9d526c1d": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40693?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1618,
+      "chat_id": 8619425244
+    },
+    "900af26d0203": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1619,
+      "chat_id": 8619425244
+    },
+    "20ced139ffe7": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1620,
+      "chat_id": 8619425244
+    },
+    "dac2707754dc": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40690?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1621,
+      "chat_id": 8619425244
+    },
+    "21fffc9f62e2": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40682?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1622,
+      "chat_id": 8619425244
+    },
+    "74f71fdef138": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40680?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1623,
+      "chat_id": 8619425244
+    },
+    "ca613d7d3f5c": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40700?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1624,
+      "chat_id": 8619425244
+    },
+    "23c6277874f3": {
+      "company": "Nokia",
+      "role": "AI R&D Engineer Co-op \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "term": "Spring 2027",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40698?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1625,
+      "chat_id": 8619425244
+    },
+    "1b82e83dce77": {
+      "company": "Datacor",
+      "role": "Data Science Intern - Summer 2027 - Program \ud83c\udf93",
+      "location": "Remote in USA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1626,
+      "chat_id": 8619425244
+    },
+    "741a6d641a6a": {
+      "company": "Intuit",
+      "role": "Business Data Analyst Intern - Strategy & Planning",
+      "location": "Mountain View, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1627,
+      "chat_id": 8619425244
+    },
+    "f4f3bfb4dd37": {
+      "company": "\ud83d\udd25 Pinterest",
+      "role": "Machine Learning Intern \ud83c\udf93",
+      "location": "4 locationsPalo Alto, CA Seattle, WA SF NYC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1629,
+      "chat_id": 8619425244
+    },
+    "57560202e49a": {
+      "company": "\ud83d\udd25 Pinterest",
+      "role": "Data Science Intern \ud83c\udf93",
+      "location": "4 locationsPalo Alto, CA Seattle, WA SF NYC",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1631,
+      "chat_id": 8619425244
+    },
+    "1dff886bb48a": {
+      "company": "Primient",
+      "role": "Digital Data & Analytics Intern",
+      "location": "Schaumburg, IL",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1632,
+      "chat_id": 8619425244
+    },
+    "598b3eddfd93": {
+      "company": "Freddie Mac",
+      "role": "Multifamily Capital Markets Analytics & Engineering Intern",
+      "location": "McLean, VA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1633,
+      "chat_id": 8619425244
+    },
+    "12ad171cc7ac": {
+      "company": "Cigna Group",
+      "role": "Product Analytics Intern",
+      "location": "Morris Plains, NJ St. Louis, MO",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1634,
       "chat_id": 8619425244
     }
   },
