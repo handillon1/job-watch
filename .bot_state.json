@@ -10380,7 +10380,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1266,
+      "message_id": 1598,
       "chat_id": 8619425244
     },
     "6d5764bdff00": {
@@ -12541,6 +12541,16 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1596,
+      "chat_id": 8619425244
+    },
+    "8cba6c13cb73": {
+      "company": "Keysight Technologies",
+      "role": "Process AI Automation Intern",
+      "location": "Austin, TX",
+      "term": "Winter 2026",
+      "apply_url": "https://jobs.keysight.com/jobs/54637?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1597,
       "chat_id": 8619425244
     }
   },
