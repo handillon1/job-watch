@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f3edfa7c1f818306ca799691f803521993414df3",
+    "last_sha": "d3467a16a922c492cf0f2e646bd19dcee85bde9b",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -8084,7 +8084,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f3edfa7c1f818306ca799691f803521993414df3",
+    "last_sha": "d3467a16a922c492cf0f2e646bd19dcee85bde9b",
     "rows": [
       [
         "Southwest Airlines",
@@ -9091,6 +9091,13 @@
         "Constellation Energy",
         "Business Performance & Analytics Intern",
         "Houston, TX",
+        "",
+        ""
+      ],
+      [
+        "Walmart",
+        "Data Science Intern 3",
+        "Bentonville, AR",
         "",
         ""
       ],
