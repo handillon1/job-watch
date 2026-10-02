@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "81cf83486887143cac8fddd7b4b7d2eedd05608b",
+    "last_sha": "0a3ac427d64bff753415658eb1b474d8dd45afb2",
     "rows": [
       [
         "\ud83d\udd25 Stripe",
@@ -4055,13 +4055,6 @@
         "Atlanta, GA",
         "Spring 2026",
         "http://prizepicks.com/position?gh_jid=8008103003&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Intel",
-        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
-        "Remote in USA",
-        "Winter 2026",
-        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Abbott",
@@ -5175,6 +5168,13 @@
         "Palo Alto, CA SF",
         "Fall 2026",
         "https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2026",
+        ""
       ],
       [
         "Bosch Home Comfort",
@@ -8217,7 +8217,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "81cf83486887143cac8fddd7b4b7d2eedd05608b",
+    "last_sha": "0a3ac427d64bff753415658eb1b474d8dd45afb2",
     "rows": [
       [
         "Datacor",
@@ -8320,6 +8320,13 @@
       [
         "General Motors",
         "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
         "Sunnyvale, CA",
         "",
         ""
