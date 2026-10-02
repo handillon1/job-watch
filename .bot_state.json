@@ -5340,7 +5340,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 658,
+      "message_id": 1663,
       "chat_id": 8619425244
     },
     "160a55787ab5": {
@@ -10440,7 +10440,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1635,
+      "message_id": 1662,
       "chat_id": 8619425244
     },
     "e37855ffe9c3": {
@@ -12870,7 +12870,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1637,
+      "message_id": 1660,
       "chat_id": 8619425244
     },
     "93d382bd7913": {
@@ -12880,7 +12880,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1642,
+      "message_id": 1661,
       "chat_id": 8619425244
     },
     "d2fb22bc3824": {
@@ -12981,6 +12981,66 @@
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
       "message_id": 1652,
+      "chat_id": 8619425244
+    },
+    "3220a967a664": {
+      "company": "MasterControl",
+      "role": "AI/ML Engineer Intern",
+      "location": "United States",
+      "term": "Winter 2026",
+      "apply_url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1654,
+      "chat_id": 8619425244
+    },
+    "dcbc0cb31d24": {
+      "company": "DISA Technologies",
+      "role": "Data Engineering & ML Intern",
+      "location": "Casper, WY",
+      "term": "Winter 2026",
+      "apply_url": "https://apply.workable.com/disa-technologies/j/73E7609B99/apply?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1655,
+      "chat_id": 8619425244
+    },
+    "777eecfed454": {
+      "company": "Deloitte",
+      "role": "Business Analytics Summer Scholar Intern - Government & Public Services - Business Analytics",
+      "location": "Sacramento, CA",
+      "term": "Winter 2026",
+      "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Business-Analytics/362481?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1656,
+      "chat_id": 8619425244
+    },
+    "6633caa49aa2": {
+      "company": "Intuit",
+      "role": "Finance Transformation & Analytics Intern",
+      "location": "Mountain View, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1657,
+      "chat_id": 8619425244
+    },
+    "41d5209cc26f": {
+      "company": "General Motors",
+      "role": "Machine Learning Engineer Intern - AV/AI Platform",
+      "location": "Sunnyvale, CA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1658,
+      "chat_id": 8619425244
+    },
+    "33a46ad20371": {
+      "company": "American Family Insurance Group",
+      "role": "GenAI/ML Intern",
+      "location": "Madison, WI Boston, MA",
+      "term": "",
+      "apply_url": "",
+      "source": "Simplify Summer 2027 main (DS/AI/ML)",
+      "message_id": 1659,
       "chat_id": 8619425244
     }
   },

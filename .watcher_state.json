@@ -3893,8 +3893,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "9f7059310c95d9b3e9955a2aad232c8d98300099",
+    "last_sha": "31e8246393d80b7034a4a1234ac3aa4d03928163",
     "rows": [
+      [
+        "MasterControl",
+        "AI/ML Engineer Intern",
+        "United States",
+        "Winter 2026",
+        "https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "DISA Technologies",
+        "Data Engineering & ML Intern",
+        "Casper, WY",
+        "Winter 2026",
+        "https://apply.workable.com/disa-technologies/j/73E7609B99/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Graphcore",
         "Machine Learning and Data Science Engineer Intern",
@@ -5107,6 +5121,13 @@
         "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Deloitte",
+        "Business Analytics Summer Scholar Intern - Government & Public Services - Business Analytics",
+        "Sacramento, CA",
+        "Winter 2026",
+        "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Business-Analytics/362481?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Commercial Metals",
         "AI Intern",
         "Irving, TX",
@@ -5182,6 +5203,13 @@
         "Redmond, WA",
         "Fall 2026",
         "https://apply.careers.microsoft.com/careers/job/1970393556922929?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "NBT Bank",
+        "Data Warehouse & Analytics Intern",
+        "Williamsville, NY",
+        "Fall 2026",
+        "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Bosch Home Comfort",
@@ -6195,13 +6223,6 @@
         "The Federal Reserve System",
         "Graduate Statistical Analysis Intern - Regional & Community Outreach",
         "Boston, MA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "NBT Bank",
-        "Data Warehouse & Analytics Intern",
-        "Williamsville, NY",
         "Fall 2026",
         ""
       ],
@@ -8245,8 +8266,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "9f7059310c95d9b3e9955a2aad232c8d98300099",
+    "last_sha": "31e8246393d80b7034a4a1234ac3aa4d03928163",
     "rows": [
+      [
+        "Intuit",
+        "Finance Transformation & Analytics Intern",
+        "Mountain View, CA",
+        "",
+        ""
+      ],
       [
         "Regeneron Pharmaceuticals",
         "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
@@ -8269,6 +8297,13 @@
         ""
       ],
       [
+        "General Motors",
+        "Machine Learning Engineer Intern - AV/AI Platform",
+        "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
         "Elevance Health",
         "Data Analytics Intern",
         "4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
@@ -8279,6 +8314,13 @@
         "Elevance Health",
         "Data Analyst Graduate Intern \ud83c\udf93",
         "4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
+        "",
+        ""
+      ],
+      [
+        "American Family Insurance Group",
+        "GenAI/ML Intern",
+        "Madison, WI Boston, MA",
         "",
         ""
       ],
@@ -8377,6 +8419,20 @@
         "Primient",
         "Digital Data & Analytics Intern",
         "Schaumburg, IL",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
+        "Sunnyvale, CA",
         "",
         ""
       ],
@@ -9119,6 +9175,13 @@
         "Oshkosh",
         "Advanced Analytics Intern",
         "Frederick, MD",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
         "",
         ""
       ],
@@ -10474,6 +10537,13 @@
         ""
       ],
       [
+        "Deloitte",
+        "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
+        "Austin, TX",
+        "",
+        ""
+      ],
+      [
         "\ud83d\udd25 ByteDance",
         "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
         "Seattle, WA",
@@ -10680,13 +10750,6 @@
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - Commercial AI-CRM and Transaction \ud83c\udf93",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "StepStone Group",
-        "AI Intern \ud83c\udf93",
-        "La Jolla, San Diego, CA",
         "",
         ""
       ]
