@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "90e174a5fda87e002ade95f5b06465fad03b1b61",
+    "last_sha": "77769c87ad41326c644377c58c7a486b42640a83",
     "rows": [
       [
         "\ud83d\udd25 Stripe",
@@ -4160,13 +4160,6 @@
         "Miami, FL",
         "Winter 2026",
         "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Heven AeroTech",
-        "AI / Machine Learning Intern",
-        "Winchester, VA Bingen, WA",
-        "Winter 2026",
-        "https://job-boards.greenhouse.io/hevenaerotech/jobs/4410288009?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Susquehanna International Group",
@@ -5170,13 +5163,6 @@
         "https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 ByteDance",
-        "Research Scientist Intern - AI Infra Compute \ud83c\udf93",
-        "San Jose, CA",
-        "Fall 2026",
-        "https://jobs.bytedance.com/en/position/7667379221434796341/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Bosch Home Comfort",
         "Multi-modal Sensing AI Research Intern \ud83c\udf93",
         "Pittsburgh, PA",
@@ -5188,6 +5174,13 @@
         "Data Science/AI Intern",
         "Chesterfield, MO",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Heven AeroTech",
+        "AI / Machine Learning Intern",
+        "Winchester, VA Bingen, WA",
+        "Winter 2026",
         ""
       ],
       [
@@ -6202,6 +6195,13 @@
         "Aramark",
         "Data Analyst Intern",
         "Newark, DE",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 ByteDance",
+        "Research Scientist Intern - AI Infra Compute \ud83c\udf93",
+        "San Jose, CA",
         "Fall 2026",
         ""
       ],
@@ -8210,7 +8210,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "90e174a5fda87e002ade95f5b06465fad03b1b61",
+    "last_sha": "77769c87ad41326c644377c58c7a486b42640a83",
     "rows": [
       [
         "Datacor",
@@ -8915,13 +8915,6 @@
       [
         "APEX Analytix",
         "Data Science Intern",
-        "Greensboro, NC",
-        "",
-        ""
-      ],
-      [
-        "APEX Analytix",
-        "Data Analyst Intern - Summer 2027",
         "Greensboro, NC",
         "",
         ""
@@ -10279,13 +10272,6 @@
       ],
       [
         "\ud83d\udd25 AMD",
-        "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-        "San Jose, CA Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 AMD",
         "Data Analyst Intern/Co-op",
         "San Jose, CA Santa Clara, CA",
         "",
@@ -10701,13 +10687,6 @@
         "StepStone Group",
         "AI Intern \ud83c\udf93",
         "La Jolla, San Diego, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "AI Perception Intern - Pico \ud83c\udf93",
-        "San Jose, CA",
         "",
         ""
       ]
