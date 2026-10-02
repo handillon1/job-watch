@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "89c3241d464b9d4af93a3727adeeed1d8cf46a91",
+    "last_sha": "5a24c5494bb2b6e9c82c9c25f7412490e43bdc3e",
     "rows": [
       [
         "\ud83d\udd25 Stripe",
@@ -5163,18 +5163,18 @@
         "https://apply.careers.microsoft.com/careers/job/1970393556922929?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "NTT DATA AIVista",
+        "AI Scientist Intern \ud83c\udf93",
+        "Palo Alto, CA SF",
+        "Fall 2026",
+        "https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "\ud83d\udd25 ByteDance",
         "Research Scientist Intern - AI Infra Compute \ud83c\udf93",
         "San Jose, CA",
         "Fall 2026",
         "https://jobs.bytedance.com/en/position/7667379221434796341/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "IntelliGenesis",
-        "Applied Data Scientist Intern",
-        "Columbia, MD",
-        "Fall 2026",
-        "http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Bosch Home Comfort",
@@ -6199,16 +6199,16 @@
         ""
       ],
       [
-        "NTT DATA AIVista",
-        "AI Scientist Intern \ud83c\udf93",
-        "Palo Alto, CA SF",
+        "Aramark",
+        "Data Analyst Intern",
+        "Newark, DE",
         "Fall 2026",
         ""
       ],
       [
-        "Aramark",
-        "Data Analyst Intern",
-        "Newark, DE",
+        "IntelliGenesis",
+        "Applied Data Scientist Intern",
+        "Columbia, MD",
         "Fall 2026",
         ""
       ],
@@ -8217,7 +8217,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "89c3241d464b9d4af93a3727adeeed1d8cf46a91",
+    "last_sha": "5a24c5494bb2b6e9c82c9c25f7412490e43bdc3e",
     "rows": [
       [
         "Datacor",
@@ -8314,6 +8314,20 @@
         "Primient",
         "Digital Data & Analytics Intern",
         "Schaumburg, IL",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
+        "Sunnyvale, CA",
         "",
         ""
       ],
@@ -10721,111 +10735,6 @@
       [
         "\ud83d\udd25 ByteDance",
         "AI Perception Intern - Pico \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Recommendation \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Trust and Safety \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Scientist Intern - Recommendation \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Data Search Search Quality \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Search Quality",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Basic Ranking \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Data Search - Visual Search \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
-        "Seattle, WA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Artificial Intelligence Engineer Intern - Client Architecture",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Scientist Intern - Content Ecology - LLM Application \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Scientist Intern \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics \ud83c\udf93",
         "San Jose, CA",
         "",
         ""
