@@ -12500,7 +12500,7 @@
       "term": "",
       "apply_url": "",
       "source": "Simplify Summer 2027 main (DS/AI/ML)",
-      "message_id": 1592,
+      "message_id": 1644,
       "chat_id": 8619425244
     },
     "e6ac81ccda9e": {
@@ -12891,6 +12891,16 @@
       "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361305?utm_source=Simplify&ref=Simplify",
       "source": "Simplify Off-Season (DS/AI/ML)",
       "message_id": 1640,
+      "chat_id": 8619425244
+    },
+    "ca72ba87032b": {
+      "company": "Graphcore",
+      "role": "Machine Learning and Data Science Engineer Intern",
+      "location": "Austin, TX",
+      "term": "Winter 2026",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify Off-Season (DS/AI/ML)",
+      "message_id": 1643,
       "chat_id": 8619425244
     }
   },

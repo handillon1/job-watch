@@ -3893,8 +3893,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "88a575ea8b246a48be1cee10bff9d599db80e493",
+    "last_sha": "6098658b9f70d400b78db198d88dcb142dc6f12d",
     "rows": [
+      [
+        "Graphcore",
+        "Machine Learning and Data Science Engineer Intern",
+        "Austin, TX",
+        "Winter 2026",
+        "https://job-boards.greenhouse.io/graphcore/jobs/8862951002?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Stripe",
         "Data Analyst Intern",
@@ -8217,7 +8224,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "88a575ea8b246a48be1cee10bff9d599db80e493",
+    "last_sha": "6098658b9f70d400b78db198d88dcb142dc6f12d",
     "rows": [
       [
         "Datacor",
@@ -8370,6 +8377,13 @@
         "\ud83d\udd25 Amazon",
         "Applied Science Intern - Information & Knowledge Management \ud83c\udf93",
         "Seattle, WA",
+        "",
+        ""
+      ],
+      [
+        "Life Fitness",
+        "Marketing Analytics Intern",
+        "Rosemont, IL",
         "",
         ""
       ],
