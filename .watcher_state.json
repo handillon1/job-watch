@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "4c5f395a6a08b792d957b09e3149d8def99ab954",
+    "last_sha": "61335a92c88c0d358fdf933fc85f9aa22456e5c5",
     "rows": [
       [
         "\ud83d\udd25 Stripe",
@@ -4251,13 +4251,6 @@
         "Atlanta, GA",
         "Winter 2026",
         "https://jobs.incommpayments.com/jobs/22186?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "The Aerospace Corporation",
-        "Machine Learning Engineer Intern",
-        "Chantilly, VA El Segundo, CA",
-        "Winter 2026",
-        "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Mastercard",
@@ -5265,6 +5258,13 @@
         "Consumer Insight Data Analyst Intern",
         "Celebration, FL",
         "Winter 2027",
+        ""
+      ],
+      [
+        "The Aerospace Corporation",
+        "Machine Learning Engineer Intern",
+        "Chantilly, VA El Segundo, CA",
+        "Winter 2026",
         ""
       ],
       [
@@ -8217,7 +8217,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "4c5f395a6a08b792d957b09e3149d8def99ab954",
+    "last_sha": "61335a92c88c0d358fdf933fc85f9aa22456e5c5",
     "rows": [
       [
         "Datacor",
