@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "99575929ec85702cf86541d981b1fecdda49e0f6",
+    "last_sha": "eaee1bbead7a362de93041c8e278c13f8877123b",
     "rows": [
       [
         "Graphcore",
@@ -3908,6 +3908,13 @@
         "Rochester, NY",
         "Winter 2026",
         "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243644?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Analytics & Digital Tools Co-op",
+        "Rensselaer, NY",
+        "Spring 2026, Summer 2026, Fall 2026",
+        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Stripe",
@@ -8231,7 +8238,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "99575929ec85702cf86541d981b1fecdda49e0f6",
+    "last_sha": "eaee1bbead7a362de93041c8e278c13f8877123b",
     "rows": [
       [
         "Regeneron Pharmaceuticals",
@@ -9126,13 +9133,6 @@
         "BlueCross BlueShield of Nebraska",
         "Healthcare Analytics Intern",
         "Omaha, NE",
-        "",
-        ""
-      ],
-      [
-        "AtkinsR\u00e9alis",
-        "Data Scientist Intern - Summer 2027",
-        "Tempe, AZ",
         "",
         ""
       ],
