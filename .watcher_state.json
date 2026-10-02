@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "cb0a0542369b83d46550472300ec793758aa85cc",
+    "last_sha": "608e830756ffc1c8a8cc3708a54f87069b212405",
     "rows": [
       [
         "\ud83d\udd25 Stripe",
@@ -4183,6 +4183,13 @@
         "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Johnson & Johnson",
+        "Data Science Co-op - Critical Care - Applied Sciences & AI",
+        "Danvers, MA",
+        "Winter 2026",
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Ivy Tech Community College",
         "Data Analysis Intern",
         "Indianapolis, IN",
@@ -4454,13 +4461,6 @@
         "United States",
         "Winter 2026",
         "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Cone Health",
-        "Healthcare Innovation Intern - AI",
-        "Greensboro, NC",
-        "Winter 2027",
-        "https://careers.conehealth.com/us/en/job/JR155166?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -5100,6 +5100,13 @@
         "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "FC Industries",
+        "Business Intelligence Analyst/Data Engineering Intern",
+        "Dayton, OH",
+        "Winter 2026",
+        "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361305?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance \ud83c\udf93",
         "Seattle, WA",
@@ -5180,13 +5187,6 @@
         "The US Oncology Network",
         "Data Analyst Intern",
         "Dallas, TX",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Johnson & Johnson",
-        "Data Science Co-op - Critical Care - Applied Sciences & AI",
-        "Danvers, MA",
         "Winter 2026",
         ""
       ],
@@ -5405,6 +5405,13 @@
         "AI Solutions Engineer Intern",
         "Hillsboro, OR",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Cone Health",
+        "Healthcare Innovation Intern - AI",
+        "Greensboro, NC",
+        "Winter 2027",
         ""
       ],
       [
@@ -8210,7 +8217,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "cb0a0542369b83d46550472300ec793758aa85cc",
+    "last_sha": "608e830756ffc1c8a8cc3708a54f87069b212405",
     "rows": [
       [
         "Datacor",
@@ -8727,13 +8734,6 @@
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - E-Commerce Recommendation Mall \ud83c\udf93",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "Flex",
-        "Manufacturing Data & Analytics Co-op",
-        "Libertyville, IL",
         "",
         ""
       ],
@@ -10294,13 +10294,6 @@
       [
         "\ud83d\udd25 AMD",
         "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence \ud83c\udf93",
-        "San Jose, CA Santa Clara, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 AMD",
-        "Data Analyst Intern/Co-op \ud83c\udf93",
         "San Jose, CA Santa Clara, CA",
         "",
         ""
