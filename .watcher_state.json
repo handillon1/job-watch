@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "458beb828fab08555f507c1bf49397e22150d9ca",
+    "last_sha": "88b69ed4816ac20d40de8403e51a451cfe985e58",
     "rows": [
       [
         "MasterControl",
@@ -4946,13 +4946,6 @@
         "https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Micron Technology",
-        "Marketing Analytics Intern - Global Communications & Marketing \ud83c\udf93",
-        "Meridian, ID",
-        "Fall 2026",
-        "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 Netflix",
         "Machine Learning Scientist Intern - AI \ud83c\udf93",
         "Los Gatos, CA",
@@ -5733,6 +5726,13 @@
         "U.S. Venture",
         "Data Science Intern - Breakthrough",
         "Green Bay, WI Wisconsin",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "Marketing Analytics Intern - Global Communications & Marketing \ud83c\udf93",
+        "Meridian, ID",
         "Fall 2026",
         ""
       ],
@@ -8259,7 +8259,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "458beb828fab08555f507c1bf49397e22150d9ca",
+    "last_sha": "88b69ed4816ac20d40de8403e51a451cfe985e58",
     "rows": [
       [
         "Intuit",
@@ -10092,13 +10092,6 @@
         "Stryker",
         "Data Analytics Intern - Multiple Teams",
         "Portage, MI",
-        "",
-        ""
-      ],
-      [
-        "NiSource",
-        "Change Management Analytics Intern",
-        "Columbus, OH",
         "",
         ""
       ],
