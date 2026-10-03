@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "028037764575ee9b3bb4b1bdcdeaf051da8af89d",
+    "last_sha": "169ef2c6835d68c35ada15b71e392aa893a2b8ea",
     "rows": [
       [
         "MasterControl",
@@ -4400,6 +4400,13 @@
         "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "\ud83d\udd25 Intel",
+        "Operations Research Engineering Analytics Intern \ud83c\udf93",
+        "Phoenix, AZ",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Ancestry",
         "Data Science Co-op - AI Document Understanding \ud83c\udf93",
         "Remote in USA",
@@ -4790,13 +4797,6 @@
         "Shakopee, MN",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009657?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Emerson Electric",
-        "Machine Learning Co-op",
-        "Marshalltown, IA",
-        "Winter 2026",
-        "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Emerson Electric",
@@ -5352,13 +5352,6 @@
         ""
       ],
       [
-        "\ud83d\udd25 Intel",
-        "Operations Research Engineering Analytics Intern \ud83c\udf93",
-        "Phoenix, AZ",
-        "Winter 2026",
-        ""
-      ],
-      [
         "VersaDesk",
         "Data Analyst Intern",
         "LA",
@@ -5594,6 +5587,13 @@
         "Data Analytics Apprentice - February 2027 Start",
         "4 locationsLA Chicago, IL NYC Atlanta, GA",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Emerson Electric",
+        "Machine Learning Co-op",
+        "Marshalltown, IA",
+        "Winter 2026",
         ""
       ],
       [
@@ -8259,7 +8259,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "028037764575ee9b3bb4b1bdcdeaf051da8af89d",
+    "last_sha": "169ef2c6835d68c35ada15b71e392aa893a2b8ea",
     "rows": [
       [
         "Intuit",
@@ -8286,6 +8286,13 @@
         "Great American Insurance Company",
         "Enterprise Analytics Intern",
         "Cincinnati, OH",
+        "",
+        ""
+      ],
+      [
+        "General Motors",
+        "Machine Learning Engineer Intern - AV/AI Platform",
+        "Sunnyvale, CA",
         "",
         ""
       ],
