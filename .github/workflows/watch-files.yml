@@ -2,12 +2,7 @@ name: Watch files in external repo
 
 on:
   schedule:
-    # Times are UTC. Calibrated for PDT (UTC-7). During PST (Nov-Mar) the
-    # local Pacific times shift ~1 hour earlier (e.g. awake window becomes
-    # 5am-11pm PT instead of 6am-midnight PT). Adjust if it bothers you.
-    - cron: '*/15 13-23 * * *'  # every 15 min, 6:00am-4:45pm PT
-    - cron: '*/15 0-6 * * *'    # every 15 min, 5:00pm-11:45pm PT
-    - cron: '0 7-12 * * *'      # hourly, midnight-5:00am PT
+    - cron: '*/15 * * * *'  # every 15 min, all day (UTC-based, so no DST adjustment needed)
   workflow_dispatch:
 
 permissions:
@@ -286,12 +281,18 @@ jobs:
                       company = last_company or "↳"
                   else:
                       last_company = company
+                  # Off-Season tables: Company | Role | Location | Terms | Application | Age
+                  # Main README tables: Company | Role | Location | Application | Age (no Terms)
+                  if len(cells) >= 6:
+                      term, apply_cell = strip_html(cells[3]), cells[4]
+                  else:
+                      term, apply_cell = "", cells[3]
                   rows.append([
                       company,
                       strip_html(cells[1]),
                       strip_html(cells[2]),
-                      strip_html(cells[3]),
-                      extract_apply_url(cells[4]),
+                      term,
+                      extract_apply_url(apply_cell),
                   ])
               return rows
 
@@ -325,7 +326,7 @@ jobs:
 
           def fmt(entry):
               company, role, location, term, apply_url = entry[0], entry[1], entry[2], entry[3], entry[4]
-              base = f"{company} — {role} | {location} | {term}"
+              base = " | ".join(x for x in (f"{company} — {role}", location, term) if x)
               if apply_url:
                   return f"{base}\n  {apply_url}"
               return base
@@ -336,6 +337,9 @@ jobs:
           def normalize_for_key(s):
               kept = [c for c in s if unicodedata.category(c) not in ('So', 'Sk', 'Cf')]
               return ' '.join(''.join(kept).split()).strip()
+
+          def key_str(r):
+              return "|".join(row_key(r))
 
           def row_key(r):
               return (
@@ -414,15 +418,21 @@ jobs:
                       print(f"WARNING: extracted 0 rows from {repo_key} but had {len(prev_rows)} previously; skipping state update.")
                       continue
 
-                  new_state = {"last_sha": latest_sha, "rows": curr_rows}
+                  # "seen" = every listing this watcher has ever recorded. A row Simplify
+                  # drops for one update and restores later stays in "seen", so it won't
+                  # re-alert. Seeded from the previous snapshot the first time this runs.
+                  seen = set(saved.get("seen") or [])
+                  if prev_rows:
+                      seen.update(key_str(r) for r in prev_rows)
+                  new_listings = [r for r in curr_rows if key_str(r) not in seen]
+                  seen.update(key_str(r) for r in curr_rows)
+
+                  new_state = {"last_sha": latest_sha, "rows": curr_rows, "seen": sorted(seen)}
 
                   if prev_rows is None:
                       print(f"Bootstrapped {repo_key} at {latest_sha} with {len(curr_rows)} rows.")
                       state[repo_key] = new_state
                       continue
-
-                  prev_keys = {row_key(r) for r in prev_rows}
-                  new_listings = [r for r in curr_rows if row_key(r) not in prev_keys]
 
                   for entry in new_listings:
                       h = job_hash(entry, w["label"])
