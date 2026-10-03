@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d5b8a34326867ab0567ea70514a1743bf5dc3a69",
+    "last_sha": "55e0daa317fb82eef2b48b720cf9d44213c72d2b",
     "rows": [
       [
         "MasterControl",
@@ -4545,13 +4545,6 @@
         "Charlotte, NC",
         "Winter 2026",
         "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Dominion Energy",
-        "Business Intelligence Analyst Intern - Design COE",
-        "Richmond, VA",
-        "Winter 2026",
-        "https://careers.dominionenergy.com/job/RICHMOND-Intern-Associate-Business-Intelligence-Analyst-(Design-COE)-VA-23219/1428771400/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Gables Residential",
@@ -5461,6 +5454,13 @@
         "Healthcare Innovation Intern - AI",
         "Salt Lake City, UT",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Dominion Energy",
+        "Business Intelligence Analyst Intern - Design COE",
+        "Richmond, VA",
+        "Winter 2026",
         ""
       ],
       [
@@ -8259,7 +8259,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d5b8a34326867ab0567ea70514a1743bf5dc3a69",
+    "last_sha": "55e0daa317fb82eef2b48b720cf9d44213c72d2b",
     "rows": [
       [
         "Intuit",
