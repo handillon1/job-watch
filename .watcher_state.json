@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "627f391a69fd65abc0a9c91e9c4da7c40bc9562b",
+    "last_sha": "028037764575ee9b3bb4b1bdcdeaf051da8af89d",
     "rows": [
       [
         "MasterControl",
@@ -4398,13 +4398,6 @@
         "Baton Rouge, LA",
         "Spring 2027",
         "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Intel",
-        "Operations Research Engineering Analytics Intern \ud83c\udf93",
-        "Phoenix, AZ",
-        "Winter 2026",
-        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ancestry",
@@ -5356,6 +5349,13 @@
         "Portfolio Reference Data Analyst Co-op",
         "Boston, MA",
         "Winter 2027",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Operations Research Engineering Analytics Intern \ud83c\udf93",
+        "Phoenix, AZ",
+        "Winter 2026",
         ""
       ],
       [
@@ -8259,7 +8259,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "627f391a69fd65abc0a9c91e9c4da7c40bc9562b",
+    "last_sha": "028037764575ee9b3bb4b1bdcdeaf051da8af89d",
     "rows": [
       [
         "Intuit",
@@ -8286,13 +8286,6 @@
         "Great American Insurance Company",
         "Enterprise Analytics Intern",
         "Cincinnati, OH",
-        "",
-        ""
-      ],
-      [
-        "General Motors",
-        "Machine Learning Engineer Intern - AV/AI Platform",
-        "Sunnyvale, CA",
         "",
         ""
       ],
@@ -8985,13 +8978,6 @@
       [
         "APEX Analytix",
         "Data Science Intern",
-        "Greensboro, NC",
-        "",
-        ""
-      ],
-      [
-        "APEX Analytix",
-        "Data Analyst Intern - Summer 2027",
         "Greensboro, NC",
         "",
         ""
@@ -10068,13 +10054,6 @@
         ""
       ],
       [
-        "NiSource",
-        "People Analytics Intern",
-        "Columbus, OH",
-        "",
-        ""
-      ],
-      [
         "DraftKings",
         "Analytics Intern - Summer 2027",
         "Boston, MA",
@@ -10162,13 +10141,6 @@
         "Booz Allen",
         "Data Scientist Intern - University",
         "San Diego, CA",
-        "",
-        ""
-      ],
-      [
-        "Verisk",
-        "AI Intern - Summer Internship Program",
-        "Jersey City, NJ",
         "",
         ""
       ],
