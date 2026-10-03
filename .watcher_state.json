@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "169ef2c6835d68c35ada15b71e392aa893a2b8ea",
+    "last_sha": "df918d298289a6b203c53a99a1eab75acbbc0b15",
     "rows": [
       [
         "MasterControl",
@@ -4800,6 +4800,13 @@
       ],
       [
         "Emerson Electric",
+        "Machine Learning Co-op",
+        "Marshalltown, IA",
+        "Winter 2026",
+        "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Emerson Electric",
         "Data Science Engineering Intern",
         "Boulder, CO",
         "Winter 2026",
@@ -5154,13 +5161,6 @@
         "San Jose, CA",
         "Fall 2026",
         "https://lifeattiktok.com/search/7670120579999385861?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch \ud83c\udf93",
-        "San Jose, CA",
-        "Fall 2026",
-        "https://lifeattiktok.com/search/7667935568626043141?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Bosch Home Comfort",
@@ -5587,13 +5587,6 @@
         "Data Analytics Apprentice - February 2027 Start",
         "4 locationsLA Chicago, IL NYC Atlanta, GA",
         "Winter 2027",
-        ""
-      ],
-      [
-        "Emerson Electric",
-        "Machine Learning Co-op",
-        "Marshalltown, IA",
-        "Winter 2026",
         ""
       ],
       [
@@ -6181,6 +6174,13 @@
         "Simple Technology Solutions",
         "AI Apprentice",
         "Remote in USA",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch \ud83c\udf93",
+        "San Jose, CA",
         "Fall 2026",
         ""
       ],
@@ -8259,7 +8259,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "169ef2c6835d68c35ada15b71e392aa893a2b8ea",
+    "last_sha": "df918d298289a6b203c53a99a1eab75acbbc0b15",
     "rows": [
       [
         "Intuit",
@@ -10561,90 +10561,6 @@
         "\ud83d\udd25 TikTok",
         "Data Science Intern - TikTok Product",
         "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Lead Ads",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce",
-        "Seattle, WA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Data Science Intern - TikTok Live",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Data Science Intern - Integrity and Safety",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Brand Ads",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Performance Monetization \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - App Ads and Gaming",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Search Ads",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Machine Learning Engineer Intern - Performance Monetization",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Research Intern - AI Compute Efficiency & Scheduling \ud83c\udf93",
-        "San Jose, CA",
-        "",
-        ""
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Research Intern - AI Compute Efficiency & Scheduling \ud83c\udf93",
-        "Seattle, WA",
         "",
         ""
       ]
