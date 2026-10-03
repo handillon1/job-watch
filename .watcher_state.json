@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bb611613b2bcbf9f3684fe8dbba757992c7243ec",
+    "last_sha": "574bd07d0b665fb205b8ed1ef7a952b5e8424632",
     "rows": [
       [
         "MasterControl",
@@ -4631,6 +4631,13 @@
         "https://apply.workable.com/syntiant/j/113F994B7B/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Flagship Pioneering",
+        "Data Science Co-op - Embedded Science Team",
+        "Cambridge, MA",
+        "Winter 2026",
+        "https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Hoffman Construction",
         "Data Analyst Intern",
         "Amarillo, TX",
@@ -4727,6 +4734,13 @@
         "Remote in USA",
         "Winter 2026",
         "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Flagship Pioneering",
+        "Agentic AI Co-op \ud83c\udf93",
+        "Cambridge, MA",
+        "Winter 2026",
+        "https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -4951,6 +4965,27 @@
         "Lake Mary, FL",
         "Fall 2026",
         "https://mhicareers.com/job/Lake-Mary-IT-Data-&-Analytics-Intern-FL-32746/1429739133/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Meridian Partners",
+        "Data Scientist Co-op",
+        "Cambridge, MA Arlington County, Arlington, VA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Meridian Partners",
+        "Machine Learning Engineer Co-op",
+        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Meridian Partners",
+        "Data Scientist Co-op",
+        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Audax Group",
@@ -5450,13 +5485,6 @@
         ""
       ],
       [
-        "Flagship Pioneering",
-        "Data Science Co-op - Embedded Science Team",
-        "Cambridge, MA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "Formlabs",
         "AI Software Intern",
         "Somerville, MA",
@@ -5516,13 +5544,6 @@
         "Clorox",
         "Sales & Customer Analytics Co-op",
         "5 locationsBentonville, AR Oakland, CA Pleasanton, CA Durham, NC Mason, OH",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Flagship Pioneering",
-        "Agentic AI Co-op \ud83c\udf93",
-        "Cambridge, MA",
         "Winter 2026",
         ""
       ],
@@ -5761,27 +5782,6 @@
         "Bosch Home Comfort",
         "AI Security Research Intern \ud83c\udf93",
         "Pittsburgh, PA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Meridian Partners",
-        "Data Scientist Co-op",
-        "Cambridge, MA Arlington County, Arlington, VA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Meridian Partners",
-        "Machine Learning Engineer Co-op",
-        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "Meridian Partners",
-        "Data Scientist Co-op",
-        "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
         "Fall 2026",
         ""
       ],
@@ -8252,7 +8252,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bb611613b2bcbf9f3684fe8dbba757992c7243ec",
+    "last_sha": "574bd07d0b665fb205b8ed1ef7a952b5e8424632",
     "rows": [
       [
         "First Citizens BancShares",
@@ -8423,6 +8423,13 @@
         ""
       ],
       [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        ""
+      ],
+      [
         "Freddie Mac",
         "Multifamily Capital Markets Analytics & Engineering Intern",
         "McLean, VA",
@@ -8447,6 +8454,13 @@
         "ITT",
         "Data Analytics / AI Intern - Summer 2027",
         "Irvine, CA",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Robinhood",
+        "Data Science Intern",
+        "Menlo Park, CA",
         "",
         ""
       ],
@@ -8552,6 +8566,13 @@
         "Johns Hopkins Applied Physics Laboratory",
         "Artificial Intelligence and Machine Learning Intern - Research Assistant",
         "Laurel, MD",
+        "",
+        ""
+      ],
+      [
+        "\ud83d\udd25 DoorDash",
+        "Machine Learning Engineer Intern - Masters \ud83c\udf93",
+        "4 locationsSeattle, WA SF NYC Sunnyvale, CA",
         "",
         ""
       ],
@@ -9798,6 +9819,20 @@
         "Western & Southern Financial Group",
         "Data Engineering and Analytics Intern - Summer 2027",
         "Cincinnati, OH",
+        "",
+        ""
+      ],
+      [
+        "Dev Technology Group",
+        "Microsoft Power Platform & AI Intern - Summer 2027",
+        "Reston, VA",
+        "",
+        ""
+      ],
+      [
+        "Dev Technology Group",
+        "AI/ML Intern - Summer 2027",
+        "Reston, VA",
         "",
         ""
       ],
