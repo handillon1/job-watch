@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "e1a57c1562d749841838a8a716dbeb100c4e0cf3",
+    "last_sha": "1a64eb3f38e5d2a6d223f50f3d9c7048536d77fa",
     "rows": [
       [
         "DISA Technologies",
@@ -3922,13 +3922,6 @@
         "Rensselaer, NY",
         "Spring 2026, Summer 2026, Fall 2026",
         "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Bose",
-        "Data Science Co-op - NLP & GenAI",
-        "Framingham, MA Atlanta, GA",
-        "Winter 2027, Spring 2027",
-        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Stand Together",
@@ -4295,6 +4288,13 @@
         "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Ancestry",
+        "Data Science Co-op - AI Document Understanding \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2026",
+        "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "HF Sinclair",
         "Engineering Analytics Intern",
         "Dallas, TX",
@@ -4372,6 +4372,20 @@
         "https://www.tesla.com/careers/search/job/283138?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Garmin",
+        "Data Scientist Intern",
+        "Olathe, KS",
+        "Winter 2026",
+        "https://careers.garmin.com/jobs/19926?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "VaynerMedia",
+        "Data Analytics Resident",
+        "LA",
+        "Winter 2027",
+        "https://vaynermedia.com/careers?gh_jid=8097753&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Epiroc",
         "Data Analyst Intern - Digital Solutions Division",
         "Broomfield, CO",
@@ -4384,6 +4398,13 @@
         "Charlotte, NC",
         "Winter 2026",
         "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Dominion Energy",
+        "Business Intelligence Analyst Intern - Design COE",
+        "Richmond, VA",
+        "Winter 2026",
+        "https://careers.dominionenergy.com/job/RICHMOND-Intern-Associate-Business-Intelligence-Analyst-(Design-COE)-VA-23219/1428771400/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Gables Residential",
@@ -4414,11 +4435,32 @@
         "https://job-boards.greenhouse.io/smartlyio/jobs/6186905004?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Robert Bosch Venture Capital",
+        "Data Analytics Intern - Engineering & SAP Operations",
+        "Lincolnshire, IL",
+        "Winter 2026",
+        "https://jobs.smartrecruiters.com/BoschGroup/744000148595878?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Dominion Energy",
+        "Business Intelligence Analyst Intern - Grid Resiliency",
+        "Richmond, VA",
+        "Spring 2028",
+        "https://careers.dominionenergy.com/job/RICHMOND-Intern-Associate-Business-Intelligence-Analyst-(Grid-Resiliency-Richmond,-VA)-VA-23219/1428300200/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Solidigm",
         "Talent Acquisition Data Engineering & Analytics Intern \ud83c\udf93",
         "Rancho Cordova, CA",
         "Fall 2026",
         "https://jobs.smartrecruiters.com/Solidigm/744000148610610?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 TikTok",
+        "Global Customer Experience Business Analytics Intern",
+        "San Jose, CA",
+        "Winter 2026",
+        "https://lifeattiktok.com/search/7681633701767612677?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ankura Consulting Group",
@@ -4454,6 +4496,20 @@
         "Cambridge, MA",
         "Winter 2026",
         "https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Hoffman Construction",
+        "Data Analyst Intern",
+        "Amarillo, TX",
+        "Fall 2026",
+        "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Dominion Energy",
+        "Electrical Engineer Intern - Operations Analytics",
+        "Glen Allen, VA",
+        "Spring 2028",
+        "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
         "OneMain Financial",
@@ -4946,6 +5002,13 @@
         ""
       ],
       [
+        "Bose",
+        "Data Science Co-op - NLP & GenAI",
+        "Framingham, MA Atlanta, GA",
+        "Winter 2027, Spring 2027",
+        ""
+      ],
+      [
         "\ud83d\udd25 Stripe",
         "Data Analyst Intern",
         "Seattle, WA South SF NYC",
@@ -5240,13 +5303,6 @@
         ""
       ],
       [
-        "Ancestry",
-        "Data Science Co-op - AI Document Understanding \ud83c\udf93",
-        "Remote in USA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "VersaDesk",
         "Data Analyst Intern",
         "LA",
@@ -5331,13 +5387,6 @@
         ""
       ],
       [
-        "Garmin",
-        "Data Scientist Intern",
-        "Olathe, KS",
-        "Winter 2026",
-        ""
-      ],
-      [
         "TD Bank",
         "Data Analyst Co-op - Global Technology & Solutions",
         "Mt Laurel Township, NJ",
@@ -5401,13 +5450,6 @@
         ""
       ],
       [
-        "Dominion Energy",
-        "Business Intelligence Analyst Intern - Design COE",
-        "Richmond, VA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "CIM Group",
         "Data Science Intern",
         "LA",
@@ -5429,27 +5471,6 @@
         ""
       ],
       [
-        "Robert Bosch Venture Capital",
-        "Data Analytics Intern - Engineering & SAP Operations",
-        "Lincolnshire, IL",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Dominion Energy",
-        "Business Intelligence Analyst Intern - Grid Resiliency",
-        "Richmond, VA",
-        "Spring 2028",
-        ""
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "Global Customer Experience Business Analytics Intern",
-        "San Jose, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
         "Interstates",
         "Data Analyst Intern",
         "Sioux Center, IA Sioux Falls, SD",
@@ -5464,24 +5485,10 @@
         ""
       ],
       [
-        "Hoffman Construction",
-        "Data Analyst Intern",
-        "Amarillo, TX",
-        "Fall 2026",
-        ""
-      ],
-      [
         "Formlabs",
         "AI Software Intern",
         "Somerville, MA",
         "Winter 2027, Spring 2027",
-        ""
-      ],
-      [
-        "Dominion Energy",
-        "Electrical Engineer Intern - Operations Analytics",
-        "Glen Allen, VA",
-        "Spring 2028",
         ""
       ],
       [
@@ -8743,6 +8750,7 @@
       "University of Texas at Austin|Video and Analytics Intern - Baseball|Austin, TX|Summer 2026, Fall 2026, Winter 2027, Spring 2027",
       "Upstart|Applied Scientist Intern|Remote in USA|Winter 2026",
       "Vantor|AI Engineer Intern|Remote in USA|Winter 2026",
+      "VaynerMedia|Data Analytics Resident|LA|Winter 2027",
       "Verdantas|Environmental Data Analytics Intern - Geographic Information Systems|Syracuse, NY|Winter 2026",
       "Vermeer|Data Analytics and Corporate Strategy Intern|Pella, IA|Winter 2026",
       "VersaDesk|Data Analyst Intern|LA|Winter 2026",
@@ -8780,7 +8788,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "e1a57c1562d749841838a8a716dbeb100c4e0cf3",
+    "last_sha": "1a64eb3f38e5d2a6d223f50f3d9c7048536d77fa",
     "rows": [
       [
         "First Citizens BancShares",
@@ -8886,13 +8894,6 @@
         "Dallas, TX",
         "",
         "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Southwest Airlines",
-        "Safety Analytics Intern",
-        "Dallas, TX",
-        "",
-        "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Primient",
@@ -9420,13 +9421,6 @@
         "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Oshkosh",
-        "Advanced Analytics Intern",
-        "Frederick, MD",
-        "",
-        "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Clarios",
         "People Analytics Intern - Summer 2027",
         "Milwaukee, WI",
@@ -9567,6 +9561,13 @@
         "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Johns Hopkins Applied Physics Laboratory",
+        "AI & Data Science Intern - Analytic Capabilities",
+        "Laurel, MD",
+        "",
+        "https://careers.jhuapl.edu/jobs/60008?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "State Farm",
         "Data Science Intern - Magnet Program - Online MS Analytics \ud83c\udf93",
         "Athens, GA",
@@ -9579,6 +9580,13 @@
         "Houston, TX",
         "",
         "https://jobs.constellationenergy.com/jobs/138770?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Walmart",
+        "Data Science Intern 3",
+        "Bentonville, AR",
+        "",
+        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Securian Financial Group",
@@ -9658,6 +9666,13 @@
         "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Cigna Group",
+        "Data & Analytics Engineering Intern - Technology Development Program",
+        "4 locationsBloomington, MN Morris Plains, NJ St. Louis, MO Bloomfield, CT",
+        "",
+        "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Allen Control Systems",
         "Computer Vision Intern - Machine Learning",
         "Austin, TX",
@@ -9677,6 +9692,13 @@
         "Westerville, OH",
         "",
         "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Spirit AeroSystems",
+        "Data Analytics Intern - Production & Industrial Engineering - Paid",
+        "Wichita, KS",
+        "",
+        "https://careers.spiritaero.com/jobs/17503?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Xcel Energy",
@@ -9726,6 +9748,13 @@
         "Pittsburgh, PA",
         "",
         "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cox",
+        "Data Scientist Intern",
+        "Atlanta, GA",
+        "",
+        "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164?utm_source=Simplify&ref=Simplify"
       ],
       [
         "BlueCross BlueShield of Nebraska",
@@ -9805,6 +9834,13 @@
         "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Nationwide",
+        "Feature Engineer Intern - Enterprise Analytics Office",
+        "Columbus, OH",
+        "",
+        "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Hy-Vee",
         "Data Analytics Intern",
         "West Des Moines, IA",
@@ -9819,6 +9855,13 @@
         "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Applied Materials",
+        "Data Analyst Intern - Global Technical Learning Center",
+        "Albany, NY",
+        "",
+        "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Hormel Foods",
         "Enterprise Analytics Intern - Campus Recruiting",
         "Austin, MN Eden Prairie, MN",
@@ -9831,6 +9874,27 @@
         "Chattanooga, TN",
         "",
         "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Hadrian",
+        "Data Science/Data Engineer Intern",
+        "LA Torrance, CA",
+        "",
+        "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Shure",
+        "Artificial Intelligence Engineer Intern",
+        "Niles, IL",
+        "",
+        "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Shure",
+        "Web Analytics Intern",
+        "Niles, IL",
+        "",
+        "https://careersus-shure.icims.com/jobs/5027/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Momentive",
@@ -9897,13 +9961,6 @@
       ],
       [
         "Cigna Group",
-        "Analytics Leadership Development Intern - ALDP \ud83c\udf93",
-        "Bloomfield, CT",
-        "",
-        "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Cigna Group",
         "Artificial Intelligence Innovation Development Intern",
         "Raleigh, NC",
         "",
@@ -9950,6 +10007,13 @@
         "Lakeville, MN",
         "",
         "https://jobs.postholdings.com/jobs/31961?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Post Holdings",
+        "Business Intelligence Intern - Summer 2027",
+        "Lakeville, MN",
+        "",
+        "https://jobs.postholdings.com/jobs/31924?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Perpay",
@@ -10001,11 +10065,25 @@
         "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Trane Technologies",
+        "AI & Analytics Intern",
+        "Minneapolis, MN Davidson, NC",
+        "",
+        "https://careers.tranetechnologies.com/global/en/job/JR-7591?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "American Express",
         "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
         "Palo Alto, CA",
         "",
         "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Express",
+        "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
+        "Charlotte, NC",
+        "",
+        "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784?utm_source=Simplify&ref=Simplify"
       ],
       [
         "United Parcel Service",
