@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "163a02004ad7de0cc4e76d9172a704c9ba1e0acd",
+    "last_sha": "9cd2511eb5419959d6429d724c2ef237d5aa19b7",
     "rows": [
       [
         "State of North Carolina",
@@ -3908,6 +3908,13 @@
         "Wake County, NC",
         "Spring 2027",
         "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Autodesk",
+        "Researcher Intern - Machine Learning for Construction \ud83c\udf93",
+        "Boston, MA",
+        "Winter 2027",
+        "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "MasterControl",
@@ -8269,6 +8276,7 @@
       "Astrion|Data Analyst Intern|Cape Canaveral, FL|Fall 2026",
       "Audax Group|AI Engineer Co-op|Boston, MA|Winter 2027, Spring 2027",
       "Audax Group|Data Analyst Co-op - Business Solutions|Boston, MA|Winter 2027",
+      "Autodesk|Researcher Intern - Machine Learning for Construction|Boston, MA|Winter 2027",
       "Avis Budget Group|IT Data Analytics Intern|Parsippany-Troy Hills, NJ|Winter 2026",
       "Axogen|AI/ML Engineer Intern|Tampa, FL|Fall 2026",
       "BRG|Health Analytics Intern - Health Analytics Practice|Chicago, IL|Fall 2026",
@@ -8790,8 +8798,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "163a02004ad7de0cc4e76d9172a704c9ba1e0acd",
+    "last_sha": "9cd2511eb5419959d6429d724c2ef237d5aa19b7",
     "rows": [
+      [
+        "Autodesk",
+        "Multimodal AI for Human Experience Intern \ud83c\udf93",
+        "Boston, MA NYC",
+        "",
+        "https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Autodesk",
+        "Research Intern - Multimodal AI for Human Experience \ud83c\udf93",
+        "Boston, MA NYC",
+        "",
+        "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Pangram Labs",
         "AI Research Intern \ud83c\udf93",
@@ -9799,6 +9821,13 @@
         "Madison, WI Milwaukee, WI",
         "",
         "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Amgen",
+        "Machine Learning Engineer Intern \ud83c\udf93",
+        "Remote in USA",
+        "",
+        "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Amgen",
@@ -11009,6 +11038,8 @@
       "Atlassian|Machine Learning Intern|Seattle, WA SF|",
       "Auto-Owners Insurance|Business Intelligence Developer Intern - Summer 2027|Lansing, MI|",
       "AutoZone|Data Science Intern|Memphis, TN|",
+      "Autodesk|Multimodal AI for Human Experience Intern|Boston, MA NYC|",
+      "Autodesk|Research Intern - Multimodal AI for Human Experience|Boston, MA NYC|",
       "Avis Budget Group|Data Analytics Intern|Parsippany-Troy Hills, NJ|",
       "BNY|Data Science Intern - Engineering|Jersey City, NJ|",
       "BNY|Data Science Intern - Engineering|Lake Mary, FL|",
