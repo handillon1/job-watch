@@ -3893,8 +3893,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "c2c0809b42db11c52648e470f32d04005b29d2cf",
+    "last_sha": "ceadf022268250c5325720222a3e7b258c7b249d",
     "rows": [
+      [
+        "\ud83d\udd25 Cloudflare",
+        "People Analytics Data Engineer Intern \ud83c\udf93",
+        "Austin, TX",
+        "Winter 2027, Spring 2027",
+        "https://boards.greenhouse.io/cloudflare/jobs/8241790?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Enterprise Institute",
+        "Spring Data Analyst and Education Policy Intern",
+        "Washington, DC",
+        "Spring 2027",
+        "https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "State of North Carolina",
         "Data Science Intern",
@@ -8252,6 +8266,7 @@
       "Ameren|Data Analytics Co-op|St. Louis, MO|Spring 2027",
       "American Enterprise Institute|Data Analysis & AI Policy Intern|Washington, DC|Fall 2026",
       "American Enterprise Institute|Data Analysis and Education Policy Intern|Washington, DC|Fall 2026",
+      "American Enterprise Institute|Spring Data Analyst and Education Policy Intern|Washington, DC|Spring 2027",
       "American Family Insurance Group|Machine Learning Operations Intern|Madison, WI|Winter 2026",
       "American Fidelity|Agentic AI Intern|Oklahoma City, OK|Winter 2027",
       "American Heart Association|Data Science Intern - Machine Learning & AI|Dallas, TX|Winter 2027, Spring 2027",
@@ -8333,6 +8348,7 @@
       "Clearwater Analytics|Generative AI Intern|Seattle, WA|Winter 2026",
       "Clorox|Sales & Customer Analytics Co-op|5 locationsBentonville, AR Oakland, CA Pleasanton, CA Durham, NC Mason, OH|Winter 2026",
       "Cloudflare|Marketing Programs and Analytics Intern|Austin, TX|Fall 2026",
+      "Cloudflare|People Analytics Data Engineer Intern|Austin, TX|Winter 2027, Spring 2027",
       "Clyde Companies|Business Intelligence Intern|Orem, UT|Fall 2026",
       "Cohesity|Sales Enablement Intern Data Analyst|Lake Mary, FL Santa Clara, CA|Winter 2026, Spring 2026, Summer 2026, Fall 2026",
       "Comcast|Comcast Product Data Analyst Co-op|Philadelphia, PA|Fall 2026",
@@ -8798,8 +8814,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "c2c0809b42db11c52648e470f32d04005b29d2cf",
+    "last_sha": "ceadf022268250c5325720222a3e7b258c7b249d",
     "rows": [
+      [
+        "\ud83d\udd25 AMD",
+        "AI Training Systems and Performance Engineer Intern/Co-op \ud83c\udf93",
+        "San Jose, CA Santa Clara, CA",
+        "",
+        "https://careers.amd.com/jobs/93332?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Corning",
         "Engineering Data Analyst Intern",
@@ -8813,6 +8836,48 @@
         "Milwaukee, WI",
         "",
         "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "RTX",
+        "Data Analytics Intern",
+        "Annapolis, MD",
+        "",
+        "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Data-Analytics---Reporting-Intern--Summer-2027-_01874271?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "LexisNexis Risk Solutions",
+        "Data Analyst Intern",
+        "Alpharetta, GA",
+        "",
+        "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "LexisNexis Risk Solutions",
+        "Data Science Intern",
+        "Alpharetta, GA",
+        "",
+        "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Summer Intern - AI & Hardware Analytics - Adpt",
+        "Milford, MI Warren, MI",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Mapping",
+        "Warren, MI",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Intern - Autonomous Vehicles - Software Validation \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Expedia Group",
@@ -8834,6 +8899,13 @@
         "Boston, MA NYC",
         "",
         "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Family Insurance Group",
+        "Data Analyst Intern",
+        "Madison, WI",
+        "",
+        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Pangram Labs",
@@ -8883,6 +8955,13 @@
         "Cincinnati, OH",
         "",
         "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Engineer Intern - AV/AI Platform",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Elevance Health",
@@ -9002,6 +9081,20 @@
         "Schaumburg, IL",
         "",
         "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Freddie Mac",
@@ -9702,6 +9795,13 @@
         "St. Petersburg, FL",
         "",
         "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Clarios",
@@ -11005,6 +11105,7 @@
       "AMD|AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern|Santa Clara, CA|",
       "AMD|AI Research Intern - Reinforcement Learning and LLM Post-Training|Santa Clara, CA|",
       "AMD|AI Systems & GPU Performance Engineer Intern|San Jose, CA Santa Clara, CA|",
+      "AMD|AI Training Systems and Performance Engineer Intern/Co-op|San Jose, CA Santa Clara, CA|",
       "AMD|Data Analyst Intern/Co-op|San Jose, CA Santa Clara, CA|",
       "AMD|Generative AI and Reinforcement Learning Research Intern|Santa Clara, CA|",
       "AMD|HPC and Sovereign AI Center of Excellence Intern/Co-op|Austin, TX|",
@@ -11025,6 +11126,7 @@
       "American Express|AI Engineer Intern - Enterprise Technology Services|Sunrise, FL|",
       "American Express|Data Analytics Intern - Enterprise Technology Services|Charlotte, NC|",
       "American Express|Data Analytics Intern - Enterprise Technology Services|Palo Alto, CA|",
+      "American Family Insurance Group|Data Analyst Intern|Madison, WI|",
       "American Family Insurance Group|GenAI/ML Intern|Madison, WI Boston, MA|",
       "American Family Insurance Group|Internal Data and Analytics Intern - Summer 2027|Madison, WI|",
       "Amgen|Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations|Remote in USA|",
@@ -11136,8 +11238,11 @@
       "Generac|Data Science Intern - Summer 2027|Pewaukee, WI Waukesha, WI|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicle: Simulation|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicles: Simulation|Sunnyvale, CA|",
+      "General Motors|AI/ML Engineer Intern - Mapping|Warren, MI|",
       "General Motors|Machine Learning Engineer Intern - AV/AI Platform|Sunnyvale, CA|",
+      "General Motors|Machine Learning Intern - Autonomous Vehicles - Software Validation|Sunnyvale, CA|",
       "General Motors|Race Strategy & Analytics Intern - IndyCar|Concord, NC|",
+      "General Motors|Summer Intern - AI & Hardware Analytics - Adpt|Milford, MI Warren, MI|",
       "Google|Business Data Scientist Intern|31 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Ann Arbor, MI Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA|",
       "Google|Data Scientist Intern - Product|31 locationsPalo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Ann Arbor, MI Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA|",
       "Gordon Food Service|Data Science Engineer Intern|Atlanta, GA|",
@@ -11180,6 +11285,8 @@
       "Lennox International|AI & Analytics Intern|Richardson, TX|",
       "Lennox International|AI Engineering Intern - Summer 2027|Richardson, TX|",
       "LexisNexis Legal & Professional|Data Science Intern|Raleigh, NC|",
+      "LexisNexis Risk Solutions|Data Analyst Intern|Alpharetta, GA|",
+      "LexisNexis Risk Solutions|Data Science Intern|Alpharetta, GA|",
       "Life Fitness|Marketing Analytics Intern|Rosemont, IL|",
       "Manulife Financial|AI Intern - AI|Boston, MA|",
       "Meijer|Data Science Intern|Grand Rapids, MI|",
@@ -11218,6 +11325,7 @@
       "Q2|Machine Learning Engineer Intern|Cary, NC|",
       "Q2|Machine Learning Intern|Austin, TX|",
       "QTS|Tableau Analytics and Business Intelligence Intern|Overland Park, KS|",
+      "RTX|Data Analytics Intern|Annapolis, MD|",
       "Ragle Inc|Data Analytics Intern|North Richland Hills, TX|",
       "Raymond James Financial|Private Client Banking Strategy, Analytics & Sales Intern|St. Petersburg, FL|",
       "Red Ventures|Data Science Intern - Launch Program|Charlotte, NC|",
