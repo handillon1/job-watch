@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b5f95a86dc05d60c264eb9ce859bea36f99c19bd",
+    "last_sha": "a7b75ffd2ee0c6a64cba339d684c33009c194705",
     "rows": [
       [
         "Judi Health",
@@ -8822,7 +8822,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b5f95a86dc05d60c264eb9ce859bea36f99c19bd",
+    "last_sha": "a7b75ffd2ee0c6a64cba339d684c33009c194705",
     "rows": [
       [
         "Boston Scientific",
@@ -8844,6 +8844,13 @@
         "Boston, MA",
         "",
         "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Family Insurance Group",
+        "Data Analytics Intern",
+        "Madison, WI",
+        "",
+        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 AMD",
@@ -10757,6 +10764,13 @@
         "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Brunswick",
+        "Power BI/Ops Analytics Co-op",
+        "Fond du Lac, WI",
+        "",
+        "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "BNY",
         "Data Science Intern - Engineering",
         "Pittsburgh, PA",
@@ -11114,6 +11128,7 @@
       "American Express|Data Analytics Intern - Enterprise Technology Services|Charlotte, NC|",
       "American Express|Data Analytics Intern - Enterprise Technology Services|Palo Alto, CA|",
       "American Family Insurance Group|Data Analyst Intern|Madison, WI|",
+      "American Family Insurance Group|Data Analytics Intern|Madison, WI|",
       "American Family Insurance Group|GenAI/ML Intern|Madison, WI Boston, MA|",
       "American Family Insurance Group|Internal Data and Analytics Intern - Summer 2027|Madison, WI|",
       "Amgen|Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations|Remote in USA|",
