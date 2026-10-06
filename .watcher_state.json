@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "797068fa2cfa50218d96e2b0d97e952f62fa185e",
+    "last_sha": "5427a3409658f4e7e38b4c808d6a61b5bd10e81d",
     "rows": [
       [
         "\ud83d\udd25 Cloudflare",
@@ -3998,13 +3998,6 @@
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Spring 2027",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40701?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Spring 2027",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40695?utm_source=Simplify&ref=Simplify"
       ],
       [
@@ -4062,13 +4055,6 @@
         "Sunnyvale, CA",
         "Spring 2027",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40680?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op",
-        "Sunnyvale, CA",
-        "Spring 2027",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40700?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -5123,6 +5109,20 @@
       [
         "Nokia",
         "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Spring 2027",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Spring 2027",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op",
         "Sunnyvale, CA",
         "Spring 2027",
         ""
@@ -8814,7 +8814,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "797068fa2cfa50218d96e2b0d97e952f62fa185e",
+    "last_sha": "5427a3409658f4e7e38b4c808d6a61b5bd10e81d",
     "rows": [
       [
         "\ud83d\udd25 AMD",
