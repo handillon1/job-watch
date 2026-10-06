@@ -3893,8 +3893,57 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d3e29f7f6a5a46faee4abb6759c7f98f5df77522",
+    "last_sha": "1b2ef8979c0ab42f2442c2c3f5865f176c16255a",
     "rows": [
+      [
+        "Nokia",
+        "AI Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40810?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI Engineering Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40807?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40809?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI Engineering Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40812?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI Engineering Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Nokia",
+        "AI Engineering Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40806?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Judi Health",
         "MBA Analytics Intern - Clinical Programs \ud83c\udf93",
@@ -8609,6 +8658,8 @@
       "Nextiva|Marketing Intern - Data Science|Scottsdale, AZ|Fall 2026",
       "Nike|AI/ML Engineer Intern|Beaverton, OR|Winter 2026",
       "Nio|AI Robotics Researcher Intern - Dexterous Manipulation|San Jose, CA|Winter 2026",
+      "Nokia|AI Engineer Co-op|Sunnyvale, CA|Winter 2027",
+      "Nokia|AI Engineering Co-op|Sunnyvale, CA|Winter 2027",
       "Nokia|AI R&D Engineer Co-op|Sunnyvale, CA|Fall 2026",
       "Nokia|AI R&D Engineer Co-op|Sunnyvale, CA|Fall 2026, Winter 2026",
       "Nokia|AI R&D Engineer Co-op|Sunnyvale, CA|Spring 2027",
@@ -8822,8 +8873,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d3e29f7f6a5a46faee4abb6759c7f98f5df77522",
+    "last_sha": "1b2ef8979c0ab42f2442c2c3f5865f176c16255a",
     "rows": [
+      [
+        "\ud83d\udd25 Meta",
+        "Data Scientist Intern - Product Analytics",
+        "Menlo Park, CA NYC",
+        "",
+        "https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Boston Scientific",
         "Equipment Engineering AI Vision Engineer Intern",
@@ -8844,6 +8902,27 @@
         "Boston, MA",
         "",
         "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Northwestern Mutual",
+        "Enterprise Sustainability & Impact Intern - Modeling & Analytics \ud83c\udf93",
+        "Milwaukee, WI",
+        "",
+        "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Leidos",
+        "Data Science Intern",
+        "Arlington County, Arlington, VA",
+        "",
+        "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Jabil",
+        "AI Transformation Intern",
+        "Austin, TX",
+        "",
+        "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Family Insurance Group",
@@ -9810,6 +9889,13 @@
         "Remote in USA",
         "",
         "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Clarios",
@@ -11237,6 +11323,7 @@
       "Intuit|Business Data Analyst Intern - Strategy & Planning|Mountain View, CA|",
       "Intuit|Finance Transformation & Analytics Intern|Mountain View, CA|",
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
+      "Jabil|AI Transformation Intern|Austin, TX|",
       "Jabil|Operations Analytics & Reporting Intern|Tampa, FL St. Petersburg, FL|",
       "John Deere|Data & Analytics Intern|Moline, IL|",
       "Johns Hopkins Applied Physics Laboratory|AI & Data Science Intern - Analytic Capabilities|Laurel, MD|",
@@ -11251,6 +11338,7 @@
       "LabCorp|Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team|Remote in USA Milwaukee, WI|",
       "Land O'Lakes|Business Insights & Analytics Intern - Animal Nutrition|Arden Hills, MN|",
       "Lawrence Livermore National Laboratory (LLNL)|Data Science Undergraduate Student Intern - Summer 2027|Livermore, CA|",
+      "Leidos|Data Science Intern|Arlington County, Arlington, VA|",
       "Lennox International|AI & Analytics Intern|Richardson, TX|",
       "Lennox International|AI Engineering Intern - Summer 2027|Richardson, TX|",
       "LexisNexis Legal & Professional|Data Science Intern|Raleigh, NC|",
@@ -11266,12 +11354,14 @@
       "Merck|Data Analytics and Insights Intern|Rahway, NJ|",
       "Merck|Data Scientist Intern - Nonclinical Drug Safety|Boston, MA|",
       "Merck|Quality Assurance Research Clinical Quality, Analytics & AI Co-op|Upper Gwynedd Township, PA Rahway, NJ|",
+      "Meta|Data Scientist Intern - Product Analytics|Menlo Park, CA NYC|",
       "Momentive|Data Science Intern - Enterprise Reporting & Analytics|Niskayuna, NY|",
       "NJM Insurance Group|Data Science Intern|Trenton, NJ|",
       "National Information Solutions Cooperative|Software Development Intern - AI Development|Lake St Louis, MO|",
       "Nationwide|Feature Engineer Intern - Enterprise Analytics Office|Columbus, OH|",
       "New York Mets|Data Science Intern|Queens, NY|",
       "Noblis|Data Science and Innovation Intern|Springfield, VA Reston, VA|",
+      "Northwestern Mutual|Enterprise Sustainability & Impact Intern - Modeling & Analytics|Milwaukee, WI|",
       "ONE Finance|AI Research Intern|United States|",
       "Oshkosh|AI Engineer Intern|Oshkosh, WI|",
       "Oshkosh|Advanced Analytics Intern|Frederick, MD|",
