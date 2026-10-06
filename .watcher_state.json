@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bacc350318726643fc853b35dab9c91c5f1f2660",
+    "last_sha": "15df7a53f2e2441942cba3a63c36a5caea44098f",
     "rows": [
       [
         "\ud83d\udd25 Cloudflare",
@@ -8814,8 +8814,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bacc350318726643fc853b35dab9c91c5f1f2660",
+    "last_sha": "15df7a53f2e2441942cba3a63c36a5caea44098f",
     "rows": [
+      [
+        "Liberty Mutual",
+        "Data Science Intern \ud83c\udf93",
+        "Boston, MA",
+        "",
+        "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Liberty Mutual",
+        "Data Science Co-op",
+        "Boston, MA",
+        "",
+        "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 AMD",
         "AI Training Systems and Performance Engineer Intern/Co-op \ud83c\udf93",
@@ -11281,6 +11295,8 @@
       "LexisNexis Legal & Professional|Data Science Intern|Raleigh, NC|",
       "LexisNexis Risk Solutions|Data Analyst Intern|Alpharetta, GA|",
       "LexisNexis Risk Solutions|Data Science Intern|Alpharetta, GA|",
+      "Liberty Mutual|Data Science Co-op|Boston, MA|",
+      "Liberty Mutual|Data Science Intern|Boston, MA|",
       "Life Fitness|Marketing Analytics Intern|Rosemont, IL|",
       "Manulife Financial|AI Intern - AI|Boston, MA|",
       "Meijer|Data Science Intern|Grand Rapids, MI|",
