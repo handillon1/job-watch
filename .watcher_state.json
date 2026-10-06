@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "68da1d042696c378baafddc926762d9e1c85c9b5",
+    "last_sha": "b5f95a86dc05d60c264eb9ce859bea36f99c19bd",
     "rows": [
       [
         "Judi Health",
@@ -8822,8 +8822,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "68da1d042696c378baafddc926762d9e1c85c9b5",
+    "last_sha": "b5f95a86dc05d60c264eb9ce859bea36f99c19bd",
     "rows": [
+      [
+        "Boston Scientific",
+        "Equipment Engineering AI Vision Engineer Intern",
+        "Maple Grove, MN",
+        "",
+        "https://bostonscientific.eightfold.ai/careers/job/563602813584308?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Liberty Mutual",
         "Data Science Intern \ud83c\udf93",
@@ -10750,13 +10757,6 @@
         "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Brunswick",
-        "Power BI/Ops Analytics Co-op",
-        "Fond du Lac, WI",
-        "",
-        "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "BNY",
         "Data Science Intern - Engineering",
         "Pittsburgh, PA",
@@ -11084,13 +11084,6 @@
         "Washington, DC",
         "",
         "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 TikTok",
-        "AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live",
-        "San Jose, CA",
-        "",
-        "https://lifeattiktok.com/search/7670876223732762933?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
@@ -11156,6 +11149,7 @@
       "Booz Allen|Data Scientist Intern - University|San Diego, CA|",
       "Booz Allen|Data Scientist Intern|Huntsville, AL|",
       "Bosch Home Comfort|AI Application Intern|Farmington Hills, MI|",
+      "Boston Scientific|Equipment Engineering AI Vision Engineer Intern|Maple Grove, MN|",
       "Brunswick|Power BI/Ops Analytics Co-op|Fond du Lac, WI|",
       "ByteDance|Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark|San Jose, CA|",
       "ByteDance|Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark|Seattle, WA|",
