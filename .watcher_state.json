@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7113672278fc482ce0fe77a6e2542c4be2306974",
+    "last_sha": "078d342ba314f9a8083970f083938f75ae63f13e",
     "rows": [
       [
         "Nokia",
@@ -4062,6 +4062,13 @@
         "Atlanta, GA",
         "Spring 2026",
         "http://prizepicks.com/position?gh_jid=8008103003&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Abbott",
@@ -5153,13 +5160,6 @@
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Spring 2027",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Intel",
-        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
-        "Remote in USA",
-        "Winter 2026",
         ""
       ],
       [
@@ -8873,7 +8873,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7113672278fc482ce0fe77a6e2542c4be2306974",
+    "last_sha": "078d342ba314f9a8083970f083938f75ae63f13e",
     "rows": [
       [
         "\ud83d\udd25 Meta",
@@ -9329,6 +9329,13 @@
         "Kansas City, MO",
         "",
         "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Boston Scientific",
+        "R&D Research Data Science Intern \ud83c\udf93",
+        "United States",
+        "",
+        "https://bostonscientific.eightfold.ai/careers/job/563602813667382?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Itron",
@@ -11209,6 +11216,7 @@
       "Booz Allen|Data Scientist Intern|Huntsville, AL|",
       "Bosch Home Comfort|AI Application Intern|Farmington Hills, MI|",
       "Boston Scientific|Equipment Engineering AI Vision Engineer Intern|Maple Grove, MN|",
+      "Boston Scientific|R&D Research Data Science Intern|United States|",
       "Brunswick|Power BI/Ops Analytics Co-op|Fond du Lac, WI|",
       "ByteDance|Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark|San Jose, CA|",
       "ByteDance|Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark|Seattle, WA|",
