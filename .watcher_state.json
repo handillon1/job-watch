@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "72835cb3fd4d6e2c3edccbed6d3d5c50a69babdf",
+    "last_sha": "48362f7461e8d6f157e5f8f416c2ea328429ea68",
     "rows": [
       [
         "Nokia",
@@ -4013,20 +4013,6 @@
         "Framingham, MA Atlanta, GA",
         "Winter 2027, Spring 2027",
         "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Stripe",
-        "Data Analyst Intern",
-        "Seattle, WA South SF NYC",
-        "Winter 2026",
-        "https://stripe.com/jobs/search?gh_jid=8194291&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Stripe",
-        "Data Scientist Intern \ud83c\udf93",
-        "Seattle, WA South SF NYC",
-        "Winter 2026",
-        "https://stripe.com/jobs/search?gh_jid=8194283&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Stand Together",
@@ -4223,6 +4209,13 @@
         "Miami, FL",
         "Winter 2026",
         "https://xanterra.jibeapply.com/jobs/39609?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Heart Association",
+        "Data Science Intern - Machine Learning & AI \ud83c\udf93",
+        "Dallas, TX",
+        "Winter 2027, Spring 2027",
+        "https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "InComm Payments",
@@ -4440,13 +4433,6 @@
         "Palo Alto, CA",
         "Winter 2027, Spring 2027",
         "https://www.tesla.com/careers/search/job/283138?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Garmin",
-        "Data Scientist Intern",
-        "Olathe, KS",
-        "Winter 2026",
-        "https://careers.garmin.com/jobs/19926?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Amcor",
@@ -5044,6 +5030,20 @@
         ""
       ],
       [
+        "\ud83d\udd25 Stripe",
+        "Data Analyst Intern",
+        "Seattle, WA South SF NYC",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Stripe",
+        "Data Scientist Intern \ud83c\udf93",
+        "Seattle, WA South SF NYC",
+        "Winter 2026",
+        ""
+      ],
+      [
         "Novelis",
         "Analytics & Data Consumption Co-op",
         "Kennesaw, GA",
@@ -5240,13 +5240,6 @@
         ""
       ],
       [
-        "American Heart Association",
-        "Data Science Intern - Machine Learning & AI \ud83c\udf93",
-        "Dallas, TX",
-        "Winter 2027, Spring 2027",
-        ""
-      ],
-      [
         "The Walt Disney Company",
         "Consumer Insight Data Analyst Intern",
         "Celebration, FL",
@@ -5440,6 +5433,13 @@
         "Healthcare Innovation Intern - AI",
         "Greensboro, NC",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Garmin",
+        "Data Scientist Intern",
+        "Olathe, KS",
+        "Winter 2026",
         ""
       ],
       [
@@ -8873,7 +8873,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "72835cb3fd4d6e2c3edccbed6d3d5c50a69babdf",
+    "last_sha": "48362f7461e8d6f157e5f8f416c2ea328429ea68",
     "rows": [
       [
         "\ud83d\udd25 Meta",
@@ -9373,13 +9373,6 @@
         "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "State Farm",
-        "Data Science Intern - Magnet Program \ud83c\udf93",
-        "Tempe, AZ",
-        "",
-        "https://jobs.statefarm.com/jobs/46353?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "LabCorp",
         "Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team",
         "Remote in USA Milwaukee, WI",
@@ -9532,6 +9525,13 @@
         "Santa Clara, CA",
         "",
         "https://careers.amd.com/jobs/90950?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 AMD",
+        "AI Research Intern - Reinforcement Learning and LLM Post-Training \ud83c\udf93",
+        "Santa Clara, CA",
+        "",
+        "https://careers.amd.com/jobs/91013?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "AutoZone",
