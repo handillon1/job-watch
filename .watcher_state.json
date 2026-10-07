@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "c210d297a64d522e8e009f47f7bded8792c8eb09",
+    "last_sha": "e58321dcdbf2fffa65db5732959b9e8d9dcaf328",
     "rows": [
       [
         "Nokia",
@@ -8873,7 +8873,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "c210d297a64d522e8e009f47f7bded8792c8eb09",
+    "last_sha": "e58321dcdbf2fffa65db5732959b9e8d9dcaf328",
     "rows": [
       [
         "\ud83d\udd25 Meta",
@@ -8881,6 +8881,13 @@
         "Menlo Park, CA",
         "",
         "https://www.metacareers.com/jobs/929757023499411?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Auto-Owners Insurance",
+        "Business Intelligence Engineer Intern",
+        "Lansing, MI",
+        "",
+        "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Meta",
@@ -11185,6 +11192,7 @@
       "Atlassian|Data Scientist Intern|Seattle, WA|",
       "Atlassian|Machine Learning Intern|Seattle, WA SF|",
       "Auto-Owners Insurance|Business Intelligence Developer Intern - Summer 2027|Lansing, MI|",
+      "Auto-Owners Insurance|Business Intelligence Engineer Intern|Lansing, MI|",
       "AutoZone|Data Science Intern|Memphis, TN|",
       "Autodesk|Multimodal AI for Human Experience Intern|Boston, MA NYC|",
       "Autodesk|Research Intern - Multimodal AI for Human Experience|Boston, MA NYC|",
