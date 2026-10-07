@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "92bee033a3eecb87ec83baf12115c200c7a5e0fe",
+    "last_sha": "238fbd305a3406f264e4a67cb0480463b6782993",
     "rows": [
       [
         "Nokia",
@@ -8873,8 +8873,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "92bee033a3eecb87ec83baf12115c200c7a5e0fe",
+    "last_sha": "238fbd305a3406f264e4a67cb0480463b6782993",
     "rows": [
+      [
+        "\ud83d\udd25 Meta",
+        "Data Scientist Intern - Product Analytics",
+        "Menlo Park, CA",
+        "",
+        "https://www.metacareers.com/jobs/929757023499411?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Meta",
         "Data Scientist Intern - Product Analytics",
@@ -11356,6 +11363,7 @@
       "Merck|Data Scientist Intern - Nonclinical Drug Safety|Boston, MA|",
       "Merck|Quality Assurance Research Clinical Quality, Analytics & AI Co-op|Upper Gwynedd Township, PA Rahway, NJ|",
       "Meta|Data Scientist Intern - Product Analytics|Menlo Park, CA NYC|",
+      "Meta|Data Scientist Intern - Product Analytics|Menlo Park, CA|",
       "Momentive|Data Science Intern - Enterprise Reporting & Analytics|Niskayuna, NY|",
       "NJM Insurance Group|Data Science Intern|Trenton, NJ|",
       "National Information Solutions Cooperative|Software Development Intern - AI Development|Lake St Louis, MO|",
