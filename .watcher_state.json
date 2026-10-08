@@ -3893,14 +3893,28 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "004c54031024123c90d99fffc49d066d6716205a",
+    "last_sha": "dba7ea187c9909e3de6cfd2a4029818dc1fa1030",
     "rows": [
+      [
+        "\ud83d\udd25 Roblox",
+        "Applied Scientist Intern \ud83c\udf93",
+        "San Mateo, CA",
+        "Winter 2026, Summer 2026, Fall 2026",
+        "https://careers.roblox.com/jobs/8242621?gh_jid=8242621&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Tesla",
         "Data Analyst Intern - People Products",
         "Palo Alto, CA Austin, TX",
         "Spring 2027",
         "https://www.tesla.com/careers/search/job/286085?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Vertex Pharmaceuticals",
+        "People Research and Analytics Co-op - People Research and Analytics - Human Resources",
+        "Boston, MA",
+        "Winter 2027",
+        "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Bose",
@@ -4624,13 +4638,6 @@
         "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Acxiom",
-        "Data Scientist Intern",
-        "Conway, AR",
-        "Winter 2027",
-        "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Stryker",
         "Data Analyst Intern",
         "Cary, IL",
@@ -4685,6 +4692,13 @@
         "Palo Alto, CA",
         "Winter 2027, Spring 2027",
         "https://www.tesla.com/careers/search/job/281940?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Microsoft",
+        "Data Scientist Intern \ud83c\udf93",
+        "Redmond, WA",
+        "Winter 2026",
+        "https://apply.careers.microsoft.com/careers/job/1970393556982928?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Western & Southern Financial Group",
@@ -5527,6 +5541,13 @@
         ""
       ],
       [
+        "Acxiom",
+        "Data Scientist Intern",
+        "Conway, AR",
+        "Winter 2027",
+        ""
+      ],
+      [
         "Loram",
         "Machine Learning / Artificial Intelligence Intern",
         "Hamel, Medina, MN",
@@ -5607,13 +5628,6 @@
         "Cisco",
         "Machine Learning Engineer 2 Intern",
         "Milpitas, CA SF San Jose, CA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Microsoft",
-        "Data Scientist Intern \ud83c\udf93",
-        "Redmond, WA",
         "Winter 2026",
         ""
       ],
@@ -8717,6 +8731,7 @@
       "Rivian|Supply Chain Data, AI and Business Intelligence Co-op Intern|Normal, IL|Winter 2027",
       "Robert Bosch Venture Capital|Co-op: AI & Real-Time Data Monitoring at Bosch EMH Development Engineering|Charleston, SC|Summer 2026, Fall 2026",
       "Robert Bosch Venture Capital|Data Analytics Intern - Engineering & SAP Operations|Lincolnshire, IL|Winter 2026",
+      "Roblox|Applied Scientist Intern|San Mateo, CA|Winter 2026, Summer 2026, Fall 2026",
       "Rochester Regional Health|Data & Analytics Services Co-op|Rochester, NY|Winter 2026",
       "Rockwell Automation|Applied AI Intern|Austin, TX|Fall 2026",
       "Rolls Royce|Quality & Data Analytics Co-op|Spartanburg, SC|Fall 2026",
@@ -8834,6 +8849,7 @@
       "Verdantas|Environmental Data Analytics Intern - Geographic Information Systems|Syracuse, NY|Winter 2026",
       "Vermeer|Data Analytics and Corporate Strategy Intern|Pella, IA|Winter 2026",
       "VersaDesk|Data Analyst Intern|LA|Winter 2026",
+      "Vertex Pharmaceuticals|People Research and Analytics Co-op - People Research and Analytics - Human Resources|Boston, MA|Winter 2027",
       "Viavi Solutions|Software Development Data Analytics Intern|Remote in USA|Fall 2026",
       "W.W. Grainger|Business Analytics Intern - Fall 2026|Green Bay, WI|Fall 2026",
       "Walmart|Data Scientist 3 Intern|Bentonville, AR|Winter 2026",
@@ -8868,8 +8884,29 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "004c54031024123c90d99fffc49d066d6716205a",
+    "last_sha": "dba7ea187c9909e3de6cfd2a4029818dc1fa1030",
     "rows": [
+      [
+        "\ud83d\udd25 Waymo",
+        "Summer Intern - Machine Learning - Planning/Prediction \ud83c\udf93",
+        "Mountain View, CA",
+        "",
+        "https://careers.withwaymo.com/jobs?gh_jid=8262154&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Walgreens",
+        "Data Science Intern",
+        "Deerfield, IL",
+        "",
+        "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Westinghouse Electric Company",
+        "Fuel Engineering Data Analyst Intern",
+        "Cranberry Township, PA",
+        "",
+        "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Koch Industries",
         "Data Science Intern",
@@ -9060,6 +9097,27 @@
         "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "General Motors",
+        "Summer Intern - AI & Hardware Analytics - Adpt",
+        "Milford, MI Warren, MI",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Mapping",
+        "Warren, MI",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Intern - Autonomous Vehicles - Software Validation \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "FHLBank Chicago",
         "AI Intern",
         "Chicago, IL",
@@ -9135,6 +9193,13 @@
         "Cincinnati, OH",
         "",
         "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Engineer Intern - AV/AI Platform",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Elevance Health",
@@ -9233,6 +9298,20 @@
         "Schaumburg, IL",
         "",
         "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Freddie Mac",
@@ -9870,6 +9949,13 @@
         "Remote in USA",
         "",
         "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Race Strategy & Analytics Intern - IndyCar",
+        "Concord, NC",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990?utm_source=Simplify&ref=Simplify"
       ],
       [
         "BlueCross BlueShield of Nebraska",
@@ -10712,6 +10798,13 @@
         "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Marsh",
+        "Summer Analyst - Data and Analytics",
+        "Raleigh, NC",
+        "",
+        "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Booz Allen",
         "Data Scientist Intern - University - Summer Games",
         "El Segundo, CA",
@@ -11275,6 +11368,7 @@
       "Liberty Mutual|Data Science Intern|Boston, MA|",
       "Life Fitness|Marketing Analytics Intern|Rosemont, IL|",
       "Manulife Financial|AI Intern - AI|Boston, MA|",
+      "Marsh|Summer Analyst - Data and Analytics|Raleigh, NC|",
       "Meijer|Data Science Intern|Grand Rapids, MI|",
       "Meijer|Store Analytics Intern|Grand Rapids, MI|",
       "Merck|Computational Toxicology Intern - AI/ML Computational Toxicology|West Point, PA|",
@@ -11405,16 +11499,19 @@
       "Vertiv|Sales Data Analytics Intern|Westerville, OH|",
       "WEC Energy Group|Energy Analytics Intern|Milwaukee, WI|",
       "WEC Energy Group|Renewables Data Analytics Intern|Milwaukee, WI Green Bay, WI|",
+      "Walgreens|Data Science Intern|Deerfield, IL|",
       "Walmart|Data Science Intern 3|Bentonville, AR|",
       "Watts Water|Product Marketing Data Analyst Intern|North Andover, MA|",
       "Waymo|Human Behavior Analytics Intern - Safety Research|Mountain View, CA|",
       "Waymo|Machine Learning Engineer Intern - Road Understanding|Mountain View, CA|",
       "Waymo|Machine Learning Intern - Computer Vision|Mountain View, CA|",
       "Waymo|Machine Learning Research Intern - Planning/Prediction|Mountain View, CA|",
+      "Waymo|Summer Intern - Machine Learning - Planning/Prediction|Mountain View, CA|",
       "Wellmark|Data Analytics & Governance Internship|Des Moines, IA|",
       "West Bend Insurance|Data Scientist Intern|Madison, WI West Bend, WI|",
       "Western & Southern Financial Group|Data Engineering and Analytics Intern - Summer 2027|Cincinnati, OH|",
       "Western & Southern Financial Group|Digital Analytics Intern - Spring or Summer 2027|Cincinnati, OH|",
+      "Westinghouse Electric Company|Fuel Engineering Data Analyst Intern|Cranberry Township, PA|",
       "Wex|AI & Data Platform Engineering Intern - Undergraduate|Remote in USA|",
       "WhiteWater Midstream|Data Science Intern - Summer 2027|Austin, TX|",
       "Xcel Energy|AI and Analytics Intern|Minneapolis, MN Denver, CO|",
