@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "88fc6920b2b6df8327482baddd3a0a7ffa1d2e15",
+    "last_sha": "911d8dc31b03fd13b84f4624f201b75aabf78edf",
     "rows": [
       [
         "\ud83d\udd25 Tesla",
@@ -3971,13 +3971,6 @@
         "Washington, DC",
         "Spring 2027",
         "https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "State of North Carolina",
-        "Data Science Intern",
-        "Raleigh, NC",
-        "Spring 2027",
-        "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225?utm_source=Simplify&ref=Simplify"
       ],
       [
         "State of North Carolina",
@@ -5020,6 +5013,13 @@
         "People Analytics Data Engineer Intern \ud83c\udf93",
         "Austin, TX",
         "Winter 2027, Spring 2027",
+        ""
+      ],
+      [
+        "State of North Carolina",
+        "Data Science Intern",
+        "Raleigh, NC",
+        "Spring 2027",
         ""
       ],
       [
@@ -8882,8 +8882,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "88fc6920b2b6df8327482baddd3a0a7ffa1d2e15",
+    "last_sha": "911d8dc31b03fd13b84f4624f201b75aabf78edf",
     "rows": [
+      [
+        "Koch Industries",
+        "Data Science Intern",
+        "Atlanta, GA",
+        "",
+        "https://koch.avature.net/en_US/careers/JobDetail/195341?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
@@ -8946,6 +8953,13 @@
         "Reston, VA",
         "",
         "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Bose",
+        "Audio Machine Learning Intern Co-op \ud83c\udf93",
+        "Bloomfield Hills, MI Framingham, MA Atlanta, GA",
+        "",
+        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Auto-Owners Insurance",
@@ -9030,13 +9044,6 @@
         "Keller, TX",
         "",
         "https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Zurn Elkay Water Solutions",
-        "Sales Analytics Intern",
-        "Milwaukee, WI",
-        "",
-        "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "RTX",
@@ -11345,6 +11352,7 @@
       "Klaviyo|Machine Learning Engineer Intern|Palo Alto, CA|",
       "Klaviyo|People Analytics Co-op|Boston, MA|",
       "Koch Industries|Business Analytics & Insights Intern|Green Bay, WI|",
+      "Koch Industries|Data Science Intern|Atlanta, GA|",
       "LabCorp|Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team|Remote in USA Milwaukee, WI|",
       "Land O'Lakes|Business Insights & Analytics Intern - Animal Nutrition|Arden Hills, MN|",
       "Lawrence Livermore National Laboratory (LLNL)|Data Science Undergraduate Student Intern - Summer 2027|Livermore, CA|",
