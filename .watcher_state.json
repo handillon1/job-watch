@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7372551a2183c2f97535edcce62bd081e0ca6e86",
+    "last_sha": "52b4bce2ef2940bf66c7b87f5bc012054ce3ddb2",
     "rows": [
       [
         "\ud83d\udd25 Roblox",
@@ -8290,13 +8290,6 @@
         "Madison, WI",
         "Fall 2026",
         ""
-      ],
-      [
-        "Bose",
-        "Audio Machine Learning Engineer Intern/Co-op \ud83c\udf93",
-        "Framingham, MA",
-        "Summer 2026, Fall 2026, Winter 2026",
-        ""
       ]
     ],
     "seen": [
@@ -8877,8 +8870,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7372551a2183c2f97535edcce62bd081e0ca6e86",
+    "last_sha": "52b4bce2ef2940bf66c7b87f5bc012054ce3ddb2",
     "rows": [
+      [
+        "Papa John's",
+        "Data Science Intern",
+        "Atlanta, GA",
+        "",
+        "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Johnson & Johnson",
+        "Strategic Insight and Analytics Co-op",
+        "Horsham, PA",
+        "",
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Waymo",
         "Summer Intern - Machine Learning - Planning/Prediction \ud83c\udf93",
@@ -9389,6 +9396,13 @@
         "Mountain View, CA",
         "",
         "https://careers.withwaymo.com/jobs?gh_jid=8237997&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "H&R Block",
+        "Financial Services Data Analytics Intern",
+        "Kansas City, MO",
+        "",
+        "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Boston Scientific",
@@ -10012,6 +10026,13 @@
         "Des Moines, IA",
         "",
         "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Oshkosh",
+        "AI Engineer Intern",
+        "Oshkosh, WI",
+        "",
+        "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Merck",
@@ -11279,6 +11300,7 @@
       "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence and Machine Learning Intern - Research Assistant|Laurel, MD|",
       "Johns Hopkins Applied Physics Laboratory|Sensor Systems Intern - Data Analytics|Laurel, MD|",
       "Johnson & Johnson|Data Science Co-op - Summer 2027|Cincinnati, OH|",
+      "Johnson & Johnson|Strategic Insight and Analytics Co-op|Horsham, PA|",
       "Kensho|Machine Learning Engineer Intern|Cambridge, MA NYC|",
       "Ketjen|Data Science Intern|Houston, TX|",
       "Klaviyo|Machine Learning Engineer Intern|Palo Alto, CA|",
@@ -11320,6 +11342,7 @@
       "Oshkosh|Advanced Analytics Intern|Frederick, MD|",
       "PIMCO|Client Solutions & Analytics Analyst Intern|Newport Beach, CA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
+      "Papa John's|Data Science Intern|Atlanta, GA|",
       "Peraton|Data Science Intern|Blacksburg, VA Herndon, VA|",
       "Perpay|Analytics Intern|Philadelphia, PA|",
       "Perpay|Data Science Intern|Philadelphia, PA|",
