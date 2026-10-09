@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "049c34887007083719e5727376974382c3d3c955",
+    "last_sha": "749d204ffd5de7cc46b5fc381d25da01d3f4f843",
     "rows": [
       [
         "\ud83d\udd25 Roblox",
@@ -3929,13 +3929,6 @@
         "Sunnyvale, CA",
         "Winter 2027",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Winter 2027",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40809?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Judi Health",
@@ -4983,6 +4976,13 @@
       [
         "Nokia",
         "AI Engineering Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Winter 2027",
         ""
@@ -8877,7 +8877,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "049c34887007083719e5727376974382c3d3c955",
+    "last_sha": "749d204ffd5de7cc46b5fc381d25da01d3f4f843",
     "rows": [
       [
         "\ud83d\udd25 Waymo",
