@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3e684de0049d454e3897777a1893956ab7fc1f5e",
+    "last_sha": "ec38f46526d3c8a08a72fb0ceedd0bc4e241dc69",
     "rows": [
       [
         "\ud83d\udd25 Roblox",
@@ -4958,13 +4958,6 @@
         "Sacramento, CA",
         "Winter 2026",
         "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Business-Analytics/362481?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Commercial Metals",
-        "AI Intern",
-        "Irving, TX",
-        "Fall 2026",
-        "https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Nokia",
@@ -6132,6 +6125,13 @@
         "CCC Intelligent Solutions",
         "Data Science Intern - R&D",
         "Chicago, IL",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Commercial Metals",
+        "AI Intern",
+        "Irving, TX",
         "Fall 2026",
         ""
       ],
@@ -8870,7 +8870,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3e684de0049d454e3897777a1893956ab7fc1f5e",
+    "last_sha": "ec38f46526d3c8a08a72fb0ceedd0bc4e241dc69",
     "rows": [
       [
         "Papa John's",
@@ -11083,27 +11083,6 @@
         "Seattle, WA",
         "",
         "https://jobs.bytedance.com/en/position/7672392998231050549/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-        "San Jose, CA",
-        "",
-        "https://jobs.bytedance.com/en/position/7671109787509213445/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
-        "San Jose, CA",
-        "",
-        "https://jobs.bytedance.com/en/position/7671105026009925893/detail?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 ByteDance",
-        "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
-        "San Jose, CA",
-        "",
-        "https://jobs.bytedance.com/en/position/7671096345243535669/detail?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
