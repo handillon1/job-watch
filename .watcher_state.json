@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7563550bf8fbdb5aea5145665fc130c3765defbc",
+    "last_sha": "3873fe7d52e8174d6d16b279fc032c54c3dae5b7",
     "rows": [
       [
         "\ud83d\udd25 Roblox",
@@ -4720,13 +4720,6 @@
         "Boulder, CO",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Emerson Electric",
-        "Data Analyst Co-op",
-        "Marshalltown, IA",
-        "Winter 2026",
-        "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ingredion",
@@ -5641,6 +5634,13 @@
       [
         "Emerson Electric",
         "Machine Learning Co-op",
+        "Marshalltown, IA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Emerson Electric",
+        "Data Analyst Co-op",
         "Marshalltown, IA",
         "Winter 2026",
         ""
@@ -8877,7 +8877,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7563550bf8fbdb5aea5145665fc130c3765defbc",
+    "last_sha": "3873fe7d52e8174d6d16b279fc032c54c3dae5b7",
     "rows": [
       [
         "\ud83d\udd25 Waymo",
