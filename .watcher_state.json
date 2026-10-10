@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "1b2ac7fce2c529fd622b81befc07279727ff4e90",
+    "last_sha": "c35119531f2611259f4a6e60298c4e414510cfc0",
     "rows": [
       [
         "Later",
@@ -8878,8 +8878,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "1b2ac7fce2c529fd622b81befc07279727ff4e90",
+    "last_sha": "c35119531f2611259f4a6e60298c4e414510cfc0",
     "rows": [
+      [
+        "Workday",
+        "Machine Learning Engineer Intern",
+        "Pleasanton, CA",
+        "",
+        "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Papa John's",
         "Data Science Intern",
@@ -8893,6 +8900,34 @@
         "Horsham, PA",
         "",
         "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Itron",
+        "People Analytics Intern",
+        "Liberty Lake, WA",
+        "",
+        "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Itron",
+        "People Analytics Intern",
+        "Liberty Lake, WA",
+        "",
+        "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Itron",
+        "HR AI Data Science Intern",
+        "Austin, TX",
+        "",
+        "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Itron",
+        "HR AI Data Science Intern",
+        "Austin, TX",
+        "",
+        "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "General Motors",
@@ -11312,6 +11347,8 @@
       "Intuit|Business Data Analyst Intern - Strategy & Planning|Mountain View, CA|",
       "Intuit|Finance Transformation & Analytics Intern|Mountain View, CA|",
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
+      "Itron|HR AI Data Science Intern|Austin, TX|",
+      "Itron|People Analytics Intern|Liberty Lake, WA|",
       "Jabil|AI Transformation Intern|Austin, TX|",
       "Jabil|Operations Analytics & Reporting Intern|Tampa, FL St. Petersburg, FL|",
       "John Deere|Data & Analytics Intern|Moline, IL|",
@@ -11486,6 +11523,7 @@
       "Westinghouse Electric Company|Fuel Engineering Data Analyst Intern|Cranberry Township, PA|",
       "Wex|AI & Data Platform Engineering Intern - Undergraduate|Remote in USA|",
       "WhiteWater Midstream|Data Science Intern - Summer 2027|Austin, TX|",
+      "Workday|Machine Learning Engineer Intern|Pleasanton, CA|",
       "Xcel Energy|AI and Analytics Intern|Minneapolis, MN Denver, CO|",
       "Xcel Energy|Data Analyst Intern|Amarillo, TX|",
       "Xcel Energy|Data Analyst Intern|Denver, CO|",
