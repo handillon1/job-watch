@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "1b1bff2b94326f225c4826be9b49987285fdb2db",
+    "last_sha": "6faa0c0dacc6b6cad53e3d6db22c6c8ee963ffa2",
     "rows": [
       [
         "Later",
@@ -8864,8 +8864,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "1b1bff2b94326f225c4826be9b49987285fdb2db",
+    "last_sha": "6faa0c0dacc6b6cad53e3d6db22c6c8ee963ffa2",
     "rows": [
+      [
+        "CapTech Consulting",
+        "Data Analysis/Data Engineering Intern",
+        "Richmond, VA",
+        "",
+        "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Johns Hopkins Applied Physics Laboratory",
         "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
@@ -11095,6 +11102,7 @@
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark|San Jose, CA|",
       "C3.ai|Data Scientist Intern - Summer 2027|Redwood City, CA|",
       "CSX|Sales & Marketing Analytics Intern - Paid|Jacksonville, FL|",
+      "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|",
       "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|",
       "Cigna Group|AI Engineer Intern|Austin, TX|",
       "Cigna Group|Analytics Leadership Development Intern - ALDP|Bloomfield, CT|",
