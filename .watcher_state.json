@@ -3893,8 +3893,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b1db41f75e7c0b0f6cf66f4227c74c129940730c",
+    "last_sha": "07a07b88e95d1caabb910cf95e9311bb66c3e97c",
     "rows": [
+      [
+        "Bose",
+        "Embedded Audio Machine Learning Engineer Co-op \ud83c\udf93",
+        "Framingham, MA",
+        "Spring 2027",
+        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Bose",
+        "Audio Machine Learning Co-op",
+        "Framingham, MA",
+        "Winter 2027",
+        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Later",
         "Data & Analytics Co-op",
@@ -4307,6 +4321,20 @@
         "Los Altos, CA",
         "Winter 2027",
         "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Insperity",
+        "Rotational Data Analytics Intern",
+        "Kingwood, Houston, TX",
+        "Winter 2026",
+        "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103293?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Insperity",
+        "Rotational AI Intern",
+        "Kingwood, Houston, TX",
+        "Winter 2026",
+        "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Kitware",
@@ -4876,13 +4904,6 @@
         "https://lifeattiktok.com/search/7674029136531015941?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "The Nuclear Company",
-        "AI Applied Research Intern",
-        "Washington, DC",
-        "Spring 2027",
-        "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Nokia",
         "AI Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
@@ -5201,20 +5222,6 @@
         "Wellington Management",
         "Business Intelligence Co-op",
         "Boston, MA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Insperity",
-        "Rotational Data Analytics Intern",
-        "Kingwood, Houston, TX",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Insperity",
-        "Rotational AI Intern",
-        "Kingwood, Houston, TX",
         "Winter 2026",
         ""
       ],
@@ -5986,6 +5993,13 @@
         "Data Science Intern - Interconnection & Transmission",
         "Scottsdale, AZ",
         "Fall 2026",
+        ""
+      ],
+      [
+        "The Nuclear Company",
+        "AI Applied Research Intern",
+        "Washington, DC",
+        "Spring 2027",
         ""
       ],
       [
@@ -8351,10 +8365,12 @@
       "Bosch Home Comfort|Business Intelligence Intern|Belmont, MA|Fall 2026",
       "Bosch Home Comfort|Foreign Trade Data Analytics Intern|Western Springs, IL|Fall 2026",
       "Bosch Home Comfort|Multi-modal Sensing AI Research Intern|Pittsburgh, PA|Winter 2026",
+      "Bose|Audio Machine Learning Co-op|Framingham, MA|Winter 2027",
       "Bose|Audio Machine Learning Engineer Intern/Co-op|Framingham, MA|Summer 2026, Fall 2026, Winter 2026",
       "Bose|Data Analytics Engineer Co-op|Bloomfield Hills, MI Framingham, MA Atlanta, GA|Winter 2027",
       "Bose|Data Science Co-op - NLP & GenAI|Framingham, MA Atlanta, GA|Winter 2027, Spring 2027",
       "Bose|Digital Signal Processing Machine Learning Software Development Co-op|Framingham, MA|Summer 2026, Fall 2026, Winter 2026",
+      "Bose|Embedded Audio Machine Learning Engineer Co-op|Framingham, MA|Spring 2027",
       "Bose|Marketing Analytics Co-op|Framingham, MA|Summer 2026, Fall 2026",
       "Bot Auto|Deep Learning Engineer Intern|Houston, TX|Fall 2026",
       "Brightstar.AI|Applied AI Engineer Intern - Advancing Agent Quality|Miami, FL|Winter 2026",
@@ -8864,14 +8880,35 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b1db41f75e7c0b0f6cf66f4227c74c129940730c",
+    "last_sha": "07a07b88e95d1caabb910cf95e9311bb66c3e97c",
     "rows": [
+      [
+        "\ud83d\udd25 Waymo",
+        "Machine Learning Intern - Planning/Prediction \ud83c\udf93",
+        "Mountain View, CA",
+        "",
+        "https://careers.withwaymo.com/jobs?gh_jid=8279620&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Vertiv",
         "Data Analytics Intern",
         "Delaware, OH",
         "",
         "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Dynamics Information Technology",
+        "AI and Data Analytics Intern",
+        "Sterling, VA",
+        "",
+        "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "7-Eleven",
+        "AI Analyst / AI Automation Specialist Intern",
+        "Irving, TX",
+        "",
+        "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ascension",
@@ -9537,13 +9574,6 @@
         "United States",
         "",
         "https://bostonscientific.eightfold.ai/careers/job/563602813667382?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Itron",
-        "Data Science Intern - Distributed Intelligence",
-        "Liberty Lake, WA",
-        "",
-        "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Itron",
@@ -11007,37 +11037,10 @@
         "7 locationsDes Moines, IA Austin, TX Tampa, FL Dallas, TX Chicago, IL Minneapolis, MN Atlanta, GA",
         "",
         "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "The Nuclear Company",
-        "Data Science & Machine Learning Fellow Intern \ud83c\udf93",
-        "Washington, DC",
-        "",
-        "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "WEC Energy Group",
-        "Renewables Data Analytics Intern",
-        "Milwaukee, WI Green Bay, WI",
-        "",
-        "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Vertiv",
-        "Planning Analytics Intern - Summer 2027",
-        "Westerville, OH",
-        "",
-        "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "GuideWell Mutual",
-        "Enterprise Analytics Intern",
-        "Jacksonville, FL",
-        "",
-        "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
+      "7-Eleven|AI Analyst / AI Automation Specialist Intern|Irving, TX|",
       "AMD|AI Model Optimization & Software Engineer Intern/Co-op|Austin, TX|",
       "AMD|AI Model Optimization & Software Engineer Intern/Co-op|San Jose, CA Santa Clara, CA|",
       "AMD|AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern|Santa Clara, CA|",
@@ -11189,6 +11192,7 @@
       "GE Healthcare|Data Analytics Intern|Salt Lake City, UT|",
       "GM financial|Data Science Intern|Fort Worth, TX|",
       "Generac|Data Science Intern - Summer 2027|Pewaukee, WI Waukesha, WI|",
+      "General Dynamics Information Technology|AI and Data Analytics Intern|Sterling, VA|",
       "General Dynamics Information Technology|Defense Agencies Intern - AI/ML|Falls Church, VA|",
       "General Motors|AI Research Intern - Embodied AI|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicle: Simulation|Sunnyvale, CA|",
@@ -11403,6 +11407,7 @@
       "Waymo|Human Behavior Analytics Intern - Safety Research|Mountain View, CA|",
       "Waymo|Machine Learning Engineer Intern - Road Understanding|Mountain View, CA|",
       "Waymo|Machine Learning Intern - Computer Vision|Mountain View, CA|",
+      "Waymo|Machine Learning Intern - Planning/Prediction|Mountain View, CA|",
       "Waymo|Machine Learning Research Intern - Planning/Prediction|Mountain View, CA|",
       "Waymo|Summer Intern - Machine Learning - Planning/Prediction|Mountain View, CA|",
       "Wellmark|Data Analytics & Governance Internship|Des Moines, IA|",
