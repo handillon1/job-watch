@@ -3893,14 +3893,35 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7e5c92f3dad95527f5e98503a86b86dd0665feca",
+    "last_sha": "91a8fc0026e6fb5186e24e41e4dc148fa8c4ad92",
     "rows": [
+      [
+        "Rivian",
+        "Software Engineer Intern Co-op - Machine Learning Research - Perception \ud83c\udf93",
+        "Palo Alto, CA",
+        "Spring 2027",
+        "https://careers.rivian.com/jobs/33801?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Deloitte",
         "Audit & Assurance Intern - AI and Data Science",
         "LA",
         "Winter 2027",
         "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Vertex Pharmaceuticals",
+        "Commercial Analytics Co-op - Market Access",
+        "Boston, MA",
+        "Winter 2027",
+        "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics--Market-Access_REQ-31008-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Johnson & Johnson",
+        "Data Operations & Analytics Spring Co-op",
+        "Somerset County, NJ Hopewell Township, NJ",
+        "Spring 2027",
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450?utm_source=Simplify&ref=Simplify"
       ],
       [
         "AGCO",
@@ -8625,6 +8646,7 @@
       "Johnson & Johnson|Brand Protection Analytics Co-op|Bridgewater Township, NJ|Summer 2026, Fall 2026",
       "Johnson & Johnson|Commercial Data Science & AI Co-op|Raritan, NJ|Winter 2026",
       "Johnson & Johnson|Data Operations & Analytics Co-op|Somerset County, NJ Hopewell Township, NJ|Fall 2026",
+      "Johnson & Johnson|Data Operations & Analytics Spring Co-op|Somerset County, NJ Hopewell Township, NJ|Spring 2027",
       "Johnson & Johnson|Data Science Co-Op - Fall 2026|Peabody, MA|Fall 2026",
       "Johnson & Johnson|Data Science Co-op - Critical Care - Applied Sciences & AI|Danvers, MA|Winter 2026",
       "Johnson & Johnson|Data Science Co-op - Spring 2027|Cincinnati, OH|Spring 2027",
@@ -8794,6 +8816,7 @@
       "Risepoint|Marketing & Operations Analytics Co-op - Strategy & Analytics|Remote in USA|Winter 2027",
       "Rivian and Volkswagen Group Technologies|Data Engineering Intern - AI & Analytics|Palo Alto, CA|Fall 2026",
       "Rivian|Machine Learning Compiler Intern - Machine Learning Compiler|Urbana, IL|Fall 2026",
+      "Rivian|Software Engineer Intern Co-op - Machine Learning Research - Perception|Palo Alto, CA|Spring 2027",
       "Rivian|Supply Chain Data, AI and Business Intelligence Co-op Intern|Normal, IL|Winter 2027",
       "Robert Bosch Venture Capital|Co-op: AI & Real-Time Data Monitoring at Bosch EMH Development Engineering|Charleston, SC|Summer 2026, Fall 2026",
       "Robert Bosch Venture Capital|Data Analytics Intern - Engineering & SAP Operations|Lincolnshire, IL|Winter 2026",
@@ -8915,6 +8938,7 @@
       "Verdantas|Environmental Data Analytics Intern - Geographic Information Systems|Syracuse, NY|Winter 2026",
       "Vermeer|Data Analytics and Corporate Strategy Intern|Pella, IA|Winter 2026",
       "VersaDesk|Data Analyst Intern|LA|Winter 2026",
+      "Vertex Pharmaceuticals|Commercial Analytics Co-op - Market Access|Boston, MA|Winter 2027",
       "Vertex Pharmaceuticals|People Research and Analytics Co-op - People Research and Analytics - Human Resources|Boston, MA|Winter 2027",
       "Viavi Solutions|Software Development Data Analytics Intern|Remote in USA|Fall 2026",
       "W.W. Grainger|Business Analytics Intern - Fall 2026|Green Bay, WI|Fall 2026",
@@ -8950,8 +8974,50 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7e5c92f3dad95527f5e98503a86b86dd0665feca",
+    "last_sha": "91a8fc0026e6fb5186e24e41e4dc148fa8c4ad92",
     "rows": [
+      [
+        "Leidos",
+        "Data Engineering & Analytics Intern",
+        "Shiloh, IL",
+        "",
+        "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00194635?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Embodied AI Data Scaling Intern - Data Scaling - Embodied AI \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Seam Intern - Embodied AI \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Mapping - Masters \ud83c\udf93",
+        "Warren, MI",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Embodied AI Research Intern \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Onboard Autonomy Intern - Embodied AI \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
@@ -10263,13 +10329,6 @@
       ],
       [
         "Citizens Financial Group",
-        "Data Science Intern - Multiple Teams",
-        "Boston, MA Johnston, RI Columbus, OH",
-        "",
-        "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Citizens Financial Group",
         "Data Management Intern - Enterprise Data and Analytics \ud83c\udf93",
         "Boston, MA Johnston, RI Columbus, OH",
         "",
@@ -10554,13 +10613,6 @@
         "Albany, NY",
         "",
         "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Hormel Foods",
-        "Enterprise Analytics Intern - Campus Recruiting",
-        "Austin, MN Eden Prairie, MN",
-        "",
-        "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35350?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Transcard Payments",
@@ -11317,11 +11369,15 @@
       "General Motors|AI Research Intern - Embodied AI|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicle: Simulation|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicles: Simulation|Sunnyvale, CA|",
+      "General Motors|AI/ML Engineer Intern - Mapping - Masters|Warren, MI|",
       "General Motors|AI/ML Engineer Intern - Mapping|Warren, MI|",
       "General Motors|AI/Machine Learning Intern - Research and Development|Mountain View, CA|",
       "General Motors|Data Scaling Intern - Data Scaling - Embodied AI|Sunnyvale, CA|",
+      "General Motors|Embodied AI Data Scaling Intern - Data Scaling - Embodied AI|Sunnyvale, CA|",
+      "General Motors|Embodied AI Research Intern|Sunnyvale, CA|",
       "General Motors|Machine Learning Engineer Intern - AV/AI Platform|Sunnyvale, CA|",
       "General Motors|Machine Learning Intern - Autonomous Vehicles - Software Validation|Sunnyvale, CA|",
+      "General Motors|Onboard Autonomy Intern - Embodied AI|Sunnyvale, CA|",
       "General Motors|Race Strategy & Analytics Intern - IndyCar|Concord, NC|",
       "General Motors|Seam Intern - Embodied AI|Sunnyvale, CA|",
       "General Motors|Summer Intern - AI & Hardware Analytics - Adpt|Milford, MI Warren, MI|",
@@ -11375,6 +11431,7 @@
       "LabCorp|Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team|Remote in USA Milwaukee, WI|",
       "Land O'Lakes|Business Insights & Analytics Intern - Animal Nutrition|Arden Hills, MN|",
       "Lawrence Livermore National Laboratory (LLNL)|Data Science Undergraduate Student Intern - Summer 2027|Livermore, CA|",
+      "Leidos|Data Engineering & Analytics Intern|Shiloh, IL|",
       "Leidos|Data Science Intern|Arlington County, Arlington, VA|",
       "Lennox International|AI & Analytics Intern|Richardson, TX|",
       "Lennox International|AI Engineering Intern - Summer 2027|Richardson, TX|",
