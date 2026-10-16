@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bae93fca872d5ea863c5de0c8dd6e8bb78193249",
+    "last_sha": "61c148eb319d0200e7ca769dca116151300e8933",
     "rows": [
       [
         "Angel City",
@@ -4076,13 +4076,6 @@
         "United States",
         "Winter 2026",
         "https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "DISA Technologies",
-        "Data Engineering & ML Intern",
-        "Casper, WY",
-        "Winter 2026",
-        "https://apply.workable.com/disa-technologies/j/73E7609B99/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Regeneron Pharmaceuticals",
@@ -4999,6 +4992,13 @@
         "People Analytics Data Engineer Intern \ud83c\udf93",
         "Austin, TX",
         "Winter 2027, Spring 2027",
+        ""
+      ],
+      [
+        "DISA Technologies",
+        "Data Engineering & ML Intern",
+        "Casper, WY",
+        "Winter 2026",
         ""
       ],
       [
@@ -8975,7 +8975,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bae93fca872d5ea863c5de0c8dd6e8bb78193249",
+    "last_sha": "61c148eb319d0200e7ca769dca116151300e8933",
     "rows": [
       [
         "Nutanix",
