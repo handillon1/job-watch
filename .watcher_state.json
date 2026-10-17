@@ -3893,7 +3893,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "7b23840cd9d964751ed2fe7a3f2799749edba424",
+    "last_sha": "51ad19907693427950bf1148b17a0020c1072bdf",
     "rows": [
       [
         "Angel City",
@@ -4125,6 +4125,13 @@
         "Fremont, CA",
         "Spring 2027",
         "https://www.tesla.com/careers/search/job/285291?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "IDeaS",
+        "Data Science Research Intern",
+        "Bloomington, MN",
+        "Winter 2026",
+        "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "PrizePicks",
@@ -5132,13 +5139,6 @@
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Spring 2027",
-        ""
-      ],
-      [
-        "IDeaS",
-        "Data Science Research Intern",
-        "Bloomington, MN",
-        "Winter 2026",
         ""
       ],
       [
@@ -8947,7 +8947,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "7b23840cd9d964751ed2fe7a3f2799749edba424",
+    "last_sha": "51ad19907693427950bf1148b17a0020c1072bdf",
     "rows": [
       [
         "Boston Scientific",
@@ -9851,6 +9851,13 @@
         "Remote in USA Reston, VA Denver, CO",
         "",
         "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "State Farm",
+        "Data Science Intern - Magnet Program \ud83c\udf93",
+        "Tempe, AZ",
+        "",
+        "https://jobs.statefarm.com/jobs/46353?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "LabCorp",
