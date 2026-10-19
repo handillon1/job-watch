@@ -4000,7 +4000,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "2d4fa6d9f53b789024eff539565f61416df73e10",
+    "last_sha": "f3497e82871ae5ba37fae7c33aa7481d8f4eec81",
     "rows": [
       [
         "Angel City",
@@ -9019,14 +9019,49 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "2d4fa6d9f53b789024eff539565f61416df73e10",
+    "last_sha": "f3497e82871ae5ba37fae7c33aa7481d8f4eec81",
     "rows": [
+      [
+        "The Allen Institute for AI",
+        "Research Intern - AI for Science \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Paccar",
+        "Warranty Data Analyst Intern",
+        "Kirkland, WA",
+        "",
+        "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Amplify",
+        "AI Scientist Intern",
+        "Remote in USA",
+        "",
+        "https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Amplify",
+        "Data Analytics Intern",
+        "Remote in USA",
+        "",
+        "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "GM financial",
         "Portfolio Analytics Intern",
         "Fort Worth, TX",
         "",
         "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "QTS",
+        "People Services Data Analytics Intern",
+        "Ashburn, VA",
+        "",
+        "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Marvell",
@@ -9048,6 +9083,20 @@
         "Cincinnati, OH",
         "",
         "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Highmark Health",
+        "Data Analyst Undergraduate Intern",
+        "Pittsburgh, PA",
+        "",
+        "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Creative Artists Agency",
+        "Data Analytics Intern",
+        "Denver, CO",
+        "",
+        "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Boston Scientific",
@@ -9440,6 +9489,13 @@
         "Sunnyvale, CA",
         "",
         "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "Seam Intern - Embodied AI \ud83c\udf93",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143?utm_source=Simplify&ref=Simplify"
       ],
       [
         "General Motors",
@@ -11037,6 +11093,8 @@
       "Amgen|Data Scientist Intern|Remote in USA|",
       "Amgen|Machine Learning Engineer Intern - Technology & Medical Organizations|Remote in USA|",
       "Amgen|Machine Learning Engineer Intern|Remote in USA|",
+      "Amplify|AI Scientist Intern|Remote in USA|",
+      "Amplify|Data Analytics Intern|Remote in USA|",
       "Applied Materials|Data Analyst Intern - Global Technical Learning Center|Albany, NY|",
       "Arch Capital Group|Data and Analytics Intern|Farmington, CT|",
       "Arthur J. Gallagher & Co.|Data Analytics Intern|Rolling Meadows, IL|",
@@ -11112,6 +11170,7 @@
       "Corning|Digital & IT Intern - Manufacturing AI/ML|Charlotte, NC|",
       "Corning|Engineering Data Analyst Intern|Keller, TX|",
       "Cox|Data Scientist Intern|Atlanta, GA|",
+      "Creative Artists Agency|Data Analytics Intern|Denver, CO|",
       "DIRECTV|Operational Analytics Intern|Remote in USA|",
       "Danaher|Data Analytics Intern|Logan, UT|",
       "Datacor|Data Science Intern - Summer 2027 - Program|Remote in USA|",
@@ -11194,6 +11253,7 @@
       "HF Sinclair|IT Data Analytics Intern|Dallas, TX|",
       "HF Sinclair|Reporting & Analytics Intern|Dallas, TX|",
       "Hadrian|Data Science/Data Engineer Intern|LA Torrance, CA|",
+      "Highmark Health|Data Analyst Undergraduate Intern|Pittsburgh, PA|",
       "Highmark Health|Market Analytics Graduate Intern|Pittsburgh, PA|",
       "Hilb Group|Benefits Analytics Intern|Hunt Valley, Cockeysville, MD|",
       "Honeywell|Artificial Intelligence/Machine Learning Intern|United States|",
@@ -11274,6 +11334,7 @@
       "Oshkosh|AI Engineer Intern|Oshkosh, WI|",
       "Oshkosh|Advanced Analytics Intern|Frederick, MD|",
       "PIMCO|Client Solutions & Analytics Analyst Intern|Newport Beach, CA|",
+      "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
       "Peraton|Data Science Intern|Blacksburg, VA Herndon, VA|",
@@ -11296,6 +11357,7 @@
       "Q2|Data Science Intern|Cary, NC|",
       "Q2|Machine Learning Engineer Intern|Cary, NC|",
       "Q2|Machine Learning Intern|Austin, TX|",
+      "QTS|People Services Data Analytics Intern|Ashburn, VA|",
       "QTS|Tableau Analytics and Business Intelligence Intern|Overland Park, KS|",
       "RTX|Data Analytics Intern|Annapolis, MD|",
       "Ragle Inc|Data Analytics Intern|North Richland Hills, TX|",
@@ -11334,6 +11396,7 @@
       "TWG Global|Data Science Intern - SOLT|Santa Monica, CA|",
       "Textron|Data Product & Analytics Intern|Augusta, GA|",
       "The Aerospace Corporation|Reliability and Statistics Intern|El Segundo, CA|",
+      "The Allen Institute for AI|Research Intern - AI for Science|Seattle, WA|",
       "The Federal Reserve System|Advanced Analytics Intern|Cleveland, OH|",
       "The Federal Reserve System|Data Science Intern|Chicago, IL|",
       "The Federal Reserve System|Data Science and Business Analytics Intern|Chicago, IL|",
