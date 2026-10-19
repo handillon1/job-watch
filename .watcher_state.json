@@ -4000,7 +4000,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3999feb305f53c059064457c08cf254ef63b8a2c",
+    "last_sha": "b52fe12ab03cf1aa5fe9d304102adc09fa4af785",
     "rows": [
       [
         "Angel City",
@@ -4358,13 +4358,6 @@
         "Indianapolis, IN",
         "Winter 2026",
         "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Biogen",
-        "Data Science & AI Co-op - Portfolio Data & Digital Innovation \ud83c\udf93",
-        "Remote in USA",
-        "Winter 2027",
-        "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Brunswick",
@@ -5288,6 +5281,13 @@
         "Data Scientist Intern - Grad Conversion \ud83c\udf93",
         "4 locationsHartford, CT NYC Woonsocket, RI Wellesley, MA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Biogen",
+        "Data Science & AI Co-op - Portfolio Data & Digital Innovation \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2027",
         ""
       ],
       [
@@ -9026,8 +9026,29 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3999feb305f53c059064457c08cf254ef63b8a2c",
+    "last_sha": "b52fe12ab03cf1aa5fe9d304102adc09fa4af785",
     "rows": [
+      [
+        "GM financial",
+        "Portfolio Analytics Intern",
+        "Fort Worth, TX",
+        "",
+        "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Marvell",
+        "AI Data Science Intern \ud83c\udf93",
+        "Santa Clara, CA",
+        "",
+        "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Marvell",
+        "AI Data Science Intern \ud83c\udf93",
+        "Santa Clara, CA",
+        "",
+        "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Johnson & Johnson",
         "Quality Data Science Co-op",
@@ -11189,6 +11210,7 @@
       "GE Vernova|AI Evaluation & Benchmarking Intern|Bellevue, WA|",
       "GE Vernova|AI Post-Training and Model Alignment Intern|Bellevue, WA|",
       "GM financial|Data Science Intern|Fort Worth, TX|",
+      "GM financial|Portfolio Analytics Intern|Fort Worth, TX|",
       "Generac|Data Science Intern - Summer 2027|Pewaukee, WI Waukesha, WI|",
       "General Dynamics Information Technology|AI and Data Analytics Intern|Sterling, VA|",
       "General Dynamics Information Technology|Defense Agencies Intern - AI/ML|Falls Church, VA|",
@@ -11271,6 +11293,7 @@
       "Life Fitness|Marketing Analytics Intern|Rosemont, IL|",
       "Manulife Financial|AI Intern - AI|Boston, MA|",
       "Marsh|Summer Analyst - Data and Analytics|Raleigh, NC|",
+      "Marvell|AI Data Science Intern|Santa Clara, CA|",
       "Meijer|Data Science Intern|Grand Rapids, MI|",
       "Meijer|Store Analytics Intern|Grand Rapids, MI|",
       "Merck|Computational Toxicology Intern - AI/ML Computational Toxicology|West Point, PA|",
