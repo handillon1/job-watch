@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "efed246158d2c2efb6d24c9183abaeac331bb43f",
+    "last_sha": "1d9d645ea9ff0d78aa6dba1f2137646d053ba9f0",
     "rows": [
       [
         "Susquehanna International Group",
@@ -503,13 +503,6 @@
         "Naperville, IL",
         "Jul 27",
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Nelnet",
-        "Agentic AI Intern",
-        "Lincoln, NE",
-        "Jul 27",
-        "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904?utm_source=github-vansh-ouckah"
       ],
       [
         "GRITT ROBOTICS INC",
@@ -627,6 +620,13 @@
         "Toshiba Commerce Solutions",
         "Project Management & AI Automation Intern \ud83d\udec2",
         "Frisco, TX",
+        "Jul 27",
+        ""
+      ],
+      [
+        "Nelnet",
+        "Agentic AI Intern",
+        "Lincoln, NE",
         "Jul 27",
         ""
       ],
@@ -11467,7 +11467,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "efed246158d2c2efb6d24c9183abaeac331bb43f",
+    "last_sha": "1d9d645ea9ff0d78aa6dba1f2137646d053ba9f0",
     "rows": [
       [
         "Eulerity",
@@ -11484,6 +11484,13 @@
         "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101?utm_source=github-vansh-ouckah"
       ],
       [
+        "HCSC",
+        "Finance Data & Analytics Developer Intern",
+        "Chicago, IL Richardson, TX",
+        "Oct 16",
+        "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478?utm_source=github-vansh-ouckah"
+      ],
+      [
         "Gilead Sciences",
         "Research Intern, Data Sciences - AI",
         "Foster City, CA",
@@ -11496,6 +11503,20 @@
         "Foster City, CA",
         "Oct 16",
         "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "CenturyLink",
+        "Data Intern, Analytics & Decision Science",
+        "Remote in USA",
+        "Oct 16",
+        "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors&utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Boston Scientific",
+        "AI/Data Science Intern",
+        "Maple Grove, MN",
+        "Oct 16",
+        "https://bostonscientific.eightfold.ai/careers/job/563602813519129?utm_source=github-vansh-ouckah"
       ],
       [
         "General Motors",
@@ -11538,6 +11559,13 @@
         "New York, NY",
         "Oct 15",
         "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/New-York/Data-Scientist-Intern---February-2027---NYC_JR1002271?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Apple",
+        "SoC Machine Learning Software Engineer Intern",
+        "Sunnyvale, CA",
+        "Oct 15",
+        "https://jobs.apple.com/en-us/details/200689488?utm_source=github-vansh-ouckah"
       ],
       [
         "onsemi",
@@ -11916,16 +11944,19 @@
       "American Express|AI Engineer Intern, Enterprise Technology Services|New York, NY|Aug 21",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Phoenix, AZ|Aug 21",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Sunrise, FL|Aug 21",
+      "Apple|SoC Machine Learning Software Engineer Intern|Sunnyvale, CA|Oct 15",
       "Apptronik|Software Engineer Intern, ML Ops|Austin, TX|May 12",
       "Ardian|Data Scientist Intern|New York, NY|Oct 15",
       "Astreya|AI Infrastructure DC Design Intern|Remote (US)|Oct 14",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
+      "Boston Scientific|AI/Data Science Intern|Maple Grove, MN|Oct 16",
       "ByteDance|AI Network Automation Engineer Intern, Global Physical Network Infra|San Jose, CA|Aug 06",
       "ByteDance|Applied Machine Learning Production Engineer Intern|San Jose, CA|Aug 06",
       "ByteDance|GPU/AI Application System Software Engineer Intern|San Jose, CA|Aug 06",
       "ByteDance|Software Engineer Intern, AI Platform|San Jose, CA|Aug 04",
       "Capital One|Data Analyst Intern|Mclean, VA|Jul 07",
       "Castleton Commodities International|Data Science Machine Learning Intern|Stamford, CT Houston, TX New York City, NY|Jul 31",
+      "CenturyLink|Data Intern, Analytics & Decision Science|Remote in USA|Oct 16",
       "Cigna|Healthcare Analytics Intern|Morris Plains, NJ|Oct 15",
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
@@ -11939,6 +11970,7 @@
       "General Motors|Research and Development Intern, Machine Learning for Automation|Warren, MI|Oct 12",
       "Gilead Sciences|Research Intern, Data Sciences - AI|Foster City, CA|Oct 16",
       "Gilead Sciences|Research Intern, Strategy, Innovation & Portfolio - AI|Foster City, CA|Oct 16",
+      "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
       "Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX San Francisco, CA|Apr 28",
       "ICF International|AI Engineer Intern|Reston, VA|Oct 14",
       "Intercontinental Exchange, Inc.|Artificial Intelligence, Data & Machine Learning Intern|New York, NY|Apr 20",
