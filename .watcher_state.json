@@ -4000,7 +4000,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f6aed38b695816e129739de7b0c11e05b0a2f794",
+    "last_sha": "a03d9464bc3f36679682d349c6028da79b1689cf",
     "rows": [
       [
         "Angel City",
@@ -9019,8 +9019,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f6aed38b695816e129739de7b0c11e05b0a2f794",
+    "last_sha": "a03d9464bc3f36679682d349c6028da79b1689cf",
     "rows": [
+      [
+        "JP Morgan Chase",
+        "Machine Learning Summer Associate Intern - NLP \ud83c\udf93",
+        "Palo Alto, CA Seattle, WA NYC",
+        "",
+        "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Paccar",
         "Dealer Development Marketing Data Analytics Intern",
@@ -9869,13 +9876,6 @@
         "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "General Motors",
-        "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
-        "Sunnyvale, CA",
-        "",
-        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Cigna Group",
         "Product Analytics Intern",
         "Morris Plains, NJ St. Louis, MO",
@@ -10294,13 +10294,6 @@
         "Milwaukee, WI",
         "",
         "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "APEX Analytix",
-        "Data Science Intern",
-        "Greensboro, NC",
-        "",
-        "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53?utm_source=Simplify&ref=Simplify"
       ],
       [
         "HF Sinclair",
@@ -11289,6 +11282,7 @@
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
       "Itron|HR AI Data Science Intern|Austin, TX|",
       "Itron|People Analytics Intern|Liberty Lake, WA|",
+      "JP Morgan Chase|Machine Learning Summer Associate Intern - NLP|Palo Alto, CA Seattle, WA NYC|",
       "Jabil|AI Transformation Intern|Austin, TX|",
       "Jabil|Operations Analytics & Reporting Intern|Tampa, FL St. Petersburg, FL|",
       "John Deere|Data & Analytics Intern|Moline, IL|",
