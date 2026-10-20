@@ -4008,8 +4008,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ab2ddb3885ef3992987c0a940003206bfaf6a861",
+    "last_sha": "23a54d960160f22de481cc0fc57154b65b73b4c6",
     "rows": [
+      [
+        "PrizePicks",
+        "Machine Learning Intern",
+        "Atlanta, GA",
+        "Spring 2026",
+        "http://prizepicks.com/position?gh_jid=8038883003&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Angel City",
         "Data Analytics Intern",
@@ -8845,6 +8852,7 @@
       "Primetals Technologies|IT Data & Analytics Intern - Asset Demand & Procurement|Lake Mary, FL|Fall 2026",
       "PrizePicks|Business Intelligence Intern|Atlanta, GA|Fall 2026",
       "PrizePicks|Data Scientist Intern|Atlanta, GA|Fall 2026",
+      "PrizePicks|Machine Learning Intern|Atlanta, GA|Spring 2026",
       "PrizePicks|Product Analytics Intern|Atlanta, GA|Spring 2026",
       "Procter & Gamble|Analytics & Insights Intern - Advanced Analytics|Cincinnati, OH|Winter 2027, Spring 2028",
       "Procter & Gamble|Analytics & Insights Intern|7 locationsFayetteville, NC Boston, MA Cumberland, MD Virginia Beach, VA Mason, OH Minneapolis, MN Cincinnati, OH|Winter 2027, Spring 2028",
@@ -9027,8 +9035,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ab2ddb3885ef3992987c0a940003206bfaf6a861",
+    "last_sha": "23a54d960160f22de481cc0fc57154b65b73b4c6",
     "rows": [
+      [
+        "DriveWealth",
+        "AI Consulting Associate Program Brokerage Intern",
+        "Chicago, IL",
+        "",
+        "https://boards.greenhouse.io/drivewealth/jobs/8039368003?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Paccar",
+        "Field Service Data Analyst Intern",
+        "Kirkland, WA",
+        "",
+        "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Space Dynamics Laboratory",
         "AI-Enabled Requirements Engineering Intern",
@@ -9077,6 +9099,13 @@
         "Basking Ridge, Bernards, NJ",
         "",
         "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Salesforce",
+        "AI Research Intern \ud83c\udf93",
+        "Palo Alto, CA",
+        "",
+        "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Salesforce",
@@ -11240,6 +11269,7 @@
       "DriveTime|Analytics Intern - Summer 2027|Dallas, TX Tempe, AZ|",
       "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|",
       "DriveTime|Data Science Intern - Summer 2027|Dallas, TX Tempe, AZ|",
+      "DriveWealth|AI Consulting Associate Program Brokerage Intern|Chicago, IL|",
       "Edison International|Data Analytics Intern - Data Science - Applied Math|Pomona, CA Rosemead, CA|",
       "Edison International|Data Analytics Intern - Data Science/Applied Math|Pomona, CA Rosemead, CA|",
       "Electronic Arts|Analytics Intern|Orlando, FL|",
@@ -11389,6 +11419,7 @@
       "Oshkosh|Advanced Analytics Intern|Frederick, MD|",
       "PIMCO|Client Solutions & Analytics Analyst Intern|Newport Beach, CA|",
       "Paccar|Dealer Development Marketing Data Analytics Intern|Kirkland, WA|",
+      "Paccar|Field Service Data Analyst Intern|Kirkland, WA|",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
