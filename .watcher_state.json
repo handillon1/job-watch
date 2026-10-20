@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "1d9d645ea9ff0d78aa6dba1f2137646d053ba9f0",
+    "last_sha": "4cad786581bee5647ebe711a7e2e8d897dcfbdfb",
     "rows": [
       [
         "Susquehanna International Group",
@@ -11565,8 +11565,78 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "1d9d645ea9ff0d78aa6dba1f2137646d053ba9f0",
+    "last_sha": "4cad786581bee5647ebe711a7e2e8d897dcfbdfb",
     "rows": [
+      [
+        "Scale AI",
+        "Machine Learning Research Intern",
+        "New York, NY San Francisco, CA",
+        "Oct 19",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4735665005?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Robert Bosch Venture Capital",
+        "AI Research Intern, Wireless Foundation Models",
+        "Pittsburgh, PA",
+        "Oct 19",
+        "https://jobs.smartrecruiters.com/BoschGroup/744000156323136?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Nissan",
+        "AI Autonomous Driving Verification & Validation Intern",
+        "Santa Clara, CA",
+        "Oct 19",
+        "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Autonomous-Driving-Verification---Validation-Intern---Summer-2027---Santa-Clara--CA_R00214263?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Nissan",
+        "Applied AI & Business Innovation Intern",
+        "Franklin, TN",
+        "Oct 19",
+        "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Johnson & Johnson",
+        "Quality Data Science Co-op",
+        "Cincinnati, OH",
+        "Oct 19",
+        "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Highmark Health",
+        "Data Analyst Intern",
+        "Pittsburgh, PA",
+        "Oct 19",
+        "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "GlobalFoundries",
+        "AI/ML Systems Engineering Intern",
+        "Richardson, TX",
+        "Oct 19",
+        "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Adobe",
+        "AI & Architecture Intern",
+        "San Jose, CA",
+        "Oct 19",
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Adobe",
+        "Data, AI & Innovation Intern",
+        "San Jose, CA",
+        "Oct 19",
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "MITRE",
+        "AI Engineering Intern",
+        "Bedford, MA",
+        "Oct 18",
+        "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern?utm_source=github-vansh-ouckah"
+      ],
       [
         "Eulerity",
         "AI Intern, Office of CEO & Head of Product",
@@ -11587,6 +11657,13 @@
         "Chicago, IL Richardson, TX",
         "Oct 16",
         "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Clinical Virology - AI",
+        "Foster City, CA",
+        "Oct 16",
+        "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526?utm_source=github-vansh-ouckah"
       ],
       [
         "Gilead Sciences",
@@ -12038,6 +12115,8 @@
       ]
     ],
     "seen": [
+      "Adobe|AI & Architecture Intern|San Jose, CA|Oct 19",
+      "Adobe|Data, AI & Innovation Intern|San Jose, CA|Oct 19",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Atlanta, GA|Aug 21",
       "American Express|AI Engineer Intern, Enterprise Technology Services|New York, NY|Aug 21",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Phoenix, AZ|Aug 21",
@@ -12066,25 +12145,34 @@
       "General Motors|AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles|Sunnyvale, CA|Oct 15",
       "General Motors|Research and Development Intern, AI/Machine Learning|Mountain View, CA|Oct 12",
       "General Motors|Research and Development Intern, Machine Learning for Automation|Warren, MI|Oct 12",
+      "Gilead Sciences|Research Intern, Clinical Virology - AI|Foster City, CA|Oct 16",
       "Gilead Sciences|Research Intern, Data Sciences - AI|Foster City, CA|Oct 16",
       "Gilead Sciences|Research Intern, Strategy, Innovation & Portfolio - AI|Foster City, CA|Oct 16",
+      "GlobalFoundries|AI/ML Systems Engineering Intern|Richardson, TX|Oct 19",
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
+      "Highmark Health|Data Analyst Intern|Pittsburgh, PA|Oct 19",
       "Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX San Francisco, CA|Apr 28",
       "ICF International|AI Engineer Intern|Reston, VA|Oct 14",
       "Intercontinental Exchange, Inc.|Artificial Intelligence, Data & Machine Learning Intern|New York, NY|Apr 20",
       "JPMorganChase|AI Research Associate Intern|New York, NY|Oct 14",
       "Jane Street|Machine Learning Engineer Intern|New York, NY|Jul 24",
       "Jane Street|Machine Learning Researcher Intern|New York, NY|Jul 24",
+      "Johnson & Johnson|Quality Data Science Co-op|Cincinnati, OH|Oct 19",
       "Juniper Networks|HPC/AI System Admin HW/SW Service Engineer Intern|All, TN|Oct 12",
       "KLA|AI/ML Software Engineer Intern|Ann Arbor, MI|Oct 12",
       "KLA|Computer Vision/Machine Learning Intern|Milpitas, CA|Oct 14",
       "KLA|Software Engineer Intern, AI|Ann Arbor, MI|Oct 13",
+      "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
       "Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|Aug 04",
       "Microsoft|Software Engineer Intern, Data Platform/Analytics|Redmond, WA|Aug 04",
       "Millennium|Applied AI Engineer Intern|Miami, FL|Aug 21",
       "Modal|ML Research Intern|New York, NY San Francisco, CA|Aug 04",
       "National Life|Data Science Intern|Addison, TX Montpelier, VT|Oct 14",
+      "Nissan|AI Autonomous Driving Verification & Validation Intern|Santa Clara, CA|Oct 19",
+      "Nissan|Applied AI & Business Innovation Intern|Franklin, TN|Oct 19",
       "Northspyre|AI Engineer Intern|Atlanta, GA|Apr 19",
+      "Robert Bosch Venture Capital|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
+      "Scale AI|Machine Learning Research Intern|New York, NY San Francisco, CA|Oct 19",
       "ServiceNow|Associate Software Engineer Intern, AI Engineering|Santa Clara, CA|Oct 13",
       "Tencent|Data Science Intern|Palo Alto, CA|Oct 12",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
