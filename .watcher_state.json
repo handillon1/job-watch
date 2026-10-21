@@ -4008,7 +4008,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "c826a43032135cc8fddadce0d6a3815e9f1c01e7",
+    "last_sha": "65aadc8d77c1b3c97f5c0d7ce6511f87542c40ad",
     "rows": [
       [
         "PrizePicks",
@@ -9035,8 +9035,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "c826a43032135cc8fddadce0d6a3815e9f1c01e7",
+    "last_sha": "65aadc8d77c1b3c97f5c0d7ce6511f87542c40ad",
     "rows": [
+      [
+        "Shield AI",
+        "Data Science Intern",
+        "San Diego, CA",
+        "",
+        "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "DriveWealth",
         "AI Consulting Associate Program Brokerage Intern",
@@ -9099,6 +9106,13 @@
         "Basking Ridge, Bernards, NJ",
         "",
         "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Toyota",
+        "Data Science Intern \ud83c\udf93",
+        "Plano, TX",
+        "",
+        "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Salesforce",
@@ -9218,13 +9232,6 @@
         "Denver, CO",
         "",
         "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Associated Bank",
-        "Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking",
-        "Minneapolis, MN",
-        "",
-        "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Associated Bank",
@@ -11461,6 +11468,7 @@
       "S&P Global|Machine Learning Engineer Intern|Cambridge, MA NYC|",
       "Salesforce|AI Research Intern|Palo Alto, CA|",
       "Securian Financial Group|Data Science and Advanced Analytics Intern - Multiple Teams|St Paul, MN|",
+      "Shield AI|Data Science Intern|San Diego, CA|",
       "Shure|Artificial Intelligence Engineer Intern|Niles, IL|",
       "Shure|Artificial Intelligence Specialist Intern - Operations|Niles, IL|",
       "Shure|Web Analytics Intern|Niles, IL|",
@@ -11526,6 +11534,7 @@
       "TikTok|Machine Learning MLOps Intern - Global Site Reliability Engineering|San Jose, CA|",
       "Tokyo Electron|Business Intelligence Analyst Intern|Austin, TX|",
       "Tokyo Electron|Software Engineer Intern - AI Research|San Jose, CA|",
+      "Toyota|Data Science Intern|Plano, TX|",
       "Trane Technologies|AI & Analytics Intern|Minneapolis, MN Davidson, NC|",
       "Transcard Payments|Artificial Intelligence Intern|Chattanooga, TN|",
       "Travelers|Business Insights & Analytics Intern - BI&A LDP|Hartford, CT St Paul, MN|",
