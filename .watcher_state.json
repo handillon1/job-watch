@@ -4016,8 +4016,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "9d5d90b9a02475e2d0d07e4e09e7c530646ddbde",
+    "last_sha": "844445c43c782ce5e484ac8243f94b2c855fe70f",
     "rows": [
+      [
+        "Symbotic",
+        "Machine Learning Ops Co-op",
+        "Wilmington, MA",
+        "Spring 2027",
+        "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Analytic Partners",
         "Data Science Co-op",
@@ -8891,6 +8898,7 @@
       "Susquehanna International Group (SIG)|Analytics Intern|Richmond, VA|Fall 2026",
       "Susquehanna International Group|AI Co-op - Drexel University|Bala Cynwyd, PA|Fall 2026",
       "Susquehanna International Group|Machine Learning Engineer Intern|Bala Cynwyd, PA|Winter 2026",
+      "Symbotic|Machine Learning Ops Co-op|Wilmington, MA|Spring 2027",
       "Syntiant|Machine Learning Intern - KWS/AED|Redwood City, CA|Winter 2026",
       "T. Rowe Price|HR People Analytics Intern|Baltimore, MD|Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028",
       "TD Bank|Data Analyst Co-op - Global Technology & Solutions|Mt Laurel Township, NJ|Winter 2027",
@@ -9002,8 +9010,71 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "9d5d90b9a02475e2d0d07e4e09e7c530646ddbde",
+    "last_sha": "844445c43c782ce5e484ac8243f94b2c855fe70f",
     "rows": [
+      [
+        "Pattern",
+        "AI Automation Engineer Intern",
+        "Lehi, UT",
+        "",
+        "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Pattern",
+        "Data Science Intern",
+        "Lehi, UT",
+        "",
+        "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Waymo",
+        "2027 Summer Intern - AI Foundations - Recipes \ud83c\udf93",
+        "Mountain View, CA",
+        "",
+        "https://careers.withwaymo.com/jobs?gh_jid=8306841&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "STR",
+        "Data Analyst Intern",
+        "Arlington County, Arlington, VA Woburn, MA",
+        "",
+        "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Northrop Grumman",
+        "Systems Engineering Intern - AI Experience",
+        "Dulles, VA",
+        "",
+        "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "KION Group",
+        "Software Analytics Co-op",
+        "Grand Rapids, MI",
+        "",
+        "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Dynamics Information Technology",
+        "Financial Data Analyst Intern",
+        "Falls Church, VA",
+        "",
+        "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Family Insurance Group",
+        "Business Intelligence Enablement Intern",
+        "Madison, WI Boston, MA",
+        "",
+        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "ABB",
+        "Sales Excellence Data Analytics Intern",
+        "Cary, NC",
+        "",
+        "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "KeyBank",
         "Marketing Analytics Intern",
@@ -11009,6 +11080,7 @@
     ],
     "seen": [
       "7-Eleven|AI Analyst / AI Automation Specialist Intern|Irving, TX|",
+      "ABB|Sales Excellence Data Analytics Intern|Cary, NC|",
       "AECOM|Engineering/Data Analytics Intern|Atlanta, GA|",
       "AGCO|Business Intelligence Intern|United States|",
       "AMD|AI Model Optimization & Software Engineer Intern/Co-op|Austin, TX|",
@@ -11038,6 +11110,7 @@
       "American Express|AI Engineer Intern - Enterprise Technology Services|Sunrise, FL|",
       "American Express|Data Analytics Intern - Enterprise Technology Services|Charlotte, NC|",
       "American Express|Data Analytics Intern - Enterprise Technology Services|Palo Alto, CA|",
+      "American Family Insurance Group|Business Intelligence Enablement Intern|Madison, WI Boston, MA|",
       "American Family Insurance Group|Data Analyst Intern - Agency Performance, Insights and Operations|Madison, WI|",
       "American Family Insurance Group|Data Analyst Intern|Madison, WI|",
       "American Family Insurance Group|Data Analytics Intern|Madison, WI|",
@@ -11184,6 +11257,7 @@
       "Generac|Data Science Intern - Summer 2027|Pewaukee, WI Waukesha, WI|",
       "General Dynamics Information Technology|AI and Data Analytics Intern|Sterling, VA|",
       "General Dynamics Information Technology|Defense Agencies Intern - AI/ML|Falls Church, VA|",
+      "General Dynamics Information Technology|Financial Data Analyst Intern|Falls Church, VA|",
       "General Motors|AI Research Intern - Embodied AI|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicle: Simulation|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicles: Simulation|Sunnyvale, CA|",
@@ -11245,6 +11319,7 @@
       "Johnson & Johnson|Data Science Co-op - Summer 2027|Cincinnati, OH|",
       "Johnson & Johnson|Quality Data Science Co-op|Cincinnati, OH|",
       "Johnson & Johnson|Strategic Insight and Analytics Co-op|Horsham, PA|",
+      "KION Group|Software Analytics Co-op|Grand Rapids, MI|",
       "Kensho|Machine Learning Engineer Intern|Cambridge, MA NYC|",
       "Ketjen|Data Science Intern|Houston, TX|",
       "KeyBank|Marketing Analytics Intern|Brooklyn, OH|",
@@ -11291,6 +11366,7 @@
       "Nissan Global|People Analytics Intern|Franklin, TN|",
       "Nissan|AI & Data Analytics Intern|Franklin, TN Irving, TX|",
       "Noblis|Data Science and Innovation Intern|Springfield, VA Reston, VA|",
+      "Northrop Grumman|Systems Engineering Intern - AI Experience|Dulles, VA|",
       "Northwestern Mutual|Enterprise Sustainability & Impact Intern - Modeling & Analytics|Milwaukee, WI|",
       "Nutanix|Support Analytics & Operations Intern|Durham, NC|",
       "ONE Finance|AI Research Intern|United States|",
@@ -11302,6 +11378,8 @@
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
+      "Pattern|AI Automation Engineer Intern|Lehi, UT|",
+      "Pattern|Data Science Intern|Lehi, UT|",
       "Peraton|Data Science Intern|Blacksburg, VA Herndon, VA|",
       "Perpay|Analytics Intern|Philadelphia, PA|",
       "Perpay|Data Science Intern|Philadelphia, PA|",
@@ -11338,6 +11416,7 @@
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|",
       "Ryan Companies|Business Intelligence Intern - Mission Critical|7 locationsDes Moines, IA Austin, TX Tampa, FL Dallas, TX Chicago, IL Minneapolis, MN Atlanta, GA|",
       "S&P Global|Machine Learning Engineer Intern|Cambridge, MA NYC|",
+      "STR|Data Analyst Intern|Arlington County, Arlington, VA Woburn, MA|",
       "Salesforce|AI Research Intern|Palo Alto, CA|",
       "Securian Financial Group|Data Science and Advanced Analytics Intern - Multiple Teams|St Paul, MN|",
       "Shield AI|Data Science Intern|San Diego, CA|",
@@ -11434,6 +11513,7 @@
       "Walgreens|Data Science Intern|Deerfield, IL|",
       "Walmart|Data Science Intern 3|Bentonville, AR|",
       "Watts Water|Product Marketing Data Analyst Intern|North Andover, MA|",
+      "Waymo|2027 Summer Intern - AI Foundations - Recipes|Mountain View, CA|",
       "Waymo|Human Behavior Analytics Intern - Safety Research|Mountain View, CA|",
       "Waymo|Machine Learning Engineer Intern - Road Understanding|Mountain View, CA|",
       "Waymo|Machine Learning Intern - Computer Vision|Mountain View, CA|",
