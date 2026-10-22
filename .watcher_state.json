@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "2256377c861c10bf81a6ebe965e7b7075c28ae81",
+    "last_sha": "44641ef7a5ca675f08ec1c709cab5d838f695267",
     "rows": [
       [
         "Analytic Partners",
@@ -4016,7 +4016,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "2f45392714bd8621f089ea015cb176f79edb79b3",
+    "last_sha": "e99806a1d4a0ee8031f1f16e329f41f75bb03ab1",
     "rows": [
       [
         "Analytic Partners",
@@ -9009,7 +9009,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "2f45392714bd8621f089ea015cb176f79edb79b3",
+    "last_sha": "e99806a1d4a0ee8031f1f16e329f41f75bb03ab1",
     "rows": [
       [
         "Shield AI",
@@ -11501,8 +11501,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "2256377c861c10bf81a6ebe965e7b7075c28ae81",
+    "last_sha": "44641ef7a5ca675f08ec1c709cab5d838f695267",
     "rows": [
+      [
+        "Trace3",
+        "Data and Analytics Engineer Intern",
+        "Irvine, CA",
+        "Oct 21",
+        "https://job-boards.greenhouse.io/trace3/jobs/8274818?utm_source=github-vansh-ouckah"
+      ],
       [
         "Toyota",
         "Data Science Intern, TFS",
@@ -11516,6 +11523,48 @@
         "Andover, MA",
         "Oct 21",
         "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "ManTech",
+        "AI Workflow Intern",
+        "Remote in USA Stafford, VA",
+        "Oct 21",
+        "https://mantech.avature.net/en_US/careers/JobDetail/66705?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Cisco",
+        "Machine Learning Engineer I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Cisco",
+        "Machine Learning Engineer II Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Cisco",
+        "AI Operations Engineer I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Aptiv",
+        "AI Product Analyst Intern",
+        "San Diego, CA",
+        "Oct 21",
+        "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Aon",
+        "IT/AI Engineer Intern",
+        "Chicago, IL",
+        "Oct 21",
+        "https://jobs.aon.com/jobs/110099?icims=1&utm_source=github-vansh-ouckah"
       ],
       [
         "Verizon Communications",
@@ -11579,6 +11628,20 @@
         "New York, NY",
         "Oct 20",
         "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "GlobalFoundries",
+        "AI Software Intern",
+        "Santa Clara, CA Richardson, TX",
+        "Oct 20",
+        "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "General Dynamics Information Technology",
+        "AI and Estimation Intern",
+        "Falls Church, VA",
+        "Oct 20",
+        "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646?utm_source=github-vansh-ouckah"
       ],
       [
         "DriveWealth",
@@ -12229,8 +12292,10 @@
       "American Express|AI Engineer Intern, Enterprise Technology Services|Sunrise, FL|Aug 21",
       "Amplify|AI Scientist Intern|Remote in USA|Oct 19",
       "Amplify|Data Analytics Intern|Remote in USA|Oct 19",
+      "Aon|IT/AI Engineer Intern|Chicago, IL|Oct 21",
       "Apple|SoC Machine Learning Software Engineer Intern|Sunnyvale, CA|Oct 15",
       "Apptronik|Software Engineer Intern, ML Ops|Austin, TX|May 12",
+      "Aptiv|AI Product Analyst Intern|San Diego, CA|Oct 21",
       "Ardian|Data Scientist Intern|New York, NY|Oct 15",
       "Astreya|AI Infrastructure DC Design Intern|Remote (US)|Oct 14",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
@@ -12244,6 +12309,9 @@
       "Castleton Commodities International|Data Science Machine Learning Intern|Stamford, CT Houston, TX New York City, NY|Jul 31",
       "CenturyLink|Data Intern, Analytics & Decision Science|Remote in USA|Oct 16",
       "Cigna|Healthcare Analytics Intern|Morris Plains, NJ|Oct 15",
+      "Cisco|AI Operations Engineer I Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
+      "Cisco|Machine Learning Engineer I Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
+      "Cisco|Machine Learning Engineer II Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
       "Constellation Brands|AI Enablement Intern|Rochester, NY|Oct 19",
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
       "Creative Artists Agency|Data Analytics Intern|Denver, CO|Oct 18",
@@ -12254,6 +12322,7 @@
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "GE Vernova|AI Evaluation & Benchmarking Intern, AGI|Bellevue, WA|Oct 14",
       "GE Vernova|AI Post-Training and Model Alignment Intern, AGI|Bellevue, WA|Oct 14",
+      "General Dynamics Information Technology|AI and Estimation Intern|Falls Church, VA|Oct 20",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure|Sunnyvale, CA|Oct 15",
       "General Motors|AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles|Sunnyvale, CA|Oct 15",
       "General Motors|Research and Development Intern, AI/Machine Learning|Mountain View, CA|Oct 12",
@@ -12261,6 +12330,7 @@
       "Gilead Sciences|Research Intern, Clinical Virology - AI|Foster City, CA|Oct 16",
       "Gilead Sciences|Research Intern, Data Sciences - AI|Foster City, CA|Oct 16",
       "Gilead Sciences|Research Intern, Strategy, Innovation & Portfolio - AI|Foster City, CA|Oct 16",
+      "GlobalFoundries|AI Software Intern|Santa Clara, CA Richardson, TX|Oct 20",
       "GlobalFoundries|AI/ML Systems Engineering Intern|Richardson, TX|Oct 19",
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
       "Highmark Health|Data Analyst Intern|Pittsburgh, PA|Oct 19",
@@ -12280,6 +12350,7 @@
       "KLA|Computer Vision/Machine Learning Intern|Milpitas, CA|Oct 14",
       "KLA|Software Engineer Intern, AI|Ann Arbor, MI|Oct 13",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
+      "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
       "Micron Technology|Machine Learning Engineering Intern|Richardson, TX|Oct 19",
       "Micron Technology|SMAI Probe AI Engineer Intern|Boise, ID|Oct 20",
       "Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|Aug 04",
@@ -12306,6 +12377,7 @@
       "The Nuclear Company|AI Applied Research Intern|Washington, DC|Aug 21",
       "TikTok|Software Engineer Intern, AI Agent & Global Revenue Platform|San Jose, CA|Aug 04",
       "Toyota|Data Science Intern, TFS|Plano, TX|Oct 21",
+      "Trace3|Data and Analytics Engineer Intern|Irvine, CA|Oct 21",
       "Veeam Software|Data & Analytics Engineering Intern|Alpharetta, GA|Oct 16",
       "Veeam Software|Software Engineering Intern, Platform, Security & AI|San Jose, CA|May 09",
       "Verizon Communications|Data Science Intern, Verizon Consumer Group|Basking Ridge, NJ|Oct 20",
