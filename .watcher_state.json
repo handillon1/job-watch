@@ -4016,7 +4016,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "844445c43c782ce5e484ac8243f94b2c855fe70f",
+    "last_sha": "ca039f24430b209667b3244f3fc205712e5c32ed",
     "rows": [
       [
         "Symbotic",
@@ -4024,6 +4024,13 @@
         "Wilmington, MA",
         "Spring 2027",
         "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Booz Allen",
+        "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
+        "McLean, VA",
+        "Winter 2027",
+        "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Analytic Partners",
@@ -8480,6 +8487,7 @@
       "Bloom Energy|Machine Learning/Data Science Intern|San Jose, CA|Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027",
       "Booz Allen|AI RAN Telecommunications Engineer Intern|McLean, VA|Fall 2026",
       "Booz Allen|Applied AI Software Development Intern|McLean, VA|Spring 2028, Summer 2028",
+      "Booz Allen|Enterprise Cybersecurity Data and Business Intelligence Analyst Intern|McLean, VA|Winter 2027",
       "BorgWarner|Data Science Intern|Auburn Hills, MI|Winter 2026, Spring 2026, Summer 2026, Fall 2026",
       "Bosch Home Comfort|AI Security Research Intern|Pittsburgh, PA|Fall 2026",
       "Bosch Home Comfort|Business Intelligence Intern|Belmont, MA|Fall 2026",
@@ -9010,7 +9018,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "844445c43c782ce5e484ac8243f94b2c855fe70f",
+    "last_sha": "ca039f24430b209667b3244f3fc205712e5c32ed",
     "rows": [
       [
         "Pattern",
@@ -9048,6 +9056,20 @@
         "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Leidos",
+        "AI/ML Intern",
+        "Huntsville, AL",
+        "",
+        "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "KION Group",
+        "Software Analytics Co-op",
+        "Grand Rapids, MI",
+        "",
+        "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "KION Group",
         "Software Analytics Co-op",
         "Grand Rapids, MI",
@@ -9060,6 +9082,13 @@
         "Falls Church, VA",
         "",
         "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CVS Health",
+        "Medicaid Data Analytics Intern",
+        "Hartford, CT",
+        "",
+        "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Family Insurance Group",
@@ -11174,6 +11203,7 @@
       "C3.ai|Data Scientist Intern - Summer 2027|Redwood City, CA|",
       "CHS|Data Analyst Intern|Inver Grove Heights, MN|",
       "CSX|Sales & Marketing Analytics Intern - Paid|Jacksonville, FL|",
+      "CVS Health|Medicaid Data Analytics Intern|Hartford, CT|",
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|",
       "CenturyLink|Data Internship - Analytics & Decision Science|Remote in USA|",
       "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|",
@@ -11330,6 +11360,7 @@
       "LabCorp|Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team|Remote in USA Milwaukee, WI|",
       "Land O'Lakes|Business Insights & Analytics Intern - Animal Nutrition|Arden Hills, MN|",
       "Lawrence Livermore National Laboratory (LLNL)|Data Science Undergraduate Student Intern - Summer 2027|Livermore, CA|",
+      "Leidos|AI/ML Intern|Huntsville, AL|",
       "Leidos|Data Engineering & Analytics Intern|Shiloh, IL|",
       "Leidos|Data Science Intern|Arlington County, Arlington, VA|",
       "Lennox International|AI & Analytics Intern|Richardson, TX|",
