@@ -4016,8 +4016,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "347f562f2cae81ef2e427bd1d2e6eca52fdd478e",
+    "last_sha": "e502e4c7072228ff1b5292dc9a9ebab72acad963",
     "rows": [
+      [
+        "\ud83d\udd25 Amazon",
+        "Applied Science Intern - Frontier AI & Robotics \ud83c\udf93",
+        "Seattle, WA SF",
+        "Summer 2026, Fall 2026",
+        "https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Symbotic",
         "Machine Learning Ops Co-op",
@@ -8439,6 +8446,7 @@
       "Adobe|AI/ML Intern \u2013 Machine Learning Engineer/Researcher Intern|Seattle, WA SF San Jose, CA|Summer 2026, Fall 2026",
       "Adobe|Intern - Machine Learning Engineer|SF San Jose, CA|Summer 2026, Fall 2026",
       "Allen Lund Company|Technology and AI Intern - Technology and AI|La Ca\u00f1ada Flintridge, CA|Winter 2026",
+      "Amazon|Applied Science Intern - Frontier AI & Robotics|Seattle, WA SF|Summer 2026, Fall 2026",
       "Amazon|Applied Science Intern - Multiple Teams|8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Arlington, VA NYC Bellevue, WA San Diego, CA|Fall 2026",
       "Amazon|Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning|8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Corvallis, OR NYC Bellevue, WA San Diego, CA|Fall 2026",
       "Ambarella|AI Agent Developer Intern|United States|Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027",
@@ -9018,8 +9026,36 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "347f562f2cae81ef2e427bd1d2e6eca52fdd478e",
+    "last_sha": "e502e4c7072228ff1b5292dc9a9ebab72acad963",
     "rows": [
+      [
+        "\ud83d\udd25 Amazon",
+        "Applied Science Intern - Natural Language Processing and Speech Technologies \ud83c\udf93",
+        "7 locationsCambridge, MA Boston, MA Seattle, WA Santa Clara, CA NYC Bellevue, WA Sunnyvale, CA",
+        "",
+        "https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Amazon",
+        "Applied Science Intern - Master's Student Science \ud83c\udf93",
+        "Seattle, WA",
+        "",
+        "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Amazon",
+        "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning \ud83c\udf93",
+        "8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Arlington County, Arlington, VA NYC Bellevue, WA San Diego, CA",
+        "",
+        "https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Amazon",
+        "Applied Science Intern - Gen AI & Large Language Models \ud83c\udf93",
+        "8 locationsCambridge, MA Boston, MA Seattle, WA Santa Clara, CA Pittsburgh, PA NYC Bellevue, WA Sunnyvale, CA",
+        "",
+        "https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Paccar",
         "Aftersales Data Analyst Intern",
@@ -11105,7 +11141,11 @@
       "Allen Control Systems|Computer Vision Intern - Machine Learning|Austin, TX|",
       "Altar'd State|IT Analytics Intern|Knoxville, TN|",
       "Altar'd State|Store Operations Data Analyst Intern|Knoxville, TN|",
+      "Amazon|Applied Science Intern - Gen AI & Large Language Models|8 locationsCambridge, MA Boston, MA Seattle, WA Santa Clara, CA Pittsburgh, PA NYC Bellevue, WA Sunnyvale, CA|",
       "Amazon|Applied Science Intern - Information & Knowledge Management|Seattle, WA|",
+      "Amazon|Applied Science Intern - Master's Student Science|Seattle, WA|",
+      "Amazon|Applied Science Intern - Natural Language Processing and Speech Technologies|7 locationsCambridge, MA Boston, MA Seattle, WA Santa Clara, CA NYC Bellevue, WA Sunnyvale, CA|",
+      "Amazon|Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning|8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Arlington County, Arlington, VA NYC Bellevue, WA San Diego, CA|",
       "Amazon|Business Intelligence Engineer Intern|Seattle, WA|",
       "American Express|AI Engineer Intern - Enterprise Technology Services|Phoenix, AZ|",
       "American Express|AI Engineer Intern - Enterprise Technology Services|Sunrise, FL|",
