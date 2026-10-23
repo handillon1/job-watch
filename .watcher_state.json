@@ -4016,7 +4016,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "24e481dd90fb7676ee5a37bada820d53f4c3b5d3",
+    "last_sha": "c8da99cf2607b5daa52fe46f405dce18eb0ef863",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -4166,13 +4166,6 @@
         "https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Regeneron Pharmaceuticals",
-        "Data Analytics & Digital Tools Co-op",
-        "Rensselaer, NY",
-        "Spring 2026, Summer 2026, Fall 2026",
-        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Stand Together",
         "Analytics Intern",
         "Chicago, IL",
@@ -4285,13 +4278,6 @@
         "https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Gordon Food Service",
-        "Data Analyst Intern - Imports & Commodities",
-        "Wyoming, MI",
-        "Winter 2026",
-        "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "GE Aerospace",
         "Data Science Co-op - Flight Analytics Platform",
         "Austin, TX",
@@ -4327,13 +4313,6 @@
         "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Risepoint",
-        "Marketing & Operations Analytics Co-op - Strategy & Analytics",
-        "Remote in USA",
-        "Winter 2027",
-        "https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Johnson & Johnson",
         "Production Data Analyst Co-op - Manufacturing",
         "Danvers, MA",
@@ -4346,13 +4325,6 @@
         "Hagerstown, MD",
         "Winter 2026",
         "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Louisiana Blue",
-        "Healthcare Data Science Intern - Spring 2027",
-        "Baton Rouge, LA",
-        "Spring 2027",
-        "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=Simplify&ref=Simplify"
       ],
       [
         "HF Sinclair",
@@ -4507,13 +4479,6 @@
         "Cincinnati, OH",
         "Winter 2026",
         "https://careers-westernsouthern.icims.com/jobs/25211/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Ingredion",
-        "Artificial Intelligence & Data Scientist Intern",
-        "Westchester, IL",
-        "Winter 2026",
-        "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Clearwater Analytics",
@@ -4723,6 +4688,13 @@
         "Data & Analytics Services Co-op",
         "Rochester, NY",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Analytics & Digital Tools Co-op",
+        "Rensselaer, NY",
+        "Spring 2026, Summer 2026, Fall 2026",
         ""
       ],
       [
@@ -5083,6 +5055,13 @@
         ""
       ],
       [
+        "Gordon Food Service",
+        "Data Analyst Intern - Imports & Commodities",
+        "Wyoming, MI",
+        "Winter 2026",
+        ""
+      ],
+      [
         "Healthesystems",
         "Artificial Intelligence Engineer Intern",
         "Remote in USA",
@@ -5101,6 +5080,13 @@
         "AI Research Intern - Predictive World Model \ud83c\udf93",
         "Santa Clara, CA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Risepoint",
+        "Marketing & Operations Analytics Co-op - Strategy & Analytics",
+        "Remote in USA",
+        "Winter 2027",
         ""
       ],
       [
@@ -5199,6 +5185,13 @@
         "Portfolio Reference Data Analyst Co-op",
         "Boston, MA",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Louisiana Blue",
+        "Healthcare Data Science Intern - Spring 2027",
+        "Baton Rouge, LA",
+        "Spring 2027",
         ""
       ],
       [
@@ -5730,6 +5723,13 @@
         "Texas Rangers",
         "Baseball Analytics Apprentice - Baseball Research & Development",
         "Arlington, TX",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Ingredion",
+        "Artificial Intelligence & Data Scientist Intern",
+        "Westchester, IL",
         "Winter 2026",
         ""
       ],
@@ -9026,7 +9026,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "24e481dd90fb7676ee5a37bada820d53f4c3b5d3",
+    "last_sha": "c8da99cf2607b5daa52fe46f405dce18eb0ef863",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -9120,13 +9120,6 @@
         "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "American Family Insurance Group",
-        "Business Intelligence Enablement Intern",
-        "Madison, WI Boston, MA",
-        "",
-        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "ABB",
         "Sales Excellence Data Analytics Intern",
         "Cary, NC",
@@ -9183,13 +9176,6 @@
         "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Vertex Pharmaceuticals",
-        "Commercial Analytics Co-op - Commercial Analytics",
-        "Boston, MA",
-        "",
-        "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Toyota",
         "Data Science Intern \ud83c\udf93",
         "Plano, TX",
@@ -9202,13 +9188,6 @@
         "Palo Alto, CA",
         "",
         "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Salesforce",
-        "AI Research Intern \ud83c\udf93",
-        "Palo Alto, CA",
-        "",
-        "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111?utm_source=Simplify&ref=Simplify"
       ],
       [
         "The Allen Institute for AI",
@@ -9272,13 +9251,6 @@
         "Denver, CO",
         "",
         "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Hilb Group",
-        "Benefits Analytics Intern",
-        "Hunt Valley, Cockeysville, MD",
-        "",
-        "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Family Insurance Group",
@@ -9589,13 +9561,6 @@
         "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Bose",
-        "Audio Machine Learning Intern Co-op \ud83c\udf93",
-        "Bloomfield Hills, MI Framingham, MA Atlanta, GA",
-        "",
-        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "\ud83d\udd25 Meta",
         "Data Scientist Intern - Product Analytics",
         "Menlo Park, CA NYC",
@@ -9776,13 +9741,6 @@
         "Seattle, WA",
         "",
         "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Life Fitness",
-        "Marketing Analytics Intern",
-        "Rosemont, IL",
-        "",
-        "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253?utm_source=Simplify&ref=Simplify"
       ],
       [
         "DraftKings",
@@ -10045,13 +10003,6 @@
       ],
       [
         "Q2",
-        "Data Science Intern",
-        "Austin, TX",
-        "",
-        "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Q2",
         "Machine Learning Intern",
         "Austin, TX",
         "",
@@ -10070,13 +10021,6 @@
         "Bedford, MA",
         "",
         "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Altar'd State",
-        "Store Operations Data Analyst Intern",
-        "Knoxville, TN",
-        "",
-        "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Intuit",
@@ -10142,25 +10086,11 @@
         "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Baird",
-        "IT Data & Analytics Intern",
-        "Madison, WI Milwaukee, WI",
-        "",
-        "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Amgen",
         "Machine Learning Engineer Intern \ud83c\udf93",
         "Remote in USA",
         "",
         "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Amgen",
-        "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "Remote in USA",
-        "",
-        "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Walmart",
@@ -10280,13 +10210,6 @@
         "Niskayuna, NY",
         "",
         "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "DriveTime",
-        "Data Science Intern - Summer 2027",
-        "Dallas, TX Tempe, AZ",
-        "",
-        "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301?utm_source=Simplify&ref=Simplify"
       ],
       [
         "TWG Global",
