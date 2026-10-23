@@ -4016,7 +4016,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "fcdd1281f357dec42bae54ace6bedd0808fa11b8",
+    "last_sha": "24e481dd90fb7676ee5a37bada820d53f4c3b5d3",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -4045,13 +4045,6 @@
         "Palo Alto, CA",
         "Spring 2027",
         "https://careers.rivian.com/jobs/33801?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Deloitte",
-        "Audit & Assurance Intern - AI and Data Science",
-        "LA",
-        "Winter 2027",
-        "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Vertex Pharmaceuticals",
@@ -4276,13 +4269,6 @@
         "Indianapolis, IN",
         "Winter 2026",
         "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Brunswick",
-        "Data Analytics Intern",
-        "Fond du Lac, WI",
-        "Winter 2026",
-        "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Danaher",
@@ -4551,13 +4537,6 @@
         "https://job-boards.greenhouse.io/integra/jobs/5406100008?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Oshkosh",
-        "Supply Chain Data Analytics Intern - Year Round",
-        "Greenville, WI",
-        "Fall 2026",
-        "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Marmon Holdings",
         "AI Intern",
         "Sauget, IL",
@@ -4618,6 +4597,13 @@
         "Data Analytics Intern",
         "Santa Monica, CA",
         "Fall 2026",
+        ""
+      ],
+      [
+        "Deloitte",
+        "Audit & Assurance Intern - AI and Data Science",
+        "LA",
+        "Winter 2027",
         ""
       ],
       [
@@ -4996,6 +4982,13 @@
         "Data Science Co-op",
         "Remote in USA",
         "Winter 2027, Spring 2027",
+        ""
+      ],
+      [
+        "Brunswick",
+        "Data Analytics Intern",
+        "Fond du Lac, WI",
+        "Winter 2026",
         ""
       ],
       [
@@ -5801,6 +5794,13 @@
         "Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs",
         "Cambridge, MA Bothell, WA Plymouth, MN",
         "Winter 2027",
+        ""
+      ],
+      [
+        "Oshkosh",
+        "Supply Chain Data Analytics Intern - Year Round",
+        "Greenville, WI",
+        "Fall 2026",
         ""
       ],
       [
@@ -9026,7 +9026,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "fcdd1281f357dec42bae54ace6bedd0808fa11b8",
+    "last_sha": "24e481dd90fb7676ee5a37bada820d53f4c3b5d3",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -9190,13 +9190,6 @@
         "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Verizon Communications",
-        "Data Science Intern",
-        "Basking Ridge, Bernards, NJ",
-        "",
-        "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Toyota",
         "Data Science Intern \ud83c\udf93",
         "Plano, TX",
@@ -9216,13 +9209,6 @@
         "Palo Alto, CA",
         "",
         "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Cigna Group",
-        "Business Analytics Intern",
-        "Bloomfield, CT",
-        "",
-        "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472?utm_source=Simplify&ref=Simplify"
       ],
       [
         "The Allen Institute for AI",
@@ -9680,13 +9666,6 @@
         "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---PhD---2027---Austin--San-Jose--Seattle_R-110382?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "New York Mets",
-        "Data Science Intern",
-        "Queens, NY",
-        "",
-        "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Great American Insurance Company",
         "Enterprise Analytics Intern",
         "Cincinnati, OH",
@@ -10101,13 +10080,6 @@
       ],
       [
         "Intuit",
-        "AI Scientist Intern",
-        "4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA",
-        "",
-        "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Intuit",
         "AI Research Intern \ud83c\udf93",
         "Mountain View, CA",
         "",
@@ -10191,13 +10163,6 @@
         "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "Amgen",
-        "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "Remote in USA",
-        "",
-        "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Walmart",
         "Data Science Intern 3",
         "Bentonville, AR",
@@ -10231,13 +10196,6 @@
         "Blacksburg, VA Herndon, VA",
         "",
         "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "S&P Global",
-        "Machine Learning Engineer Intern",
-        "Cambridge, MA NYC",
-        "",
-        "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Allen Control Systems",
@@ -10441,13 +10399,6 @@
         "Honolulu, HI",
         "",
         "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Baird",
-        "Capital Markets Compliance Data & Analytics Intern",
-        "Milwaukee, WI",
-        "",
-        "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "AeroVironment",
