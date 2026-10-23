@@ -4016,7 +4016,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f2118b91688aa0c9d2a074737e0f0c711d300aee",
+    "last_sha": "32363810b5975df30208a17beba7aaabad38924e",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -4110,11 +4110,46 @@
         "https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "State of North Carolina",
+        "Data Science Intern",
+        "Raleigh, NC",
+        "Spring 2027",
+        "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "State of North Carolina",
+        "Data Analytics Intern",
+        "Wake County, NC",
+        "Spring 2027",
+        "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "MasterControl",
         "AI/ML Engineer Intern",
         "United States",
         "Winter 2026",
         "https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Analytics & Digital Tools Co-op",
+        "Rensselaer, NY",
+        "Spring 2026, Summer 2026, Fall 2026",
+        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Stripe",
+        "Data Analyst Intern",
+        "Seattle, WA South SF NYC",
+        "Winter 2026",
+        "https://stripe.com/jobs/search?gh_jid=8194291&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Stripe",
+        "Data Scientist Intern \ud83c\udf93",
+        "Seattle, WA South SF NYC",
+        "Winter 2026",
+        "https://stripe.com/jobs/search?gh_jid=8194283&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Stand Together",
@@ -4143,6 +4178,34 @@
         "Bloomington, MN",
         "Winter 2026",
         "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "PrizePicks",
+        "Fraud Analytics Intern",
+        "Atlanta, GA",
+        "Spring 2026",
+        "http://prizepicks.com/position?gh_jid=8008655003&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "PrizePicks",
+        "Product Analytics Intern",
+        "Atlanta, GA",
+        "Spring 2026",
+        "http://prizepicks.com/position?gh_jid=8008103003&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
+        "Remote in USA",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Abbott",
+        "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML \ud83c\udf93",
+        "St Paul, MN",
+        "Winter 2027",
+        "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Honeywell",
@@ -4978,20 +5041,6 @@
         ""
       ],
       [
-        "State of North Carolina",
-        "Data Science Intern",
-        "Raleigh, NC",
-        "Spring 2027",
-        ""
-      ],
-      [
-        "State of North Carolina",
-        "Data Analytics Intern",
-        "Wake County, NC",
-        "Spring 2027",
-        ""
-      ],
-      [
         "Autodesk",
         "Researcher Intern - Machine Learning for Construction \ud83c\udf93",
         "Boston, MA",
@@ -5020,31 +5069,10 @@
         ""
       ],
       [
-        "Regeneron Pharmaceuticals",
-        "Data Analytics & Digital Tools Co-op",
-        "Rensselaer, NY",
-        "Spring 2026, Summer 2026, Fall 2026",
-        ""
-      ],
-      [
         "Bose",
         "Data Science Co-op - NLP & GenAI",
         "Framingham, MA Atlanta, GA",
         "Winter 2027, Spring 2027",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Stripe",
-        "Data Analyst Intern",
-        "Seattle, WA South SF NYC",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Stripe",
-        "Data Scientist Intern \ud83c\udf93",
-        "Seattle, WA South SF NYC",
-        "Winter 2026",
         ""
       ],
       [
@@ -5157,27 +5185,6 @@
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Spring 2027",
-        ""
-      ],
-      [
-        "PrizePicks",
-        "Product Analytics Intern",
-        "Atlanta, GA",
-        "Spring 2026",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Intel",
-        "Research Scientist Intern - Graphics - ML \ud83c\udf93",
-        "Remote in USA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "Abbott",
-        "Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML \ud83c\udf93",
-        "St Paul, MN",
-        "Winter 2027",
         ""
       ],
       [
@@ -8850,6 +8857,7 @@
       "Primetals Technologies|IT Data & Analytics Intern - Asset Demand & Procurement|Lake Mary, FL|Fall 2026",
       "PrizePicks|Business Intelligence Intern|Atlanta, GA|Fall 2026",
       "PrizePicks|Data Scientist Intern|Atlanta, GA|Fall 2026",
+      "PrizePicks|Fraud Analytics Intern|Atlanta, GA|Spring 2026",
       "PrizePicks|Machine Learning Intern|Atlanta, GA|Spring 2026",
       "PrizePicks|Product Analytics Intern|Atlanta, GA|Spring 2026",
       "Procter & Gamble|Analytics & Insights Intern - Advanced Analytics|Cincinnati, OH|Winter 2027, Spring 2028",
@@ -9034,7 +9042,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f2118b91688aa0c9d2a074737e0f0c711d300aee",
+    "last_sha": "32363810b5975df30208a17beba7aaabad38924e",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -9203,13 +9211,6 @@
         "Denver, CO",
         "",
         "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "American Family Insurance Group",
-        "Data Engineering / Data Science Intern",
-        "Madison, WI",
-        "",
-        "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674?utm_source=Simplify&ref=Simplify"
       ],
       [
         "General Motors",
@@ -9478,6 +9479,27 @@
         "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Zurn Elkay Water Solutions",
+        "Sales Analytics Intern",
+        "Milwaukee, WI",
+        "",
+        "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "LexisNexis Risk Solutions",
+        "Data Analyst Intern",
+        "Alpharetta, GA",
+        "",
+        "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "LexisNexis Risk Solutions",
+        "Data Science Intern",
+        "Alpharetta, GA",
+        "",
+        "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "General Motors",
         "Summer Intern - AI & Hardware Analytics - Adpt",
         "Milford, MI Warren, MI",
@@ -9492,11 +9514,88 @@
         "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Expedia Group",
+        "Applied Science Intern \ud83c\udf93",
+        "Seattle, WA Austin, TX San Jose, CA",
+        "",
+        "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Expedia Group",
+        "Applied Science Intern \ud83c\udf93",
+        "Seattle, WA Austin, TX San Jose, CA",
+        "",
+        "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---PhD---2027---Austin--San-Jose--Seattle_R-110382?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Pangram Labs",
+        "AI Research Intern \ud83c\udf93",
+        "NYC Brooklyn, NY",
+        "",
+        "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intuit",
+        "Finance Transformation & Analytics Intern",
+        "Mountain View, CA",
+        "",
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+        "Tarrytown, NY",
+        "",
+        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "New York Mets",
+        "Data Science Intern",
+        "Queens, NY",
+        "",
+        "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Great American Insurance Company",
+        "Enterprise Analytics Intern",
+        "Cincinnati, OH",
+        "",
+        "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "General Motors",
         "Machine Learning Engineer Intern - AV/AI Platform",
         "Sunnyvale, CA",
         "",
         "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Elevance Health",
+        "Data Analytics Intern",
+        "4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
+        "",
+        "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Undergraduate-Intern---Summer-2027_JR209076?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Elevance Health",
+        "Data Analyst Graduate Intern \ud83c\udf93",
+        "4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
+        "",
+        "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Datacor",
+        "Data Science Intern - Summer 2027 - Program \ud83c\udf93",
+        "Remote in USA",
+        "",
+        "https://job-boards.greenhouse.io/datacor/jobs/5242412007?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intuit",
+        "Business Data Analyst Intern - Strategy & Planning",
+        "Mountain View, CA",
+        "",
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Pinterest",
@@ -9527,6 +9626,41 @@
         "https://www.pinterestcareers.com/jobs/?gh_jid=8140169&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "The Federal Reserve System",
+        "Advanced Analytics Intern",
+        "Cleveland, OH",
+        "",
+        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "The Federal Reserve System",
+        "Data Science and Business Analytics Intern",
+        "Chicago, IL",
+        "",
+        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "The Federal Reserve System",
+        "Statistics and Analysis Intern",
+        "Cleveland, OH",
+        "",
+        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "The Federal Reserve System",
+        "Data Science Intern",
+        "Chicago, IL",
+        "",
+        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "Sunnyvale, CA",
+        "",
+        "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "General Motors",
         "AI/ML Engineer Intern - Autonomous Vehicles: Simulation \ud83c\udf93",
         "Sunnyvale, CA",
@@ -9541,6 +9675,13 @@
         "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "MetLife",
+        "Data & Analytics Intern",
+        "Cary, NC",
+        "",
+        "https://metlife.avature.net/en_US/ml/JobDetail/20702?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "ITT",
         "Data Analytics / AI Intern - Summer 2027",
         "Irvine, CA",
@@ -9553,6 +9694,13 @@
         "Seattle, WA",
         "",
         "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Life Fitness",
+        "Marketing Analytics Intern",
+        "Rosemont, IL",
+        "",
+        "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253?utm_source=Simplify&ref=Simplify"
       ],
       [
         "DraftKings",
