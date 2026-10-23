@@ -4056,7 +4056,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "e77e566c4c7dc0accce075730338689c284d2387",
+    "last_sha": "72ac25329c0032d4445be875eed1c79e2d901390",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -4066,11 +4066,25 @@
         "https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Symbotic",
+        "Machine Learning Ops Co-op",
+        "Wilmington, MA",
+        "Spring 2027",
+        "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Booz Allen",
         "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
         "McLean, VA",
         "Winter 2027",
         "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Analytic Partners",
+        "Data Science Co-op",
+        "Miami, FL",
+        "Winter 2027",
+        "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Angel City",
@@ -5002,20 +5016,6 @@
         "Cambridge, MA Seattle, WA Arlington County, Arlington, VA",
         "Fall 2026",
         "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Symbotic",
-        "Machine Learning Ops Co-op",
-        "Wilmington, MA",
-        "Spring 2027",
-        ""
-      ],
-      [
-        "Analytic Partners",
-        "Data Science Co-op",
-        "Miami, FL",
-        "Winter 2027",
-        ""
       ],
       [
         "PrizePicks",
@@ -9098,7 +9098,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "e77e566c4c7dc0accce075730338689c284d2387",
+    "last_sha": "72ac25329c0032d4445be875eed1c79e2d901390",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -9137,6 +9137,13 @@
       ],
       [
         "Pattern",
+        "AI Automation Engineer Intern",
+        "Lehi, UT",
+        "",
+        "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Pattern",
         "Data Science Intern",
         "Lehi, UT",
         "",
@@ -9150,11 +9157,25 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8306841&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "STR",
+        "Data Analyst Intern",
+        "Arlington County, Arlington, VA Woburn, MA",
+        "",
+        "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Northrop Grumman",
         "Systems Engineering Intern - AI Experience",
         "Dulles, VA",
         "",
         "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Leidos",
+        "AI/ML Intern",
+        "Huntsville, AL",
+        "",
+        "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168?utm_source=Simplify&ref=Simplify"
       ],
       [
         "KION Group",
@@ -9185,11 +9206,39 @@
         "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "American Family Insurance Group",
+        "Business Intelligence Enablement Intern",
+        "Madison, WI Boston, MA",
+        "",
+        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "ABB",
         "Sales Excellence Data Analytics Intern",
         "Cary, NC",
         "",
         "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "KeyBank",
+        "Marketing Analytics Intern",
+        "Brooklyn, OH",
+        "",
+        "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "GlobalFoundries",
+        "AI Software Intern",
+        "Santa Clara, CA Richardson, TX",
+        "",
+        "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Athene",
+        "Operations Reporting & Analytics Intern",
+        "West Des Moines, IA",
+        "",
+        "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Paccar",
@@ -9561,13 +9610,6 @@
         "Bellevue, WA",
         "",
         "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "GE Vernova",
-        "AI Evaluation & Benchmarking Intern",
-        "Bellevue, WA",
-        "",
-        "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Waymo",
@@ -11010,13 +11052,6 @@
         "6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT",
         "",
         "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Booz Allen",
-        "Data Scientist Intern - Summer Games",
-        "Colorado Springs, CO",
-        "",
-        "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Booz Allen",
