@@ -4016,7 +4016,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "1b1387697b65b8a0f93ca6bd909884ff89b5066e",
+    "last_sha": "94fb7079f59a1adb8104bbd508f723cc3c5db302",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -4808,13 +4808,6 @@
         "Boulder, CO",
         "Winter 2026",
         "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Emerson Electric",
-        "Data Analyst Co-op",
-        "Marshalltown, IA",
-        "Winter 2026",
-        "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Ingredion",
@@ -5799,6 +5792,13 @@
       [
         "Emerson Electric",
         "Machine Learning Co-op",
+        "Marshalltown, IA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Emerson Electric",
+        "Data Analyst Co-op",
         "Marshalltown, IA",
         "Winter 2026",
         ""
@@ -9026,7 +9026,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "1b1387697b65b8a0f93ca6bd909884ff89b5066e",
+    "last_sha": "94fb7079f59a1adb8104bbd508f723cc3c5db302",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
