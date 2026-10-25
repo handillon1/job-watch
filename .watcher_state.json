@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6af3ee5c3a580112f08496e52473c850ac6c6e7c",
+    "last_sha": "6e996b449fc8f85958b0d2b68a8b0cd6cb2a1450",
     "rows": [
       [
         "Simbe Robotics",
@@ -582,32 +582,11 @@
         "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/"
       ],
       [
-        "SpreeAI",
-        "Software Engineer Intern, AI Infrastructure / Training / Inference",
-        "San Francisco, CA",
-        "Jul 24",
-        "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1"
-      ],
-      [
         "PathAI",
         "Machine Learning Intern, AI Product and ML Core",
         "Boston, MA New York, NY Remote",
         "Apr 20",
         "https://www.pathai.com/career/job-post?gh_jid=8202342002"
-      ],
-      [
-        "EdgeTrace",
-        "AI Full-Stack Engineering Intern",
-        "San Mateo, CA",
-        "Dec 09",
-        "https://www.workatastartup.com/jobs/86239"
-      ],
-      [
-        "Amazon",
-        "Business Intelligence Engineer Co-Op",
-        "Seattle, WA",
-        "Aug 27",
-        "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us"
       ],
       [
         "Tesla",
@@ -643,13 +622,6 @@
         "Fremont, CA",
         "Aug 02",
         "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob"
-      ],
-      [
-        "Rippling",
-        "Machine Learning Engineer Intern",
-        "San Francisco, CA",
-        "Jun 06",
-        "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea"
       ],
       [
         "Flagship Pioneering",
@@ -722,6 +694,13 @@
         ""
       ],
       [
+        "SPREEAI",
+        "Software Engineer Intern, AI Infrastructure / Training / Inference",
+        "San Francisco, CA",
+        "Jul 24",
+        ""
+      ],
+      [
         "GoodRx",
         "AI Agent Developer Intern",
         "New York City, NY",
@@ -750,6 +729,13 @@
         ""
       ],
       [
+        "EdgeTrace",
+        "AI Full-Stack Engineering Intern",
+        "San Mateo, CA",
+        "Dec 09",
+        ""
+      ],
+      [
         "Figure",
         "Helix AI Intern, Speech",
         "San Jose, CA",
@@ -757,10 +743,24 @@
         ""
       ],
       [
+        "Amazon",
+        "Business Intelligence Engineer Co-Op",
+        "Seattle, WA",
+        "Aug 27",
+        ""
+      ],
+      [
         "Notion",
         "Software Engineer, AI Intern",
         "San Francisco, CA New York, NY",
         "Aug 08",
+        ""
+      ],
+      [
+        "Rippling",
+        "Machine Learning Engineer Intern",
+        "San Francisco, CA",
+        "Jun 06",
         ""
       ]
     ],
@@ -800,6 +800,7 @@
       "Pony.ai|Research Intern - Deep Learning|Fremont, CA|Jul 26",
       "Postman|AI Engineer Intern|Berkeley, CA|Aug 03",
       "Rippling|Machine Learning Engineer Intern|San Francisco, CA|Jun 06",
+      "SPREEAI|Software Engineer Intern, AI Infrastructure / Training / Inference|San Francisco, CA|Jul 24",
       "Sentara Health|Data & AI Finance Strategy Intern|Virginia Beach, VA|Jul 26",
       "Simbe Robotics|Data Analytics & Data Science Intern|Burlingame, CA|Oct 23",
       "SpreeAI|Software Engineer Intern, AI Infrastructure / Training / Inference|San Francisco, CA|Jul 24",
@@ -11498,7 +11499,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6af3ee5c3a580112f08496e52473c850ac6c6e7c",
+    "last_sha": "6e996b449fc8f85958b0d2b68a8b0cd6cb2a1450",
     "rows": [
       [
         "Simbe Robotics",
@@ -11949,13 +11950,6 @@
         "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997"
       ],
       [
-        "MITRE",
-        "AI Engineering Intern",
-        "Bedford, MA",
-        "Oct 18",
-        "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern"
-      ],
-      [
         "Creative Artists Agency",
         "Data Analytics Intern",
         "Denver, CO",
@@ -12369,27 +12363,6 @@
         "https://www.janestreet.com/join-jane-street/position/8611307002/"
       ],
       [
-        "Capital One",
-        "Data Analyst Intern",
-        "Mclean, VA",
-        "Jul 07",
-        "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472"
-      ],
-      [
-        "Terranox AI",
-        "Summer Intern - AI/ML Engineering \ud83c\uddfa\ud83c\uddf8",
-        "San Francisco, CA",
-        "May 14",
-        "https://www.workatastartup.com/jobs/94631"
-      ],
-      [
-        "Intercontinental Exchange, Inc.",
-        "Artificial Intelligence, Data & Machine Learning Intern",
-        "New York, NY",
-        "Apr 20",
-        "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9"
-      ],
-      [
         "Merck",
         "Data, AI, and Genome Sciences Intern",
         "Cambridge, MA",
@@ -12446,6 +12419,13 @@
         ""
       ],
       [
+        "MITRE",
+        "AI Engineering Intern",
+        "Bedford, MA",
+        "Oct 18",
+        ""
+      ],
+      [
         "GE Vernova",
         "AI Evaluation & Benchmarking Intern, AGI",
         "Bellevue, WA",
@@ -12488,6 +12468,20 @@
         ""
       ],
       [
+        "Capital One",
+        "Data Analyst Intern",
+        "Mclean, VA",
+        "Jul 07",
+        ""
+      ],
+      [
+        "Terranox AI",
+        "Summer Intern - AI/ML Engineering \ud83c\uddfa\ud83c\uddf8",
+        "San Francisco, CA",
+        "May 14",
+        ""
+      ],
+      [
         "Apptronik",
         "Software Engineer Intern, ML Ops",
         "Austin, TX",
@@ -12506,6 +12500,13 @@
         "Forward Deployed Engineering Intern, AI-Native",
         "Houston, TX San Francisco, CA",
         "Apr 28",
+        ""
+      ],
+      [
+        "Intercontinental Exchange, Inc.",
+        "Artificial Intelligence, Data & Machine Learning Intern",
+        "New York, NY",
+        "Apr 20",
         ""
       ],
       [
