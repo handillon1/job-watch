@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0e04ab45227d59e832773a2569cab51374a0c37d",
+    "last_sha": "a614b32e2a96bd11142c946341b6f1bd6a7fa05b",
     "rows": [
       [
         "Simbe Robotics",
@@ -568,13 +568,6 @@
         "https://www.tesla.com/careers/search/job/278847?utm_source=github-vansh-ouckah"
       ],
       [
-        "Nokia",
-        "Architecture AI Co-op \ud83c\uddfa\ud83c\uddf8",
-        "Naperville, IL",
-        "Jul 27",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722?utm_source=github-vansh-ouckah"
-      ],
-      [
         "GRITT ROBOTICS INC",
         "ML & Cloud Infrastructure Engineer Intern",
         "South San Francisco, CA",
@@ -645,13 +638,6 @@
         "https://www.tesla.com/careers/search/job/247862?utm_source=github-vansh-ouckah"
       ],
       [
-        "Notion",
-        "Software Engineer, AI Intern",
-        "San Francisco, CA New York, NY",
-        "Aug 08",
-        "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933?utm_source=github-vansh-ouckah"
-      ],
-      [
         "Tesla",
         "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
         "Fremont, CA",
@@ -697,6 +683,13 @@
         "Toshiba Commerce Solutions",
         "Project Management & AI Automation Intern \ud83d\udec2",
         "Frisco, TX",
+        "Jul 27",
+        ""
+      ],
+      [
+        "Nokia",
+        "Architecture AI Co-op \ud83c\uddfa\ud83c\uddf8",
+        "Naperville, IL",
         "Jul 27",
         ""
       ],
@@ -761,6 +754,13 @@
         "Helix AI Intern, Speech",
         "San Jose, CA",
         "Oct 22",
+        ""
+      ],
+      [
+        "Notion",
+        "Software Engineer, AI Intern",
+        "San Francisco, CA New York, NY",
+        "Aug 08",
         ""
       ]
     ],
@@ -11498,7 +11498,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0e04ab45227d59e832773a2569cab51374a0c37d",
+    "last_sha": "a614b32e2a96bd11142c946341b6f1bd6a7fa05b",
     "rows": [
       [
         "Simbe Robotics",
@@ -12111,13 +12111,6 @@
       ],
       [
         "GE Vernova",
-        "AI Evaluation & Benchmarking Intern, AGI",
-        "Bellevue, WA",
-        "Oct 14",
-        "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "GE Vernova",
         "AI Post-Training and Model Alignment Intern, AGI",
         "Bellevue, WA",
         "Oct 14",
@@ -12273,20 +12266,6 @@
       [
         "American Express",
         "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
-        "Atlanta, GA",
-        "Aug 21",
-        "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "American Express",
-        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
-        "Phoenix, AZ",
-        "Aug 21",
-        "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "American Express",
-        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
         "New York, NY",
         "Aug 21",
         "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991?utm_source=github-vansh-ouckah"
@@ -12404,13 +12383,6 @@
         "https://www.workatastartup.com/jobs/94631?utm_source=github-vansh-ouckah"
       ],
       [
-        "Homebase",
-        "Forward Deployed Engineering Intern, AI-Native",
-        "Houston, TX San Francisco, CA",
-        "Apr 28",
-        "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2?utm_source=github-vansh-ouckah"
-      ],
-      [
         "Intercontinental Exchange, Inc.",
         "Artificial Intelligence, Data & Machine Learning Intern",
         "New York, NY",
@@ -12474,10 +12446,31 @@
         ""
       ],
       [
+        "GE Vernova",
+        "AI Evaluation & Benchmarking Intern, AGI",
+        "Bellevue, WA",
+        "Oct 14",
+        ""
+      ],
+      [
         "Vertiv",
         "Data Analytics Intern",
         "Delaware, OH",
         "Oct 13",
+        ""
+      ],
+      [
+        "American Express",
+        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
+        "Phoenix, AZ",
+        "Aug 21",
+        ""
+      ],
+      [
+        "American Express",
+        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
+        "Atlanta, GA",
+        "Aug 21",
         ""
       ],
       [
@@ -12506,6 +12499,13 @@
         "Software Engineering Intern, Platform, Security & AI",
         "San Jose, CA",
         "May 09",
+        ""
+      ],
+      [
+        "Homebase",
+        "Forward Deployed Engineering Intern, AI-Native",
+        "Houston, TX San Francisco, CA",
+        "Apr 28",
         ""
       ],
       [
