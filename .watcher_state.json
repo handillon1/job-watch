@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "c4ae177f86d6d8c1708ca10e1a440b81f44285d1",
+    "last_sha": "0e04ab45227d59e832773a2569cab51374a0c37d",
     "rows": [
       [
         "Simbe Robotics",
@@ -405,13 +405,6 @@
         "Cranberry Township, PA",
         "Oct 23",
         "https://careers.msasafety.com/jobs/10243?icims=1&utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Flagship Pioneering",
-        "AI/ML Engineering Co-op, SAGE Platform",
-        "Cambridge, MA",
-        "Oct 23",
-        "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002?utm_source=github-vansh-ouckah"
       ],
       [
         "Coretek Services",
@@ -671,6 +664,13 @@
         "San Francisco, CA",
         "Jun 06",
         "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=github-vansh-ouckah"
+      ],
+      [
+        "Flagship Pioneering",
+        "AI/ML Engineering Co-op, SAGE Platform",
+        "Cambridge, MA",
+        "Oct 23",
+        ""
       ],
       [
         "Postman",
@@ -11498,7 +11498,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "c4ae177f86d6d8c1708ca10e1a440b81f44285d1",
+    "last_sha": "0e04ab45227d59e832773a2569cab51374a0c37d",
     "rows": [
       [
         "Simbe Robotics",
@@ -11513,20 +11513,6 @@
         "Sunnyvale, CA",
         "Oct 23",
         "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Merck",
-        "Data, AI, and Genome Sciences Intern",
-        "Cambridge, MA",
-        "Oct 23",
-        "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Merck",
-        "Data, AI, and Genome Sciences, Foundation Models Intern",
-        "Cambridge, MA",
-        "Oct 23",
-        "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438?utm_source=github-vansh-ouckah"
       ],
       [
         "KLA",
@@ -11625,13 +11611,6 @@
         "Kingwood, TX",
         "Oct 22",
         "https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460?utm_source=github-vansh-ouckah"
-      ],
-      [
-        "Biogen",
-        "Integrated Insights & Analytics Co-op, Nephrology",
-        "Cambridge, MA",
-        "Oct 22",
-        "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Integrated-Insights---Analytics--Nephrology_REQ24281?utm_source=github-vansh-ouckah"
       ],
       [
         "American Family Insurance Group",
@@ -12187,13 +12166,6 @@
         "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606636?utm_source=github-vansh-ouckah"
       ],
       [
-        "Vertiv",
-        "Data Analytics Intern",
-        "Delaware, OH",
-        "Oct 13",
-        "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852?utm_source=github-vansh-ouckah"
-      ],
-      [
         "ServiceNow",
         "Associate Software Engineer Intern, AI Engineering",
         "Santa Clara, CA",
@@ -12446,9 +12418,30 @@
         "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah"
       ],
       [
+        "Merck",
+        "Data, AI, and Genome Sciences Intern",
+        "Cambridge, MA",
+        "Oct 23",
+        ""
+      ],
+      [
+        "Merck",
+        "Data, AI, and Genome Sciences, Foundation Models Intern",
+        "Cambridge, MA",
+        "Oct 23",
+        ""
+      ],
+      [
         "Pattern",
         "AI Infrastructure Engineer Intern",
         "Lehi, UT",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Biogen",
+        "Integrated Insights & Analytics Co-op, Nephrology",
+        "Cambridge, MA",
         "Oct 22",
         ""
       ],
@@ -12478,6 +12471,13 @@
         "AI Engineer Intern",
         "Columbus, OH",
         "Oct 18",
+        ""
+      ],
+      [
+        "Vertiv",
+        "Data Analytics Intern",
+        "Delaware, OH",
+        "Oct 13",
         ""
       ],
       [
