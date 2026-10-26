@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "5752d797e5cc409cd9267217ddc6eb0ad0fe7758",
+    "last_sha": "5dfdb4a187826ffa7fe055b146ae8404291ac5e1",
     "rows": [
       [
         "Simbe Robotics",
@@ -4201,7 +4201,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "fd76e832ad361bbd856102f994e663e03db6edc1",
+    "last_sha": "bd2152ef95ed0b3f43e64a61c902f95239089d76",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -9194,7 +9194,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "fd76e832ad361bbd856102f994e663e03db6edc1",
+    "last_sha": "bd2152ef95ed0b3f43e64a61c902f95239089d76",
     "rows": [
       [
         "Skydio",
@@ -11557,7 +11557,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "5752d797e5cc409cd9267217ddc6eb0ad0fe7758",
+    "last_sha": "5dfdb4a187826ffa7fe055b146ae8404291ac5e1",
     "rows": [
       [
         "Skydio",
@@ -12379,6 +12379,13 @@
         "https://go.vansh.nyc/8d?s=y"
       ],
       [
+        "DriveTime",
+        "Data Analytics Intern",
+        "Dallas, TX Tempe, AZ",
+        "Oct 12",
+        "https://go.vansh.nyc/PR?s=y"
+      ],
+      [
         "CapTech Consulting",
         "Data Analysis/Data Engineering Intern",
         "Richmond, VA",
@@ -12489,6 +12496,13 @@
         "Redmond, WA",
         "Oct 07",
         "https://go.vansh.nyc/FW?s=y"
+      ],
+      [
+        "Amazon",
+        "Business Intelligence Engineer Intern",
+        "Seattle, WA",
+        "Oct 07",
+        "https://go.vansh.nyc/PX?s=y"
       ],
       [
         "Tenstorrent",
@@ -13176,6 +13190,7 @@
       "Aerospace Corporation|Software AI Intern|United States|Aug 28",
       "Allstate|Data Analytics Engineer Intern|Remote United States|Oct 21",
       "Allstate|Data Science Intern, Core Telematics|Remote United States|Oct 21",
+      "Amazon|Business Intelligence Engineer Intern|Seattle, WA|Oct 07",
       "Amazon|Frontier AI & Robotics Intern|San Francisco, CA|Oct 22",
       "American Electric Power|Data Scientist Intern|Columbus, OH|Oct 20",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Atlanta, GA|Aug 21",
@@ -13237,6 +13252,7 @@
       "DocuSign|Agentic AI Engineer Intern|San Francisco, CA|Oct 22",
       "Dow Jones|Data Analyst Intern|New York, NY|Oct 06",
       "DraftKings|Data Science Intern|Boston, MA|Sep 19",
+      "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|Oct 12",
       "DriveWealth|AI Engineer Intern, AI Consulting Associate Program|Chicago, IL NYC|Oct 20",
       "DriveWealth|Product Owner Intern, AI Consulting Associate Program|Chicago, IL NYC|Oct 20",
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
