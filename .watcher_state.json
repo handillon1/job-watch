@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "762862af0698537f9c7a9589433d491903087d42",
+    "last_sha": "f62374da5b4fec647cbc6f870438796e80c619ea",
     "rows": [
       [
         "Simbe Robotics",
@@ -517,13 +517,6 @@
         "Rochester, MN",
         "Oct 12",
         "https://go.vansh.nyc/8o?s=z"
-      ],
-      [
-        "1Password",
-        "Data Intern, Product Analytics",
-        "Remote (United States",
-        "",
-        ""
       ],
       [
         "Bose",
@@ -726,6 +719,13 @@
         "AI & Infrastructure Engineer Intern",
         "Devens, MA",
         "Oct 15",
+        ""
+      ],
+      [
+        "1Password",
+        "Data Intern, Product Analytics",
+        "Remote (United States",
+        "\ud83d\udd12",
         ""
       ],
       [
@@ -11557,7 +11557,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "762862af0698537f9c7a9589433d491903087d42",
+    "last_sha": "f62374da5b4fec647cbc6f870438796e80c619ea",
     "rows": [
       [
         "Skydio",
@@ -11663,20 +11663,6 @@
         "Palo Alto, CA Irvine, CA",
         "Oct 22",
         "https://go.vansh.nyc/fI?s=y"
-      ],
-      [
-        "Pattern",
-        "Data Science Intern",
-        "Lehi, UT",
-        "Oct 22",
-        "https://go.vansh.nyc/fu?s=y"
-      ],
-      [
-        "Pattern",
-        "AI Automation Engineer Intern",
-        "Lehi, UT",
-        "Oct 22",
-        "https://go.vansh.nyc/fw?s=y"
       ],
       [
         "Paccar",
@@ -12984,6 +12970,20 @@
         "STR",
         "Data Analyst Intern",
         "Arlington, VA Woburn, MA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Pattern",
+        "Data Science Intern",
+        "Lehi, UT",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Pattern",
+        "AI Automation Engineer Intern",
+        "Lehi, UT",
         "Oct 22",
         ""
       ],
