@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "38634522a7f14e33990287595a05f7e25de9c762",
+    "last_sha": "5752d797e5cc409cd9267217ddc6eb0ad0fe7758",
     "rows": [
       [
         "Simbe Robotics",
@@ -624,6 +624,20 @@
         "https://go.vansh.nyc/7J?s=z"
       ],
       [
+        "AMD",
+        "Machine Learning Co-op",
+        "**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA",
+        "Aug 20",
+        "https://go.vansh.nyc/Oi?s=z"
+      ],
+      [
+        "AMD",
+        "Machine Learning Co-op, Artificial Intelligence",
+        "San Jose, CA Santa Clara, CA",
+        "Aug 20",
+        "https://go.vansh.nyc/Ol?s=z"
+      ],
+      [
         "Bot Auto",
         "Deep Learning Engineer Intern",
         "Houston, TX",
@@ -851,6 +865,8 @@
     "seen": [
       "1Password|Data Intern, Product Analytics|Remote (United States|",
       "AGCO|AI & Data Science Intern|Champaign, IL|Oct 14",
+      "AMD|Machine Learning Co-op, Artificial Intelligence|San Jose, CA Santa Clara, CA|Aug 20",
+      "AMD|Machine Learning Co-op|**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA|Aug 20",
       "Amazon|Business Intelligence Engineer Co-Op|Seattle, WA|Aug 27",
       "Analytic Partners|Data Science Co-op|Miami, FL|Oct 21",
       "Apptronik|Software Engineer Intern, ML Systems|Austin, TX|Jul 28",
@@ -11541,7 +11557,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "38634522a7f14e33990287595a05f7e25de9c762",
+    "last_sha": "5752d797e5cc409cd9267217ddc6eb0ad0fe7758",
     "rows": [
       [
         "Skydio",
@@ -12755,6 +12771,41 @@
         "https://go.vansh.nyc/M5?s=y"
       ],
       [
+        "Hewlett Packard Enterprise",
+        "Data Science Intern",
+        "**10 locations**Andover, MA Bloomington, MN San Jose, CA Spring, TX Durham, NC Westford, MA Chippewa Falls, WI Fort Collins, CO Sunnyvale, CA Roseville, CA",
+        "Aug 29",
+        "https://go.vansh.nyc/OD?s=y"
+      ],
+      [
+        "Aerospace Corporation",
+        "Software AI Intern \ud83c\uddfa\ud83c\uddf8",
+        "United States",
+        "Aug 28",
+        "https://go.vansh.nyc/OR?s=y"
+      ],
+      [
+        "TikTok",
+        "AI Infrastructure Engineer Intern, Recommendation & LLM",
+        "San Jose, CA",
+        "Aug 25",
+        "https://go.vansh.nyc/Ox?s=y"
+      ],
+      [
+        "The Hartford",
+        "Data Engineer Intern, Technology, Data, AI, and Operations",
+        "Hartford, CT",
+        "Aug 23",
+        "https://go.vansh.nyc/Oo?s=y"
+      ],
+      [
+        "TikTok",
+        "AI Product Manager Intern, Product Social",
+        "San Jose, CA",
+        "Aug 21",
+        "https://go.vansh.nyc/Om?s=y"
+      ],
+      [
         "The Nuclear Company",
         "AI Applied Research Intern \ud83d\udec2",
         "Washington, DC",
@@ -13122,6 +13173,7 @@
       "Adobe|Data, AI & Innovation Intern|San Jose, CA|Oct 19",
       "Adobe|Machine Learning Engineer Intern|**7 locations**San Jose, CA Waltham, MA San Francisco, CA Austin, TX Seattle, WA Lehi, UT New York, NY|Oct 24",
       "AeroVironment|Machine Learning Engineering Intern|Centreville, VA|Oct 20",
+      "Aerospace Corporation|Software AI Intern|United States|Aug 28",
       "Allstate|Data Analytics Engineer Intern|Remote United States|Oct 21",
       "Allstate|Data Science Intern, Core Telematics|Remote United States|Oct 21",
       "Amazon|Frontier AI & Robotics Intern|San Francisco, CA|Oct 22",
@@ -13213,6 +13265,7 @@
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
       "Hewlett Packard Enterprise|AI & HPC Performance Engineering Intern|Spring, TX|Oct 14",
       "Hewlett Packard Enterprise|AI/ML Developer Intern|San Jose, CA|Oct 25",
+      "Hewlett Packard Enterprise|Data Science Intern|**10 locations**Andover, MA Bloomington, MN San Jose, CA Spring, TX Durham, NC Westford, MA Chippewa Falls, WI Fort Collins, CO Sunnyvale, CA Roseville, CA|Aug 29",
       "Hewlett Packard Enterprise|HPC AI Networking Intern, Network Transport|Chippewa Falls, WI Fort Collins, CO|Oct 12",
       "Hex Technologies|AI Engineer Intern|San Francisco, CA|Oct 11",
       "Highmark Health|Data Analyst Intern|Pittsburgh, PA|Oct 19",
@@ -13304,7 +13357,10 @@
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
+      "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
       "The Nuclear Company|AI Applied Research Intern|Washington, DC|Aug 21",
+      "TikTok|AI Infrastructure Engineer Intern, Recommendation & LLM|San Jose, CA|Aug 25",
+      "TikTok|AI Product Manager Intern, Product Social|San Jose, CA|Aug 21",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Governance|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Knowledge Graph|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Recommendation Live|Seattle, WA|Oct 14",
