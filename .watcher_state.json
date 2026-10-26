@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0b9a3d9d3445a7bd14d1c3b6667ffaa8ca12f409",
+    "last_sha": "8d7cd410b5f1755fc48a690fede8d849179c12f9",
     "rows": [
       [
         "Simbe Robotics",
@@ -11494,7 +11494,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0b9a3d9d3445a7bd14d1c3b6667ffaa8ca12f409",
+    "last_sha": "8d7cd410b5f1755fc48a690fede8d849179c12f9",
     "rows": [
       [
         "Skydio",
@@ -11504,11 +11504,25 @@
         "https://go.vansh.nyc/BA?s=y"
       ],
       [
+        "Hewlett Packard Enterprise",
+        "AI/ML Developer Intern",
+        "San Jose, CA",
+        "Oct 25",
+        "https://go.vansh.nyc/BM?s=y"
+      ],
+      [
         "ConnectPrep",
         "Data Analyst Intern",
         "Remote United States",
         "Oct 25",
         "https://go.vansh.nyc/BG?s=y"
+      ],
+      [
+        "Skydio",
+        "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+        "San Mateo, CA",
+        "Oct 24",
+        "https://go.vansh.nyc/BL?s=y"
       ],
       [
         "Simbe Robotics",
@@ -12593,6 +12607,7 @@
       "GlobalFoundries|AI Software Intern|Santa Clara, CA Richardson, TX|Oct 20",
       "GlobalFoundries|AI/ML Systems Engineering Intern|Richardson, TX|Oct 19",
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
+      "Hewlett Packard Enterprise|AI/ML Developer Intern|San Jose, CA|Oct 25",
       "Hex Technologies|AI Engineer Intern|San Francisco, CA|Oct 11",
       "Highmark Health|Data Analyst Intern|Pittsburgh, PA|Oct 19",
       "Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX San Francisco, CA|Apr 28",
@@ -12648,6 +12663,7 @@
       "Shield AI|Data Science Intern|San Diego, CA|Oct 20",
       "Simbe Robotics|Computer Vision / Applied AI Intern|Burlingame, CA|Oct 23",
       "Skydio|Autonomy Engineer Intern, Computer Vision / Deep Learning|San Mateo, CA|Oct 25",
+      "Skydio|Autonomy Engineer Intern, Deep Learning / Computer Vision|San Mateo, CA|Oct 24",
       "Smith+Nephew|Agentic AI Software Engineering Intern|Andover, MA|Oct 21",
       "Sony|Research Engineer Intern, Ethical Creative and Protective AI Lab|Remote in USA|Oct 20",
       "Space Dynamics Laboratory|AI-Enabled Requirements Engineering Intern|North Logan, UT|Oct 20",
