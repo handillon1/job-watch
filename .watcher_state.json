@@ -4089,7 +4089,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d92e1f8b61e0daad9abe6d58b774d84c306ffec5",
+    "last_sha": "47d37b72af69204714e2e3a6194f5d9f23e2362d",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -9082,8 +9082,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d92e1f8b61e0daad9abe6d58b774d84c306ffec5",
+    "last_sha": "47d37b72af69204714e2e3a6194f5d9f23e2362d",
     "rows": [
+      [
+        "Skydio",
+        "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+        "San Mateo, CA",
+        "",
+        "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Simbe Robotics",
         "Data Analytics & Data Science Intern",
@@ -11360,6 +11367,7 @@
       "Simbe Robotics|Computer Vision / Applied AI Intern|Burlingame, CA|",
       "Simbe Robotics|Data Analytics & Data Science Intern|Burlingame, CA|",
       "Skydio|Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027|San Mateo, CA|",
+      "Skydio|Autonomy Engineer Intern - Deep Learning / Computer Vision|San Mateo, CA|",
       "Southwest Airlines|Customer Experience and Analytics Data Science Intern|Dallas, TX|",
       "Southwest Airlines|Safety Analytics Intern|Dallas, TX|",
       "Southwest Airlines|Sales Analytics Intern|Dallas, TX|",
