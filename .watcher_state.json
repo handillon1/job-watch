@@ -4225,8 +4225,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b55920436de5f69fe37a01058c8548d4d20b8bff",
+    "last_sha": "e5a905e7bdfdbd2f3ef75c9104859902cf6a243f",
     "rows": [
+      [
+        "Applied Materials",
+        "Data Scientist Co-op",
+        "Gloucester, MA",
+        "Winter 2027",
+        "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Amazon",
         "Applied Science Intern - Frontier AI & Robotics \ud83c\udf93",
@@ -5003,13 +5010,6 @@
         "Wilmington, MA",
         "Fall 2026",
         "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Clyde Companies",
-        "Business Intelligence Intern",
-        "Orem, UT",
-        "Fall 2026",
-        "https://careers.clydeinc.com/jobs/34757?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "PrizePicks",
@@ -6100,6 +6100,13 @@
         "Hoffman Construction",
         "Data Analyst Intern",
         "Amarillo, TX",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "Clyde Companies",
+        "Business Intelligence Intern",
+        "Orem, UT",
         "Fall 2026",
         ""
       ],
@@ -8660,6 +8667,7 @@
       "Ankura Consulting Group|Forensic Data & Analytics Intern|Chicago, IL|Winter 2026",
       "Ankura Consulting Group|University Intern - Forensic Data & Analytics|Washington, DC|Winter 2026",
       "Applied Materials|2026 AI Engineer/Data Scientist Intern-Bachelor's - Santa Clara - CA|Santa Clara, CA|Winter 2026",
+      "Applied Materials|Data Scientist Co-op|Gloucester, MA|Winter 2027",
       "Applied Materials|Data Scientist Intern|Santa Clara, CA|Summer 2026, Fall 2026",
       "Aramark|Data Analyst Intern|Newark, DE|Fall 2026",
       "Arevon|Data Science Intern - Interconnection & Transmission|Scottsdale, AZ|Fall 2026",
@@ -9218,8 +9226,29 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b55920436de5f69fe37a01058c8548d4d20b8bff",
+    "last_sha": "e5a905e7bdfdbd2f3ef75c9104859902cf6a243f",
     "rows": [
+      [
+        "onsemi",
+        "AI & Data Science Intern \ud83c\udf93",
+        "San Jose, CA",
+        "",
+        "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Highmark Health",
+        "Data Analyst Intern",
+        "Pittsburgh, PA",
+        "",
+        "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Federal Home Loan Bank of Indianapolis",
+        "Business Intelligence Intern",
+        "Indianapolis, IN",
+        "",
+        "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Skydio",
         "Autonomy Engineer Intern - Deep Learning / Computer Vision",
@@ -9562,6 +9591,13 @@
         "Hunt Valley, Cockeysville, MD",
         "",
         "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Family Insurance Group",
+        "Data Engineering / Data Science Intern",
+        "Madison, WI",
+        "",
+        "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674?utm_source=Simplify&ref=Simplify"
       ],
       [
         "General Motors",
@@ -11212,6 +11248,7 @@
       "FHLBank Chicago|AI Intern|Chicago, IL|",
       "Fannie Mae|Data Science Intern - Analytics & Modeling Program|Washington, DC|",
       "Fannie Mae|Finance Analytics Intern - Analytics & Modeling Program|Washington, DC|",
+      "Federal Home Loan Bank of Indianapolis|Business Intelligence Intern|Indianapolis, IN|",
       "Field AI|Robotics Research Intern - Embodied AI|Irvine, CA|",
       "First Citizens BancShares|Outreach Analytics Intern|Raleigh, NC|",
       "First Citizens BancShares|Summer Intern - Sales Performance & Analytics Strategy|Raleigh, NC|",
@@ -11263,6 +11300,7 @@
       "HF Sinclair|IT Data Analytics Intern|Dallas, TX|",
       "HF Sinclair|Reporting & Analytics Intern|Dallas, TX|",
       "Hadrian|Data Science/Data Engineer Intern|LA Torrance, CA|",
+      "Highmark Health|Data Analyst Intern|Pittsburgh, PA|",
       "Highmark Health|Data Analyst Undergraduate Intern|Pittsburgh, PA|",
       "Highmark Health|Market Analytics Graduate Intern|Pittsburgh, PA|",
       "Hilb Group|Benefits Analytics Intern|Hunt Valley, Cockeysville, MD|",
@@ -11528,6 +11566,7 @@
       "Zillow|Applied Scientist Intern - Economics|Seattle, WA|",
       "Zurn Elkay Water Solutions|Sales Analytics Intern|Milwaukee, WI|",
       "ibotta|Business Intelligence Intern|Denver, CO|",
+      "onsemi|AI & Data Science Intern|San Jose, CA|",
       "onsemi|Semiconductor AI Specialist Intern|Gresham, OR|"
     ]
   },
