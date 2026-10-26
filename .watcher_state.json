@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "8d7cd410b5f1755fc48a690fede8d849179c12f9",
+    "last_sha": "36d1551f115ec58ca92396cde2b3b51c872a1005",
     "rows": [
       [
         "Simbe Robotics",
@@ -11473,7 +11473,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "8d7cd410b5f1755fc48a690fede8d849179c12f9",
+    "last_sha": "36d1551f115ec58ca92396cde2b3b51c872a1005",
     "rows": [
       [
         "Skydio",
@@ -11530,13 +11530,6 @@
         "Mountain View, CA",
         "Oct 23",
         "https://go.vansh.nyc/h1?s=y"
-      ],
-      [
-        "Cisco",
-        "Software Engineer Data & AI II Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
-        "Oct 23",
-        "https://go.vansh.nyc/gO?s=y"
       ],
       [
         "Auto-Owners Insurance",
@@ -11686,27 +11679,6 @@
         "https://go.vansh.nyc/fm?s=y"
       ],
       [
-        "Cisco",
-        "Machine Learning Engineer I Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e7?s=y"
-      ],
-      [
-        "Cisco",
-        "Machine Learning Engineer II Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/e8?s=y"
-      ],
-      [
-        "Cisco",
-        "AI Operations Engineer I Intern",
-        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
-        "Oct 21",
-        "https://go.vansh.nyc/ec?s=y"
-      ],
-      [
         "Aptiv",
         "AI Product Analyst Intern",
         "San Diego, CA",
@@ -11817,13 +11789,6 @@
         "Chicago, IL NYC",
         "Oct 20",
         "https://go.vansh.nyc/df?s=y"
-      ],
-      [
-        "Cisco",
-        "Software Engineer Intern, Data & AI",
-        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
-        "Oct 20",
-        "https://go.vansh.nyc/gs?s=y"
       ],
       [
         "American Electric Power",
@@ -12372,6 +12337,13 @@
         ""
       ],
       [
+        "Cisco",
+        "Software Engineer Data & AI II Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
+        "Oct 23",
+        ""
+      ],
+      [
         "Pattern",
         "AI Infrastructure Engineer Intern",
         "Lehi, UT",
@@ -12393,6 +12365,27 @@
         ""
       ],
       [
+        "Cisco",
+        "Machine Learning Engineer I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "Machine Learning Engineer II Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
+        "Cisco",
+        "AI Operations Engineer I Intern",
+        "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
+        "Oct 21",
+        ""
+      ],
+      [
         "Verizon Communications",
         "Data Science Intern, Verizon Consumer Group",
         "Basking Ridge, NJ",
@@ -12403,6 +12396,13 @@
         "Shield AI",
         "Data Science Intern",
         "San Diego, CA",
+        "Oct 20",
+        ""
+      ],
+      [
+        "Cisco",
+        "Software Engineer Intern, Data & AI",
+        "**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA",
         "Oct 20",
         ""
       ],
