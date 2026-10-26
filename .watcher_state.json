@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "b026e2bf45f4b7d58a7300c1b00412b6a6a278c2",
+    "last_sha": "0b9a3d9d3445a7bd14d1c3b6667ffaa8ca12f409",
     "rows": [
       [
         "Simbe Robotics",
@@ -11486,7 +11486,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "b026e2bf45f4b7d58a7300c1b00412b6a6a278c2",
+    "last_sha": "0b9a3d9d3445a7bd14d1c3b6667ffaa8ca12f409",
     "rows": [
       [
         "Skydio",
@@ -11494,6 +11494,13 @@
         "San Mateo, CA",
         "Oct 25",
         "https://go.vansh.nyc/BA?s=y"
+      ],
+      [
+        "ConnectPrep",
+        "Data Analyst Intern",
+        "Remote United States",
+        "Oct 25",
+        "https://go.vansh.nyc/BG?s=y"
       ],
       [
         "Simbe Robotics",
@@ -11662,13 +11669,6 @@
         "Remote in USA Stafford, VA",
         "Oct 21",
         "https://go.vansh.nyc/e0?s=y"
-      ],
-      [
-        "FedEx Freight",
-        "Data Scientist Intern",
-        "Memphis, TN",
-        "Oct 21",
-        "https://go.vansh.nyc/f6?s=y"
       ],
       [
         "CVS Health",
@@ -12385,6 +12385,13 @@
         ""
       ],
       [
+        "FedEx Freight",
+        "Data Scientist Intern",
+        "Memphis, TN",
+        "Oct 21",
+        ""
+      ],
+      [
         "Verizon Communications",
         "Data Science Intern, Verizon Consumer Group",
         "Basking Ridge, NJ",
@@ -12554,6 +12561,7 @@
       "Cisco|Machine Learning Engineer II Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
       "Cisco|Software Engineer Data & AI II Intern|**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA|Oct 23",
       "Cisco|Software Engineer Intern, Data & AI|**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA|Oct 20",
+      "ConnectPrep|Data Analyst Intern|Remote United States|Oct 25",
       "Constellation Brands|AI Enablement Intern|Rochester, NY|Oct 19",
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
       "Creative Artists Agency|Data Analytics Intern|Denver, CO|Oct 18",
