@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0cb243097cad02672be2fd7dc29405ccd52fc978",
+    "last_sha": "76f6ce16596a581fc773a86a9e93c009a784475c",
     "rows": [
+      [
+        "Danaher Corporation",
+        "Supply Chain AI Co-op",
+        "United States",
+        "Oct 25",
+        "https://go.vansh.nyc/T9?s=z"
+      ],
       [
         "Simbe Robotics",
         "Data Analytics & Data Science Intern",
@@ -905,6 +912,7 @@
       "Core & Main|AI/ML Data Engineering Intern|St. Louis, MO|Jul 27",
       "Coretek Services|AI & Data Automation Developer Co-op|Remote United States|Oct 23",
       "Crowe|Data Analytics Developer Intern|Chicago, IL|Aug 21",
+      "Danaher Corporation|Supply Chain AI Co-op|United States|Oct 25",
       "EdgeTrace|AI Full-Stack Engineering Intern|San Mateo, CA|Dec 09",
       "Figure|Helix AI Intern, Speech|San Jose, CA|Oct 22",
       "First Solar (US)|Data Analytics Intern|Perrysburg, OH|Sep 25",
@@ -11571,7 +11579,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0cb243097cad02672be2fd7dc29405ccd52fc978",
+    "last_sha": "76f6ce16596a581fc773a86a9e93c009a784475c",
     "rows": [
       [
         "Skydio",
