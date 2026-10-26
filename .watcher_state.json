@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "dff3039a4d60bace485e6b5e3c3199f9ca5d715f",
+    "last_sha": "6dbe9f888ef6247b4ee66e265c408b459a4a7f9f",
     "rows": [
       [
         "Simbe Robotics",
@@ -11473,7 +11473,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "dff3039a4d60bace485e6b5e3c3199f9ca5d715f",
+    "last_sha": "6dbe9f888ef6247b4ee66e265c408b459a4a7f9f",
     "rows": [
       [
         "Skydio",
@@ -11502,6 +11502,13 @@
         "San Mateo, CA",
         "Oct 24",
         "https://go.vansh.nyc/BL?s=y"
+      ],
+      [
+        "Adobe",
+        "Machine Learning Engineer Intern",
+        "**7 locations**San Jose, CA Waltham, MA San Francisco, CA Austin, TX Seattle, WA Lehi, UT New York, NY",
+        "Oct 24",
+        "https://go.vansh.nyc/BO?s=y"
       ],
       [
         "Simbe Robotics",
@@ -12522,6 +12529,7 @@
     "seen": [
       "Adobe|AI & Architecture Intern|San Jose, CA|Oct 19",
       "Adobe|Data, AI & Innovation Intern|San Jose, CA|Oct 19",
+      "Adobe|Machine Learning Engineer Intern|**7 locations**San Jose, CA Waltham, MA San Francisco, CA Austin, TX Seattle, WA Lehi, UT New York, NY|Oct 24",
       "AeroVironment|Machine Learning Engineering Intern|Centreville, VA|Oct 20",
       "Allstate|Data Analytics Engineer Intern|Remote United States|Oct 21",
       "Allstate|Data Science Intern, Core Telematics|Remote United States|Oct 21",
