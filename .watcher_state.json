@@ -4233,8 +4233,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "48233907430ce86e51f34a6a33fe1ebe97280b02",
+    "last_sha": "6faa1ace3a742da235ebae35cdc128d0c225723b",
     "rows": [
+      [
+        "The Walt Disney Company",
+        "Content Research Insights & Analytics Intern",
+        "Burbank, CA",
+        "Winter 2027",
+        "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "The Walt Disney Company",
         "Content Research Insights & Analytics Intern",
@@ -4836,6 +4843,13 @@
         "Charlotte, NC",
         "Winter 2026",
         "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "AI Software Engineer Intern - Artificial Intelligence \ud83c\udf93",
+        "Hillsboro, OR Phoenix, AZ",
+        "Winter 2026",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -5653,13 +5667,6 @@
         "CIM Group",
         "Data Science Intern",
         "LA",
-        "Winter 2026",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Intel",
-        "AI Software Engineer Intern - Artificial Intelligence \ud83c\udf93",
-        "Hillsboro, OR Phoenix, AZ",
         "Winter 2026",
         ""
       ],
@@ -9250,8 +9257,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "48233907430ce86e51f34a6a33fe1ebe97280b02",
+    "last_sha": "6faa1ace3a742da235ebae35cdc128d0c225723b",
     "rows": [
+      [
+        "onsemi",
+        "Customer Operations Data Analyst Intern",
+        "Scottsdale, AZ",
+        "",
+        "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Hive Financial Systems",
         "Analytics Intern",
@@ -9295,11 +9309,25 @@
         "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "JM Family",
+        "Power Platform & Analytics Intern",
+        "Mobile, AL",
+        "",
+        "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "CSAA Insurance Group",
         "Data Science Intern",
         "Phoenix, AZ",
         "",
         "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Assurant",
+        "AI and Data Science Intern",
+        "Atlanta, GA",
+        "",
+        "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105?utm_source=Simplify&ref=Simplify"
       ],
       [
         "JP Morgan Chase",
@@ -11237,6 +11265,7 @@
       "AspenTech|Data Science Intern|Bedford, MA|",
       "Associated Bank|Corporate Intern - Digital Delivery - Artificial Intelligence|Milwaukee, WI|",
       "Associated Bank|Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking|Minneapolis, MN|",
+      "Assurant|AI and Data Science Intern|Atlanta, GA|",
       "Athene|Operations Reporting & Analytics Intern|West Des Moines, IA|",
       "Atlassian|Data Scientist Intern|Seattle, WA|",
       "Atlassian|Machine Learning Intern|Seattle, WA SF|",
@@ -11430,6 +11459,7 @@
       "Itron|HR AI Data Science Intern|Austin, TX|",
       "Itron|People Analytics Intern|Liberty Lake, WA|",
       "JM Family|Automation & Analytics Intern|Deerfield Beach, FL|",
+      "JM Family|Power Platform & Analytics Intern|Mobile, AL|",
       "JP Morgan Chase|Machine Learning Summer Associate Intern - NLP|Palo Alto, CA Seattle, WA NYC|",
       "JP Morgan Chase|Quant AI Associate Intern|Palo Alto, CA|",
       "Jabil|AI Transformation Intern|Austin, TX|",
@@ -11682,6 +11712,7 @@
       "Zurn Elkay Water Solutions|Sales Analytics Intern|Milwaukee, WI|",
       "ibotta|Business Intelligence Intern|Denver, CO|",
       "onsemi|AI & Data Science Intern|San Jose, CA|",
+      "onsemi|Customer Operations Data Analyst Intern|Scottsdale, AZ|",
       "onsemi|Semiconductor AI Specialist Intern|Gresham, OR|"
     ]
   },
