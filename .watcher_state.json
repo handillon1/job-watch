@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "262b7509f281ad5af9566db02f57eb77a195b340",
+    "last_sha": "1aeaf84f24059f5bce479db556177dc5390d88f4",
     "rows": [
       [
         "Danaher Corporation",
@@ -11630,7 +11630,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "262b7509f281ad5af9566db02f57eb77a195b340",
+    "last_sha": "1aeaf84f24059f5bce479db556177dc5390d88f4",
     "rows": [
       [
         "Visa",
@@ -11638,6 +11638,20 @@
         "Foster City, CA",
         "Oct 27",
         "https://go.vansh.nyc/UG?s=y"
+      ],
+      [
+        "Micron Technology",
+        "AI Engineer Intern, Platform",
+        "Boise, ID",
+        "Oct 27",
+        "https://go.vansh.nyc/VX?s=y"
+      ],
+      [
+        "Micron Technology",
+        "HBM Data Scientist Intern",
+        "Richardson, TX",
+        "Oct 27",
+        "https://go.vansh.nyc/VY?s=y"
       ],
       [
         "EQT Corporation",
@@ -11652,6 +11666,13 @@
         "Conshohocken, PA",
         "Oct 27",
         "https://go.vansh.nyc/Vc?s=y"
+      ],
+      [
+        "Atoms",
+        "AI Research Intern",
+        "Mountain View, CA",
+        "Oct 27",
+        "https://go.vansh.nyc/VZ?s=y"
       ],
       [
         "Zillow",
@@ -13434,6 +13455,7 @@
       "Astera Labs|Applied AI Intern, Non-Silicon|San Jose, CA|Oct 05",
       "Astera Labs|Data Analytics Intern|San Jose, CA|Oct 05",
       "Astreya|AI Infrastructure DC Design Intern|Remote (US)|Oct 14",
+      "Atoms|AI Research Intern|Mountain View, CA|Oct 27",
       "Auto-Owners Insurance|Business Intelligence Developer Intern|Lansing, MI|Oct 23",
       "AutoZone|Data Science Intern|Memphis, TN|Sep 20",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
@@ -13544,6 +13566,8 @@
       "Merck|Data, AI, and Genome Sciences Intern|Cambridge, MA|Oct 23",
       "Merck|Data, AI, and Genome Sciences, Foundation Models Intern|Cambridge, MA|Oct 23",
       "MetLife|Data & Analytics Intern|Cary, NC|Sep 30",
+      "Micron Technology|AI Engineer Intern, Platform|Boise, ID|Oct 27",
+      "Micron Technology|HBM Data Scientist Intern|Richardson, TX|Oct 27",
       "Micron Technology|Machine Learning Engineering Intern|Richardson, TX|Oct 19",
       "Micron Technology|SMAI Probe AI Engineer Intern|Boise, ID|Oct 20",
       "Microsoft|Applied Scientist Intern|Redmond, WA|Oct 07",
