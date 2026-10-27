@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f8734accf674a1e4d644bd09365341b6fcd08c2f",
+    "last_sha": "19f90806e873a9c75254ebdb08c8f0e01b514bc4",
     "rows": [
       [
         "Danaher Corporation",
@@ -11637,7 +11637,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f8734accf674a1e4d644bd09365341b6fcd08c2f",
+    "last_sha": "19f90806e873a9c75254ebdb08c8f0e01b514bc4",
     "rows": [
       [
         "Visa",
@@ -11666,6 +11666,13 @@
         "Seattle, WA",
         "Oct 26",
         "https://go.vansh.nyc/Tk?s=y"
+      ],
+      [
+        "Nissan",
+        "AI Intern",
+        "Dallas, TX Franklin, TN",
+        "Oct 26",
+        "https://go.vansh.nyc/VH?s=y"
       ],
       [
         "Skydio",
@@ -13560,6 +13567,7 @@
       "Nissan|AI & Data Analytics Intern|Franklin, TN Irving, TX|Oct 11",
       "Nissan|AI Agent Architect Intern|Farmington Hills, MI|Oct 07",
       "Nissan|AI Autonomous Driving Verification & Validation Intern|Santa Clara, CA|Oct 19",
+      "Nissan|AI Intern|Dallas, TX Franklin, TN|Oct 26",
       "Nissan|Applied AI & Business Innovation Intern|Franklin, TN|Oct 19",
       "Nissan|Data Science Intern|Franklin, TN|Oct 11",
       "Nissan|Data Science Intern|Smyrna, TN|Oct 11",
