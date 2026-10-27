@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "df6d232f232b4e1fd88bb33ff5f13ffe7f9880a5",
+    "last_sha": "f8734accf674a1e4d644bd09365341b6fcd08c2f",
     "rows": [
       [
         "Danaher Corporation",
@@ -11629,7 +11629,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "df6d232f232b4e1fd88bb33ff5f13ffe7f9880a5",
+    "last_sha": "f8734accf674a1e4d644bd09365341b6fcd08c2f",
     "rows": [
       [
         "Visa",
@@ -11637,6 +11637,13 @@
         "Foster City, CA",
         "Oct 27",
         "https://go.vansh.nyc/UG?s=y"
+      ],
+      [
+        "EQT Corporation",
+        "AI Intern",
+        "Remote United States",
+        "Oct 27",
+        "https://go.vansh.nyc/VF?s=y"
       ],
       [
         "Cencora",
@@ -12143,13 +12150,6 @@
         "https://go.vansh.nyc/Rn?s=y"
       ],
       [
-        "Creative Artists Agency",
-        "Data Analytics Intern",
-        "Denver, CO",
-        "Oct 18",
-        "https://go.vansh.nyc/bV?s=y"
-      ],
-      [
         "Celestica",
         "AI Engineer Intern",
         "Remote United States",
@@ -12274,13 +12274,6 @@
         "New York, NY",
         "Oct 15",
         "https://go.vansh.nyc/9B?s=y"
-      ],
-      [
-        "Apple",
-        "SoC Machine Learning Software Engineer Intern",
-        "Sunnyvale, CA",
-        "Oct 15",
-        "https://go.vansh.nyc/aN?s=y"
       ],
       [
         "TikTok",
@@ -13277,6 +13270,20 @@
         ""
       ],
       [
+        "Creative Artists Agency",
+        "Data Analytics Intern",
+        "Denver, CO",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Apple",
+        "SoC Machine Learning Software Engineer Intern",
+        "Sunnyvale, CA",
+        "Oct 15",
+        ""
+      ],
+      [
         "GE Vernova",
         "AI Evaluation & Benchmarking Intern, AGI",
         "Bellevue, WA",
@@ -13469,6 +13476,7 @@
       "DriveWealth|Product Owner Intern, AI Consulting Associate Program|Chicago, IL NYC|Oct 20",
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
       "Duolingo|Data Scientist Intern|Pittsburgh, PA New York, NY|Oct 15",
+      "EQT Corporation|AI Intern|Remote United States|Oct 27",
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "FHLBank Chicago|AI Intern|Chicago, IL|Oct 04",
