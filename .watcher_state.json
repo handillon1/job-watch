@@ -4233,7 +4233,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5fbbf13a602eb58169cede82cca505536c5391fb",
+    "last_sha": "bfa381a83f89b1755a43a959f8bd2f4a94dffa72",
     "rows": [
       [
         "Applied Materials",
@@ -9234,7 +9234,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5fbbf13a602eb58169cede82cca505536c5391fb",
+    "last_sha": "bfa381a83f89b1755a43a959f8bd2f4a94dffa72",
     "rows": [
       [
         "JP Morgan Chase",
@@ -9249,6 +9249,13 @@
         "San Jose, CA",
         "",
         "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "JM Family",
+        "Automation & Analytics Intern",
+        "Deerfield Beach, FL",
+        "",
+        "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation---Analytics-Intern_JR105132?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Highmark Health",
@@ -10833,6 +10840,13 @@
         "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "AArete",
+        "Business Analytics Intern - Summer 2027",
+        "Chicago, IL",
+        "",
+        "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Ernst & Young",
         "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
         "Dallas, TX NYC",
@@ -11094,6 +11108,7 @@
     ],
     "seen": [
       "7-Eleven|AI Analyst / AI Automation Specialist Intern|Irving, TX|",
+      "AArete|Business Analytics Intern - Summer 2027|Chicago, IL|",
       "ABB|Sales Excellence Data Analytics Intern|Cary, NC|",
       "AECOM|Engineering/Data Analytics Intern|Atlanta, GA|",
       "AGCO|Business Intelligence Intern|United States|",
@@ -11338,6 +11353,7 @@
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
       "Itron|HR AI Data Science Intern|Austin, TX|",
       "Itron|People Analytics Intern|Liberty Lake, WA|",
+      "JM Family|Automation & Analytics Intern|Deerfield Beach, FL|",
       "JP Morgan Chase|Machine Learning Summer Associate Intern - NLP|Palo Alto, CA Seattle, WA NYC|",
       "JP Morgan Chase|Quant AI Associate Intern|Palo Alto, CA|",
       "Jabil|AI Transformation Intern|Austin, TX|",
