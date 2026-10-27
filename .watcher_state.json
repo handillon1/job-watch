@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "18c52079b5d582f3dcd613109122455325b338d6",
+    "last_sha": "d9ce5daa50c0dd69522284dfdaf9749f3cd749d6",
     "rows": [
       [
         "Danaher Corporation",
@@ -11629,7 +11629,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "18c52079b5d582f3dcd613109122455325b338d6",
+    "last_sha": "d9ce5daa50c0dd69522284dfdaf9749f3cd749d6",
     "rows": [
       [
         "Visa",
@@ -13116,6 +13116,13 @@
         "https://go.vansh.nyc/3Z?s=y"
       ],
       [
+        "QuantCo",
+        "Data Science Intern",
+        "United States",
+        "May 01",
+        "https://go.vansh.nyc/Vh?s=y"
+      ],
+      [
         "Merck",
         "Data, AI, and Genome Sciences Intern",
         "Cambridge, MA",
@@ -13555,6 +13562,7 @@
       "Phillips 66|ERI Analytical Solutions Intern|Bartlesville, OK|Oct 13",
       "Qualcomm|AI Driven Test Automation Engineering Intern|Haifa District, IL|Oct 18",
       "Qualcomm|Machine Learning & Artificial Intelligence Engineering Intern|**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA|Oct 18",
+      "QuantCo|Data Science Intern|United States|May 01",
       "Rivian and Volkswagen Group Technologies|Data Engineering Intern, AI & Analytics|Palo Alto, CA Irvine, CA|Oct 22",
       "Rivian|Artificial Intelligence, Machine Learning, & Data Intern|Palo Alto, CA|Oct 09",
       "Robert Bosch Venture Capital|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
