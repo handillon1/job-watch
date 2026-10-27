@@ -4233,7 +4233,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "bfa381a83f89b1755a43a959f8bd2f4a94dffa72",
+    "last_sha": "a1a22fb321b70cc44e7089556f8459d312309014",
     "rows": [
       [
         "Applied Materials",
@@ -4759,13 +4759,6 @@
         "Round Rock, TX",
         "Winter 2026",
         "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299054?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Tencent",
-        "Machine Learning Intern \ud83c\udf93",
-        "Palo Alto, CA",
-        "Winter 2026",
-        "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "NCR Atleos",
@@ -5570,6 +5563,13 @@
         "Data Analyst Intern",
         "Sioux Center, IA Sioux Falls, SD",
         "Spring 2027",
+        ""
+      ],
+      [
+        "Tencent",
+        "Machine Learning Intern \ud83c\udf93",
+        "Palo Alto, CA",
+        "Winter 2026",
         ""
       ],
       [
@@ -9234,7 +9234,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "bfa381a83f89b1755a43a959f8bd2f4a94dffa72",
+    "last_sha": "a1a22fb321b70cc44e7089556f8459d312309014",
     "rows": [
       [
         "JP Morgan Chase",
@@ -9249,6 +9249,13 @@
         "San Jose, CA",
         "",
         "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Zillow",
+        "Data Science Intern",
+        "Seattle, WA",
+        "",
+        "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "JM Family",
@@ -10399,6 +10406,20 @@
         "https://jobs.statefarm.com/jobs/46353?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Aurora Innovation",
+        "Data & ML Platform Engineer Intern",
+        "SF Pittsburgh, PA Mountain View, CA",
+        "",
+        "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Aurora Innovation",
+        "Behavior and Planning Intern - ML Research",
+        "SF Pittsburgh, PA Mountain View, CA",
+        "",
+        "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "\ud83d\udd25 Waymo",
         "Machine Learning Engineer Intern - Road Understanding \ud83c\udf93",
         "Mountain View, CA",
@@ -11168,6 +11189,8 @@
       "Athene|Operations Reporting & Analytics Intern|West Des Moines, IA|",
       "Atlassian|Data Scientist Intern|Seattle, WA|",
       "Atlassian|Machine Learning Intern|Seattle, WA SF|",
+      "Aurora Innovation|Behavior and Planning Intern - ML Research|SF Pittsburgh, PA Mountain View, CA|",
+      "Aurora Innovation|Data & ML Platform Engineer Intern|SF Pittsburgh, PA Mountain View, CA|",
       "Auto-Owners Insurance|Business Intelligence Developer Intern - Summer 2027|Lansing, MI|",
       "Auto-Owners Insurance|Business Intelligence Developer Intern|Lansing, MI|",
       "Auto-Owners Insurance|Business Intelligence Engineer Intern|Lansing, MI|",
@@ -11597,6 +11620,7 @@
       "Zebra Technologies|Business Analytics Intern|Holtsville, NY|",
       "Zekelman Industries|Business Intelligence Intern - Program Development|Austin, TX Troy, MI|",
       "Zillow|Applied Scientist Intern - Economics|Seattle, WA|",
+      "Zillow|Data Science Intern|Seattle, WA|",
       "Zurn Elkay Water Solutions|Sales Analytics Intern|Milwaukee, WI|",
       "ibotta|Business Intelligence Intern|Denver, CO|",
       "onsemi|AI & Data Science Intern|San Jose, CA|",
