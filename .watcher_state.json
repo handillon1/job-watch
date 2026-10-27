@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f43b340e2207385345e46177ddaa55a242360a7c",
+    "last_sha": "ba4e897533921d4ed230a31a87d4df713df61786",
     "rows": [
       [
         "Danaher Corporation",
@@ -11630,8 +11630,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f43b340e2207385345e46177ddaa55a242360a7c",
+    "last_sha": "ba4e897533921d4ed230a31a87d4df713df61786",
     "rows": [
+      [
+        "Workiva",
+        "Machine Learning Engineering Intern",
+        "Remote United States",
+        "Oct 27",
+        "https://go.vansh.nyc/W7?s=y"
+      ],
       [
         "Visa",
         "Data Science Intern, Data and AI Team",
@@ -13665,6 +13672,7 @@
       "Walleye Capital|Investment Data Science Intern|New York, NY|Jul 24",
       "Whataburger|Data Scientist Intern|San Antonio, TX|Oct 13",
       "Workday|Machine Learning Engineer Intern|Pleasanton, CA|Oct 08",
+      "Workiva|Machine Learning Engineering Intern|Remote United States|Oct 27",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14"
     ]
