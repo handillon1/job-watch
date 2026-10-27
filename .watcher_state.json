@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "e66fc785725d75abfec664ec6a4cd2a2ac1323da",
+    "last_sha": "678b501724d7e9d33de716aaca7ed9792d4f5324",
     "rows": [
       [
         "Danaher Corporation",
@@ -11717,7 +11717,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "e66fc785725d75abfec664ec6a4cd2a2ac1323da",
+    "last_sha": "678b501724d7e9d33de716aaca7ed9792d4f5324",
     "rows": [
       [
         "Workiva",
@@ -11781,6 +11781,13 @@
         "Dallas, TX Franklin, TN",
         "Oct 26",
         "https://go.vansh.nyc/VH?s=y"
+      ],
+      [
+        "Assurant",
+        "AI and Data Science Intern",
+        "Atlanta, GA",
+        "Oct 26",
+        "https://go.vansh.nyc/WN?s=y"
       ],
       [
         "Skydio",
@@ -13545,6 +13552,7 @@
       "Aptiv|AI Product Analyst Intern|San Diego, CA|Oct 21",
       "Aramco Americas|AI/ML Engineering Intern|Houston, TX|Sep 08",
       "Ardian|Data Scientist Intern|New York, NY|Oct 15",
+      "Assurant|AI and Data Science Intern|Atlanta, GA|Oct 26",
       "Astera Labs|Applied AI Engineer Intern, Silicon Engineering|San Jose, CA|Oct 05",
       "Astera Labs|Applied AI Intern, Non-Silicon|San Jose, CA|Oct 05",
       "Astera Labs|Data Analytics Intern|San Jose, CA|Oct 05",
