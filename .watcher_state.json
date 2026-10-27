@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6fb7c3ae7e215505f9aab02f8b5f43372e493e02",
+    "last_sha": "5a6290c204dc046ef152b06f5d00bb70409780ab",
     "rows": [
       [
         "Danaher Corporation",
@@ -11588,8 +11588,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6fb7c3ae7e215505f9aab02f8b5f43372e493e02",
+    "last_sha": "5a6290c204dc046ef152b06f5d00bb70409780ab",
     "rows": [
+      [
+        "Zillow",
+        "Data Science Intern",
+        "Seattle, WA",
+        "Oct 26",
+        "https://go.vansh.nyc/Tk?s=y"
+      ],
       [
         "Skydio",
         "Autonomy Engineer Intern, Computer Vision / Deep Learning",
@@ -13552,6 +13559,7 @@
       "Walleye Capital|Investment Data Science Intern|New York, NY|Jul 24",
       "Whataburger|Data Scientist Intern|San Antonio, TX|Oct 13",
       "Workday|Machine Learning Engineer Intern|Pleasanton, CA|Oct 08",
+      "Zillow|Data Science Intern|Seattle, WA|Oct 26",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14"
     ]
   }
