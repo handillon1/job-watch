@@ -4241,8 +4241,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f6030e5c8f07fc89fa91960b6594821e4fdcbdae",
+    "last_sha": "feb190a8f0b2a2ae000e7539da1b391182752a94",
     "rows": [
+      [
+        "ABB",
+        "AI Robotics Intern \ud83c\udf93",
+        "San Jose, CA",
+        "Fall 2026",
+        "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "The Walt Disney Company",
         "Content Research Insights & Analytics Intern",
@@ -4592,6 +4599,13 @@
         "Sunnyvale, CA",
         "Winter 2027",
         "https://jobs.smartrecruiters.com/Intuitive/744000151714759?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cencora",
+        "Business Analytics Intern",
+        "Texas Remote in USA",
+        "Winter 2026",
+        "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Family Insurance Group",
@@ -5249,13 +5263,6 @@
         "Data Science/AI Intern",
         "Chesterfield, MO",
         "Fall 2026",
-        ""
-      ],
-      [
-        "Cencora",
-        "Business Analytics Intern",
-        "Texas Remote in USA",
-        "Winter 2026",
         ""
       ],
       [
@@ -8658,6 +8665,7 @@
       "1X|AI Residency Intern|San Carlos, CA|Fall 2026",
       "AARP|Data Science and Advanced Analytics Intern|Washington, DC|Fall 2026",
       "ABB|AI Data Scientist Intern|Morrisville, NC|Fall 2026",
+      "ABB|AI Robotics Intern|San Jose, CA|Fall 2026",
       "ABB|Physical AI Robotics Simulation Intern|Milpitas, CA|Fall 2026",
       "AECOM|Engineering/Data Science Intern - Networking Event with AECOM - Atlanta, GA|Atlanta, GA|Spring 2026, Summer 2026",
       "AGCO|AI & Data Science Intern|Champaign, IL|Spring 2027",
@@ -9258,14 +9266,84 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f6030e5c8f07fc89fa91960b6594821e4fdcbdae",
+    "last_sha": "feb190a8f0b2a2ae000e7539da1b391182752a94",
     "rows": [
+      [
+        "\ud83d\udd25 Amazon",
+        "Robotics Applied Scientist 2 Intern \ud83c\udf93",
+        "6 locationsSeattle, WA North Reading, MA NYC Bellevue, WA Sunnyvale, CA Westborough, MA",
+        "",
+        "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "PrizePicks",
         "Business Intelligence Intern - Game Operations",
         "Atlanta, GA",
         "",
         "http://prizepicks.com/position?gh_jid=8047188003&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Workday",
+        "Analytics Engineer Intern",
+        "Pleasanton, CA",
+        "",
+        "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "T-Mobile",
+        "Associate AI Engineer Intern",
+        "Frisco, TX Overland Park, KS",
+        "",
+        "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Revantage Corporate Services",
+        "Insurance Technology & AI Analytics Intern",
+        "Dallas, TX Chicago, IL",
+        "",
+        "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Federal Home Loan Bank of Indianapolis",
+        "MPP Data Analytics Intern",
+        "Indianapolis, IN",
+        "",
+        "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Applied Materials",
+        "Data Scientist Intern",
+        "Austin, TX",
+        "",
+        "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Applied Materials",
+        "Data Scientist Intern - Master's \ud83c\udf93",
+        "Santa Clara, CA",
+        "",
+        "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Applied Materials",
+        "Business Intelligence Analyst Intern \ud83c\udf93",
+        "Santa Clara, CA",
+        "",
+        "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Applied Materials",
+        "Data Science Intern",
+        "Santa Clara, CA",
+        "",
+        "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "American Family Insurance Group",
+        "Talent Analytics Intern",
+        "Madison, WI",
+        "",
+        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "onsemi",
@@ -10472,6 +10550,13 @@
         "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "USAA",
+        "Data Scientist Intern",
+        "Plano, TX",
+        "",
+        "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Stryker",
         "Data Analytics Intern",
         "Fort Wayne, IN",
@@ -10568,6 +10653,13 @@
         "Durham, NC",
         "",
         "https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "SoundExchange",
+        "Operations Intern - Royalty Processing & Business Intelligence",
+        "Washington, DC",
+        "",
+        "https://job-boards.greenhouse.io/sxinternships/jobs/5231079007?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Lawrence Livermore National Laboratory (LLNL)",
@@ -11129,6 +11221,7 @@
       "Amazon|Applied Science Intern - Natural Language Processing and Speech Technologies|7 locationsCambridge, MA Boston, MA Seattle, WA Santa Clara, CA NYC Bellevue, WA Sunnyvale, CA|",
       "Amazon|Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning|8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Arlington County, Arlington, VA NYC Bellevue, WA San Diego, CA|",
       "Amazon|Business Intelligence Engineer Intern|Seattle, WA|",
+      "Amazon|Robotics Applied Scientist 2 Intern|6 locationsSeattle, WA North Reading, MA NYC Bellevue, WA Sunnyvale, CA Westborough, MA|",
       "American Express|AI Engineer Intern - Enterprise Technology Services|Phoenix, AZ|",
       "American Express|AI Engineer Intern - Enterprise Technology Services|Sunrise, FL|",
       "American Express|Data Analytics Intern - Enterprise Technology Services|Charlotte, NC|",
@@ -11140,13 +11233,18 @@
       "American Family Insurance Group|Data Engineering / Data Science Intern|Madison, WI|",
       "American Family Insurance Group|GenAI/ML Intern|Madison, WI Boston, MA|",
       "American Family Insurance Group|Internal Data and Analytics Intern - Summer 2027|Madison, WI|",
+      "American Family Insurance Group|Talent Analytics Intern|Madison, WI|",
       "Amgen|Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations|Remote in USA|",
       "Amgen|Data Scientist Intern|Remote in USA|",
       "Amgen|Machine Learning Engineer Intern - Technology & Medical Organizations|Remote in USA|",
       "Amgen|Machine Learning Engineer Intern|Remote in USA|",
       "Amplify|AI Scientist Intern|Remote in USA|",
       "Amplify|Data Analytics Intern|Remote in USA|",
+      "Applied Materials|Business Intelligence Analyst Intern|Santa Clara, CA|",
       "Applied Materials|Data Analyst Intern - Global Technical Learning Center|Albany, NY|",
+      "Applied Materials|Data Science Intern|Santa Clara, CA|",
+      "Applied Materials|Data Scientist Intern - Master's|Santa Clara, CA|",
+      "Applied Materials|Data Scientist Intern|Austin, TX|",
       "Arch Capital Group|Data and Analytics Intern|Farmington, CT|",
       "Arthur J. Gallagher & Co.|Data Analytics Intern|Rolling Meadows, IL|",
       "Ascension|Data Science Intern|St. Louis, MO|",
@@ -11273,6 +11371,7 @@
       "Fannie Mae|Data Science Intern - Analytics & Modeling Program|Washington, DC|",
       "Fannie Mae|Finance Analytics Intern - Analytics & Modeling Program|Washington, DC|",
       "Federal Home Loan Bank of Indianapolis|Business Intelligence Intern|Indianapolis, IN|",
+      "Federal Home Loan Bank of Indianapolis|MPP Data Analytics Intern|Indianapolis, IN|",
       "Field AI|Robotics Research Intern - Embodied AI|Irvine, CA|",
       "First Citizens BancShares|Outreach Analytics Intern|Raleigh, NC|",
       "First Citizens BancShares|Summer Intern - Sales Performance & Analytics Strategy|Raleigh, NC|",
@@ -11460,6 +11559,7 @@
       "Republic Airways|Data Analytics Intern|Carmel, IN|",
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Chicago, IL|",
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Indianapolis, IN|",
+      "Revantage Corporate Services|Insurance Technology & AI Analytics Intern|Dallas, TX Chicago, IL|",
       "Robert Bosch Venture Capital|Calibration Process Data Science Intern - 8 months/40 hours per week|Farmington Hills, MI|",
       "Robinhood|Data Science Intern|Menlo Park, CA|",
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|",
@@ -11477,6 +11577,7 @@
       "Simbe Robotics|Data Analytics & Data Science Intern|Burlingame, CA|",
       "Skydio|Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027|San Mateo, CA|",
       "Skydio|Autonomy Engineer Intern - Deep Learning / Computer Vision|San Mateo, CA|",
+      "SoundExchange|Operations Intern - Royalty Processing & Business Intelligence|Washington, DC|",
       "Southwest Airlines|Customer Experience and Analytics Data Science Intern|Dallas, TX|",
       "Southwest Airlines|Safety Analytics Intern|Dallas, TX|",
       "Southwest Airlines|Sales Analytics Intern|Dallas, TX|",
@@ -11491,6 +11592,7 @@
       "Stryker|Data Analytics Intern - Multiple Teams|Portage, MI|",
       "Stryker|Data Analytics Intern|Fort Wayne, IN|",
       "Sun Life|Data Science Intern|5 locationsMilwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|",
+      "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|",
       "TD Bank|Data Analyst Intern - Global Technology & Solutions|Mt Laurel Township, NJ|",
       "TIAA|Enterprise Analytics Intern|Dallas, TX Charlotte, NC|",
       "TWG Global|AI Engineer Intern - Summer 2027|Santa Monica, CA|",
@@ -11545,6 +11647,7 @@
       "Travelers|Business Insights & Analytics Intern - BI&A LDP|Hartford, CT St Paul, MN|",
       "UL Solutions|Data Science Intern|Northbrook, IL Chicago, IL|",
       "URBN|Data Science Intern|Philadelphia, PA|",
+      "USAA|Data Scientist Intern|Plano, TX|",
       "United Parcel Service|Business Analytics Intern - Americas Region|Atlanta, GA|",
       "United Parcel Service|Finance Analytics Intern - Global Finance|Atlanta, GA|",
       "United Parcel Service|Human Resources Intern - Data Analytics - HR Systems|Atlanta, GA|",
@@ -11587,6 +11690,7 @@
       "Wex|AI & Data Platform Engineering Intern - Undergraduate|Remote in USA|",
       "WhiteWater Midstream|Data Science Intern - Summer 2027|Austin, TX|",
       "William Blair|Technology Intern - Wit - Data Science|Chicago, IL|",
+      "Workday|Analytics Engineer Intern|Pleasanton, CA|",
       "Workday|Machine Learning Engineer Intern|Pleasanton, CA|",
       "Xcel Energy|AI and Analytics Intern|Minneapolis, MN Denver, CO|",
       "Xcel Energy|Data Analyst Intern|Amarillo, TX|",
