@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "a6cbb6a33d1f1e66826b010008693e1a7f7874d0",
+    "last_sha": "eaaf5a3e66f06e00a71f73747b962defbb9fd48b",
     "rows": [
       [
         "The Walt Disney Company",
@@ -11650,7 +11650,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "a6cbb6a33d1f1e66826b010008693e1a7f7874d0",
+    "last_sha": "eaaf5a3e66f06e00a71f73747b962defbb9fd48b",
     "rows": [
       [
         "RosaicLabs",
@@ -11658,6 +11658,13 @@
         "Austin, TX Santa Clara, CA",
         "Oct 28",
         "https://go.vansh.nyc/Xp?s=y"
+      ],
+      [
+        "Micron Technology",
+        "Data Science Intern",
+        "San Jose, CA Folsom, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/XF?s=y"
       ],
       [
         "Workiva",
@@ -13624,6 +13631,7 @@
       "Merck|Data, AI, and Genome Sciences, Foundation Models Intern|Cambridge, MA|Oct 23",
       "MetLife|Data & Analytics Intern|Cary, NC|Sep 30",
       "Micron Technology|AI Engineer Intern, Platform|Boise, ID|Oct 27",
+      "Micron Technology|Data Science Intern|San Jose, CA Folsom, CA|Oct 28",
       "Micron Technology|HBM Data Scientist Intern|Richardson, TX|Oct 27",
       "Micron Technology|Machine Learning Engineering Intern|Richardson, TX|Oct 19",
       "Micron Technology|SMAI Probe AI Engineer Intern|Boise, ID|Oct 20",
