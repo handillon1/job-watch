@@ -4241,8 +4241,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "feb190a8f0b2a2ae000e7539da1b391182752a94",
+    "last_sha": "f2b5c2413924cc8b256e2d8127a98e2229d888f5",
     "rows": [
+      [
+        "Valmont",
+        "AI and Data Engineering Intern",
+        "Omaha, NE",
+        "Spring 2027",
+        "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "ICF International",
+        "Data Scientist Seasonal Associate Intern",
+        "Reston, VA",
+        "Fall 2026",
+        "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Data-Scientist_R2603639?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "ABB",
         "AI Robotics Intern \ud83c\udf93",
@@ -8901,6 +8915,7 @@
       "Hoffman Construction|Data Analyst Intern|Amarillo, TX|Fall 2026",
       "Hoffman Construction|Data Analyst Intern|Boise, ID|Fall 2026",
       "Honeywell|Artificial Intelligence/Machine Learning Co-op|United States|Spring 2027",
+      "ICF International|Data Scientist Seasonal Associate Intern|Reston, VA|Fall 2026",
       "IDeaS|Data Science Research Intern|Bloomington, MN|Winter 2026",
       "IES Holdings|Data Analytics Intern|Manitowoc, WI|Fall 2026",
       "ITT|Supply Chain Data Analyst Co-op|Seneca Falls, NY|Fall 2026",
@@ -9225,6 +9240,7 @@
       "United Airlines|Operations Strategy & Analytics Intern|Chicago, IL|Fall 2026",
       "University of Texas at Austin|Video and Analytics Intern - Baseball|Austin, TX|Summer 2026, Fall 2026, Winter 2027, Spring 2027",
       "Upstart|Applied Scientist Intern|Remote in USA|Winter 2026",
+      "Valmont|AI and Data Engineering Intern|Omaha, NE|Spring 2027",
       "Vantor|AI Engineer Intern|Remote in USA|Winter 2026",
       "VaynerMedia|Data Analytics Resident|LA|Winter 2027",
       "Verdantas|Environmental Data Analytics Intern - Geographic Information Systems|Syracuse, NY|Winter 2026",
@@ -9266,8 +9282,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "feb190a8f0b2a2ae000e7539da1b391182752a94",
+    "last_sha": "f2b5c2413924cc8b256e2d8127a98e2229d888f5",
     "rows": [
+      [
+        "Sherwin-Williams",
+        "R&D Data Science Co-op",
+        "Brecksville, OH",
+        "",
+        "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Amazon",
         "Robotics Applied Scientist 2 Intern \ud83c\udf93",
@@ -9302,6 +9325,34 @@
         "Dallas, TX Chicago, IL",
         "",
         "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "AI/ML & Data Engineering Intern",
+        "5 locationsCambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY",
+        "",
+        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
+        "Rensselaer, NY",
+        "",
+        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Analytics Intern - Dashboards & Business Process Automation",
+        "Armonk, NY Warren, NJ Tarrytown, NY",
+        "",
+        "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Marvell",
+        "Data Science Intern",
+        "Boise, ID",
+        "",
+        "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Federal Home Loan Bank of Indianapolis",
@@ -11485,6 +11536,7 @@
       "Manulife Financial|AI Intern - AI|Boston, MA|",
       "Marsh|Summer Analyst - Data and Analytics|Raleigh, NC|",
       "Marvell|AI Data Science Intern|Santa Clara, CA|",
+      "Marvell|Data Science Intern|Boise, ID|",
       "Meijer|Data Science Intern|Grand Rapids, MI|",
       "Meijer|Store Analytics Intern|Grand Rapids, MI|",
       "Merck|Computational Toxicology Intern - AI/ML Computational Toxicology|West Point, PA|",
@@ -11554,7 +11606,10 @@
       "Ragle Inc|Data Analytics Intern|North Richland Hills, TX|",
       "Raymond James Financial|Private Client Banking Strategy, Analytics & Sales Intern|St. Petersburg, FL|",
       "Red Ventures|Data Science Intern - Launch Program|Charlotte, NC|",
+      "Regeneron Pharmaceuticals|AI/ML & Data Engineering Intern|5 locationsCambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY|",
+      "Regeneron Pharmaceuticals|Data Analytics Intern - Dashboards & Business Process Automation|Armonk, NY Warren, NJ Tarrytown, NY|",
       "Regeneron Pharmaceuticals|Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT|Tarrytown, NY|",
+      "Regeneron Pharmaceuticals|Data Science & Digital Innovation Intern - Industrial Operations and Product Supply|Rensselaer, NY|",
       "Relay|Software Engineer Intern - AI/ML|Raleigh, NC|",
       "Republic Airways|Data Analytics Intern|Carmel, IN|",
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Chicago, IL|",
@@ -11569,6 +11624,7 @@
       "Salesforce|AI Research Intern|Palo Alto, CA|",
       "Scout AI|AI Engineer Intern - Fury Team|Sunnyvale, CA|",
       "Securian Financial Group|Data Science and Advanced Analytics Intern - Multiple Teams|St Paul, MN|",
+      "Sherwin-Williams|R&D Data Science Co-op|Brecksville, OH|",
       "Shield AI|Data Science Intern|San Diego, CA|",
       "Shure|Artificial Intelligence Engineer Intern|Niles, IL|",
       "Shure|Artificial Intelligence Specialist Intern - Operations|Niles, IL|",
