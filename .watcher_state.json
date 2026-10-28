@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0bc0c11801891cac96fe5088115177c1e707985e",
+    "last_sha": "049fe6021c426e3ef491b0e9480a2f217484bb54",
     "rows": [
       [
         "The Walt Disney Company",
@@ -11712,7 +11712,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0bc0c11801891cac96fe5088115177c1e707985e",
+    "last_sha": "049fe6021c426e3ef491b0e9480a2f217484bb54",
     "rows": [
       [
         "Schonfeld",
@@ -11736,11 +11736,32 @@
         "https://go.vansh.nyc/XF?s=y"
       ],
       [
+        "Workday",
+        "Analytics Engineer Intern",
+        "Pleasanton, CA",
+        "Oct 27",
+        "https://go.vansh.nyc/Y6?s=y"
+      ],
+      [
         "Visa",
         "Data Science Intern, Data and AI Team",
         "Foster City, CA",
         "Oct 27",
         "https://go.vansh.nyc/UG?s=y"
+      ],
+      [
+        "T-Mobile",
+        "Associate AI Engineer Intern",
+        "Frisco, TX Overland Park, KS",
+        "Oct 27",
+        "https://go.vansh.nyc/Yf?s=y"
+      ],
+      [
+        "Revantage Corporate Services",
+        "Insurance Technology & AI Analytics Intern",
+        "Dallas, TX Chicago, IL",
+        "Oct 27",
+        "https://go.vansh.nyc/Y7?s=y"
       ],
       [
         "Perspective Therapeutics",
@@ -11764,6 +11785,20 @@
         "https://go.vansh.nyc/Xk?s=y"
       ],
       [
+        "FormFactor",
+        "Electrical Design Automation Intern, AI & EDA Automation",
+        "Livermore, CA",
+        "Oct 27",
+        "https://go.vansh.nyc/Y8?s=y"
+      ],
+      [
+        "Florida Atlantic University",
+        "Data Analyst Intern",
+        "Boca Raton, FL",
+        "Oct 27",
+        "https://go.vansh.nyc/Y9?s=y"
+      ],
+      [
         "EQT Corporation",
         "AI Intern",
         "Remote United States",
@@ -11776,6 +11811,20 @@
         "Mountain View, CA",
         "Oct 27",
         "https://go.vansh.nyc/VZ?s=y"
+      ],
+      [
+        "Applied Materials",
+        "Data Science Intern",
+        "Santa Clara, CA",
+        "Oct 27",
+        "https://go.vansh.nyc/Ya?s=y"
+      ],
+      [
+        "Applied Materials",
+        "Data Scientist Intern",
+        "Austin, TX",
+        "Oct 27",
+        "https://go.vansh.nyc/Y3?s=y"
       ],
       [
         "Zillow",
@@ -13578,6 +13627,8 @@
       "Aon|IT/AI Engineer Intern|Chicago, IL|Oct 21",
       "Apple|SoC Machine Learning Software Engineer Intern|Sunnyvale, CA|Oct 15",
       "Apple|Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation|United States|Oct 20",
+      "Applied Materials|Data Science Intern|Santa Clara, CA|Oct 27",
+      "Applied Materials|Data Scientist Intern|Austin, TX|Oct 27",
       "Apptronik|Software Engineer Intern, ML Ops|Austin, TX|May 12",
       "Aptiv|AI Product Analyst Intern|San Diego, CA|Oct 21",
       "Aramco Americas|AI/ML Engineering Intern|Houston, TX|Sep 08",
@@ -13643,6 +13694,8 @@
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "FHLBank Chicago|AI Intern|Chicago, IL|Oct 04",
       "FedEx Freight|Data Scientist Intern|Memphis, TN|Oct 21",
+      "Florida Atlantic University|Data Analyst Intern|Boca Raton, FL|Oct 27",
+      "FormFactor|Electrical Design Automation Intern, AI & EDA Automation|Livermore, CA|Oct 27",
       "GE Vernova|AI Evaluation & Benchmarking Intern, AGI|Bellevue, WA|Oct 14",
       "GE Vernova|AI Post-Training and Model Alignment Intern, AGI|Bellevue, WA|Oct 14",
       "General Dynamics Information Technology|AI Network Engineering Intern|Bossier City, LA|Sep 22",
@@ -13739,6 +13792,7 @@
       "Qualcomm|AI Driven Test Automation Engineering Intern|Haifa District, IL|Oct 18",
       "Qualcomm|Machine Learning & Artificial Intelligence Engineering Intern|**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA|Oct 18",
       "QuantCo|Data Science Intern|United States|May 01",
+      "Revantage Corporate Services|Insurance Technology & AI Analytics Intern|Dallas, TX Chicago, IL|Oct 27",
       "Rivian and Volkswagen Group Technologies|Data Engineering Intern, AI & Analytics|Palo Alto, CA Irvine, CA|Oct 22",
       "Rivian|Artificial Intelligence, Machine Learning, & Data Intern|Palo Alto, CA|Oct 09",
       "Robert Bosch Venture Capital|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
@@ -13767,6 +13821,7 @@
       "Stryker|Data Analytics Intern|Fort Wayne, IN|Sep 21",
       "Sun Life|Data Science Intern|**5 locations**Milwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|Oct 22",
       "Susquehanna International Group|Machine Learning Engineering Intern|Bala Cynwyd, PA|Oct 18",
+      "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|Oct 27",
       "Tencent|Data Science Intern|Palo Alto, CA|Oct 12",
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
@@ -13801,6 +13856,7 @@
       "WTW|Risk & Analytics Enterprise Risk Consulting Intern|New York, NY|Oct 13",
       "Walleye Capital|Investment Data Science Intern|New York, NY|Jul 24",
       "Whataburger|Data Scientist Intern|San Antonio, TX|Oct 13",
+      "Workday|Analytics Engineer Intern|Pleasanton, CA|Oct 27",
       "Workday|Machine Learning Engineer Intern|Pleasanton, CA|Oct 08",
       "Workiva|Machine Learning Engineering Intern|Remote United States|Oct 27",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
