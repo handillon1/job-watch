@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "a45ed8b9189e47c9901d18f4f266a9c8d6bf55a7",
+    "last_sha": "d02b6108ccb16bdb05824a0698540f69d52dda3f",
     "rows": [
       [
         "The Walt Disney Company",
@@ -11629,8 +11629,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "a45ed8b9189e47c9901d18f4f266a9c8d6bf55a7",
+    "last_sha": "d02b6108ccb16bdb05824a0698540f69d52dda3f",
     "rows": [
+      [
+        "Schonfeld",
+        "Enterprise AI Intern",
+        "New York, NY",
+        "Oct 28",
+        "https://go.vansh.nyc/XY?s=y"
+      ],
       [
         "RosaicLabs",
         "AI Accelerator Design Verification Engineer Intern",
@@ -13659,6 +13666,7 @@
       "STR|Data Analyst Intern|Arlington, VA Woburn, MA|Oct 22",
       "Salesforce|AI Research Intern|Palo Alto, CA|Oct 20",
       "Scale AI|Machine Learning Research Intern|New York, NY San Francisco, CA|Oct 19",
+      "Schonfeld|Enterprise AI Intern|New York, NY|Oct 28",
       "Scout AI|AI Engineer Intern, Fury Team|Sunnyvale, CA|Oct 23",
       "Seagate Technology|Machine Learning for Corporate Strategy Intern|Bloomington, MN|Oct 18",
       "Seagate Technology|Recording Media R&D Intern, AI & Data Science|Fremont, CA|Oct 18",
