@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "16de21df69775d4f0d225a6a4b4f88ee2b4e8615",
+    "last_sha": "bd3b6ff2b970abe869257d4ddd0ffe525f0eb739",
     "rows": [
       [
         "Valmont",
@@ -11763,7 +11763,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "16de21df69775d4f0d225a6a4b4f88ee2b4e8615",
+    "last_sha": "bd3b6ff2b970abe869257d4ddd0ffe525f0eb739",
     "rows": [
       [
         "Sherwin-Williams",
@@ -11799,6 +11799,13 @@
         "Plano, TX",
         "Oct 28",
         "https://go.vansh.nyc/YK?s=y"
+      ],
+      [
+        "Boston Scientific",
+        "AI Solutions Engineering Intern",
+        "Arden Hills, MN",
+        "Oct 28",
+        "https://go.vansh.nyc/YR?s=y"
       ],
       [
         "Workday",
@@ -13739,6 +13746,7 @@
       "Booz Allen Hamilton|Games Data Scientist Intern|Lexington, MA|Oct 18",
       "Booz Allen|Applied AI Intern|Washington, DC|Sep 13",
       "Bosch|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
+      "Boston Scientific|AI Solutions Engineering Intern|Arden Hills, MN|Oct 28",
       "Boston Scientific|AI/Data Science Intern|Maple Grove, MN|Oct 16",
       "ByteDance|AI Network Automation Engineer Intern, Global Physical Network Infra|San Jose, CA|Aug 06",
       "ByteDance|Applied Machine Learning Production Engineer Intern|San Jose, CA|Aug 06",
