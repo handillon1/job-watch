@@ -4257,8 +4257,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "643aef176d48aaea1c6d851bbf7e4ed453af6191",
+    "last_sha": "0a5e4aae8612792d7e8606216382caa08cf9bab1",
     "rows": [
+      [
+        "FreshCut Paper",
+        "Business Insights & Analytics Co-op Intern \ud83c\udf93",
+        "Concord, NH",
+        "Winter 2027",
+        "https://apply.workable.com/freshcutpaper/j/15253B7DD4/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Valmont",
         "AI and Data Engineering Intern",
@@ -8896,6 +8903,7 @@
       "Foxconn Industrial Internet|Data Visualization & Analytics Intern - Engineering|Houston, TX|Fall 2026",
       "Fresenius Medical Care|Analytics Data Engineer Co-op|Andover, MA|Winter 2026, Spring 2026, Summer 2026",
       "Fresenius Medical Care|Machine Learning Analytics Co-op|Andover, MA|Spring 2026",
+      "FreshCut Paper|Business Insights & Analytics Co-op Intern|Concord, NH|Winter 2027",
       "GCI|Telecommunications Intern - Computer Science/Data Analytics|Anchorage, AK|Fall 2026",
       "GE Aerospace|Applied AI Engineer Co-op|Evendale, OH Atlanta, GA|Spring 2027",
       "GE Aerospace|Data Science Co-op - Flight Analytics Platform|Austin, TX|Spring 2027",
@@ -9299,8 +9307,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "643aef176d48aaea1c6d851bbf7e4ed453af6191",
+    "last_sha": "0a5e4aae8612792d7e8606216382caa08cf9bab1",
     "rows": [
+      [
+        "Path Robotics",
+        "Machine Learning & Robotics Intern",
+        "Columbus, OH",
+        "",
+        "https://boards.greenhouse.io/pathrobotics/jobs/8924241002?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Syngenta Group",
         "Data Scientist Intern \ud83c\udf93",
@@ -9309,11 +9324,25 @@
         "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "T-Mobile",
+        "Associate AI Engineer Intern",
+        "Overland Park, KS",
+        "",
+        "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Sallie Mae",
         "Data Science and Engineering Intern",
         "Newark, DE Arlington County, Arlington, VA",
         "",
         "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "RTX",
+        "Sustainment Data and Analytics Intern",
+        "East Hartford, CT",
+        "",
+        "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110?utm_source=Simplify&ref=Simplify"
       ],
       [
         "JM Family",
@@ -9636,6 +9665,13 @@
         "Lansing, MI",
         "",
         "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Pattern",
+        "AI Automation Engineer Intern",
+        "Lehi, UT",
+        "",
+        "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Waymo",
@@ -11569,6 +11605,7 @@
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
+      "Path Robotics|Machine Learning & Robotics Intern|Columbus, OH|",
       "Pattern|AI Automation Engineer Intern|Lehi, UT|",
       "Pattern|Data Science Intern|Lehi, UT|",
       "Peraton|Data Science Intern|Blacksburg, VA Herndon, VA|",
@@ -11595,6 +11632,7 @@
       "QTS|People Services Data Analytics Intern|Ashburn, VA|",
       "QTS|Tableau Analytics and Business Intelligence Intern|Overland Park, KS|",
       "RTX|Data Analytics Intern|Annapolis, MD|",
+      "RTX|Sustainment Data and Analytics Intern|East Hartford, CT|",
       "Ragle Inc|Data Analytics Intern|North Richland Hills, TX|",
       "Raymond James Financial|Private Client Banking Strategy, Analytics & Sales Intern|St. Petersburg, FL|",
       "Red Ventures|Data Science Intern - Launch Program|Charlotte, NC|",
@@ -11643,6 +11681,7 @@
       "Sun Life|Data Science Intern|5 locationsMilwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|",
       "Syngenta Group|Data Scientist Intern|Raleigh, NC|",
       "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|",
+      "T-Mobile|Associate AI Engineer Intern|Overland Park, KS|",
       "TD Bank|Data Analyst Intern - Global Technology & Solutions|Mt Laurel Township, NJ|",
       "TIAA|Enterprise Analytics Intern|Dallas, TX Charlotte, NC|",
       "TWG Global|AI Engineer Intern - Summer 2027|Santa Monica, CA|",
