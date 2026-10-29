@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0c23489c60e19b6c7a5b22d382cbbe5031762740",
+    "last_sha": "4f1e0d878d96897c813e29968f5ceafb90a53a88",
     "rows": [
       [
         "Valmont",
@@ -11803,7 +11803,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0c23489c60e19b6c7a5b22d382cbbe5031762740",
+    "last_sha": "4f1e0d878d96897c813e29968f5ceafb90a53a88",
     "rows": [
       [
         "Microsoft",
@@ -11811,6 +11811,13 @@
         "Redmond, WA",
         "Oct 29",
         "https://go.vansh.nyc/Z4?s=y"
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Oncology Biomarker - AI",
+        "Foster City, CA",
+        "Oct 29",
+        "https://go.vansh.nyc/Z7?s=y"
       ],
       [
         "Gilead Sciences",
@@ -13874,6 +13881,7 @@
       "Gilead Sciences|Research Intern, Data Sciences - AI|Foster City, CA|Oct 16",
       "Gilead Sciences|Research Intern, Discovery Sciences and Technologies, AI|Foster City, CA|Oct 29",
       "Gilead Sciences|Research Intern, Inflammation, AI|Foster City, CA|Oct 29",
+      "Gilead Sciences|Research Intern, Oncology Biomarker - AI|Foster City, CA|Oct 29",
       "Gilead Sciences|Research Intern, Strategy, Innovation & Portfolio - AI|Foster City, CA|Oct 16",
       "GlobalFoundries|AI Software Intern|Santa Clara, CA Richardson, TX|Oct 20",
       "GlobalFoundries|AI/ML Systems Engineering Intern|Richardson, TX|Oct 19",
