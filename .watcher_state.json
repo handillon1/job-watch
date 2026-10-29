@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7ea620f335cdb5db38b3730b2f1960fcb0e4c115",
+    "last_sha": "6cce85f11669a0051994cc4036bd79ca88637879",
     "rows": [
       [
         "Valmont",
@@ -11803,8 +11803,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7ea620f335cdb5db38b3730b2f1960fcb0e4c115",
+    "last_sha": "6cce85f11669a0051994cc4036bd79ca88637879",
     "rows": [
+      [
+        "Microsoft",
+        "Applied Scientist Intern, Turing",
+        "Redmond, WA",
+        "Oct 29",
+        "https://go.vansh.nyc/Z4?s=y"
+      ],
       [
         "Sherwin-Williams",
         "R&D Data Science Co-op",
@@ -13101,13 +13108,6 @@
         "https://go.vansh.nyc/JJ?s=y"
       ],
       [
-        "Johns Hopkins Applied Physics Laboratory",
-        "Artificial Intelligence and Machine Learning Research Assistant Intern",
-        "Laurel, MD",
-        "Sep 25",
-        "https://go.vansh.nyc/JF?s=y"
-      ],
-      [
         "Rockwell Automation",
         "AI Software Engineer Intern",
         "Mayfield Heights, OH Milwaukee, WI",
@@ -13647,6 +13647,13 @@
         ""
       ],
       [
+        "Johns Hopkins Applied Physics Laboratory",
+        "Artificial Intelligence and Machine Learning Research Assistant Intern",
+        "Laurel, MD",
+        "Sep 25",
+        ""
+      ],
+      [
         "General Dynamics Information Technology",
         "AI Network Engineering Intern",
         "Bossier City, LA",
@@ -13900,6 +13907,7 @@
       "Micron Technology|HBM Data Scientist Intern|Richardson, TX|Oct 27",
       "Micron Technology|Machine Learning Engineering Intern|Richardson, TX|Oct 19",
       "Micron Technology|SMAI Probe AI Engineer Intern|Boise, ID|Oct 20",
+      "Microsoft|Applied Scientist Intern, Turing|Redmond, WA|Oct 29",
       "Microsoft|Applied Scientist Intern|Redmond, WA|Oct 07",
       "Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|Aug 04",
       "Microsoft|Software Engineer Intern, Data Platform/Analytics|Redmond, WA|Aug 04",
