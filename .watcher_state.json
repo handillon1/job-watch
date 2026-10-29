@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "d31228a5d9f385d855bf9b989a9a71244e75c0b2",
+    "last_sha": "a5e2470f1aaf57c0f7679e680e7e6d7994d67f1c",
     "rows": [
+      [
+        "Path Robotics",
+        "Machine Learning & Robotics Intern",
+        "Columbus, OH",
+        "Oct 29",
+        "https://go.vansh.nyc/ZJ?s=z"
+      ],
       [
         "Current Lighting Employee Co",
         "AI Co-op",
@@ -954,6 +961,7 @@
       "Nokia|Architecture AI Co-op|Naperville, IL|Jul 27",
       "Notion|Software Engineer, AI Intern|San Francisco, CA New York, NY|Aug 08",
       "OpenAI|Backend Software Engineer Intern, Cooperative AI (Evals)|San Francisco, CA|Oct 20",
+      "Path Robotics|Machine Learning & Robotics Intern|Columbus, OH|Oct 29",
       "PathAI|Machine Learning Intern, AI Product and ML Core|Boston, MA New York, NY Remote|Apr 20",
       "Pony.ai|Research Intern - Deep Learning|Fremont, CA|Jul 26",
       "Postman|AI Engineer Intern|Berkeley, CA|Aug 03",
@@ -11801,7 +11809,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "d31228a5d9f385d855bf9b989a9a71244e75c0b2",
+    "last_sha": "a5e2470f1aaf57c0f7679e680e7e6d7994d67f1c",
     "rows": [
       [
         "RTX",
@@ -11874,11 +11882,25 @@
         "https://go.vansh.nyc/XF?s=y"
       ],
       [
+        "General Motors",
+        "AI/ML Engineer Intern, Autonomous Vehicles",
+        "Seattle, WA Sunnyvale, CA",
+        "Oct 28",
+        "https://go.vansh.nyc/ZG?s=y"
+      ],
+      [
         "Ericsson",
         "AI and Automation Engineer Intern \ud83d\udec2",
         "Plano, TX",
         "Oct 28",
         "https://go.vansh.nyc/YK?s=y"
+      ],
+      [
+        "Centene Corporation",
+        "AI Engineer Intern",
+        "United States",
+        "Oct 28",
+        "https://go.vansh.nyc/ZI?s=y"
       ],
       [
         "Boston Scientific",
@@ -13842,6 +13864,7 @@
       "Celestica|AI / Data Science Intern|San Jose, CA|Oct 18",
       "Celestica|AI Engineer Intern|Remote United States|Oct 18",
       "Cencora|AI Intern|Conshohocken, PA|Oct 27",
+      "Centene Corporation|AI Engineer Intern|United States|Oct 28",
       "CenturyLink|Data Intern, Analytics & Decision Science|Remote in USA|Oct 16",
       "Cigna|Healthcare Analytics Intern|Morris Plains, NJ|Oct 15",
       "Cigna|Product Analytics Intern|Morris Plains, NJ St. Louis, MO|Sep 30",
@@ -13885,6 +13908,7 @@
       "General Dynamics Information Technology|Generative AI Software Development Intern|Bossier City, LA|Sep 22",
       "General Motors|AI & Hardware Analytics Intern|Milford, MI Warren, MI|Oct 04",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure|Sunnyvale, CA|Oct 15",
+      "General Motors|AI/ML Engineer Intern, Autonomous Vehicles|Seattle, WA Sunnyvale, CA|Oct 28",
       "General Motors|AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles|Sunnyvale, CA|Oct 15",
       "General Motors|Research and Development Intern, AI/Machine Learning|Mountain View, CA|Oct 12",
       "General Motors|Research and Development Intern, Machine Learning for Automation|Warren, MI|Oct 12",
