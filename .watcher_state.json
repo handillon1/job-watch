@@ -4265,7 +4265,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0a5e4aae8612792d7e8606216382caa08cf9bab1",
+    "last_sha": "1e14da59d1fa2d168bee25f58c3324b55f6d5bc9",
     "rows": [
       [
         "FreshCut Paper",
@@ -9315,7 +9315,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0a5e4aae8612792d7e8606216382caa08cf9bab1",
+    "last_sha": "1e14da59d1fa2d168bee25f58c3324b55f6d5bc9",
     "rows": [
       [
         "Path Robotics",
@@ -9339,6 +9339,13 @@
         "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Sanofi",
+        "US Advanced Analytics Intern",
+        "Cambridge, MA Morristown, NJ",
+        "",
+        "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Sallie Mae",
         "Data Science and Engineering Intern",
         "Newark, DE Arlington County, Arlington, VA",
@@ -9358,6 +9365,27 @@
         "Deerfield Beach, FL",
         "",
         "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CareSource",
+        "Full Stack AI Development Intern",
+        "Remote in USA",
+        "",
+        "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CareSource",
+        "AI Intern",
+        "Remote in USA",
+        "",
+        "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Axiom Space",
+        "Enterprise Data Analyst Intern - Power BI & Data Quality",
+        "Houston, TX",
+        "",
+        "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Sherwin-Williams",
@@ -10746,6 +10774,13 @@
         "https://job-boards.greenhouse.io/sxinternships/jobs/5231079007?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "V2X",
+        "Artificial Intelligence Intern",
+        "Indianapolis, IN",
+        "",
+        "https://careers.gov2x.com/jobs/62843?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Lawrence Livermore National Laboratory (LLNL)",
         "Data Science Undergraduate Student Intern - Summer 2027",
         "Livermore, CA",
@@ -11350,6 +11385,7 @@
       "Autodesk|Multimodal AI for Human Experience Intern|Boston, MA NYC|",
       "Autodesk|Research Intern - Multimodal AI for Human Experience|Boston, MA NYC|",
       "Avis Budget Group|Data Analytics Intern|Parsippany-Troy Hills, NJ|",
+      "Axiom Space|Enterprise Data Analyst Intern - Power BI & Data Quality|Houston, TX|",
       "BNY|Data Science Intern - Engineering|Jersey City, NJ|",
       "BNY|Data Science Intern - Engineering|Lake Mary, FL|",
       "BNY|Data Science Intern - Engineering|Pittsburgh, PA|",
@@ -11390,6 +11426,8 @@
       "CSX|Sales & Marketing Analytics Intern - Paid|Jacksonville, FL|",
       "CVS Health|Medicaid Data Analytics Intern|Hartford, CT|",
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|",
+      "CareSource|AI Intern|Remote in USA|",
+      "CareSource|Full Stack AI Development Intern|Remote in USA|",
       "Caterpillar|Corporate Intern - Digital and Analytics|Peoria, IL Chicago, IL Irving, TX|",
       "CenturyLink|Data Internship - Analytics & Decision Science|Remote in USA|",
       "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|",
@@ -11661,6 +11699,7 @@
       "STR|Data Analyst Intern|Arlington County, Arlington, VA Woburn, MA|",
       "Salesforce|AI Research Intern|Palo Alto, CA|",
       "Sallie Mae|Data Science and Engineering Intern|Newark, DE Arlington County, Arlington, VA|",
+      "Sanofi|US Advanced Analytics Intern|Cambridge, MA Morristown, NJ|",
       "Scout AI|AI Engineer Intern - Fury Team|Sunnyvale, CA|",
       "Securian Financial Group|Data Science and Advanced Analytics Intern - Multiple Teams|St Paul, MN|",
       "Sherwin-Williams|R&D Data Science Co-op|Brecksville, OH|",
