@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "158393811955f7a89081170d0be4ab7dbd0e8427",
+    "last_sha": "b77d65c04f85174332db43218748fb6a29e629ec",
     "rows": [
+      [
+        "Current Lighting Employee Co",
+        "AI Co-op",
+        "Greenville, SC",
+        "Oct 28",
+        "https://go.vansh.nyc/Zi?s=z"
+      ],
       [
         "Valmont",
         "AI and Data Engineering Intern",
@@ -926,6 +933,7 @@
       "Core & Main|AI/ML Data Engineering Intern|St. Louis, MO|Jul 27",
       "Coretek Services|AI & Data Automation Developer Co-op|Remote United States|Oct 23",
       "Crowe|Data Analytics Developer Intern|Chicago, IL|Aug 21",
+      "Current Lighting Employee Co|AI Co-op|Greenville, SC|Oct 28",
       "Danaher Corporation|Supply Chain AI Co-op|United States|Oct 25",
       "EdgeTrace|AI Full-Stack Engineering Intern|San Mateo, CA|Dec 09",
       "Figure|Helix AI Intern, Speech|San Jose, CA|Oct 22",
@@ -11782,8 +11790,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "158393811955f7a89081170d0be4ab7dbd0e8427",
+    "last_sha": "b77d65c04f85174332db43218748fb6a29e629ec",
     "rows": [
+      [
+        "RTX",
+        "Sustainment Data and Analytics Intern \ud83c\uddfa\ud83c\uddf8",
+        "East Hartford, CT",
+        "Oct 29",
+        "https://go.vansh.nyc/Zm?s=y"
+      ],
       [
         "Microsoft",
         "Applied Scientist Intern, Turing",
@@ -11832,6 +11847,13 @@
         "Austin, TX Santa Clara, CA",
         "Oct 28",
         "https://go.vansh.nyc/Xp?s=y"
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Genomics, Computational Biology & Translational Data Science Intern",
+        "Tarrytown, NY Sleepy Hollow, NY",
+        "Oct 28",
+        "https://go.vansh.nyc/Zj?s=y"
       ],
       [
         "Micron Technology",
@@ -11902,13 +11924,6 @@
         "**5 locations**Cambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY",
         "Oct 27",
         "https://go.vansh.nyc/Ys?s=y"
-      ],
-      [
-        "Perspective Therapeutics",
-        "AI Innovation Intern",
-        "Seattle, WA",
-        "Oct 27",
-        "https://go.vansh.nyc/WX?s=y"
       ],
       [
         "Micron Technology",
@@ -13388,6 +13403,13 @@
         ""
       ],
       [
+        "Perspective Therapeutics",
+        "AI Innovation Intern",
+        "Seattle, WA",
+        "Oct 27",
+        ""
+      ],
+      [
         "Micron Technology",
         "AI Engineer Intern, Platform",
         "Boise, ID",
@@ -13946,9 +13968,11 @@
       "Qualcomm|AI Driven Test Automation Engineering Intern|Haifa District, IL|Oct 18",
       "Qualcomm|Machine Learning & Artificial Intelligence Engineering Intern|**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA|Oct 18",
       "QuantCo|Data Science Intern|United States|May 01",
+      "RTX|Sustainment Data and Analytics Intern|East Hartford, CT|Oct 29",
       "Regeneron Pharmaceuticals|AI/ML & Data Engineering Intern|**5 locations**Cambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY|Oct 27",
       "Regeneron Pharmaceuticals|Data Analytics Intern, Dashboards & Business Process Automation|Armonk, NY Warren, NJ Tarrytown, NY|Oct 27",
       "Regeneron Pharmaceuticals|Data Science & Digital Innovation Intern, Industrial Operations and Product Supply|Rensselaer, NY|Oct 27",
+      "Regeneron Pharmaceuticals|Genomics, Computational Biology & Translational Data Science Intern|Tarrytown, NY Sleepy Hollow, NY|Oct 28",
       "Revantage Corporate Services|Insurance Technology & AI Analytics Intern|Dallas, TX Chicago, IL|Oct 27",
       "Rivian and Volkswagen Group Technologies|Data Engineering Intern, AI & Analytics|Palo Alto, CA Irvine, CA|Oct 22",
       "Rivian|Artificial Intelligence, Machine Learning, & Data Intern|Palo Alto, CA|Oct 09",
