@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "3eff7e10ce381cc91ada05e22221a3873e73b610",
+    "last_sha": "d1f2442c0ea391f84d6642c4539c0d7f3d61746d",
     "rows": [
       [
         "Path Robotics",
@@ -11751,7 +11751,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "3eff7e10ce381cc91ada05e22221a3873e73b610",
+    "last_sha": "d1f2442c0ea391f84d6642c4539c0d7f3d61746d",
     "rows": [
       [
         "RTX",
@@ -11766,6 +11766,13 @@
         "Austin, TX",
         "Oct 29",
         "https://go.vansh.nyc/10o?s=y"
+      ],
+      [
+        "MITRE",
+        "Trustworthy AI Intern",
+        "McLean, VA",
+        "Oct 29",
+        "https://go.vansh.nyc/10r?s=y"
       ],
       [
         "Microsoft",
@@ -13943,6 +13950,7 @@
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
+      "MITRE|Trustworthy AI Intern|McLean, VA|Oct 29",
       "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
       "Marvell|Data Science Intern|Boise, ID|Oct 27",
       "Mayo Clinic|AI/ML Intern, Radiation Oncology|Rochester, MN|Oct 05",
