@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "77d3b8ff78f521c47fbb582513a3180dcf1747da",
+    "last_sha": "2ed47eaa9f02d8f0c3a032214892f2ba1a30640c",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -11753,7 +11753,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "77d3b8ff78f521c47fbb582513a3180dcf1747da",
+    "last_sha": "2ed47eaa9f02d8f0c3a032214892f2ba1a30640c",
     "rows": [
       [
         "Salesforce",
@@ -13184,11 +13184,39 @@
         "https://go.vansh.nyc/Io?s=y"
       ],
       [
+        "Brain Co.",
+        "Machine Learning Engineer Intern, Applied AI",
+        "San Francisco, CA",
+        "Sep 14",
+        "https://go.vansh.nyc/10T?s=y"
+      ],
+      [
         "Booz Allen",
         "Applied AI Intern",
         "Washington, DC",
         "Sep 13",
         "https://go.vansh.nyc/MV?s=y"
+      ],
+      [
+        "Brain Co.",
+        "AI Platform Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        "https://go.vansh.nyc/10Q?s=y"
+      ],
+      [
+        "Brain Co.",
+        "AI Product Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        "https://go.vansh.nyc/10R?s=y"
+      ],
+      [
+        "Brain Co.",
+        "AI Security Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        "https://go.vansh.nyc/10S?s=y"
       ],
       [
         "Coinbase",
@@ -13873,6 +13901,10 @@
       "Bosch|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
       "Boston Scientific|AI Solutions Engineering Intern|Arden Hills, MN|Oct 28",
       "Boston Scientific|AI/Data Science Intern|Maple Grove, MN|Oct 16",
+      "Brain Co.|AI Platform Engineer Intern|San Francisco, CA|Sep 12",
+      "Brain Co.|AI Product Engineer Intern|San Francisco, CA|Sep 12",
+      "Brain Co.|AI Security Engineer Intern|San Francisco, CA|Sep 12",
+      "Brain Co.|Machine Learning Engineer Intern, Applied AI|San Francisco, CA|Sep 14",
       "ByteDance|AI Network Automation Engineer Intern, Global Physical Network Infra|San Jose, CA|Aug 06",
       "ByteDance|Applied Machine Learning Production Engineer Intern|San Jose, CA|Aug 06",
       "ByteDance|GPU/AI Application System Software Engineer Intern|San Jose, CA|Aug 06",
