@@ -390,15 +390,8 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "afdb9523f221437ed1d4d70f935ae4bde3359a1d",
+    "last_sha": "1a6149bb1ec24106e3b3fdf0210fc4561a5cfe26",
     "rows": [
-      [
-        "Path Robotics",
-        "Machine Learning & Robotics Intern",
-        "Columbus, OH",
-        "Oct 29",
-        "https://go.vansh.nyc/ZJ?s=z"
-      ],
       [
         "Current Lighting Employee Co",
         "AI Co-op",
@@ -748,6 +741,13 @@
         "Fremont, CA",
         "Aug 02",
         "https://go.vansh.nyc/p?s=z"
+      ],
+      [
+        "Path Robotics",
+        "Machine Learning & Robotics Intern",
+        "Columbus, OH",
+        "Oct 29",
+        ""
       ],
       [
         "Danaher Corporation",
@@ -11751,7 +11751,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "afdb9523f221437ed1d4d70f935ae4bde3359a1d",
+    "last_sha": "1a6149bb1ec24106e3b3fdf0210fc4561a5cfe26",
     "rows": [
       [
         "RTX",
@@ -11766,6 +11766,13 @@
         "Austin, TX",
         "Oct 29",
         "https://go.vansh.nyc/10o?s=y"
+      ],
+      [
+        "MITRE",
+        "Data Science and Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "McLean, VA",
+        "Oct 29",
+        "https://go.vansh.nyc/10t?s=y"
       ],
       [
         "MITRE",
@@ -13950,6 +13957,7 @@
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
+      "MITRE|Data Science and Engineering Intern|McLean, VA|Oct 29",
       "MITRE|Trustworthy AI Intern|McLean, VA|Oct 29",
       "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
       "Marvell|Data Science Intern|Boise, ID|Oct 27",
