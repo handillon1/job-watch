@@ -4273,7 +4273,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b677bd7b531c598ff53f54bff4ab074f033b9473",
+    "last_sha": "ed3b95b96cf5fcd28d293125a4d0c01d18764579",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -4918,13 +4918,6 @@
         "Charlotte, NC",
         "Winter 2026",
         "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Intel",
-        "AI Software Engineer Intern - Artificial Intelligence \ud83c\udf93",
-        "Hillsboro, OR Phoenix, AZ",
-        "Winter 2026",
-        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -5693,6 +5686,13 @@
         "CIM Group",
         "Data Science Intern",
         "LA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Intel",
+        "AI Software Engineer Intern - Artificial Intelligence \ud83c\udf93",
+        "Hillsboro, OR Phoenix, AZ",
         "Winter 2026",
         ""
       ],
@@ -9305,7 +9305,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b677bd7b531c598ff53f54bff4ab074f033b9473",
+    "last_sha": "ed3b95b96cf5fcd28d293125a4d0c01d18764579",
     "rows": [
       [
         "Molina Healthcare",
@@ -10195,13 +10195,6 @@
         "Warren, MI",
         "",
         "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "American Family Insurance Group",
-        "Data Analyst Intern - Agency Performance, Insights and Operations",
-        "Madison, WI",
-        "",
-        "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Workday",
@@ -11140,27 +11133,6 @@
         "Philadelphia, PA",
         "",
         "https://job-boards.greenhouse.io/perpay/jobs/4076934007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Edison International",
-        "Data Analytics Intern - Data Science/Applied Math",
-        "Pomona, CA Rosemead, CA",
-        "",
-        "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Edison International",
-        "Data Analytics Intern - Data Science - Applied Math",
-        "Pomona, CA Rosemead, CA",
-        "",
-        "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Edison International",
-        "Summer Internship - Data Analytics/Science/Applied Math",
-        "4 locationsSanta Ana, CA Fullerton, CA Irvine, CA Westminster, CA",
-        "",
-        "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors&utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
