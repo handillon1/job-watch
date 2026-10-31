@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "cdb1cacc37ead4cebc8b148e98cc5491b1c602f8",
+    "last_sha": "fffce2bc771691967faaa516fcba2e35c0f0c177",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -11695,7 +11695,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "cdb1cacc37ead4cebc8b148e98cc5491b1c602f8",
+    "last_sha": "fffce2bc771691967faaa516fcba2e35c0f0c177",
     "rows": [
       [
         "VSP Vision",
@@ -11710,6 +11710,13 @@
         "San Francisco, CA Seattle, WA",
         "Oct 30",
         "https://go.vansh.nyc/10J?s=y"
+      ],
+      [
+        "Northrop Grumman",
+        "Data Scientist Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
+        "San Diego, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/125?s=y"
       ],
       [
         "Cadillac Formula 1 Team",
@@ -14078,6 +14085,7 @@
       "Nissan|Data Science Intern|Franklin, TN|Oct 11",
       "Nissan|Data Science Intern|Smyrna, TN|Oct 11",
       "Nissan|Financial AI Engineer Intern|Franklin, TN|Oct 11",
+      "Northrop Grumman|Data Scientist Intern, Product Support|San Diego, CA|Oct 30",
       "Northrop Grumman|Systems Engineering Intern, AI Experience|Dulles, VA|Oct 21",
       "Northspyre|AI Engineer Intern|Atlanta, GA|Apr 19",
       "OpenArt AI|Early Adopter & Product Builder Intern, Creative AI|San Carlos, CA|Oct 21",
