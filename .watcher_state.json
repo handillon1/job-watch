@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "cc8440f07ba6a5b41ce232c672c1537e7e40acaa",
+    "last_sha": "8f8d45ceb0df19b2ef529438a5933b9b2be21c9a",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -11717,7 +11717,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "cc8440f07ba6a5b41ce232c672c1537e7e40acaa",
+    "last_sha": "8f8d45ceb0df19b2ef529438a5933b9b2be21c9a",
     "rows": [
       [
         "VSP Vision",
@@ -11739,6 +11739,13 @@
         "San Diego, CA",
         "Oct 30",
         "https://go.vansh.nyc/125?s=y"
+      ],
+      [
+        "First Citizens BancShares",
+        "AI Innovation Intern",
+        "Raleigh, NC",
+        "Oct 30",
+        "https://go.vansh.nyc/129?s=y"
       ],
       [
         "Cadillac Formula 1 Team",
@@ -11795,27 +11802,6 @@
         "Alpharetta, GA",
         "Oct 29",
         "https://go.vansh.nyc/11Y?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Oncology Biomarker - AI",
-        "Foster City, CA",
-        "Oct 29",
-        "https://go.vansh.nyc/Z7?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Discovery Sciences and Technologies, AI",
-        "Foster City, CA",
-        "Oct 29",
-        "https://go.vansh.nyc/Z5?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Inflammation, AI",
-        "Foster City, CA",
-        "Oct 29",
-        "https://go.vansh.nyc/Z6?s=y"
       ],
       [
         "Amazon",
@@ -12579,27 +12565,6 @@
         "Alpharetta, GA",
         "Oct 16",
         "https://go.vansh.nyc/ar?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Clinical Virology - AI",
-        "Foster City, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/bx?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Data Sciences - AI",
-        "Foster City, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/ag?s=y"
-      ],
-      [
-        "Gilead Sciences",
-        "Research Intern, Strategy, Innovation & Portfolio - AI",
-        "Foster City, CA",
-        "Oct 16",
-        "https://go.vansh.nyc/ah?s=y"
       ],
       [
         "CenturyLink",
@@ -13470,6 +13435,27 @@
         ""
       ],
       [
+        "Gilead Sciences",
+        "Research Intern, Discovery Sciences and Technologies, AI",
+        "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Inflammation, AI",
+        "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Oncology Biomarker - AI",
+        "Foster City, CA",
+        "Oct 29",
+        ""
+      ],
+      [
         "Centene Corporation",
         "AI Engineer Intern",
         "United States",
@@ -13725,6 +13711,27 @@
         "HCSC",
         "Finance Data & Analytics Developer Intern",
         "Chicago, IL Richardson, TX",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Data Sciences - AI",
+        "Foster City, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Strategy, Innovation & Portfolio - AI",
+        "Foster City, CA",
+        "Oct 16",
+        ""
+      ],
+      [
+        "Gilead Sciences",
+        "Research Intern, Clinical Virology - AI",
+        "Foster City, CA",
         "Oct 16",
         ""
       ],
@@ -14013,6 +14020,7 @@
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "FHLBank Chicago|AI Intern|Chicago, IL|Oct 04",
       "FedEx Freight|Data Scientist Intern|Memphis, TN|Oct 21",
+      "First Citizens BancShares|AI Innovation Intern|Raleigh, NC|Oct 30",
       "Florida Atlantic University|Data Analyst Intern|Boca Raton, FL|Oct 27",
       "FormFactor|Electrical Design Automation Intern, AI & EDA Automation|Livermore, CA|Oct 27",
       "GE Vernova|AI Evaluation & Benchmarking Intern, AGI|Bellevue, WA|Oct 14",
