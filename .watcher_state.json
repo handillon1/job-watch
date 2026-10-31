@@ -4273,7 +4273,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "d63df829d8f6ead005d2bdf9a15580cbf9b77fa0",
+    "last_sha": "d9de6e885624a8b23dd861953123977a3c8e205f",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -9305,7 +9305,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "d63df829d8f6ead005d2bdf9a15580cbf9b77fa0",
+    "last_sha": "d9de6e885624a8b23dd861953123977a3c8e205f",
     "rows": [
       [
         "Molina Healthcare",
@@ -9327,6 +9327,13 @@
         "Washington, DC",
         "",
         "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "First Citizens BancShares",
+        "Summer Intern - AI Innovation",
+        "Raleigh, NC",
+        "",
+        "https://firstcitizens.jibeapply.com/jobs/36311?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Stripe",
@@ -9532,6 +9539,13 @@
         "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "First Citizens BancShares",
+        "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+        "Raleigh, NC",
+        "",
+        "https://firstcitizens.jibeapply.com/jobs/36230?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "\ud83d\udd25 Visa",
         "Data Science Intern - Data and AI Team",
         "Foster City, CA",
@@ -9649,6 +9663,27 @@
         "Burlingame, CA",
         "",
         "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Audit Analytics Intern",
+        "Atlanta, GA",
+        "",
+        "https://ice.jibeapply.com/jobs/14069?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Agentic AI Data Science Intern",
+        "Jacksonville, FL",
+        "",
+        "https://ice.jibeapply.com/jobs/14070?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Data Analyst Intern",
+        "Jacksonville, FL",
+        "",
+        "https://ice.jibeapply.com/jobs/14089?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "ID.me",
@@ -9908,6 +9943,13 @@
         "Alpharetta, GA",
         "",
         "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Systems Planning and Analysis",
+        "Data Engineering & Analytics Tools Intern",
+        "Washington, DC",
+        "",
+        "https://spa.jibeapply.com/jobs/23634?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Hilb Group",
@@ -10974,6 +11016,13 @@
         "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Peraton",
+        "Data Science Intern",
+        "Blacksburg, VA Herndon, VA",
+        "",
+        "https://peraton.jibeapply.com/jobs/170320?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Cigna Group",
         "Data & Analytics Engineering Intern - Technology Development Program",
         "4 locationsBloomington, MN Morris Plains, NJ St. Louis, MO Bloomfield, CT",
@@ -11307,7 +11356,9 @@
       "Federal Home Loan Bank of Indianapolis|Business Intelligence Intern|Indianapolis, IN|",
       "Federal Home Loan Bank of Indianapolis|MPP Data Analytics Intern|Indianapolis, IN|",
       "Field AI|Robotics Research Intern - Embodied AI|Irvine, CA|",
+      "First Citizens BancShares|Data Analyst Intern - Enterprise Data Analyst - Data Products|Raleigh, NC|",
       "First Citizens BancShares|Outreach Analytics Intern|Raleigh, NC|",
+      "First Citizens BancShares|Summer Intern - AI Innovation|Raleigh, NC|",
       "First Citizens BancShares|Summer Intern - Sales Performance & Analytics Strategy|Raleigh, NC|",
       "First National Bank|AI and Innovation Intern|Pittsburgh, PA|",
       "First National Bank|AI/Machine Learning Modeler Intern|Pittsburgh, PA|",
@@ -11374,6 +11425,9 @@
       "ICF International|Data Scientist Intern|Remote in USA Reston, VA Denver, CO|",
       "ID.me|Analytics Engineer Intern|Mountain View, CA|",
       "ITT|Data Analytics / AI Intern - Summer 2027|Irvine, CA|",
+      "Intercontinental Exchange|Agentic AI Data Science Intern|Jacksonville, FL|",
+      "Intercontinental Exchange|Audit Analytics Intern|Atlanta, GA|",
+      "Intercontinental Exchange|Data Analyst Intern|Jacksonville, FL|",
       "Intuit|AI Research Intern|Mountain View, CA|",
       "Intuit|AI Scientist Intern|4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA|",
       "Intuit|Business Data Analyst Intern - Strategy & Planning|Mountain View, CA|",
@@ -11541,6 +11595,7 @@
       "Stryker|Data Analytics Intern|Fort Wayne, IN|",
       "Sun Life|Data Science Intern|5 locationsMilwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|",
       "Syngenta Group|Data Scientist Intern|Raleigh, NC|",
+      "Systems Planning and Analysis|Data Engineering & Analytics Tools Intern|Washington, DC|",
       "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|",
       "T-Mobile|Associate AI Engineer Intern|Overland Park, KS|",
       "TD Bank|Data Analyst Intern - Global Technology & Solutions|Mt Laurel Township, NJ|",
