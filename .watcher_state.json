@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6666bee471ffe40f1f7fe6b257c760a2a9fd5f6c",
+    "last_sha": "73ebc2b1402dcbdf0899765ccb143ae4150e8fce",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -11621,7 +11621,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6666bee471ffe40f1f7fe6b257c760a2a9fd5f6c",
+    "last_sha": "73ebc2b1402dcbdf0899765ccb143ae4150e8fce",
     "rows": [
       [
         "NVIDIA",
@@ -12420,13 +12420,6 @@
         "Richardson, TX",
         "Oct 19",
         "https://go.vansh.nyc/d6?s=y"
-      ],
-      [
-        "Johnson & Johnson",
-        "Quality Data Science Co-op",
-        "Cincinnati, OH",
-        "Oct 19",
-        "https://go.vansh.nyc/b8?s=y"
       ],
       [
         "Inversion Space",
@@ -13679,6 +13672,13 @@
         "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
         "United States",
         "Oct 20",
+        ""
+      ],
+      [
+        "Johnson & Johnson",
+        "Quality Data Science Co-op",
+        "Cincinnati, OH",
+        "Oct 19",
         ""
       ],
       [
