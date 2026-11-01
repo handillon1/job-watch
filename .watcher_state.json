@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "73ebc2b1402dcbdf0899765ccb143ae4150e8fce",
+    "last_sha": "e05ae70d58330444da2d87e4f94d38f7db333ed8",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -11607,8 +11607,92 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "73ebc2b1402dcbdf0899765ccb143ae4150e8fce",
+    "last_sha": "e05ae70d58330444da2d87e4f94d38f7db333ed8",
     "rows": [
+      [
+        "ByteDance",
+        "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/140?s=y"
+      ],
+      [
+        "ByteDance",
+        "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/144?s=y"
+      ],
+      [
+        "ByteDance",
+        "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/147?s=y"
+      ],
+      [
+        "ByteDance",
+        "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/149?s=y"
+      ],
+      [
+        "ByteDance",
+        "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/14c?s=y"
+      ],
+      [
+        "ByteDance",
+        "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/14f?s=y"
+      ],
+      [
+        "ByteDance",
+        "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/14h?s=y"
+      ],
+      [
+        "ByteDance",
+        "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/14m?s=y"
+      ],
+      [
+        "ByteDance",
+        "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/14o?s=y"
+      ],
+      [
+        "ByteDance",
+        "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/14r?s=y"
+      ],
+      [
+        "ByteDance",
+        "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/14s?s=y"
+      ],
+      [
+        "ByteDance",
+        "Machine Learning Engineer Project Intern, Security-Data",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/14A?s=y"
+      ],
       [
         "NVIDIA",
         "Deep Learning Intern",
@@ -11708,6 +11792,13 @@
         "https://go.vansh.nyc/129?s=y"
       ],
       [
+        "FedEx",
+        "Data Science Intern",
+        "Memphis, TN",
+        "Oct 30",
+        "https://go.vansh.nyc/13Z?s=y"
+      ],
+      [
         "Economy Polymers & Chemicals",
         "AI & Business Systems Automation Intern",
         "Houston, TX",
@@ -11776,6 +11867,13 @@
         "United States",
         "Oct 29",
         "https://go.vansh.nyc/11J?s=y"
+      ],
+      [
+        "MITRE",
+        "AI Solutions Architect Intern \ud83c\uddfa\ud83c\uddf8",
+        "McLean, VA",
+        "Oct 29",
+        "https://go.vansh.nyc/13Y?s=y"
       ],
       [
         "MITRE",
@@ -13318,20 +13416,6 @@
         "https://go.vansh.nyc/77?s=y"
       ],
       [
-        "American Express",
-        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
-        "Atlanta, GA",
-        "Aug 21",
-        "https://go.vansh.nyc/76?s=y"
-      ],
-      [
-        "American Express",
-        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
-        "Phoenix, AZ",
-        "Aug 21",
-        "https://go.vansh.nyc/75?s=y"
-      ],
-      [
         "ByteDance",
         "Applied Machine Learning Production Engineer Intern",
         "San Jose, CA",
@@ -13344,13 +13428,6 @@
         "San Jose, CA",
         "Aug 06",
         "https://go.vansh.nyc/6B?s=y"
-      ],
-      [
-        "ByteDance",
-        "AI Network Automation Engineer Intern, Global Physical Network Infra",
-        "San Jose, CA",
-        "Aug 06",
-        "https://go.vansh.nyc/6A?s=y"
       ],
       [
         "Boeing",
@@ -13850,6 +13927,27 @@
         ""
       ],
       [
+        "American Express",
+        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
+        "Phoenix, AZ",
+        "Aug 21",
+        ""
+      ],
+      [
+        "American Express",
+        "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
+        "Atlanta, GA",
+        "Aug 21",
+        ""
+      ],
+      [
+        "ByteDance",
+        "AI Network Automation Engineer Intern, Global Physical Network Infra",
+        "San Jose, CA",
+        "Aug 06",
+        ""
+      ],
+      [
         "Castleton Commodities International",
         "Data Science Machine Learning Intern",
         "Stamford, CT Houston, TX New York City, NY",
@@ -13970,10 +14068,22 @@
       "Brain Co.|AI Product Engineer Intern|San Francisco, CA|Sep 12",
       "Brain Co.|AI Security Engineer Intern|San Francisco, CA|Sep 12",
       "Brain Co.|Machine Learning Engineer Intern, Applied AI|San Francisco, CA|Sep 14",
+      "ByteDance|AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling|San Jose, CA|Nov 01",
+      "ByteDance|AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling|Seattle, WA|Nov 01",
       "ByteDance|AI Network Automation Engineer Intern, Global Physical Network Infra|San Jose, CA|Aug 06",
+      "ByteDance|Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US|San Jose, CA|Nov 01",
+      "ByteDance|Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US|Seattle, WA|Nov 01",
       "ByteDance|Applied Machine Learning Production Engineer Intern|San Jose, CA|Aug 06",
+      "ByteDance|Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US|San Jose, CA|Nov 01",
+      "ByteDance|Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US|Seattle, WA|Nov 01",
       "ByteDance|GPU/AI Application System Software Engineer Intern|San Jose, CA|Aug 06",
+      "ByteDance|Machine Learning Engineer Intern, AML-Engine-Orchestration|San Jose, CA|Nov 01",
+      "ByteDance|Machine Learning Engineer Project Intern, Security-Data|San Jose, CA|Nov 01",
       "ByteDance|Software Engineer Intern, AI Platform|San Jose, CA|Aug 04",
+      "ByteDance|Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure|San Jose, CA|Nov 01",
+      "ByteDance|Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure|Seattle, WA|Nov 01",
+      "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US|San Jose, CA|Nov 01",
+      "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US|Seattle, WA|Nov 01",
       "C&S Wholesale Grocers|IS Intern, Data Analytics & Data Science|Edison, NJ|Oct 30",
       "CVS Health|Data Science Intern, Innovation & Technology|New York, NY|Oct 21",
       "CVS Health|Medicaid Data Analytics Intern|Hartford, CT|Oct 21",
@@ -14027,6 +14137,7 @@
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "FHLBank Chicago|AI Intern|Chicago, IL|Oct 04",
       "FedEx Freight|Data Scientist Intern|Memphis, TN|Oct 21",
+      "FedEx|Data Science Intern|Memphis, TN|Oct 30",
       "First Citizens BancShares|AI Innovation Intern|Raleigh, NC|Oct 30",
       "Florida Atlantic University|Data Analyst Intern|Boca Raton, FL|Oct 27",
       "FormFactor|Electrical Design Automation Intern, AI & EDA Automation|Livermore, CA|Oct 27",
@@ -14088,6 +14199,7 @@
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
+      "MITRE|AI Solutions Architect Intern|McLean, VA|Oct 29",
       "MITRE|Data Science and Engineering Intern|McLean, VA|Oct 29",
       "MITRE|Trustworthy AI Intern|McLean, VA|Oct 29",
       "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
