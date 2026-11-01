@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7217cfa9d31b43b028ffaf40c6cc4ef690ebc8df",
+    "last_sha": "f6243e91d75df60867a5f9e98536d9e7e30f703e",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -398,6 +398,13 @@
         "Cincinnati, OH",
         "Oct 30",
         "https://go.vansh.nyc/10v?s=z"
+      ],
+      [
+        "Ema",
+        "AI Resident Intern",
+        "San Francisco, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/13C?s=z"
       ],
       [
         "Current Lighting Employee Co",
@@ -950,6 +957,7 @@
       "Current Lighting Employee Co|AI Co-op|Greenville, SC|Oct 28",
       "Danaher Corporation|Supply Chain AI Co-op|United States|Oct 25",
       "EdgeTrace|AI Full-Stack Engineering Intern|San Mateo, CA|Dec 09",
+      "Ema|AI Resident Intern|San Francisco, CA|Oct 30",
       "Figure|Helix AI Intern, Speech|San Jose, CA|Oct 22",
       "First Solar (US)|Data Analytics Intern|Perrysburg, OH|Sep 25",
       "First Solar (US)|Data Science Intern, Device Characterization|Perrysburg, OH|Oct 05",
@@ -11613,7 +11621,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7217cfa9d31b43b028ffaf40c6cc4ef690ebc8df",
+    "last_sha": "f6243e91d75df60867a5f9e98536d9e7e30f703e",
     "rows": [
       [
         "NVIDIA",
@@ -11623,11 +11631,39 @@
         "https://go.vansh.nyc/12j?s=y"
       ],
       [
+        "Wurl",
+        "Data Science Intern",
+        "Remote United States",
+        "Oct 30",
+        "https://go.vansh.nyc/13z?s=y"
+      ],
+      [
+        "West Bend Insurance",
+        "Data Scientist Intern",
+        "West Bend, WI",
+        "Oct 30",
+        "https://go.vansh.nyc/13w?s=y"
+      ],
+      [
         "VSP Vision",
         "Agentic & Machine Learning Development Intern, AI",
         "Remote United States",
         "Oct 30",
         "https://go.vansh.nyc/113?s=y"
+      ],
+      [
+        "Vantor",
+        "AI Engineer Intern",
+        "Remote United States",
+        "Oct 30",
+        "https://go.vansh.nyc/13t?s=y"
+      ],
+      [
+        "USAFacts",
+        "AI & Software Engineering Intern",
+        "Bellevue, WA",
+        "Oct 30",
+        "https://go.vansh.nyc/13s?s=y"
       ],
       [
         "Salesforce",
@@ -11637,11 +11673,39 @@
         "https://go.vansh.nyc/10J?s=y"
       ],
       [
+        "Powertown",
+        "Machine Learning Engineer Intern",
+        "Boston, MA",
+        "Oct 30",
+        "https://go.vansh.nyc/13k?s=y"
+      ],
+      [
+        "One Robot",
+        "Machine Learning Intern",
+        "San Francisco, CA",
+        "Oct 30",
+        "https://go.vansh.nyc/13h?s=y"
+      ],
+      [
         "Northrop Grumman",
         "Data Scientist Intern, Product Support \ud83c\uddfa\ud83c\uddf8",
         "San Diego, CA",
         "Oct 30",
         "https://go.vansh.nyc/125?s=y"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Data Science Intern",
+        "New York, NY",
+        "Oct 30",
+        "https://go.vansh.nyc/12Z?s=y"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Agentic AI Data Science Intern",
+        "Jacksonville, FL",
+        "Oct 30",
+        "https://go.vansh.nyc/134?s=y"
       ],
       [
         "GTI Energy",
@@ -11665,11 +11729,39 @@
         "https://go.vansh.nyc/12u?s=y"
       ],
       [
+        "DriveWealth",
+        "Engineering Intern, AI Consulting Associate Program (AI CAP) \ud83d\udec2",
+        "Chicago, IL",
+        "Oct 30",
+        "https://go.vansh.nyc/12O?s=y"
+      ],
+      [
+        "DriveWealth",
+        "Product Owner Intern, AI Consulting Associate Program (AI CAP) \ud83d\udec2",
+        "Chicago, IL",
+        "Oct 30",
+        "https://go.vansh.nyc/12P?s=y"
+      ],
+      [
+        "Datacor",
+        "AI Engineer Intern",
+        "Remote United States",
+        "Oct 30",
+        "https://go.vansh.nyc/12N?s=y"
+      ],
+      [
         "Cadillac Formula 1 Team",
         "Aerodynamics AI Industrial Placement Intern",
         "Indianapolis, IN",
         "Oct 30",
         "https://go.vansh.nyc/11b?s=y"
+      ],
+      [
+        "C&S Wholesale Grocers",
+        "IS Intern, Data Analytics & Data Science",
+        "Edison, NJ",
+        "Oct 30",
+        "https://go.vansh.nyc/12E?s=y"
       ],
       [
         "Virginia Tech Applied Research Corporation",
@@ -13896,6 +13988,7 @@
       "ByteDance|Applied Machine Learning Production Engineer Intern|San Jose, CA|Aug 06",
       "ByteDance|GPU/AI Application System Software Engineer Intern|San Jose, CA|Aug 06",
       "ByteDance|Software Engineer Intern, AI Platform|San Jose, CA|Aug 04",
+      "C&S Wholesale Grocers|IS Intern, Data Analytics & Data Science|Edison, NJ|Oct 30",
       "CVS Health|Data Science Intern, Innovation & Technology|New York, NY|Oct 21",
       "CVS Health|Medicaid Data Analytics Intern|Hartford, CT|Oct 21",
       "Cadillac Formula 1 Team|Aerodynamics AI Industrial Placement Intern|Indianapolis, IN|Oct 30",
@@ -13926,6 +14019,7 @@
       "Constellation Energy|Quantitative Analytics & Data Science Intern|Baltimore, MD|Sep 28",
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
       "Creative Artists Agency|Data Analytics Intern|Denver, CO|Oct 18",
+      "Datacor|AI Engineer Intern|Remote United States|Oct 30",
       "Dell Technologies|AI Solutions Intern, Product & Content Management|Round Rock, TX|Sep 14",
       "Dell Technologies|Data Science Intern|United States|Oct 07",
       "Delta Dental Of Missouri|Data Science Intern|Fenton, MO|Oct 23",
@@ -13935,6 +14029,8 @@
       "DraftKings|Data Science Intern|Boston, MA|Sep 19",
       "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|Oct 12",
       "DriveWealth|AI Engineer Intern, AI Consulting Associate Program|Chicago, IL NYC|Oct 20",
+      "DriveWealth|Engineering Intern, AI Consulting Associate Program (AI CAP)|Chicago, IL|Oct 30",
+      "DriveWealth|Product Owner Intern, AI Consulting Associate Program (AI CAP)|Chicago, IL|Oct 30",
       "DriveWealth|Product Owner Intern, AI Consulting Associate Program|Chicago, IL NYC|Oct 20",
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
       "Duolingo|Data Scientist Intern|Pittsburgh, PA New York, NY|Oct 15",
@@ -13984,6 +14080,8 @@
       "Inmar Intelligence|Data Science Intern|Raleigh, NC Winston-Salem, NC|Oct 19",
       "Insperity|Rotational AI Intern|Kingwood, TX|Oct 22",
       "Intercontinental Exchange, Inc.|Artificial Intelligence, Data & Machine Learning Intern|New York, NY|Apr 20",
+      "Intercontinental Exchange|Agentic AI Data Science Intern|Jacksonville, FL|Oct 30",
+      "Intercontinental Exchange|Data Science Intern|New York, NY|Oct 30",
       "Inversion Space|AI & Internal Tools Software Engineer Intern|Playa Vista, CA|Oct 19",
       "Itron|Artificial Intelligence Intern|Liberty Lake, WA Raleigh, NC Austin, TX|Sep 29",
       "Itron|Data Science Intern, Distributed Intelligence|Liberty Lake, WA|Sep 27",
@@ -14045,6 +14143,7 @@
       "Northrop Grumman|Data Scientist Intern, Product Support|San Diego, CA|Oct 30",
       "Northrop Grumman|Systems Engineering Intern, AI Experience|Dulles, VA|Oct 21",
       "Northspyre|AI Engineer Intern|Atlanta, GA|Apr 19",
+      "One Robot|Machine Learning Intern|San Francisco, CA|Oct 30",
       "OpenArt AI|Early Adopter & Product Builder Intern, Creative AI|San Carlos, CA|Oct 21",
       "OpenSesame|AI Product Builder Intern|Remote United States|Oct 22",
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|Oct 22",
@@ -14056,6 +14155,7 @@
       "Pattern|Data Science Intern|Lehi, UT|Oct 22",
       "Perspective Therapeutics|AI Innovation Intern|Seattle, WA|Oct 27",
       "Phillips 66|ERI Analytical Solutions Intern|Bartlesville, OK|Oct 13",
+      "Powertown|Machine Learning Engineer Intern|Boston, MA|Oct 30",
       "Qualcomm|AI Driven Test Automation Engineering Intern|Haifa District, IL|Oct 18",
       "Qualcomm|Machine Learning & Artificial Intelligence Engineering Intern|**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA|Oct 18",
       "QuantCo|Data Science Intern|United States|May 01",
@@ -14125,10 +14225,12 @@
       "Trace3|Data and Analytics Engineer Intern|Irvine, CA|Oct 21",
       "Trane Technologies|AI & Analytics Intern|Davidson, NC Minneapolis, MN|Oct 30",
       "UL Solutions|Data Science Intern|Northbrook, IL Chicago, IL|Sep 28",
+      "USAFacts|AI & Software Engineering Intern|Bellevue, WA|Oct 30",
       "Unity|Machine Learning Engineer Intern|Mountain View, CA|Oct 12",
       "Universal Health Services|Software Engineer Intern, Data Analytics|King of Prussia, PA|Sep 02",
       "University of Miami|Data Science & AI Intern|Miami, FL|Oct 29",
       "VSP Vision|Agentic & Machine Learning Development Intern, AI|Remote United States|Oct 30",
+      "Vantor|AI Engineer Intern|Remote United States|Oct 30",
       "Veeam Software|Data & Analytics Engineering Intern|Alpharetta, GA|Oct 16",
       "Veeam Software|Software Engineering Intern, Platform, Security & AI|San Jose, CA|May 09",
       "Verition Group|AI Associate Intern, Equity Long/Short|**5 locations**New York, NY Miami, FL Greenwich, CT Norwalk, CT San Francisco, CA|Oct 28",
@@ -14139,10 +14241,12 @@
       "WTW|Risk & Analytics Core Intern|New York, NY|Oct 13",
       "WTW|Risk & Analytics Enterprise Risk Consulting Intern|New York, NY|Oct 13",
       "Walleye Capital|Investment Data Science Intern|New York, NY|Jul 24",
+      "West Bend Insurance|Data Scientist Intern|West Bend, WI|Oct 30",
       "Whataburger|Data Scientist Intern|San Antonio, TX|Oct 13",
       "Workday|Analytics Engineer Intern|Pleasanton, CA|Oct 27",
       "Workday|Machine Learning Engineer Intern|Pleasanton, CA|Oct 08",
       "Workiva|Machine Learning Engineering Intern|Remote United States|Oct 27",
+      "Wurl|Data Science Intern|Remote United States|Oct 30",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14",
       "sephora.com|AI & Distribution Analytics Intern|Salt Lake City, UT|Oct 27"
