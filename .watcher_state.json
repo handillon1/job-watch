@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "b3ca91cc0e076b784547df30e531444cde008054",
+    "last_sha": "a8748f746fe5477f3967c3747629b17b80d8a57f",
     "rows": [
       [
         "ByteDance",
@@ -11615,8 +11615,211 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "b3ca91cc0e076b784547df30e531444cde008054",
+    "last_sha": "a8748f746fe5477f3967c3747629b17b80d8a57f",
     "rows": [
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Brand Ads",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17N?s=y"
+      ],
+      [
+        "TikTok",
+        "Data Science Intern, TikTok LIVE",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17O?s=y"
+      ],
+      [
+        "TikTok",
+        "AI Engineer Intern, TikTok-Client Arch \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17P?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Ads Signal & Measurement",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17Q?s=y"
+      ],
+      [
+        "TikTok",
+        "Data Science Intern, TikTok Integrity and Safety",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17R?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning MLOps Intern, Global SRE",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17S?s=y"
+      ],
+      [
+        "TikTok",
+        "Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/17U?s=y"
+      ],
+      [
+        "TikTok",
+        "ML Infra Engineer Intern, Ads Infra",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17V?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, App Ads and Gaming",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17X?s=y"
+      ],
+      [
+        "TikTok",
+        "Data Science Intern, TikTok Product",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17Y?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Commerce Ads",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/17Z?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Search Ads",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/180?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Performance Monetization",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/181?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Lead Ads",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/182?s=y"
+      ],
+      [
+        "TikTok",
+        "Software Engineer Intern, TikTok AI Search & Visual Search Infra Team",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/183?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/189?s=y"
+      ],
+      [
+        "TikTok",
+        "Data Scientist Project Intern, TikTok Integrity and Safety",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18b?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18c?s=y"
+      ],
+      [
+        "TikTok",
+        "Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18h?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Visual Search \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18j?s=y"
+      ],
+      [
+        "TikTok",
+        "Data Science Project Intern, Advertisement",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18k?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Recommendation Global E-Commerce \ud83d\udec2",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/18l?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Search Quality \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18p?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Global E-Commerce Search \ud83d\udec2",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/18r?s=y"
+      ],
+      [
+        "TikTok",
+        "AI Software Engineer Project Intern, Transaction Platform",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18t?s=y"
+      ],
+      [
+        "TikTok",
+        "Data Scientist Intern, VOD Data",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18w?s=y"
+      ],
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Recommendation \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18B?s=y"
+      ],
+      [
+        "TikTok",
+        "Software Engineer Project Intern, Content AI Infrastructure",
+        "San Jose, CA",
+        "Nov 01",
+        "https://go.vansh.nyc/18G?s=y"
+      ],
+      [
+        "ByteDance",
+        "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+        "Seattle, WA",
+        "Nov 01",
+        "https://go.vansh.nyc/17K?s=y"
+      ],
       [
         "ByteDance",
         "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
@@ -14086,6 +14289,7 @@
       "ByteDance|Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US|Seattle, WA|Nov 01",
       "ByteDance|GPU/AI Application System Software Engineer Intern|San Jose, CA|Aug 06",
       "ByteDance|Machine Learning Engineer Intern, AML-Engine-Orchestration|San Jose, CA|Nov 01",
+      "ByteDance|Machine Learning Engineer Intern, AML-Engine-Orchestration|Seattle, WA|Nov 01",
       "ByteDance|Machine Learning Engineer Project Intern, Security-Data|San Jose, CA|Nov 01",
       "ByteDance|Software Engineer Intern, AI Platform|San Jose, CA|Aug 04",
       "ByteDance|Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure|San Jose, CA|Nov 01",
@@ -14313,8 +14517,21 @@
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
       "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
       "The Nuclear Company|AI Applied Research Intern|Washington, DC|Aug 21",
+      "TikTok|AI Engineer Intern, TikTok-Client Arch|San Jose, CA|Nov 01",
       "TikTok|AI Infrastructure Engineer Intern, Recommendation & LLM|San Jose, CA|Aug 25",
       "TikTok|AI Product Manager Intern, Product Social|San Jose, CA|Aug 21",
+      "TikTok|AI Software Engineer Project Intern, Transaction Platform|San Jose, CA|Nov 01",
+      "TikTok|Data Science Intern, TikTok Integrity and Safety|San Jose, CA|Nov 01",
+      "TikTok|Data Science Intern, TikTok LIVE|San Jose, CA|Nov 01",
+      "TikTok|Data Science Intern, TikTok Product|San Jose, CA|Nov 01",
+      "TikTok|Data Science Project Intern, Advertisement|San Jose, CA|Nov 01",
+      "TikTok|Data Scientist Intern, VOD Data|San Jose, CA|Nov 01",
+      "TikTok|Data Scientist Project Intern, TikTok Integrity and Safety|San Jose, CA|Nov 01",
+      "TikTok|ML Infra Engineer Intern, Ads Infra|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Ads Signal & Measurement|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, App Ads and Gaming|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Brand Ads|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Commerce Ads|San Jose, CA|Nov 01",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Governance|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Knowledge Graph|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Recommendation Live|Seattle, WA|Oct 14",
@@ -14323,10 +14540,25 @@
       "TikTok|Machine Learning Engineer Intern, E-Commerce Recommendation/Search Alliance|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce User Growth|Seattle, WA|Oct 13",
+      "TikTok|Machine Learning Engineer Intern, Global E-Commerce Search|Seattle, WA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Lead Ads|San Jose, CA|Nov 01",
       "TikTok|Machine Learning Engineer Intern, Monetization Technology, Ads Core Global|San Jose, CA|Oct 08",
+      "TikTok|Machine Learning Engineer Intern, Performance Monetization|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Recommendation Global E-Commerce|Seattle, WA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Recommendation|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Search Ads|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Search Quality|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, TikTok-Data-Search-Local Service|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Visual Search|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning MLOps Intern, Global SRE|San Jose, CA|Nov 01",
+      "TikTok|Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live|San Jose, CA|Nov 01",
+      "TikTok|Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch|Seattle, WA|Nov 01",
       "TikTok|Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation|San Jose, CA|Oct 18",
       "TikTok|Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation|Seattle, WA|Oct 18",
       "TikTok|Software Engineer Intern, AI Agent & Global Revenue Platform|San Jose, CA|Aug 04",
+      "TikTok|Software Engineer Intern, TikTok AI Search & Visual Search Infra Team|San Jose, CA|Nov 01",
+      "TikTok|Software Engineer Project Intern, Content AI Infrastructure|San Jose, CA|Nov 01",
       "Toyota|Data Science Intern, TFS|Plano, TX|Oct 21",
       "Trace3|Data and Analytics Engineer Intern|Irvine, CA|Oct 21",
       "Trane Technologies|AI & Analytics Intern|Davidson, NC Minneapolis, MN|Oct 30",
