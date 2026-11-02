@@ -4345,7 +4345,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "acb6de6534228904964636a958d2fb9b628b9f1b",
+    "last_sha": "08e4f5782a9f78fda4352627887390541973a2e9",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -6315,6 +6315,13 @@
         ""
       ],
       [
+        "ABB",
+        "Physical AI Robotics Simulation Intern \ud83c\udf93",
+        "Milpitas, CA",
+        "Fall 2026",
+        ""
+      ],
+      [
         "U.S. Venture",
         "Data Science Intern - Breakthrough",
         "Green Bay, WI Wisconsin",
@@ -6332,13 +6339,6 @@
         "Micron Technology",
         "Technical Customer Management Intern - AI",
         "Longmont, CO",
-        "Fall 2026",
-        ""
-      ],
-      [
-        "ABB",
-        "Physical AI Robotics Simulation Intern \ud83c\udf93",
-        "Milpitas, CA",
         "Fall 2026",
         ""
       ],
@@ -9272,8 +9272,36 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "acb6de6534228904964636a958d2fb9b628b9f1b",
+    "last_sha": "08e4f5782a9f78fda4352627887390541973a2e9",
     "rows": [
+      [
+        "Paccar",
+        "Sales Administration Data Analyst Intern - Greenhouse Gas",
+        "Denton, TX",
+        "",
+        "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Pacific Northwest National Laboratory",
+        "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference \ud83c\udf93",
+        "Seattle, WA Richland, WA",
+        "",
+        "https://careers.pnnl.gov/jobs/12898?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Divergent Technologies",
+        "Production Business Intelligence Intern",
+        "Torrance, CA",
+        "",
+        "https://job-boards.greenhouse.io/divergent/jobs/5393537008?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intuitive Surgical",
+        "AI/ML Engineer Intern",
+        "Sunnyvale, CA",
+        "",
+        "https://jobs.smartrecruiters.com/Intuitive/744000159218439?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "First Citizens BancShares",
         "Data Analyst Intern - Enterprise Data Analyst - Data Products",
@@ -9289,11 +9317,25 @@
         "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Zebra Technologies",
+        "Data Scientist Intern \ud83c\udf93",
+        "Holtsville, NY Lincolnshire, IL",
+        "",
+        "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Sierra Nevada Corporation",
         "Data Science Intern - Summer 2027",
         "Sparks, NV",
         "",
         "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Leidos",
+        "Data Science Intern",
+        "Arlington County, Arlington, VA",
+        "",
+        "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049?utm_source=Simplify&ref=Simplify"
       ],
       [
         "JM Family",
@@ -11194,6 +11236,7 @@
       "Dev Technology Group|Microsoft Power Platform & AI Intern - Summer 2027|Reston, VA|",
       "Dick's Sporting Goods|Retail Analytics Intern - Corporate Internship|Pittsburgh, PA|",
       "Divergent Technologies|Business Intelligence Intern|Torrance, CA|",
+      "Divergent Technologies|Production Business Intelligence Intern|Torrance, CA|",
       "DoorDash|Machine Learning Engineer Intern - Masters|4 locationsSeattle, WA SF NYC Sunnyvale, CA|",
       "DraftKings|Analytics Intern - Summer 2027|Boston, MA|",
       "DraftKings|Analytics Intern|Boston, MA|",
@@ -11298,6 +11341,7 @@
       "Intercontinental Exchange|Agentic AI Data Science Intern|Jacksonville, FL|",
       "Intercontinental Exchange|Audit Analytics Intern|Atlanta, GA|",
       "Intercontinental Exchange|Data Analyst Intern|Jacksonville, FL|",
+      "Intuitive Surgical|AI/ML Engineer Intern|Sunnyvale, CA|",
       "Intuit|AI Research Intern|Mountain View, CA|",
       "Intuit|AI Scientist Intern|4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA|",
       "Intuit|Business Data Analyst Intern - Strategy & Planning|Mountain View, CA|",
@@ -11386,7 +11430,9 @@
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|",
       "Paccar|Dealer Development Marketing Data Analytics Intern|Kirkland, WA|",
       "Paccar|Field Service Data Analyst Intern|Kirkland, WA|",
+      "Paccar|Sales Administration Data Analyst Intern - Greenhouse Gas|Denton, TX|",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
+      "Pacific Northwest National Laboratory|NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference|Seattle, WA Richland, WA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
       "ParetoHealth|Analytics Intern|Philadelphia, PA|",
@@ -11580,6 +11626,7 @@
       "Xcel Energy|Gas & Electric Design Analytics and Process Improvement Intern - MN|Minneapolis, MN|",
       "Xcel Energy|Power Generation Analytics Intern|Henderson, CO|",
       "Zebra Technologies|Business Analytics Intern|Holtsville, NY|",
+      "Zebra Technologies|Data Scientist Intern|Holtsville, NY Lincolnshire, IL|",
       "Zekelman Industries|Business Intelligence Intern - Program Development|Austin, TX Troy, MI|",
       "Zillow|Applied Scientist Intern - Economics|Seattle, WA|",
       "Zillow|Data Science Intern|Seattle, WA|",
