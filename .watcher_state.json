@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "cb837832093960c7df9bb16fe479b2feabe96263",
+    "last_sha": "0133e97f8af93bd2dd115a59cb888fbbbff251a2",
     "rows": [
+      [
+        "Toshiba Global Commerce Solutions",
+        "AI Automation & Revenue Ops Intern",
+        "Durham, NC",
+        "Nov 02",
+        "https://go.vansh.nyc/1bn?s=z"
+      ],
       [
         "Toshiba Commerce Solutions",
         "AI Data Science & Business Analytics Intern",
@@ -404,28 +411,28 @@
         "Data Analyst Intern, People Products",
         "Palo Alto, CA",
         "Nov 02",
-        "https://www.tesla.com/careers/search/job/286085"
+        "https://go.vansh.nyc/1a5?s=z"
       ],
       [
         "Tesla",
         "Data Engineer Intern, Data Engineering & Business Intelligence",
         "Fremont, CA",
         "Nov 02",
-        "https://www.tesla.com/careers/search/job/285291"
+        "https://go.vansh.nyc/1ae?s=z"
       ],
       [
         "Tesla",
         "Data Engineer Intern, Fleet Analytics",
         "Palo Alto, CA",
         "Nov 02",
-        "https://www.tesla.com/careers/search/job/283138"
+        "https://go.vansh.nyc/1az?s=z"
       ],
       [
         "Tesla",
         "Machine Learning Engineer Intern, Factory Software",
         "Fremont, CA",
         "Nov 02",
-        "https://www.tesla.com/careers/search/job/282916"
+        "https://go.vansh.nyc/1aC?s=z"
       ],
       [
         "LabCorp",
@@ -1071,6 +1078,7 @@
       "Toshiba Commerce Solutions|AI Data Science & Business Analytics Intern|Durham, NC|Nov 02",
       "Toshiba Commerce Solutions|AI Engineering Intern|Frisco, TX|Jul 27",
       "Toshiba Commerce Solutions|Project Management & AI Automation Intern|Frisco, TX|Jul 27",
+      "Toshiba Global Commerce Solutions|AI Automation & Revenue Ops Intern|Durham, NC|Nov 02",
       "Valmont|AI and Data Engineering Intern|Omaha, NE|Oct 27",
       "Verkada|AI Software Engineer Intern|San Mateo, CA|Apr 24",
       "Western Digital|Recording Electronics Data Analytics & Optimization Co-op|Rochester, MN|Oct 12",
@@ -11638,7 +11646,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "cb837832093960c7df9bb16fe479b2feabe96263",
+    "last_sha": "0133e97f8af93bd2dd115a59cb888fbbbff251a2",
     "rows": [
       [
         "Zebra Technologies",
@@ -11655,11 +11663,25 @@
         "https://go.vansh.nyc/19p?s=y"
       ],
       [
+        "Wellmark",
+        "Software Engineer Intern, AI Platform Team",
+        "Des Moines, IA",
+        "Nov 02",
+        "https://go.vansh.nyc/1bl?s=y"
+      ],
+      [
         "Samsung Semiconductor",
         "AI Application Engineer Intern",
         "Folsom, CA",
         "Nov 02",
         "https://go.vansh.nyc/19X?s=y"
+      ],
+      [
+        "Paccar",
+        "AI-Driven Vehicle Definition Intern",
+        "Denton, TX",
+        "Nov 02",
+        "https://go.vansh.nyc/1bj?s=y"
       ],
       [
         "JM Family Enterprises",
@@ -11702,6 +11724,13 @@
         "Shakopee, MN",
         "Nov 02",
         "https://go.vansh.nyc/19k?s=y"
+      ],
+      [
+        "Divergent Technologies",
+        "Production Business Intelligence Intern",
+        "Torrance, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1bi?s=y"
       ],
       [
         "CoStar Group",
@@ -11912,6 +11941,13 @@
         "San Jose, CA",
         "Nov 01",
         "https://go.vansh.nyc/18G?s=y"
+      ],
+      [
+        "Leidos",
+        "Data Science Intern",
+        "Arlington, VA",
+        "Nov 01",
+        "https://go.vansh.nyc/1bf?s=y"
       ],
       [
         "ByteDance",
@@ -14457,6 +14493,7 @@
       "Dell Technologies|Data Science Intern|United States|Oct 07",
       "Delta Dental Of Missouri|Data Science Intern|Fenton, MO|Oct 23",
       "DivcoWest|AI Intern|San Francisco, CA|Oct 31",
+      "Divergent Technologies|Production Business Intelligence Intern|Torrance, CA|Nov 02",
       "DocuSign|AI Platform Engineer Intern|San Francisco, CA|Oct 22",
       "DocuSign|Agentic AI Engineer Intern|San Francisco, CA|Oct 22",
       "Dow Jones|Data Analyst Intern|New York, NY|Oct 06",
@@ -14541,6 +14578,7 @@
       "KLA|Software Engineering Intern, AI/ML for Diagnostics & Calibration|Milpitas, CA|Oct 23",
       "Keysight Technologies|Data Scientist Intern|Santa Rosa, CA|Oct 04",
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
+      "Leidos|Data Science Intern|Arlington, VA|Nov 01",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
       "MITRE|AI Solutions Architect Intern|McLean, VA|Oct 29",
@@ -14588,6 +14626,7 @@
       "One Robot|Machine Learning Intern|San Francisco, CA|Oct 30",
       "OpenArt AI|Early Adopter & Product Builder Intern, Creative AI|San Carlos, CA|Oct 21",
       "OpenSesame|AI Product Builder Intern|Remote United States|Oct 22",
+      "Paccar|AI-Driven Vehicle Definition Intern|Denton, TX|Nov 02",
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|Oct 22",
       "Paccar|Field Service Data Analyst Intern|Kirkland, WA|Oct 20",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|Oct 19",
@@ -14712,6 +14751,7 @@
       "WTW|Risk & Analytics Core Intern|New York, NY|Oct 13",
       "WTW|Risk & Analytics Enterprise Risk Consulting Intern|New York, NY|Oct 13",
       "Walleye Capital|Investment Data Science Intern|New York, NY|Jul 24",
+      "Wellmark|Software Engineer Intern, AI Platform Team|Des Moines, IA|Nov 02",
       "West Bend Insurance|Data Scientist Intern|West Bend, WI|Oct 30",
       "Whataburger|Data Scientist Intern|San Antonio, TX|Oct 13",
       "Workday|Analytics Engineer Intern|Pleasanton, CA|Oct 27",
