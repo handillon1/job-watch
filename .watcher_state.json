@@ -4297,7 +4297,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "72f37e0457f7b004e1edb11cdd5ea771c20197a7",
+    "last_sha": "47bf490b0ba2cf723397499a2b98c6ec998ac33e",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -9224,14 +9224,28 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "72f37e0457f7b004e1edb11cdd5ea771c20197a7",
+    "last_sha": "47bf490b0ba2cf723397499a2b98c6ec998ac33e",
     "rows": [
+      [
+        "First Citizens BancShares",
+        "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+        "Raleigh, NC",
+        "",
+        "https://firstcitizens.jibeapply.com/jobs/36234?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "ParetoHealth",
         "Analytics Intern",
         "Philadelphia, PA",
         "",
         "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Sierra Nevada Corporation",
+        "Data Science Intern - Summer 2027",
+        "Sparks, NV",
+        "",
+        "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257?utm_source=Simplify&ref=Simplify"
       ],
       [
         "JM Family",
@@ -11419,6 +11433,7 @@
       "Shure|Artificial Intelligence Engineer Intern|Niles, IL|",
       "Shure|Artificial Intelligence Specialist Intern - Operations|Niles, IL|",
       "Shure|Web Analytics Intern|Niles, IL|",
+      "Sierra Nevada Corporation|Data Science Intern - Summer 2027|Sparks, NV|",
       "Simbe Robotics|Computer Vision / Applied AI Intern|Burlingame, CA|",
       "Simbe Robotics|Data Analytics & Data Science Intern|Burlingame, CA|",
       "Skydio|Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027|San Mateo, CA|",
