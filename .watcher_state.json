@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "8dfb32b322f7d17391972d99a379d5680d0b8ae1",
+    "last_sha": "a06b40fcbecbd5e677c1a502cf4f1862b518b99b",
     "rows": [
       [
         "Toshiba Commerce Solutions",
@@ -708,13 +708,6 @@
         "https://go.vansh.nyc/5P?s=z"
       ],
       [
-        "Tesla",
-        "Software Compiler Engineer Intern, AI Inference",
-        "Palo Alto, CA",
-        "Aug 03",
-        "https://go.vansh.nyc/5E?s=z"
-      ],
-      [
         "GRITT ROBOTICS INC",
         "ML & Cloud Infrastructure Engineer Intern",
         "South San Francisco, CA",
@@ -734,41 +727,6 @@
         "Boston, MA New York, NY Remote",
         "Apr 20",
         "https://go.vansh.nyc/1A?s=z"
-      ],
-      [
-        "Tesla",
-        "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
-        "Palo Alto, CA",
-        "Aug 21",
-        "https://go.vansh.nyc/N?s=z"
-      ],
-      [
-        "Tesla",
-        "Software Integration Engineer Intern, AI Platforms",
-        "Palo Alto, CA",
-        "Aug 08",
-        "https://go.vansh.nyc/t?s=z"
-      ],
-      [
-        "Tesla",
-        "Software Compiler Engineer Intern, AI Inference",
-        "Palo Alto, CA",
-        "Aug 08",
-        "https://go.vansh.nyc/s?s=z"
-      ],
-      [
-        "Tesla",
-        "C++ Software Engineer Intern, Systems, AI",
-        "Palo Alto, CA",
-        "Aug 08",
-        "https://go.vansh.nyc/r?s=z"
-      ],
-      [
-        "Tesla",
-        "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
-        "Fremont, CA",
-        "Aug 02",
-        "https://go.vansh.nyc/p?s=z"
       ],
       [
         "Path Robotics",
@@ -824,6 +782,13 @@
         "Data Intern, Product Analytics",
         "Remote (United States",
         "\ud83d\udd12",
+        ""
+      ],
+      [
+        "Tesla",
+        "Software Compiler Engineer Intern, AI Inference",
+        "Palo Alto, CA",
+        "Aug 03",
         ""
       ],
       [
@@ -946,10 +911,45 @@
         ""
       ],
       [
+        "Tesla",
+        "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
+        "Palo Alto, CA",
+        "Aug 21",
+        ""
+      ],
+      [
+        "Tesla",
+        "C++ Software Engineer Intern, Systems, AI",
+        "Palo Alto, CA",
+        "Aug 08",
+        ""
+      ],
+      [
+        "Tesla",
+        "Software Compiler Engineer Intern, AI Inference",
+        "Palo Alto, CA",
+        "Aug 08",
+        ""
+      ],
+      [
+        "Tesla",
+        "Software Integration Engineer Intern, AI Platforms",
+        "Palo Alto, CA",
+        "Aug 08",
+        ""
+      ],
+      [
         "Notion",
         "Software Engineer, AI Intern",
         "San Francisco, CA New York, NY",
         "Aug 08",
+        ""
+      ],
+      [
+        "Tesla",
+        "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
+        "Fremont, CA",
+        "Aug 02",
         ""
       ],
       [
@@ -11573,7 +11573,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "8dfb32b322f7d17391972d99a379d5680d0b8ae1",
+    "last_sha": "a06b40fcbecbd5e677c1a502cf4f1862b518b99b",
     "rows": [
       [
         "Zebra Technologies",
