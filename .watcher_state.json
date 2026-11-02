@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "c69d168c2cbfeecc9de715c9fed22e11238a3677",
+    "last_sha": "73ed165d1cbdd3ad001b9c3462802457ceced9b4",
     "rows": [
       [
         "GE Aerospace",
@@ -11578,8 +11578,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "c69d168c2cbfeecc9de715c9fed22e11238a3677",
+    "last_sha": "73ed165d1cbdd3ad001b9c3462802457ceced9b4",
     "rows": [
+      [
+        "Zebra Technologies",
+        "Software/AI Engineer Intern, Handheld Mobile Computers",
+        "Holtsville, NY",
+        "Nov 02",
+        "https://go.vansh.nyc/19p?s=y"
+      ],
       [
         "JM Family Enterprises",
         "AI Intern",
@@ -12510,20 +12517,6 @@
         "Kingwood, TX",
         "Oct 22",
         "https://go.vansh.nyc/fM?s=y"
-      ],
-      [
-        "DocuSign",
-        "AI Platform Engineer Intern \ud83d\udec2",
-        "San Francisco, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/BR?s=y"
-      ],
-      [
-        "DocuSign",
-        "Agentic AI Engineer Intern \ud83d\udec2",
-        "San Francisco, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/BS?s=y"
       ],
       [
         "American Family Insurance Group",
@@ -13828,6 +13821,20 @@
         ""
       ],
       [
+        "DocuSign",
+        "AI Platform Engineer Intern \ud83d\udec2",
+        "San Francisco, CA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "DocuSign",
+        "Agentic AI Engineer Intern \ud83d\udec2",
+        "San Francisco, CA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Biogen",
         "Integrated Insights & Analytics Co-op, Nephrology",
         "Cambridge, MA",
@@ -14596,6 +14603,7 @@
       "Workday|Machine Learning Engineer Intern|Pleasanton, CA|Oct 08",
       "Workiva|Machine Learning Engineering Intern|Remote United States|Oct 27",
       "Wurl|Data Science Intern|Remote United States|Oct 30",
+      "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14",
       "sephora.com|AI & Distribution Analytics Intern|Salt Lake City, UT|Oct 27"
