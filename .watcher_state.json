@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "64641095142896ad8afab5ca5c5ea2ad92245932",
+    "last_sha": "cb837832093960c7df9bb16fe479b2feabe96263",
     "rows": [
       [
         "Toshiba Commerce Solutions",
@@ -398,6 +398,34 @@
         "Durham, NC",
         "Nov 02",
         "https://go.vansh.nyc/19U?s=z"
+      ],
+      [
+        "Tesla",
+        "Data Analyst Intern, People Products",
+        "Palo Alto, CA",
+        "Nov 02",
+        "https://www.tesla.com/careers/search/job/286085"
+      ],
+      [
+        "Tesla",
+        "Data Engineer Intern, Data Engineering & Business Intelligence",
+        "Fremont, CA",
+        "Nov 02",
+        "https://www.tesla.com/careers/search/job/285291"
+      ],
+      [
+        "Tesla",
+        "Data Engineer Intern, Fleet Analytics",
+        "Palo Alto, CA",
+        "Nov 02",
+        "https://www.tesla.com/careers/search/job/283138"
+      ],
+      [
+        "Tesla",
+        "Machine Learning Engineer Intern, Factory Software",
+        "Fremont, CA",
+        "Nov 02",
+        "https://www.tesla.com/careers/search/job/282916"
       ],
       [
         "LabCorp",
@@ -1030,6 +1058,10 @@
       "TPG|Research Assistant Intern, Data Analytics and Reporting|Remote United States|Oct 21",
       "Tenstorrent|Software Engineering Intern, Power Modeling & AI Tools|Santa Clara, CA|Jul 26",
       "Tesla|C++ Software Engineer Intern, Systems, AI|Palo Alto, CA|Aug 08",
+      "Tesla|Data Analyst Intern, People Products|Palo Alto, CA|Nov 02",
+      "Tesla|Data Engineer Intern, Data Engineering & Business Intelligence|Fremont, CA|Nov 02",
+      "Tesla|Data Engineer Intern, Fleet Analytics|Palo Alto, CA|Nov 02",
+      "Tesla|Machine Learning Engineer Intern, Factory Software|Fremont, CA|Nov 02",
       "Tesla|Machine Learning Engineer Intern, Noise Vibration Harshness Engineering|Fremont, CA|Aug 02",
       "Tesla|Software Compiler Engineer Intern, AI Inference|Palo Alto, CA|Aug 03",
       "Tesla|Software Compiler Engineer Intern, AI Inference|Palo Alto, CA|Aug 08",
@@ -11559,7 +11591,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "64641095142896ad8afab5ca5c5ea2ad92245932",
+    "last_sha": "cb837832093960c7df9bb16fe479b2feabe96263",
     "rows": [
       [
         "Zebra Technologies",
