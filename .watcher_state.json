@@ -4289,7 +4289,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a914682990a57e97c93184bfb432dfa38de5363f",
+    "last_sha": "72f37e0457f7b004e1edb11cdd5ea771c20197a7",
     "rows": [
       [
         "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
@@ -4962,13 +4962,6 @@
         "Westchester, IL",
         "Winter 2026",
         "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Winsupply",
-        "Data Analyst Intern",
-        "Moraine, OH",
-        "Winter 2026",
-        "https://jobs.smartrecruiters.com/Winsupply1/3743990015046116?utm_source=Simplify&ref=Simplify"
       ],
       [
         "ICF International",
@@ -5864,6 +5857,13 @@
         "Artificial Intelligence Intern",
         "New Orleans, LA",
         "Spring 2027",
+        ""
+      ],
+      [
+        "Winsupply",
+        "Data Analyst Intern",
+        "Moraine, OH",
+        "Winter 2026",
         ""
       ],
       [
@@ -9216,8 +9216,29 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a914682990a57e97c93184bfb432dfa38de5363f",
+    "last_sha": "72f37e0457f7b004e1edb11cdd5ea771c20197a7",
     "rows": [
+      [
+        "ParetoHealth",
+        "Analytics Intern",
+        "Philadelphia, PA",
+        "",
+        "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "JM Family",
+        "AI Intern",
+        "Deerfield Beach, FL",
+        "",
+        "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CoStar Group",
+        "Data Science Intern",
+        "Richmond, VA",
+        "",
+        "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Molina Healthcare",
         "Customer Experience & Analytics Intern - Undergraduate",
@@ -11114,6 +11135,7 @@
       "Clarios|Data Science Intern|Milwaukee, WI|",
       "Clarios|IT Digital/AI Intern - Summer 2027|Milwaukee, WI|",
       "Clarios|People Analytics Intern - Summer 2027|Milwaukee, WI|",
+      "CoStar Group|Data Science Intern|Richmond, VA|",
       "CoVar|Machine Learning Intern|Durham, NC|",
       "Commerce Bank|Data Analyst Intern - Summer 2027|Kansas City, MO|",
       "Commerce Bank|Data Science Intern|Kansas City, MO|",
@@ -11248,6 +11270,7 @@
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
       "Itron|HR AI Data Science Intern|Austin, TX|",
       "Itron|People Analytics Intern|Liberty Lake, WA|",
+      "JM Family|AI Intern|Deerfield Beach, FL|",
       "JM Family|Automation & Analytics Intern|Deerfield Beach, FL|",
       "JM Family|Customer Experience Data Analyst Intern|Deerfield Beach, FL|",
       "JM Family|Power Platform & Analytics Intern|Mobile, AL|",
@@ -11331,6 +11354,7 @@
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
+      "ParetoHealth|Analytics Intern|Philadelphia, PA|",
       "Path Robotics|Machine Learning & Robotics Intern|Columbus, OH|",
       "Pattern|AI Automation Engineer Intern|Lehi, UT|",
       "Pattern|Data Science Intern|Lehi, UT|",
