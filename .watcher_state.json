@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0d85e7b656b28787a11159d2541d0efad32ede20",
+    "last_sha": "a4cb030799974c3ee5bbf50543721a809a74b8e9",
     "rows": [
       [
         "Toshiba Commerce Solutions",
@@ -11573,7 +11573,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0d85e7b656b28787a11159d2541d0efad32ede20",
+    "last_sha": "a4cb030799974c3ee5bbf50543721a809a74b8e9",
     "rows": [
       [
         "Zebra Technologies",
@@ -11588,6 +11588,13 @@
         "Holtsville, NY",
         "Nov 02",
         "https://go.vansh.nyc/19p?s=y"
+      ],
+      [
+        "Samsung Semiconductor",
+        "AI Application Engineer Intern",
+        "Folsom, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/19X?s=y"
       ],
       [
         "JM Family Enterprises",
@@ -12843,13 +12850,6 @@
         "https://go.vansh.nyc/Sr?s=y"
       ],
       [
-        "Seagate Technology",
-        "Recording Media R&D Intern, AI & Data Science",
-        "Fremont, CA",
-        "Oct 18",
-        "https://go.vansh.nyc/St?s=y"
-      ],
-      [
         "Qualcomm",
         "Machine Learning & Artificial Intelligence Engineering Intern",
         "**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA",
@@ -13970,6 +13970,13 @@
         ""
       ],
       [
+        "Seagate Technology",
+        "Recording Media R&D Intern, AI & Data Science",
+        "Fremont, CA",
+        "Oct 18",
+        ""
+      ],
+      [
         "Rogue Fitness",
         "AI Engineer Intern",
         "Columbus, OH",
@@ -14537,6 +14544,7 @@
       "STR|Data Analyst Intern|Arlington, VA Woburn, MA|Oct 22",
       "Salesforce|AI Labs Intern, Emerging Talent|San Francisco, CA Seattle, WA|Oct 30",
       "Salesforce|AI Research Intern|Palo Alto, CA|Oct 20",
+      "Samsung Semiconductor|AI Application Engineer Intern|Folsom, CA|Nov 02",
       "Sanofi|Advanced Analytics Intern|Cambridge, MA Morristown, NJ|Oct 28",
       "Scale AI|Machine Learning Research Intern|New York, NY San Francisco, CA|Oct 19",
       "Schonfeld|Enterprise AI Intern|New York, NY|Oct 28",
