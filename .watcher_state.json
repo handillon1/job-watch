@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "09f3e13d67aca15bf93391e3a31ca535264b9aee",
+    "last_sha": "0d85e7b656b28787a11159d2541d0efad32ede20",
     "rows": [
+      [
+        "Toshiba Commerce Solutions",
+        "AI Data Science & Business Analytics Intern",
+        "Durham, NC",
+        "Nov 02",
+        "https://go.vansh.nyc/19U?s=z"
+      ],
       [
         "LabCorp",
         "Agentic AI Developer Co-op",
@@ -1029,6 +1036,7 @@
       "Tesla|Software Integration Engineer Intern, AI Platforms|Palo Alto, CA|Aug 08",
       "Tesla|Software Machine Learning Engineer Intern, Reliability Energy Engineering|Palo Alto, CA|Aug 21",
       "The Walt Disney Company|Content Research Insights & Analytics Intern|Burbank, CA|Oct 26",
+      "Toshiba Commerce Solutions|AI Data Science & Business Analytics Intern|Durham, NC|Nov 02",
       "Toshiba Commerce Solutions|AI Engineering Intern|Frisco, TX|Jul 27",
       "Toshiba Commerce Solutions|Project Management & AI Automation Intern|Frisco, TX|Jul 27",
       "Valmont|AI and Data Engineering Intern|Omaha, NE|Oct 27",
@@ -11565,7 +11573,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "09f3e13d67aca15bf93391e3a31ca535264b9aee",
+    "last_sha": "0d85e7b656b28787a11159d2541d0efad32ede20",
     "rows": [
       [
         "Zebra Technologies",
@@ -12933,13 +12941,6 @@
         "https://go.vansh.nyc/9I?s=y"
       ],
       [
-        "Cigna",
-        "Healthcare Analytics Intern",
-        "Morris Plains, NJ",
-        "Oct 15",
-        "https://go.vansh.nyc/9E?s=y"
-      ],
-      [
         "Ardian",
         "Data Scientist Intern",
         "New York, NY",
@@ -13386,13 +13387,6 @@
         "Cary, NC",
         "Sep 30",
         "https://go.vansh.nyc/E8?s=y"
-      ],
-      [
-        "Cigna",
-        "Product Analytics Intern",
-        "Morris Plains, NJ St. Louis, MO",
-        "Sep 30",
-        "https://go.vansh.nyc/Eb?s=y"
       ],
       [
         "SAS",
@@ -14039,6 +14033,13 @@
         ""
       ],
       [
+        "Cigna",
+        "Healthcare Analytics Intern",
+        "Morris Plains, NJ",
+        "Oct 15",
+        ""
+      ],
+      [
         "Apple",
         "SoC Machine Learning Software Engineer Intern",
         "Sunnyvale, CA",
@@ -14120,6 +14121,13 @@
         "Data Analytics Intern",
         "**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA",
         "Oct 01",
+        ""
+      ],
+      [
+        "Cigna",
+        "Product Analytics Intern",
+        "Morris Plains, NJ St. Louis, MO",
+        "Sep 30",
         ""
       ],
       [
