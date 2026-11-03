@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7ccf9feff07d212fc3dfc54195353399ed1dfdcd",
+    "last_sha": "aa56bb55b5e8b9563ab7d5d55b532e472d501847",
     "rows": [
+      [
+        "Samsung Research America Internship",
+        "Agentic AI Solutions Intern",
+        "Mountain View, CA",
+        "Nov 03",
+        "https://go.vansh.nyc/1dP?s=z"
+      ],
       [
         "Toshiba Global Commerce Solutions",
         "AI Automation & Revenue Ops Intern",
@@ -1087,6 +1094,7 @@
       "Rivian|Software Engineering Co-op, Applied AI|Palo Alto, CA|Oct 18",
       "Rockwell Automation|AI Software Engineering Co-op|Mayfield Heights, OH Milwaukee, WI|Sep 24",
       "SPREEAI|Software Engineer Intern, AI Infrastructure / Training / Inference|San Francisco, CA|Jul 24",
+      "Samsung Research America Internship|Agentic AI Solutions Intern|Mountain View, CA|Nov 03",
       "Sentara Health|Data & AI Finance Strategy Intern|Virginia Beach, VA|Jul 26",
       "Simbe Robotics|Data Analytics & Data Science Intern|Burlingame, CA|Oct 23",
       "SpreeAI|Software Engineer Intern, AI Infrastructure / Training / Inference|San Francisco, CA|Jul 24",
@@ -11683,7 +11691,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7ccf9feff07d212fc3dfc54195353399ed1dfdcd",
+    "last_sha": "aa56bb55b5e8b9563ab7d5d55b532e472d501847",
     "rows": [
       [
         "Trimble",
@@ -11705,6 +11713,13 @@
         "Chesterfield, MO",
         "Nov 03",
         "https://go.vansh.nyc/1dL?s=y"
+      ],
+      [
+        "CareSource",
+        "Data Science Intern",
+        "Remote United States",
+        "Nov 03",
+        "https://go.vansh.nyc/1dQ?s=y"
       ],
       [
         "Arch Capital Group",
@@ -11880,13 +11895,6 @@
         "Dayton, MN",
         "Nov 02",
         "https://go.vansh.nyc/1cx?s=y"
-      ],
-      [
-        "Gordon Food Service",
-        "Data Science Engineer Intern",
-        "Atlanta, GA",
-        "Nov 02",
-        "https://go.vansh.nyc/1cu?s=y"
       ],
       [
         "Flagship Pioneering",
@@ -13457,13 +13465,6 @@
         "https://go.vansh.nyc/8N?s=y"
       ],
       [
-        "Phillips 66",
-        "ERI Analytical Solutions Intern",
-        "Bartlesville, OK",
-        "Oct 13",
-        "https://go.vansh.nyc/Cm?s=y"
-      ],
-      [
         "KLA",
         "Software Engineer Intern, AI",
         "Ann Arbor, MI",
@@ -13490,13 +13491,6 @@
         "Mountain View, CA",
         "Oct 12",
         "https://go.vansh.nyc/C5?s=y"
-      ],
-      [
-        "KLA",
-        "AI/ML Software Engineer Intern",
-        "Ann Arbor, MI",
-        "Oct 12",
-        "https://go.vansh.nyc/8g?s=y"
       ],
       [
         "Juniper Networks",
@@ -14045,6 +14039,13 @@
         ""
       ],
       [
+        "Gordon Food Service",
+        "Data Science Engineer Intern",
+        "Atlanta, GA",
+        "Nov 02",
+        ""
+      ],
+      [
         "Trane Technologies",
         "AI & Analytics Intern",
         "Davidson, NC Minneapolis, MN",
@@ -14437,9 +14438,23 @@
         ""
       ],
       [
+        "Phillips 66",
+        "ERI Analytical Solutions Intern",
+        "Bartlesville, OK",
+        "Oct 13",
+        ""
+      ],
+      [
         "Tencent",
         "Data Science Intern",
         "Palo Alto, CA",
+        "Oct 12",
+        ""
+      ],
+      [
+        "KLA",
+        "AI/ML Software Engineer Intern",
+        "Ann Arbor, MI",
         "Oct 12",
         ""
       ],
@@ -14724,6 +14739,7 @@
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|Oct 12",
       "Capital One|Data Analyst Intern|Mclean, VA|Jul 07",
       "CareSource|AI Intern|Remote United States|Oct 28",
+      "CareSource|Data Science Intern|Remote United States|Nov 03",
       "CareSource|Full Stack AI Development Intern|Remote United States|Oct 28",
       "Castleton Commodities International|Data Science Machine Learning Intern|Stamford, CT Houston, TX New York City, NY|Jul 31",
       "Caterpillar|Corporate Intern, Digital and Analytics|Peoria, IL Chicago, IL Irving, TX|Sep 02",
