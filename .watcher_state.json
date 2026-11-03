@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "ec1b44fdbb1831c0409e523feaf63e2767a0bcc2",
+    "last_sha": "19d01a7f28bbb9b965239dda36551cc86faba95d",
     "rows": [
       [
         "Transamerica",
@@ -442,11 +442,25 @@
         "https://go.vansh.nyc/1aC?s=z"
       ],
       [
+        "Regeneron Pharmaceuticals",
+        "Data Analytics & Digital Tools Co-op (IOPS)",
+        "Rensselaer, NY",
+        "Nov 02",
+        "https://go.vansh.nyc/1dq?s=z"
+      ],
+      [
         "LabCorp",
         "Agentic AI Developer Co-op",
         "Durham, NC",
         "Nov 02",
         "https://go.vansh.nyc/19P?s=z"
+      ],
+      [
+        "Flextronics International",
+        "Manufacturing Data & Analytics Co-op",
+        "Libertyville, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1dl?s=z"
       ],
       [
         "Charter Manufacturing",
@@ -1042,6 +1056,7 @@
       "First Solar (US)|Data Science Intern, Device Characterization|Perrysburg, OH|Oct 05",
       "First Solar (US)|Data Science Intern|Perrysburg, OH|Sep 25",
       "Flagship Pioneering|AI/ML Engineering Co-op, SAGE Platform|Cambridge, MA|Oct 23",
+      "Flextronics International|Manufacturing Data & Analytics Co-op|Libertyville, IL|Nov 02",
       "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)|Data Analyst Intern|Cincinnati, OH|Oct 30",
       "GE Aerospace|Artificial Intelligence Intern|Remote United States|Nov 01",
       "GE Aerospace|Data Science Co-op, Flight Analytics Platform|Austin, TX|Sep 20",
@@ -1062,6 +1077,7 @@
       "PathAI|Machine Learning Intern, AI Product and ML Core|Boston, MA New York, NY Remote|Apr 20",
       "Pony.ai|Research Intern - Deep Learning|Fremont, CA|Jul 26",
       "Postman|AI Engineer Intern|Berkeley, CA|Aug 03",
+      "Regeneron Pharmaceuticals|Data Analytics & Digital Tools Co-op (IOPS)|Rensselaer, NY|Nov 02",
       "Regeneron Pharmaceuticals|Data Science & Computational Biology Co-op, Research|Tarrytown, NY|Oct 02",
       "Regeneron Pharmaceuticals|Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT|Tarrytown, NY|Oct 01",
       "Rippling|Machine Learning Engineer Intern|San Francisco, CA|Jun 06",
@@ -11673,7 +11689,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "ec1b44fdbb1831c0409e523feaf63e2767a0bcc2",
+    "last_sha": "19d01a7f28bbb9b965239dda36551cc86faba95d",
     "rows": [
       [
         "Zebra Technologies",
@@ -11781,6 +11797,13 @@
         "https://go.vansh.nyc/1d5?s=y"
       ],
       [
+        "KLA",
+        "PLM BI & Analytics Intern",
+        "Ann Arbor, MI",
+        "Nov 02",
+        "https://go.vansh.nyc/1dm?s=y"
+      ],
+      [
         "Johnson & Johnson",
         "Data Science Co-op",
         "Cincinnati, OH",
@@ -11814,6 +11837,20 @@
         "Winston Salem, NC",
         "Nov 02",
         "https://go.vansh.nyc/1d1?s=y"
+      ],
+      [
+        "Ingredion",
+        "AI & Data Scientist Intern",
+        "Westchester, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1dn?s=y"
+      ],
+      [
+        "Ingredion",
+        "Global Supply Chain Data Science Intern",
+        "Westchester, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1do?s=y"
       ],
       [
         "Guardian Life",
@@ -14751,6 +14788,8 @@
       "Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX San Francisco, CA|Apr 28",
       "ICF International|AI Engineer Intern|Reston, VA|Oct 14",
       "ID.me|Analytics Engineer Intern|Mountain View, CA|Oct 23",
+      "Ingredion|AI & Data Scientist Intern|Westchester, IL|Nov 02",
+      "Ingredion|Global Supply Chain Data Science Intern|Westchester, IL|Nov 02",
       "Inmar Intelligence|Data Science Intern|Raleigh, NC Winston-Salem, NC|Oct 19",
       "Inmar Intelligence|Data, Analytics & AI Intern|Winston Salem, NC|Nov 02",
       "Insperity|Rotational AI Intern|Kingwood, TX|Oct 22",
@@ -14775,6 +14814,7 @@
       "K1|AI Intern|Manhattan Beach, CA|Oct 20",
       "KLA|AI/ML Software Engineer Intern|Ann Arbor, MI|Oct 12",
       "KLA|Computer Vision/Machine Learning Intern|Milpitas, CA|Oct 14",
+      "KLA|PLM BI & Analytics Intern|Ann Arbor, MI|Nov 02",
       "KLA|Software Engineer Intern, AI|Ann Arbor, MI|Oct 13",
       "KLA|Software Engineering Intern, AI/ML for Diagnostics & Calibration|Milpitas, CA|Oct 23",
       "Keysight Technologies|Data Scientist Intern|Santa Rosa, CA|Oct 04",
