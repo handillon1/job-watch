@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "aa56bb55b5e8b9563ab7d5d55b532e472d501847",
+    "last_sha": "72c8ed920e73c5998f87cef5743da5c737db2118",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -11684,7 +11684,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "aa56bb55b5e8b9563ab7d5d55b532e472d501847",
+    "last_sha": "72c8ed920e73c5998f87cef5743da5c737db2118",
     "rows": [
       [
         "Trimble",
@@ -11986,6 +11986,13 @@
         "Lansing, MI",
         "Nov 02",
         "https://go.vansh.nyc/1c4?s=y"
+      ],
+      [
+        "American Express",
+        "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
+        "Phoenix, AZ",
+        "Nov 02",
+        "https://go.vansh.nyc/1dS?s=y"
       ],
       [
         "Alcon",
@@ -13458,13 +13465,6 @@
         "https://go.vansh.nyc/8N?s=y"
       ],
       [
-        "KLA",
-        "Software Engineer Intern, AI",
-        "Ann Arbor, MI",
-        "Oct 13",
-        "https://go.vansh.nyc/8G?s=y"
-      ],
-      [
         "Cook Group",
         "Artificial Intelligence & Innovation Intern",
         "Bloomington, IN",
@@ -14438,6 +14438,13 @@
         ""
       ],
       [
+        "KLA",
+        "Software Engineer Intern, AI",
+        "Ann Arbor, MI",
+        "Oct 13",
+        ""
+      ],
+      [
         "Tencent",
         "Data Science Intern",
         "Palo Alto, CA",
@@ -14663,6 +14670,7 @@
       "American Express|AI Engineer Intern, Enterprise Technology Services|New York, NY|Aug 21",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Phoenix, AZ|Aug 21",
       "American Express|AI Engineer Intern, Enterprise Technology Services|Sunrise, FL|Aug 21",
+      "American Express|Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services|Phoenix, AZ|Nov 02",
       "American Family Insurance Group|AI Platform Engineering Intern|Madison, WI|Oct 22",
       "American Family Insurance Group|Business Intelligence Enablement Intern|Madison, WI Boston, MA|Oct 21",
       "Americo Financial Life and Annuity|Artificial Intelligence Intern|Kansas City, MO|Oct 23",
