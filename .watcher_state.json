@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0aad86c96a663fdd1160f88c0af39a5b64270cb2",
+    "last_sha": "ea0fd30dcd7ae8e79911d605a09311a941fe2304",
     "rows": [
       [
         "Toshiba Global Commerce Solutions",
@@ -440,6 +440,13 @@
         "Durham, NC",
         "Nov 02",
         "https://go.vansh.nyc/19P?s=z"
+      ],
+      [
+        "Charter Manufacturing",
+        "Automation & Analytics Intern",
+        "Milwaukee, WI",
+        "Nov 02",
+        "https://go.vansh.nyc/1cf?s=z"
       ],
       [
         "GE Aerospace",
@@ -559,13 +566,6 @@
         "Remote (US)",
         "Oct 15",
         "https://go.vansh.nyc/a5?s=z"
-      ],
-      [
-        "Johnson & Johnson",
-        "Data Operations & Analytics Co-op",
-        "Somerset, NJ",
-        "Oct 15",
-        "https://go.vansh.nyc/a1?s=z"
       ],
       [
         "Inter Miami CF",
@@ -806,6 +806,13 @@
         ""
       ],
       [
+        "Johnson & Johnson",
+        "Data Operations & Analytics Co-op",
+        "Somerset, NJ",
+        "Oct 15",
+        ""
+      ],
+      [
         "Commonwealth Fusion Systems",
         "AI & Infrastructure Engineer Intern",
         "Devens, MA",
@@ -1014,6 +1021,7 @@
       "ByteDance|Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure|Seattle, WA|Nov 01",
       "Campbell Soup Company|Agentic AI Engineer Co-Op|Remote|Aug 21",
       "Campbell Soup Company|Data Engineer Intern, DA&AI Co-Op|Camden, NJ|Aug 21",
+      "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|Nov 02",
       "Commonwealth Fusion Systems|AI & Infrastructure Engineer Intern|Devens, MA|Oct 15",
       "Core & Main|AI/ML Data Engineering Intern|St. Louis, MO|Jul 27",
       "Coretek Services|AI & Data Automation Developer Co-op|Remote United States|Oct 23",
@@ -11671,7 +11679,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0aad86c96a663fdd1160f88c0af39a5b64270cb2",
+    "last_sha": "ea0fd30dcd7ae8e79911d605a09311a941fe2304",
     "rows": [
       [
         "Zebra Technologies",
@@ -11714,6 +11722,13 @@
         "Denton, TX",
         "Nov 02",
         "https://go.vansh.nyc/1bj?s=y"
+      ],
+      [
+        "onepot",
+        "Research Intern, Machine Learning",
+        "South San Francisco, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1cp?s=y"
       ],
       [
         "NVIDIA",
@@ -11772,6 +11787,13 @@
         "https://go.vansh.nyc/1bi?s=y"
       ],
       [
+        "CWAN",
+        "Gen AI Intern",
+        "Seattle, WA",
+        "Nov 02",
+        "https://go.vansh.nyc/1cn?s=y"
+      ],
+      [
         "Costco",
         "Digital Services Intern, Infosec AI/ML",
         "Issaquah, WA",
@@ -11784,6 +11806,13 @@
         "Richmond, VA",
         "Nov 02",
         "https://go.vansh.nyc/19c?s=y"
+      ],
+      [
+        "CNA Insurance",
+        "AI Engineering Intern, Technology \ud83d\udec2",
+        "Chicago, IL",
+        "Nov 02",
+        "https://go.vansh.nyc/1ca?s=y"
       ],
       [
         "Booz Allen Hamilton",
@@ -14534,8 +14563,10 @@
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US|San Jose, CA|Nov 01",
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US|Seattle, WA|Nov 01",
       "C&S Wholesale Grocers|IS Intern, Data Analytics & Data Science|Edison, NJ|Oct 30",
+      "CNA Insurance|AI Engineering Intern, Technology|Chicago, IL|Nov 02",
       "CVS Health|Data Science Intern, Innovation & Technology|New York, NY|Oct 21",
       "CVS Health|Medicaid Data Analytics Intern|Hartford, CT|Oct 21",
+      "CWAN|Gen AI Intern|Seattle, WA|Nov 02",
       "Cadillac Formula 1 Team|Aerodynamics AI Industrial Placement Intern|Indianapolis, IN|Oct 30",
       "Campbell Soup Company|Data Science Intern|Camden, NJ|Oct 18",
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|Oct 12",
@@ -14842,6 +14873,7 @@
       "Zebra Technologies|AI Intern|Lincolnshire, IL|Nov 02",
       "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
+      "onepot|Research Intern, Machine Learning|South San Francisco, CA|Nov 02",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14",
       "sephora.com|AI & Distribution Analytics Intern|Salt Lake City, UT|Oct 27"
     ]
