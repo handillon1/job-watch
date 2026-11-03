@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "72c8ed920e73c5998f87cef5743da5c737db2118",
+    "last_sha": "3103ed0223520173af685deb7a7623dd5768fb56",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -11684,7 +11684,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "72c8ed920e73c5998f87cef5743da5c737db2118",
+    "last_sha": "3103ed0223520173af685deb7a7623dd5768fb56",
     "rows": [
       [
         "Trimble",
@@ -11706,6 +11706,13 @@
         "Chesterfield, MO",
         "Nov 03",
         "https://go.vansh.nyc/1dL?s=y"
+      ],
+      [
+        "JM Family Enterprises",
+        "AI & Decision Science Intern",
+        "Deerfield Beach, FL",
+        "Nov 03",
+        "https://go.vansh.nyc/1dZ?s=y"
       ],
       [
         "CareSource",
@@ -11748,6 +11755,13 @@
         "Folsom, CA",
         "Nov 02",
         "https://go.vansh.nyc/19X?s=y"
+      ],
+      [
+        "Rockland Trust",
+        "Business Intelligence (BI) Intern",
+        "Rockland, MA",
+        "Nov 02",
+        "https://go.vansh.nyc/1dX?s=y"
       ],
       [
         "Resideo",
@@ -11818,13 +11832,6 @@
         "Boise, ID",
         "Nov 02",
         "https://go.vansh.nyc/1d5?s=y"
-      ],
-      [
-        "KLA",
-        "PLM BI & Analytics Intern",
-        "Ann Arbor, MI",
-        "Nov 02",
-        "https://go.vansh.nyc/1dm?s=y"
       ],
       [
         "Johnson & Johnson",
@@ -14032,6 +14039,13 @@
         ""
       ],
       [
+        "KLA",
+        "PLM BI & Analytics Intern",
+        "Ann Arbor, MI",
+        "Nov 02",
+        ""
+      ],
+      [
         "Gordon Food Service",
         "Data Science Engineer Intern",
         "Atlanta, GA",
@@ -14850,6 +14864,7 @@
       "Itron|Artificial Intelligence Intern|Liberty Lake, WA Raleigh, NC Austin, TX|Sep 29",
       "Itron|Data Science Intern, Distributed Intelligence|Liberty Lake, WA|Sep 27",
       "Itron|HR AI Data Science Intern|Austin, TX|Oct 08",
+      "JM Family Enterprises|AI & Decision Science Intern|Deerfield Beach, FL|Nov 03",
       "JM Family Enterprises|AI Intern|Deerfield Beach, FL|Nov 02",
       "JPMorganChase|AI Research Associate Intern|New York, NY|Oct 14",
       "JPMorganChase|Machine Learning Intern, NLP|New York, NY|Oct 20",
@@ -14948,6 +14963,7 @@
       "Rivian and Volkswagen Group Technologies|Data Engineering Intern, AI & Analytics|Palo Alto, CA Irvine, CA|Oct 22",
       "Rivian|Artificial Intelligence, Machine Learning, & Data Intern|Palo Alto, CA|Oct 09",
       "Robert Bosch Venture Capital|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
+      "Rockland Trust|Business Intelligence (BI) Intern|Rockland, MA|Nov 02",
       "Rockwell Automation|AI Software Engineer Intern|Mayfield Heights, OH Milwaukee, WI|Sep 24",
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|Oct 18",
       "RosaicLabs|AI Accelerator Design Verification Engineer Intern|Austin, TX Santa Clara, CA|Oct 28",
