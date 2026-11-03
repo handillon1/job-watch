@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6a8427a0e924d6e7a854639ff68c0c1375ff4c53",
+    "last_sha": "f57abd0db0c6e3efbac0ae3c539624628f7496bf",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -398,6 +398,13 @@
         "Mountain View, CA",
         "Nov 03",
         "https://go.vansh.nyc/1dP?s=z"
+      ],
+      [
+        "Hearst",
+        "Editorial AI Development Intern",
+        "San Francisco, CA",
+        "Nov 03",
+        "https://go.vansh.nyc/1fC?s=z"
       ],
       [
         "Toshiba Global Commerce Solutions",
@@ -470,11 +477,25 @@
         "https://go.vansh.nyc/1dl?s=z"
       ],
       [
+        "Engramme",
+        "Machine Learning Engineer Co-op",
+        "San Francisco, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1fz?s=z"
+      ],
+      [
         "Charter Manufacturing",
         "Automation & Analytics Intern",
         "Milwaukee, WI",
         "Nov 02",
         "https://go.vansh.nyc/1cf?s=z"
+      ],
+      [
+        "Apache Industrial",
+        "AI Implementation Intern",
+        "Houston, TX",
+        "Nov 02",
+        "https://go.vansh.nyc/1fA?s=z"
       ],
       [
         "GE Aerospace",
@@ -1065,6 +1086,7 @@
       "AMD|Machine Learning Co-op|**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA|Aug 20",
       "Amazon|Business Intelligence Engineer Co-Op|Seattle, WA|Aug 27",
       "Analytic Partners|Data Science Co-op|Miami, FL|Oct 21",
+      "Apache Industrial|AI Implementation Intern|Houston, TX|Nov 02",
       "Apptronik|Software Engineer Intern, ML Systems|Austin, TX|Jul 28",
       "BMO|Machine Learning Intern|Chicago, IL|May 12",
       "Booz Allen|Enterprise Cybersecurity Data and Business Intelligence Analyst Intern|McLean, VA|Oct 21",
@@ -1086,6 +1108,7 @@
       "Danaher Corporation|Supply Chain AI Co-op|United States|Oct 25",
       "EdgeTrace|AI Full-Stack Engineering Intern|San Mateo, CA|Dec 09",
       "Ema|AI Resident Intern|San Francisco, CA|Oct 30",
+      "Engramme|Machine Learning Engineer Co-op|San Francisco, CA|Nov 02",
       "Figure|Helix AI Intern, Speech|San Jose, CA|Oct 22",
       "First Solar (US)|Data Analytics Intern|Perrysburg, OH|Sep 25",
       "First Solar (US)|Data Science Intern, Device Characterization|Perrysburg, OH|Oct 05",
@@ -1098,6 +1121,7 @@
       "GRITT ROBOTICS INC|ML & Cloud Infrastructure Engineer Intern|South San Francisco, CA|Jul 27",
       "GoodRx|AI Agent Developer Intern|New York City, NY|May 12",
       "Hadrian|Data Science/Data Engineer Intern|Los Angeles, CA|Sep 02",
+      "Hearst|Editorial AI Development Intern|San Francisco, CA|Nov 03",
       "Intel|AI Software Engineering Intern|Hillsboro, OR Folsom, CA|Apr 29",
       "Inter Miami CF|Business Intelligence Intern, Software Development|Miami, FL|Oct 15",
       "Johnson & Johnson|Data Operations & Analytics Co-op|Somerset, NJ|Oct 15",
@@ -11705,7 +11729,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6a8427a0e924d6e7a854639ff68c0c1375ff4c53",
+    "last_sha": "f57abd0db0c6e3efbac0ae3c539624628f7496bf",
     "rows": [
       [
         "TWG Global",
@@ -11762,6 +11786,20 @@
         "Deerfield Beach, FL",
         "Nov 03",
         "https://go.vansh.nyc/1dZ?s=y"
+      ],
+      [
+        "First Citizens BancShares",
+        "Applied AI Intern",
+        "Raleigh, NC",
+        "Nov 03",
+        "https://go.vansh.nyc/1fD?s=y"
+      ],
+      [
+        "Ecolab",
+        "Digital & AI Technology Intern",
+        "Saint Paul, MN Eagan, MN Naperville, IL",
+        "Nov 03",
+        "https://go.vansh.nyc/1fF?s=y"
       ],
       [
         "Direct Supply",
@@ -14903,6 +14941,7 @@
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
       "Duolingo|Data Scientist Intern|Pittsburgh, PA New York, NY|Oct 15",
       "EQT Corporation|AI Intern|Remote United States|Oct 27",
+      "Ecolab|Digital & AI Technology Intern|Saint Paul, MN Eagan, MN Naperville, IL|Nov 03",
       "Economy Polymers & Chemicals|AI & Business Systems Automation Intern|Houston, TX|Oct 30",
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
@@ -14913,6 +14952,7 @@
       "FedEx Freight|Data Scientist Intern|Memphis, TN|Oct 21",
       "FedEx|Data Science Intern|Memphis, TN|Oct 30",
       "First Citizens BancShares|AI Innovation Intern|Raleigh, NC|Oct 30",
+      "First Citizens BancShares|Applied AI Intern|Raleigh, NC|Nov 03",
       "First Citizens BancShares|Data Analyst Intern, Enterprise Data Products|Raleigh, NC|Nov 02",
       "Flagship Pioneering|ML Intern|Cambridge, MA|Nov 02",
       "Florida Atlantic University|Data Analyst Intern|Boca Raton, FL|Oct 27",
