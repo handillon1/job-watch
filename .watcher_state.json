@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "97d07dcdc9cf228df0828c600a657d494be1dda4",
+    "last_sha": "0aad86c96a663fdd1160f88c0af39a5b64270cb2",
     "rows": [
       [
         "Toshiba Global Commerce Solutions",
@@ -11671,7 +11671,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "97d07dcdc9cf228df0828c600a657d494be1dda4",
+    "last_sha": "0aad86c96a663fdd1160f88c0af39a5b64270cb2",
     "rows": [
       [
         "Zebra Technologies",
@@ -11714,6 +11714,13 @@
         "Denton, TX",
         "Nov 02",
         "https://go.vansh.nyc/1bj?s=y"
+      ],
+      [
+        "NVIDIA",
+        "AI Compiler and Kernel Intern",
+        "Austin, TX",
+        "Nov 02",
+        "https://go.vansh.nyc/1bR?s=y"
       ],
       [
         "JM Family Enterprises",
@@ -11781,9 +11788,37 @@
       [
         "Booz Allen Hamilton",
         "Data Scientist Intern",
+        "Colorado Springs, CO",
+        "Nov 02",
+        "https://go.vansh.nyc/1bW?s=y"
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Data Scientist Intern",
         "Detroit, MI",
         "Nov 02",
         "https://go.vansh.nyc/19s?s=y"
+      ],
+      [
+        "Axos Bank",
+        "AI Engineer Intern",
+        "San Diego, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1bU?s=y"
+      ],
+      [
+        "Auto-Owners Insurance",
+        "Analytics Web Systems Developer Intern \ud83d\udec2",
+        "Lansing, MI",
+        "Nov 02",
+        "https://go.vansh.nyc/1c4?s=y"
+      ],
+      [
+        "Alcon",
+        "Software, Data & AI Engineering Intern",
+        "**5 locations**Fort Worth, TX Lake Forest, CA Johns Creek, GA Houston, TX Goleta, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1bZ?s=y"
       ],
       [
         "TikTok",
@@ -14429,6 +14464,7 @@
       "Adobe|Machine Learning Engineer Intern|**7 locations**San Jose, CA Waltham, MA San Francisco, CA Austin, TX Seattle, WA Lehi, UT New York, NY|Oct 24",
       "AeroVironment|Machine Learning Engineering Intern|Centreville, VA|Oct 20",
       "Aerospace Corporation|Software AI Intern|United States|Aug 28",
+      "Alcon|Software, Data & AI Engineering Intern|**5 locations**Fort Worth, TX Lake Forest, CA Johns Creek, GA Houston, TX Goleta, CA|Nov 02",
       "Allstate|Data Analytics Engineer Intern|Remote United States|Oct 21",
       "Allstate|Data Science Intern, Core Telematics|Remote United States|Oct 21",
       "Amazon|Business Intelligence Engineer Intern|Seattle, WA|Oct 07",
@@ -14461,12 +14497,15 @@
       "Astera Labs|Data Analytics Intern|San Jose, CA|Oct 05",
       "Astreya|AI Infrastructure DC Design Intern|Remote (US)|Oct 14",
       "Atoms|AI Research Intern|Mountain View, CA|Oct 27",
+      "Auto-Owners Insurance|Analytics Web Systems Developer Intern|Lansing, MI|Nov 02",
       "Auto-Owners Insurance|Business Intelligence Developer Intern|Lansing, MI|Oct 23",
       "AutoZone|Data Science Intern|Memphis, TN|Sep 20",
       "Axiom Space|Enterprise Data Analyst Intern, Power BI & Data Quality|Houston, TX|Oct 28",
+      "Axos Bank|AI Engineer Intern|San Diego, CA|Nov 02",
       "Beli|Data Science Intern|New York, NY|Oct 28",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
+      "Booz Allen Hamilton|Data Scientist Intern|Colorado Springs, CO|Nov 02",
       "Booz Allen Hamilton|Data Scientist Intern|Detroit, MI|Nov 02",
       "Booz Allen Hamilton|Games Data Scientist Intern|Lexington, MA|Oct 18",
       "Booz Allen|Applied AI Intern|Washington, DC|Sep 13",
@@ -14645,6 +14684,7 @@
       "Millennium|Applied AI Engineer Intern|Miami, FL|Aug 21",
       "Modal|ML Research Intern|New York, NY San Francisco, CA|Aug 04",
       "Molina Healthcare|Data Analytics Internship (Remote) \u2013(Undergraduate)|United States|Oct 29",
+      "NVIDIA|AI Compiler and Kernel Intern|Austin, TX|Nov 02",
       "NVIDIA|AI Systems Software Engineering Intern|Austin, TX|Oct 29",
       "NVIDIA|Deep Learning Computer Architecture Intern|Santa Clara, CA|Oct 18",
       "NVIDIA|Deep Learning Intern|Santa Clara, CA|Oct 31",
