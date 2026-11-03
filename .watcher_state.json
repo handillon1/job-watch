@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "e02d1e7ce1488ef077d0a5eef5b2e874e5f6b295",
+    "last_sha": "3a20622b71f7d5a63dd28dd1ee7286f55ce62b52",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -11678,7 +11678,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "e02d1e7ce1488ef077d0a5eef5b2e874e5f6b295",
+    "last_sha": "3a20622b71f7d5a63dd28dd1ee7286f55ce62b52",
     "rows": [
       [
         "Trimble",
@@ -13095,13 +13095,6 @@
         "https://go.vansh.nyc/ch?s=y"
       ],
       [
-        "Highmark Health",
-        "Data Analyst Intern",
-        "Pittsburgh, PA",
-        "Oct 19",
-        "https://go.vansh.nyc/bn?s=y"
-      ],
-      [
         "GlobalFoundries",
         "AI/ML Systems Engineering Intern",
         "Richardson, TX",
@@ -14330,6 +14323,13 @@
         "Inmar Intelligence",
         "Data Science Intern",
         "Raleigh, NC Winston-Salem, NC",
+        "Oct 19",
+        ""
+      ],
+      [
+        "Highmark Health",
+        "Data Analyst Intern",
+        "Pittsburgh, PA",
         "Oct 19",
         ""
       ],
