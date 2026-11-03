@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "b6f64fe9c777acd6132e946ba196fd98705b87ab",
+    "last_sha": "57c327225b3933422d6124b6ee0df936b8955c91",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -666,6 +666,13 @@
         "https://go.vansh.nyc/H7?s=z"
       ],
       [
+        "Pangram Labs",
+        "AI Research Intern",
+        "Brooklyn, NY",
+        "Oct 04",
+        "https://go.vansh.nyc/1eR?s=z"
+      ],
+      [
         "Regeneron Pharmaceuticals",
         "Data Science & Computational Biology Co-op, Research",
         "Tarrytown, NY",
@@ -685,6 +692,13 @@
         "Palo Alto, CA",
         "Sep 30",
         "https://go.vansh.nyc/E4?s=z"
+      ],
+      [
+        "Plot Technologies",
+        "Applied AI Co-op",
+        "New York, NY",
+        "Sep 29",
+        "https://go.vansh.nyc/1eP?s=z"
       ],
       [
         "Risepoint",
@@ -1095,8 +1109,10 @@
       "Nokia|Architecture AI Co-op|Naperville, IL|Jul 27",
       "Notion|Software Engineer, AI Intern|San Francisco, CA New York, NY|Aug 08",
       "OpenAI|Backend Software Engineer Intern, Cooperative AI (Evals)|San Francisco, CA|Oct 20",
+      "Pangram Labs|AI Research Intern|Brooklyn, NY|Oct 04",
       "Path Robotics|Machine Learning & Robotics Intern|Columbus, OH|Oct 29",
       "PathAI|Machine Learning Intern, AI Product and ML Core|Boston, MA New York, NY Remote|Apr 20",
+      "Plot Technologies|Applied AI Co-op|New York, NY|Sep 29",
       "Pony.ai|Research Intern - Deep Learning|Fremont, CA|Jul 26",
       "Postman|AI Engineer Intern|Berkeley, CA|Aug 03",
       "Regeneron Pharmaceuticals|Data Analytics & Digital Tools Co-op (IOPS)|Rensselaer, NY|Nov 02",
@@ -11665,8 +11681,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "b6f64fe9c777acd6132e946ba196fd98705b87ab",
+    "last_sha": "57c327225b3933422d6124b6ee0df936b8955c91",
     "rows": [
+      [
+        "TWG Global",
+        "AI Engineering Intern",
+        "Santa Monica, CA",
+        "Nov 03",
+        "https://go.vansh.nyc/1eY?s=y"
+      ],
       [
         "Trimble",
         "AI Developer Intern",
@@ -11701,6 +11724,13 @@
         "Milwaukee, WI",
         "Nov 03",
         "https://go.vansh.nyc/1ep?s=y"
+      ],
+      [
+        "Dairyland Power Cooperative",
+        "Energy Data Analyst Intern",
+        "La Crosse, WI",
+        "Nov 03",
+        "https://go.vansh.nyc/1f1?s=y"
       ],
       [
         "CareSource",
@@ -13670,6 +13700,13 @@
         "https://go.vansh.nyc/EJ?s=y"
       ],
       [
+        "Bedrock Robotics",
+        "Behavior ML Engineer Intern, Learned Manipulation Policies",
+        "San Francisco, CA",
+        "Oct 02",
+        "https://go.vansh.nyc/1eQ?s=y"
+      ],
+      [
         "New York Mets",
         "Data Science Intern",
         "Queens, NY",
@@ -13810,6 +13847,27 @@
         "https://go.vansh.nyc/10S?s=y"
       ],
       [
+        "Bedrock Robotics",
+        "Behavior Machine Learning Engineer Intern, World Models",
+        "San Francisco, CA",
+        "Sep 10",
+        "https://go.vansh.nyc/1eF?s=y"
+      ],
+      [
+        "Bedrock Robotics",
+        "Onboard Infrastructure Engineer Intern, ML Inference",
+        "San Francisco, CA",
+        "Sep 10",
+        "https://go.vansh.nyc/1eG?s=y"
+      ],
+      [
+        "M3USA",
+        "AI Engineering Intern",
+        "Remote United States",
+        "Sep 08",
+        "https://go.vansh.nyc/1eD?s=y"
+      ],
+      [
         "Coinbase",
         "Analytics Engineer Intern",
         "San Francisco, CA",
@@ -13829,6 +13887,13 @@
         "Houston, TX",
         "Sep 08",
         "https://go.vansh.nyc/Mo?s=y"
+      ],
+      [
+        "Hoffman Construction",
+        "Data Analyst Intern",
+        "Amarillo, TX",
+        "Sep 07",
+        "https://go.vansh.nyc/1eC?s=y"
       ],
       [
         "Springs Window Fashions",
@@ -14701,6 +14766,9 @@
       "AutoZone|Data Science Intern|Memphis, TN|Sep 20",
       "Axiom Space|Enterprise Data Analyst Intern, Power BI & Data Quality|Houston, TX|Oct 28",
       "Axos Bank|AI Engineer Intern|San Diego, CA|Nov 02",
+      "Bedrock Robotics|Behavior ML Engineer Intern, Learned Manipulation Policies|San Francisco, CA|Oct 02",
+      "Bedrock Robotics|Behavior Machine Learning Engineer Intern, World Models|San Francisco, CA|Sep 10",
+      "Bedrock Robotics|Onboard Infrastructure Engineer Intern, ML Inference|San Francisco, CA|Sep 10",
       "Beli|Data Science Intern|New York, NY|Oct 28",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
@@ -14769,6 +14837,7 @@
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
       "Costco|Digital Services Intern, Infosec AI/ML|Issaquah, WA|Nov 02",
       "Creative Artists Agency|Data Analytics Intern|Denver, CO|Oct 18",
+      "Dairyland Power Cooperative|Energy Data Analyst Intern|La Crosse, WI|Nov 03",
       "Datacor|AI Engineer Intern|Remote United States|Oct 30",
       "Dell Technologies|AI Solutions Intern, Product & Content Management|Round Rock, TX|Sep 14",
       "Dell Technologies|Data Science Intern|United States|Oct 07",
@@ -14836,6 +14905,7 @@
       "Hex Technologies|AI Engineer Intern|San Francisco, CA|Oct 11",
       "Highmark Health|Data Analyst Intern|Pittsburgh, PA|Oct 19",
       "Hive Financial Systems|Analytics Intern|Atlanta, GA|Oct 27",
+      "Hoffman Construction|Data Analyst Intern|Amarillo, TX|Sep 07",
       "Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX San Francisco, CA|Apr 28",
       "ICF International|AI Engineer Intern|Reston, VA|Oct 14",
       "ID.me|Analytics Engineer Intern|Mountain View, CA|Oct 23",
@@ -14873,6 +14943,7 @@
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
       "Leidos|Data Science Intern|Arlington, VA|Nov 01",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
+      "M3USA|AI Engineering Intern|Remote United States|Sep 08",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
       "MITRE|AI Solutions Architect Intern|McLean, VA|Oct 29",
       "MITRE|Data Science and Engineering Intern|McLean, VA|Oct 29",
@@ -14987,6 +15058,7 @@
       "Susquehanna International Group|Machine Learning Engineering Intern|Bala Cynwyd, PA|Oct 18",
       "Syntiant|DevOps Machine Learning Infrastructure Intern|Irvine, CA|Oct 28",
       "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|Oct 27",
+      "TWG Global|AI Engineering Intern|Santa Monica, CA|Nov 03",
       "Tencent|Data Science Intern|Palo Alto, CA|Oct 12",
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
