@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7886994ebd18275c35d80e91f736a98b6be3777b",
+    "last_sha": "bdc515b3e4883fd750f0ad1d2b939d3b44b606cd",
     "rows": [
       [
         "Transamerica",
@@ -11689,8 +11689,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7886994ebd18275c35d80e91f736a98b6be3777b",
+    "last_sha": "bdc515b3e4883fd750f0ad1d2b939d3b44b606cd",
     "rows": [
+      [
+        "The Mosaic Company",
+        "Artificial Intelligence Co-op",
+        "Tampa, FL",
+        "Nov 03",
+        "https://go.vansh.nyc/1dB?s=y"
+      ],
       [
         "Zebra Technologies",
         "AI Intern",
@@ -14938,6 +14945,7 @@
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
       "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
+      "The Mosaic Company|Artificial Intelligence Co-op|Tampa, FL|Nov 03",
       "The Nuclear Company|AI Applied Research Intern|Washington, DC|Aug 21",
       "TikTok|AI Engineer Intern, TikTok-Client Arch|San Jose, CA|Nov 01",
       "TikTok|AI Infrastructure Engineer Intern, Recommendation & LLM|San Jose, CA|Aug 25",
