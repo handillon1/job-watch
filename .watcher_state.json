@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "d58d92e983614e6867af92baf25a847d820fec1a",
+    "last_sha": "f6f663c72fe1d73423339bc7c698600a59bb0ea8",
     "rows": [
       [
         "Toshiba Global Commerce Solutions",
@@ -11704,7 +11704,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "d58d92e983614e6867af92baf25a847d820fec1a",
+    "last_sha": "f6f663c72fe1d73423339bc7c698600a59bb0ea8",
     "rows": [
       [
         "The Mosaic Company",
@@ -11712,6 +11712,13 @@
         "Tampa, FL",
         "Nov 03",
         "https://go.vansh.nyc/1dB?s=y"
+      ],
+      [
+        "RGA Reinsurance Company",
+        "Data Analyst Intern",
+        "Chesterfield, MO",
+        "Nov 03",
+        "https://go.vansh.nyc/1dL?s=y"
       ],
       [
         "Arch Capital Group",
@@ -12650,13 +12657,6 @@
         "Houston, TX",
         "Oct 28",
         "https://go.vansh.nyc/103?s=y"
-      ],
-      [
-        "Workday",
-        "Analytics Engineer Intern",
-        "Pleasanton, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/Y6?s=y"
       ],
       [
         "Visa",
@@ -14115,6 +14115,13 @@
         ""
       ],
       [
+        "Workday",
+        "Analytics Engineer Intern",
+        "Pleasanton, CA",
+        "Oct 27",
+        ""
+      ],
+      [
         "sephora.com",
         "AI & Distribution Analytics Intern",
         "Salt Lake City, UT",
@@ -14927,6 +14934,7 @@
       "Qualcomm|AI Driven Test Automation Engineering Intern|Haifa District, IL|Oct 18",
       "Qualcomm|Machine Learning & Artificial Intelligence Engineering Intern|**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA|Oct 18",
       "QuantCo|Data Science Intern|United States|May 01",
+      "RGA Reinsurance Company|Data Analyst Intern|Chesterfield, MO|Nov 03",
       "RTX|Sustainment Data and Analytics Intern|East Hartford, CT|Oct 29",
       "Regeneron Pharmaceuticals|AI/ML & Data Engineering Intern|**5 locations**Cambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY|Oct 27",
       "Regeneron Pharmaceuticals|Data Analytics Intern, Dashboards & Business Process Automation|Armonk, NY Warren, NJ Tarrytown, NY|Oct 27",
