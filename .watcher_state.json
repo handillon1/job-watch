@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0f8f8a079d0e8b362f706c31c5bb44ac7c79de5a",
+    "last_sha": "00f4c6584274caae13266bf72c7097f749490c0c",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -11743,7 +11743,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0f8f8a079d0e8b362f706c31c5bb44ac7c79de5a",
+    "last_sha": "00f4c6584274caae13266bf72c7097f749490c0c",
     "rows": [
       [
         "Zebra Technologies",
@@ -11800,6 +11800,13 @@
         "Rochester, NY",
         "Nov 04",
         "https://go.vansh.nyc/1h2?s=y"
+      ],
+      [
+        "ASML",
+        "Machine Learning and Image-Based EUV System Setup Intern",
+        "San Diego, CA",
+        "Nov 04",
+        "https://go.vansh.nyc/1h9?s=y"
       ],
       [
         "TWG Global",
@@ -14908,6 +14915,7 @@
       "ABB|AI Engineering Intern, Business Systems|Cary, NC|Oct 05",
       "ABB|ERP Intern, AI Engineering|Cary, NC|Oct 05",
       "ADT|Data, Analytics & AI Intern|Boca Raton, FL|Oct 13",
+      "ASML|Machine Learning and Image-Based EUV System Setup Intern|San Diego, CA|Nov 04",
       "Acuity|Finance AI Engineering Intern|Atlanta, GA|Sep 29",
       "Adobe|AI & Architecture Intern|San Jose, CA|Oct 19",
       "Adobe|Data, AI & Innovation Intern|San Jose, CA|Oct 19",
