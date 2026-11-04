@@ -4449,7 +4449,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "07bfd7f1b40158a730827c9fd439a517543aed7c",
+    "last_sha": "2be346fe3ac437f2a324a8d0c354bff1f937dc92",
     "rows": [
       [
         "RoboForce",
@@ -9392,8 +9392,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "07bfd7f1b40158a730827c9fd439a517543aed7c",
+    "last_sha": "2be346fe3ac437f2a324a8d0c354bff1f937dc92",
     "rows": [
+      [
+        "Samsung Research America",
+        "Generative AI based Imaging and Video R&D Intern \ud83c\udf93",
+        "Plano, TX",
+        "",
+        "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 TikTok",
         "Machine Learning Engineer Intern \ud83c\udf93",
@@ -10515,6 +10522,13 @@
         "https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Boston Scientific",
+        "Equipment Engineering AI Vision Engineer Intern",
+        "Maple Grove, MN",
+        "",
+        "https://bostonscientific.eightfold.ai/careers/job/563602813584308?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Northwestern Mutual",
         "Enterprise Sustainability & Impact Intern - Modeling & Analytics \ud83c\udf93",
         "Milwaukee, WI",
@@ -11583,6 +11597,7 @@
       "STR|Data Analyst Intern|Arlington County, Arlington, VA Woburn, MA|",
       "Salesforce|AI Research Intern|Palo Alto, CA|",
       "Sallie Mae|Data Science and Engineering Intern|Newark, DE Arlington County, Arlington, VA|",
+      "Samsung Research America|Generative AI based Imaging and Video R&D Intern|Plano, TX|",
       "Sanofi|US Advanced Analytics Intern|Cambridge, MA Morristown, NJ|",
       "Scout AI|AI Engineer Intern - Fury Team|Sunnyvale, CA|",
       "Securian Financial Group|Data Science and Advanced Analytics Intern - Multiple Teams|St Paul, MN|",
