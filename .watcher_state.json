@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "4e27d2861aa3381ce8554264934845827a995472",
+    "last_sha": "8c8e0606d46eb1f01d57e273e78827a786faa854",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -688,13 +688,6 @@
       ],
       [
         "Regeneron Pharmaceuticals",
-        "Data Science & Computational Biology Co-op, Research",
-        "Tarrytown, NY",
-        "Oct 02",
-        "https://go.vansh.nyc/H4?s=z"
-      ],
-      [
-        "Regeneron Pharmaceuticals",
         "Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT",
         "Tarrytown, NY",
         "Oct 01",
@@ -901,6 +894,13 @@
         "Data Intern, Product Analytics",
         "Remote (United States",
         "\ud83d\udd12",
+        ""
+      ],
+      [
+        "Regeneron Pharmaceuticals",
+        "Data Science & Computational Biology Co-op, Research",
+        "Tarrytown, NY",
+        "Oct 02",
         ""
       ],
       [
@@ -11764,7 +11764,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "4e27d2861aa3381ce8554264934845827a995472",
+    "last_sha": "8c8e0606d46eb1f01d57e273e78827a786faa854",
     "rows": [
       [
         "Zebra Technologies",
@@ -11772,6 +11772,20 @@
         "Kennesaw, GA",
         "Nov 04",
         "https://go.vansh.nyc/1gx?s=y"
+      ],
+      [
+        "Smith+Nephew",
+        "Data Science Intern, AI Center of Excellence",
+        "Pittsburgh, PA",
+        "Nov 04",
+        "https://go.vansh.nyc/1gN?s=y"
+      ],
+      [
+        "Smith+Nephew",
+        "AI Engineer Intern, R&D",
+        "Andover, MA",
+        "Nov 04",
+        "https://go.vansh.nyc/1gP?s=y"
       ],
       [
         "National Interstate Insurance",
@@ -12388,13 +12402,6 @@
         "San Jose, CA",
         "Nov 01",
         "https://go.vansh.nyc/18G?s=y"
-      ],
-      [
-        "Leidos",
-        "Data Science Intern",
-        "Arlington, VA",
-        "Nov 01",
-        "https://go.vansh.nyc/1bf?s=y"
       ],
       [
         "ByteDance",
@@ -14238,6 +14245,13 @@
         ""
       ],
       [
+        "Leidos",
+        "Data Science Intern",
+        "Arlington, VA",
+        "Nov 01",
+        ""
+      ],
+      [
         "VSP Vision",
         "Agentic & Machine Learning Development Intern, AI",
         "Remote United States",
@@ -15233,7 +15247,9 @@
       "Simbe Robotics|Computer Vision / Applied AI Intern|Burlingame, CA|Oct 23",
       "Skydio|Autonomy Engineer Intern, Computer Vision / Deep Learning|San Mateo, CA|Oct 25",
       "Skydio|Autonomy Engineer Intern, Deep Learning / Computer Vision|San Mateo, CA|Oct 24",
+      "Smith+Nephew|AI Engineer Intern, R&D|Andover, MA|Nov 04",
       "Smith+Nephew|Agentic AI Software Engineering Intern|Andover, MA|Oct 21",
+      "Smith+Nephew|Data Science Intern, AI Center of Excellence|Pittsburgh, PA|Nov 04",
       "Sony|Research Engineer Intern, Ethical Creative and Protective AI Lab|Remote in USA|Oct 20",
       "Space Dynamics Laboratory|AI-Enabled Requirements Engineering Intern|North Logan, UT|Oct 20",
       "Springs Window Fashions|AI Intern, Information Technology|Middleton, WI|Sep 03",
