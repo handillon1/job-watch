@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "e8c95b5a42e0aa986cf2dba707a2d6af89f2b40b",
+    "last_sha": "10d8eb8aed272b689a39520f8dd415b6b2f9f4e5",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -11757,7 +11757,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "e8c95b5a42e0aa986cf2dba707a2d6af89f2b40b",
+    "last_sha": "10d8eb8aed272b689a39520f8dd415b6b2f9f4e5",
     "rows": [
       [
         "Zebra Technologies",
@@ -11807,6 +11807,13 @@
         "Plano, TX",
         "Nov 04",
         "https://go.vansh.nyc/1gz?s=y"
+      ],
+      [
+        "Constellation Brands",
+        "AI & Automation Engineering Intern",
+        "Rochester, NY",
+        "Nov 04",
+        "https://go.vansh.nyc/1h2?s=y"
       ],
       [
         "TWG Global",
@@ -12108,13 +12115,6 @@
         "Cambridge, MA",
         "Nov 02",
         "https://go.vansh.nyc/19J?s=y"
-      ],
-      [
-        "First Citizens BancShares",
-        "Data Analyst Intern, Enterprise Data Products",
-        "Raleigh, NC",
-        "Nov 02",
-        "https://go.vansh.nyc/19n?s=y"
       ],
       [
         "Eurofins",
@@ -14245,6 +14245,13 @@
         ""
       ],
       [
+        "First Citizens BancShares",
+        "Data Analyst Intern, Enterprise Data Products",
+        "Raleigh, NC",
+        "Nov 02",
+        ""
+      ],
+      [
         "Leidos",
         "Data Science Intern",
         "Arlington, VA",
@@ -15028,6 +15035,7 @@
       "Coinbase|Analytics Engineer Intern|San Francisco, CA|Sep 08",
       "Coinbase|Data Science Intern, Strategy, Execution, & Analytics Platform|San Francisco, CA|Sep 08",
       "ConnectPrep|Data Analyst Intern|Remote United States|Oct 25",
+      "Constellation Brands|AI & Automation Engineering Intern|Rochester, NY|Nov 04",
       "Constellation Brands|AI Enablement Intern|Rochester, NY|Oct 19",
       "Constellation Energy|Quantitative Analytics & Data Science Intern|Baltimore, MD|Sep 28",
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
