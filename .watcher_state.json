@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "13e26faa6dec48cc15f0c47f9818bc6c8b0ae551",
+    "last_sha": "dcabf5740e836b9528ead85bafb7df09accf012b",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -11757,7 +11757,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "13e26faa6dec48cc15f0c47f9818bc6c8b0ae551",
+    "last_sha": "dcabf5740e836b9528ead85bafb7df09accf012b",
     "rows": [
       [
         "Zebra Technologies",
@@ -11940,6 +11940,13 @@
         "Des Moines, IA",
         "Nov 02",
         "https://go.vansh.nyc/1bl?s=y"
+      ],
+      [
+        "Terranova",
+        "AI Intern",
+        "Berkeley, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1gY?s=y"
       ],
       [
         "Samsung Semiconductor",
@@ -15264,6 +15271,7 @@
       "Tencent|Data Science Intern|Palo Alto, CA|Oct 12",
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
+      "Terranova|AI Intern|Berkeley, CA|Nov 02",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
       "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
       "The Mosaic Company|Artificial Intelligence Co-op|Tampa, FL|Nov 03",
