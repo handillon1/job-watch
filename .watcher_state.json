@@ -4449,8 +4449,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "6b99a5afeabcced9bb0b7f4b84548b4cc1d920c7",
+    "last_sha": "4e75a1af7becc0f4296ce915cf0ae8034ac41b0e",
     "rows": [
+      [
+        "RoboForce",
+        "Machine Learning Engineer Intern - AI & Robotics",
+        "Milpitas, CA",
+        "Fall 2026",
+        "https://job-boards.greenhouse.io/roboforce/jobs/5470001008?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Toshiba Global Commerce Solutions",
         "AI Data Science & Business Analytics Intern",
@@ -9224,6 +9231,7 @@
       "Robert Bosch Venture Capital|Co-op: AI & Real-Time Data Monitoring at Bosch EMH Development Engineering|Charleston, SC|Summer 2026, Fall 2026",
       "Robert Bosch Venture Capital|Data Analytics Intern - Engineering & SAP Operations|Lincolnshire, IL|Winter 2026",
       "Roblox|Applied Scientist Intern|San Mateo, CA|Winter 2026, Summer 2026, Fall 2026",
+      "RoboForce|Machine Learning Engineer Intern - AI & Robotics|Milpitas, CA|Fall 2026",
       "Rochester Regional Health|Data & Analytics Services Co-op|Rochester, NY|Winter 2026",
       "Rockwell Automation|Applied AI Intern|Austin, TX|Fall 2026",
       "Rolls Royce|Quality & Data Analytics Co-op|Spartanburg, SC|Fall 2026",
@@ -9384,7 +9392,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "6b99a5afeabcced9bb0b7f4b84548b4cc1d920c7",
+    "last_sha": "4e75a1af7becc0f4296ce915cf0ae8034ac41b0e",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
@@ -9408,11 +9416,25 @@
         "https://firstcitizens.jibeapply.com/jobs/36413?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "TruStage",
+        "Innovation & AI Technology Intern",
+        "Madison, WI",
+        "",
+        "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Mosaic",
         "Artificial Intelligence Co-op Intern",
         "Lithia, FL",
         "",
         "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "JM Family",
+        "AI & Decision Science Intern",
+        "Deerfield Beach, FL",
+        "",
+        "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095?utm_source=Simplify&ref=Simplify"
       ],
       [
         "CareSource",
@@ -11149,13 +11171,6 @@
         "Westerville, OH",
         "",
         "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "AArete",
-        "Business Analytics Intern - Summer 2027",
-        "Chicago, IL",
-        "",
-        "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
@@ -11437,6 +11452,7 @@
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
       "Itron|HR AI Data Science Intern|Austin, TX|",
       "Itron|People Analytics Intern|Liberty Lake, WA|",
+      "JM Family|AI & Decision Science Intern|Deerfield Beach, FL|",
       "JM Family|AI Intern|Deerfield Beach, FL|",
       "JM Family|Automation & Analytics Intern|Deerfield Beach, FL|",
       "JM Family|Customer Experience Data Analyst Intern|Deerfield Beach, FL|",
@@ -11661,6 +11677,7 @@
       "Trane Technologies|AI & Analytics Intern|Minneapolis, MN Davidson, NC|",
       "Transcard Payments|Artificial Intelligence Intern|Chattanooga, TN|",
       "Travelers|Business Insights & Analytics Intern - BI&A LDP|Hartford, CT St Paul, MN|",
+      "TruStage|Innovation & AI Technology Intern|Madison, WI|",
       "UL Solutions|Data Science Intern|Northbrook, IL Chicago, IL|",
       "URBN|Data Science Intern|Philadelphia, PA|",
       "USAA|Data Scientist Intern|Plano, TX|",
