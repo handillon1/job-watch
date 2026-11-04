@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "139bc1c24d9c8a4b1d6feef9d575c2726eee6aa1",
+    "last_sha": "0132d6759cc13793d0cad59687f170c0bf62b8cd",
     "rows": [
       [
         "Samsung Research America Internship",
@@ -489,13 +489,6 @@
         "Milwaukee, WI",
         "Nov 02",
         "https://go.vansh.nyc/1cf?s=z"
-      ],
-      [
-        "Apache Industrial",
-        "AI Implementation Intern",
-        "Houston, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1fA?s=z"
       ],
       [
         "GE Aerospace",
@@ -837,6 +830,13 @@
         "Transamerica",
         "Data Analytics Intern",
         "Cedar Rapids, IA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Apache Industrial",
+        "AI Implementation Intern",
+        "Houston, TX",
         "Nov 02",
         ""
       ],
@@ -11748,14 +11748,28 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "139bc1c24d9c8a4b1d6feef9d575c2726eee6aa1",
+    "last_sha": "0132d6759cc13793d0cad59687f170c0bf62b8cd",
     "rows": [
+      [
+        "Zebra Technologies",
+        "Software Engineer Intern, AI Features & Product Convergence",
+        "Kennesaw, GA",
+        "Nov 04",
+        "https://go.vansh.nyc/1gx?s=y"
+      ],
       [
         "National Interstate Insurance",
         "Business Intelligence Intern, Power BI",
         "Cincinnati, OH",
         "Nov 04",
         "https://go.vansh.nyc/1go?s=y"
+      ],
+      [
+        "Ericsson",
+        "Technology and AI Intern \ud83d\udec2",
+        "Plano, TX",
+        "Nov 04",
+        "https://go.vansh.nyc/1gz?s=y"
       ],
       [
         "TWG Global",
@@ -14994,6 +15008,7 @@
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
       "Ericsson|AI and Automation Engineer Intern|Plano, TX|Oct 28",
+      "Ericsson|Technology and AI Intern|Plano, TX|Nov 04",
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "Eurofins|Business Intelligence Intern|Lancaster, PA|Nov 02",
       "FHLBank Chicago|AI Intern|Chicago, IL|Oct 04",
@@ -15276,6 +15291,7 @@
       "Workiva|Machine Learning Engineering Intern|Remote United States|Oct 27",
       "Wurl|Data Science Intern|Remote United States|Oct 30",
       "Zebra Technologies|AI Intern|Lincolnshire, IL|Nov 02",
+      "Zebra Technologies|Software Engineer Intern, AI Features & Product Convergence|Kennesaw, GA|Nov 04",
       "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
       "onepot|Research Intern, Machine Learning|South San Francisco, CA|Nov 02",
