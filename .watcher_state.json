@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "3d0f33040247092e1caf3aa452ac06b4e6cfb12a",
+    "last_sha": "b422b291b89f36bb783b350b96c14a43af36342a",
     "rows": [
       [
         "Hearst",
@@ -11872,8 +11872,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "3d0f33040247092e1caf3aa452ac06b4e6cfb12a",
+    "last_sha": "b422b291b89f36bb783b350b96c14a43af36342a",
     "rows": [
+      [
+        "The Cary Company",
+        "AI / Automation Intern",
+        "Addison, IL",
+        "Nov 05",
+        "https://go.vansh.nyc/1ig?s=y"
+      ],
       [
         "Tencent",
         "Site Reliability Engineer (SRE) Intern, AI Infrastructure",
@@ -11901,6 +11908,20 @@
         "Bossier City, LA",
         "Nov 05",
         "https://go.vansh.nyc/1hT?s=y"
+      ],
+      [
+        "APEX Analytix",
+        "Data Science Intern",
+        "Greensboro, NC",
+        "Nov 05",
+        "https://go.vansh.nyc/1ii?s=y"
+      ],
+      [
+        "APEX Analytix",
+        "Data Analyst Intern",
+        "Greensboro, NC",
+        "Nov 05",
+        "https://go.vansh.nyc/1il?s=y"
       ],
       [
         "Zebra Technologies",
@@ -12188,6 +12209,13 @@
         "Austin, TX",
         "Nov 02",
         "https://go.vansh.nyc/1bR?s=y"
+      ],
+      [
+        "Noblis",
+        "Data Science and Innovation Intern",
+        "Springfield, VA Reston, VA",
+        "Nov 02",
+        "https://go.vansh.nyc/1i2?s=y"
       ],
       [
         "Momentive",
@@ -15086,6 +15114,8 @@
       "ABB|AI Engineering Intern, Business Systems|Cary, NC|Oct 05",
       "ABB|ERP Intern, AI Engineering|Cary, NC|Oct 05",
       "ADT|Data, Analytics & AI Intern|Boca Raton, FL|Oct 13",
+      "APEX Analytix|Data Analyst Intern|Greensboro, NC|Nov 05",
+      "APEX Analytix|Data Science Intern|Greensboro, NC|Nov 05",
       "ASML|Machine Learning and Image-Based EUV System Setup Intern|San Diego, CA|Nov 04",
       "Acuity|Finance AI Engineering Intern|Atlanta, GA|Sep 29",
       "Adobe|AI & Architecture Intern|San Jose, CA|Oct 19",
@@ -15368,6 +15398,7 @@
       "Nissan|Data Science Intern|Franklin, TN|Oct 11",
       "Nissan|Data Science Intern|Smyrna, TN|Oct 11",
       "Nissan|Financial AI Engineer Intern|Franklin, TN|Oct 11",
+      "Noblis|Data Science and Innovation Intern|Springfield, VA Reston, VA|Nov 02",
       "Northrop Grumman|Data Scientist Intern, Product Support|San Diego, CA|Oct 30",
       "Northrop Grumman|Systems Engineering Intern, AI Experience|Dulles, VA|Oct 21",
       "Northspyre|AI Engineer Intern|Atlanta, GA|Apr 19",
@@ -15452,6 +15483,7 @@
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
       "Terranova|AI Intern|Berkeley, CA|Nov 02",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
+      "The Cary Company|AI / Automation Intern|Addison, IL|Nov 05",
       "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
       "The Mosaic Company|Artificial Intelligence Co-op|Tampa, FL|Nov 03",
       "The Nuclear Company|AI Applied Research Intern|Washington, DC|Aug 21",
