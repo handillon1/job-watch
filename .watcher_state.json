@@ -4449,7 +4449,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a106d599c86276f8f256e8836be0a290fefea594",
+    "last_sha": "1e790a17dc16bc034ad0e153e4213944521749ac",
     "rows": [
       [
         "Bose",
@@ -9379,7 +9379,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a106d599c86276f8f256e8836be0a290fefea594",
+    "last_sha": "1e790a17dc16bc034ad0e153e4213944521749ac",
     "rows": [
       [
         "Toyota Research Institute",
@@ -9422,6 +9422,13 @@
         "Chicago, IL",
         "",
         "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Constellation Energy",
+        "Load Forecasting & Analytics Intern",
+        "Baltimore, MD",
+        "",
+        "https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Parsons",
@@ -9718,6 +9725,13 @@
         "http://prizepicks.com/position?gh_jid=8047188003&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Constellation Energy",
+        "Geothermal Production Analytics Engineer Intern",
+        "Middletown, CA",
+        "",
+        "https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "T-Mobile",
         "Associate AI Engineer Intern",
         "Frisco, TX Overland Park, KS",
@@ -10010,6 +10024,20 @@
         "Cambridge, MA",
         "",
         "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Agentic AI Data Science Intern",
+        "Jacksonville, FL",
+        "",
+        "https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Intercontinental Exchange",
+        "Audit Analytics Intern",
+        "Atlanta, GA",
+        "",
+        "https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Auto-Owners Insurance",
@@ -11406,6 +11434,8 @@
       "Commerce Bank|Data Analyst Intern - Summer 2027|Kansas City, MO|",
       "Commerce Bank|Data Science Intern|Kansas City, MO|",
       "Constellation Energy|Business Performance & Analytics Intern|Houston, TX|",
+      "Constellation Energy|Geothermal Production Analytics Engineer Intern|Middletown, CA|",
+      "Constellation Energy|Load Forecasting & Analytics Intern|Baltimore, MD|",
       "Constellation Energy|PMO/Data Analyst Intern|Chicago, IL|",
       "Constellation Energy|Quantitative Analytics & Data Science Intern|Baltimore, MD|",
       "Continental Resources|Data Analyst Intern|Oklahoma City, OK|",
