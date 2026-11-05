@@ -4449,8 +4449,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "a6f24892aaa1915e950a947323ee8a40933379a0",
+    "last_sha": "09c3fc78742d6de4b3867f8fad53afe6ba9cdb59",
     "rows": [
+      [
+        "Bose",
+        "DSP/ML Research Engineer Co-op \ud83c\udf93",
+        "Framingham, MA",
+        "Spring 2027",
+        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "RoboForce",
         "Machine Learning Engineer Intern - AI & Robotics",
@@ -8834,6 +8841,7 @@
       "Bosch Home Comfort|Multi-modal Sensing AI Research Intern|Pittsburgh, PA|Winter 2026",
       "Bose|Audio Machine Learning Co-op|Framingham, MA|Winter 2027",
       "Bose|Audio Machine Learning Engineer Intern/Co-op|Framingham, MA|Summer 2026, Fall 2026, Winter 2026",
+      "Bose|DSP/ML Research Engineer Co-op|Framingham, MA|Spring 2027",
       "Bose|Data Analytics Engineer Co-op|Bloomfield Hills, MI Framingham, MA Atlanta, GA|Winter 2027",
       "Bose|Data Science Co-op - NLP & GenAI|Framingham, MA Atlanta, GA|Winter 2027, Spring 2027",
       "Bose|Digital Signal Processing Machine Learning Software Development Co-op|Framingham, MA|Summer 2026, Fall 2026, Winter 2026",
@@ -9371,8 +9379,43 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "a6f24892aaa1915e950a947323ee8a40933379a0",
+    "last_sha": "09c3fc78742d6de4b3867f8fad53afe6ba9cdb59",
     "rows": [
+      [
+        "Toyota Research Institute",
+        "Human-Centered AI Research Intern - Human Language Models \ud83c\udf93",
+        "Los Altos, CA",
+        "",
+        "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Toyota Research Institute",
+        "Automated Driving Advanced Development Intern - Machine Learning Research \ud83c\udf93",
+        "Los Altos, CA",
+        "",
+        "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Toyota Research Institute",
+        "Automated Driving Advanced Development Intern - Machine Learning Research \ud83c\udf93",
+        "Los Altos, CA",
+        "",
+        "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 PayPal",
+        "Machine Learning Engineer Intern",
+        "San Jose, CA",
+        "",
+        "https://paypal.eightfold.ai/careers/job/274922983149?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 PayPal",
+        "Data Scientist Intern",
+        "San Jose, CA",
+        "",
+        "https://paypal.eightfold.ai/careers/job/274922982821?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Chubb",
         "Business Intelligence Intern",
@@ -9393,6 +9436,13 @@
         "Cincinnati, OH",
         "",
         "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Bose",
+        "DSP/ML Research Engineer Intern \ud83c\udf93",
+        "Framingham, MA",
+        "",
+        "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Samsung Research America",
@@ -10872,6 +10922,13 @@
         "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Smith+Nephew",
+        "Data Science Intern - AI Center of Excellence",
+        "Pittsburgh, PA",
+        "",
+        "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Republic Airways",
         "Data Analytics Intern",
         "Carmel, IN",
@@ -11257,6 +11314,7 @@
       "Booz Allen|Summer Games Data Scientist Intern|Detroit, MI|",
       "Bosch Home Comfort|AI Application Intern|Farmington Hills, MI|",
       "Bose|Audio Machine Learning Intern Co-op|Bloomfield Hills, MI Framingham, MA Atlanta, GA|",
+      "Bose|DSP/ML Research Engineer Intern|Framingham, MA|",
       "Boston Scientific|AI/Data Science Intern|Maple Grove, MN|",
       "Boston Scientific|Equipment Engineering AI Vision Engineer Intern|Maple Grove, MN|",
       "Boston Scientific|R&D Research Data Science Intern|United States|",
@@ -11527,6 +11585,8 @@
       "Path Robotics|Machine Learning & Robotics Intern|Columbus, OH|",
       "Pattern|AI Automation Engineer Intern|Lehi, UT|",
       "Pattern|Data Science Intern|Lehi, UT|",
+      "PayPal|Data Scientist Intern|San Jose, CA|",
+      "PayPal|Machine Learning Engineer Intern|San Jose, CA|",
       "Peraton|Data Science Intern|Blacksburg, VA Herndon, VA|",
       "Perpay|Analytics Intern|Philadelphia, PA|",
       "Perpay|Data Science Intern|Philadelphia, PA|",
@@ -11588,6 +11648,7 @@
       "Simbe Robotics|Data Analytics & Data Science Intern|Burlingame, CA|",
       "Skydio|Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027|San Mateo, CA|",
       "Skydio|Autonomy Engineer Intern - Deep Learning / Computer Vision|San Mateo, CA|",
+      "Smith+Nephew|Data Science Intern - AI Center of Excellence|Pittsburgh, PA|",
       "SoundExchange|Operations Intern - Royalty Processing & Business Intelligence|Washington, DC|",
       "Southwest Airlines|Customer Experience and Analytics Data Science Intern|Dallas, TX|",
       "Southwest Airlines|Safety Analytics Intern|Dallas, TX|",
@@ -11657,6 +11718,8 @@
       "TikTok|Machine Learning MLOps Intern - Global Site Reliability Engineering|San Jose, CA|",
       "Tokyo Electron|Business Intelligence Analyst Intern|Austin, TX|",
       "Tokyo Electron|Software Engineer Intern - AI Research|San Jose, CA|",
+      "Toyota Research Institute|Automated Driving Advanced Development Intern - Machine Learning Research|Los Altos, CA|",
+      "Toyota Research Institute|Human-Centered AI Research Intern - Human Language Models|Los Altos, CA|",
       "Toyota|Data Science Intern|Plano, TX|",
       "Trane Technologies|AI & Analytics Intern|Minneapolis, MN Davidson, NC|",
       "Transcard Payments|Artificial Intelligence Intern|Chattanooga, TN|",
