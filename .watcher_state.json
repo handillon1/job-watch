@@ -4449,7 +4449,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "681fcff48d7bae55438b7069470866ece16a715e",
+    "last_sha": "a6f24892aaa1915e950a947323ee8a40933379a0",
     "rows": [
       [
         "RoboForce",
@@ -8755,13 +8755,6 @@
         "LA Los Gatos, CA",
         "Winter 2026, Summer 2026",
         ""
-      ],
-      [
-        "Proofpoint",
-        "Agentic AI Workflows Intern",
-        "Sunnyvale, CA",
-        "Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028",
-        ""
       ]
     ],
     "seen": [
@@ -9378,8 +9371,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "681fcff48d7bae55438b7069470866ece16a715e",
+    "last_sha": "a6f24892aaa1915e950a947323ee8a40933379a0",
     "rows": [
+      [
+        "Chubb",
+        "Business Intelligence Intern",
+        "Chicago, IL",
+        "",
+        "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Parsons",
         "AI/ML Engineer Intern",
@@ -11280,6 +11280,7 @@
       "Caterpillar|Corporate Intern - Digital and Analytics|Peoria, IL Chicago, IL Irving, TX|",
       "CenturyLink|Data Internship - Analytics & Decision Science|Remote in USA|",
       "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|",
+      "Chubb|Business Intelligence Intern|Chicago, IL|",
       "Cigna Group|AI Engineer Intern|Austin, TX|",
       "Cigna Group|Analytics Leadership Development Intern - ALDP|Bloomfield, CT|",
       "Cigna Group|Artificial Intelligence Innovation Development Intern|Raleigh, NC|",
