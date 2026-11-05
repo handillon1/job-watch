@@ -4457,7 +4457,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "96bd40fadecd046ef4e9f5620b8ab763bf67e45f",
+    "last_sha": "cced7d28c5f88fb29555f664db993587479ae649",
     "rows": [
       [
         "Bose",
@@ -5074,13 +5074,6 @@
         "LA",
         "Winter 2027",
         "https://vaynermedia.com/careers?gh_jid=8097753&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "SCOR",
-        "Data Science Intern",
-        "Charlotte, NC",
-        "Winter 2026",
-        "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Tesla",
@@ -5850,6 +5843,13 @@
         "Data Analyst Intern - Digital Solutions Division",
         "Broomfield, CO",
         "Summer 2026, Spring 2027",
+        ""
+      ],
+      [
+        "SCOR",
+        "Data Science Intern",
+        "Charlotte, NC",
+        "Winter 2026",
         ""
       ],
       [
@@ -9387,7 +9387,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "96bd40fadecd046ef4e9f5620b8ab763bf67e45f",
+    "last_sha": "cced7d28c5f88fb29555f664db993587479ae649",
     "rows": [
       [
         "Toyota Research Institute",
