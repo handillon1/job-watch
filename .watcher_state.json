@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "07340ae39cb076a538c2bd83c86427731b4b5414",
+    "last_sha": "fef5c0b933cb4d4f27879ea6c77bb69bf4312c9a",
     "rows": [
+      [
+        "Omya",
+        "Data Scientist Co-op",
+        "Cincinnati, OH",
+        "Nov 05",
+        "https://go.vansh.nyc/1iz?s=z"
+      ],
       [
         "Hearst",
         "Editorial AI Development Intern",
@@ -1132,6 +1139,7 @@
       "Nelnet|Agentic AI Intern|Lincoln, NE|Jul 27",
       "Nokia|Architecture AI Co-op|Naperville, IL|Jul 27",
       "Notion|Software Engineer, AI Intern|San Francisco, CA New York, NY|Aug 08",
+      "Omya|Data Scientist Co-op|Cincinnati, OH|Nov 05",
       "OpenAI|Backend Software Engineer Intern, Cooperative AI (Evals)|San Francisco, CA|Oct 20",
       "Pangram Labs|AI Research Intern|Brooklyn, NY|Oct 04",
       "Path Robotics|Machine Learning & Robotics Intern|Columbus, OH|Oct 29",
@@ -11865,7 +11873,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "07340ae39cb076a538c2bd83c86427731b4b5414",
+    "last_sha": "fef5c0b933cb4d4f27879ea6c77bb69bf4312c9a",
     "rows": [
       [
         "The Cary Company",
@@ -11887,6 +11895,13 @@
         "Atlanta, GA Frisco, TX",
         "Nov 05",
         "https://go.vansh.nyc/1hM?s=y"
+      ],
+      [
+        "JM Family Enterprises",
+        "Analytics Intern",
+        "Deerfield Beach, FL",
+        "Nov 05",
+        "https://go.vansh.nyc/1iw?s=y"
       ],
       [
         "General Dynamics Information Technology",
@@ -12909,13 +12924,6 @@
         "United States",
         "Oct 28",
         "https://go.vansh.nyc/11Q?s=y"
-      ],
-      [
-        "Schonfeld",
-        "Enterprise AI Intern",
-        "New York, NY",
-        "Oct 28",
-        "https://go.vansh.nyc/XY?s=y"
       ],
       [
         "RosaicLabs",
@@ -14500,6 +14508,13 @@
         ""
       ],
       [
+        "Schonfeld",
+        "Enterprise AI Intern",
+        "New York, NY",
+        "Oct 28",
+        ""
+      ],
+      [
         "Sanofi",
         "Advanced Analytics Intern",
         "Cambridge, MA Morristown, NJ",
@@ -15331,6 +15346,7 @@
       "JM Family Enterprises|AI & Decision Science Intern|Deerfield Beach, FL|Nov 03",
       "JM Family Enterprises|AI Center of Excellence Delivery Team Intern|Deerfield Beach, FL|Nov 02",
       "JM Family Enterprises|AI Intern|Deerfield Beach, FL|Nov 02",
+      "JM Family Enterprises|Analytics Intern|Deerfield Beach, FL|Nov 05",
       "JPMorganChase|AI Research Associate Intern|New York, NY|Oct 14",
       "JPMorganChase|Machine Learning Intern, NLP|New York, NY|Oct 20",
       "Jane Street|Machine Learning Engineer Intern|New York, NY|Jul 24",
