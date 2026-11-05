@@ -4457,7 +4457,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ab77bb69d3b3e5272a5fa912c2b381622d0747cb",
+    "last_sha": "54108ad48e7f6aa4bc578640d90c8fa344175c7c",
     "rows": [
       [
         "Bose",
@@ -9387,7 +9387,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ab77bb69d3b3e5272a5fa912c2b381622d0747cb",
+    "last_sha": "54108ad48e7f6aa4bc578640d90c8fa344175c7c",
     "rows": [
       [
         "Toyota Research Institute",
@@ -9430,6 +9430,13 @@
         "Chicago, IL",
         "",
         "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "JM Family",
+        "Analytics Intern",
+        "Deerfield Beach, FL",
+        "",
+        "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Constellation Energy",
@@ -11574,6 +11581,7 @@
       "Itron|People Analytics Intern|Liberty Lake, WA|",
       "JM Family|AI & Decision Science Intern|Deerfield Beach, FL|",
       "JM Family|AI Intern|Deerfield Beach, FL|",
+      "JM Family|Analytics Intern|Deerfield Beach, FL|",
       "JM Family|Automation & Analytics Intern|Deerfield Beach, FL|",
       "JM Family|Customer Experience Data Analyst Intern|Deerfield Beach, FL|",
       "JM Family|Power Platform & Analytics Intern|Mobile, AL|",
