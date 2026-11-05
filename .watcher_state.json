@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "a84589ea42dd64fc910d3f7f38d1e80f64132480",
+    "last_sha": "34274b3f53ec5647d7e71bfd4c5eb8ca34ebcbe0",
     "rows": [
       [
         "Hearst",
@@ -11793,8 +11793,36 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "a84589ea42dd64fc910d3f7f38d1e80f64132480",
+    "last_sha": "34274b3f53ec5647d7e71bfd4c5eb8ca34ebcbe0",
     "rows": [
+      [
+        "Tencent",
+        "Site Reliability Engineer (SRE) Intern, AI Infrastructure",
+        "Palo Alto, CA",
+        "Nov 05",
+        "https://go.vansh.nyc/1hQ?s=y"
+      ],
+      [
+        "NCR Atleos",
+        "Data Science Intern",
+        "Atlanta, GA Frisco, TX",
+        "Nov 05",
+        "https://go.vansh.nyc/1hM?s=y"
+      ],
+      [
+        "General Dynamics Information Technology",
+        "AI/ML Data Science and Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Bossier City, LA",
+        "Nov 05",
+        "https://go.vansh.nyc/1hS?s=y"
+      ],
+      [
+        "General Dynamics Information Technology",
+        "AI/ML Software Development and Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+        "Bossier City, LA",
+        "Nov 05",
+        "https://go.vansh.nyc/1hT?s=y"
+      ],
       [
         "Zebra Technologies",
         "Software Engineer Intern, AI Features & Product Convergence",
@@ -15142,6 +15170,8 @@
       "GTI Energy|Data Science Intern|Des Plaines, IL|Oct 30",
       "General Dynamics Information Technology|AI Network Engineering Intern|Bossier City, LA|Sep 22",
       "General Dynamics Information Technology|AI and Estimation Intern|Falls Church, VA|Oct 20",
+      "General Dynamics Information Technology|AI/ML Data Science and Engineering Intern|Bossier City, LA|Nov 05",
+      "General Dynamics Information Technology|AI/ML Software Development and Engineering Intern|Bossier City, LA|Nov 05",
       "General Dynamics Information Technology|Generative AI Software Development Intern|Bossier City, LA|Sep 22",
       "General Motors|AI & Hardware Analytics Intern|Milford, MI Warren, MI|Oct 04",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure|Sunnyvale, CA|Oct 15",
@@ -15240,6 +15270,7 @@
       "Modal|ML Research Intern|New York, NY San Francisco, CA|Aug 04",
       "Molina Healthcare|Data Analytics Internship (Remote) \u2013(Undergraduate)|United States|Oct 29",
       "Momentive|Data Science Intern, Enterprise Reporting & Analytics|Niskayuna, NY|Nov 02",
+      "NCR Atleos|Data Science Intern|Atlanta, GA Frisco, TX|Nov 05",
       "NJM Insurance Group|IT Data Science Intern|Trenton, NJ|Nov 02",
       "NVIDIA|AI Compiler and Kernel Intern|Austin, TX|Nov 02",
       "NVIDIA|AI Systems Software Engineering Intern|Austin, TX|Oct 29",
@@ -15337,6 +15368,7 @@
       "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|Oct 27",
       "TWG Global|AI Engineering Intern|Santa Monica, CA|Nov 03",
       "Tencent|Data Science Intern|Palo Alto, CA|Oct 12",
+      "Tencent|Site Reliability Engineer (SRE) Intern, AI Infrastructure|Palo Alto, CA|Nov 05",
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
       "Terranova|AI Intern|Berkeley, CA|Nov 02",
