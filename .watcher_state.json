@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f6e31ce011ecc124205b7cd99c93a6d486faaa79",
+    "last_sha": "3edb62ec0479d10697a13c9d540949ef3fa2603b",
     "rows": [
       [
         "Hearst",
@@ -11793,7 +11793,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f6e31ce011ecc124205b7cd99c93a6d486faaa79",
+    "last_sha": "3edb62ec0479d10697a13c9d540949ef3fa2603b",
     "rows": [
       [
         "Zebra Technologies",
@@ -11815,6 +11815,20 @@
         "Andover, MA",
         "Nov 04",
         "https://go.vansh.nyc/1gP?s=y"
+      ],
+      [
+        "PayPal",
+        "Data Scientist Intern",
+        "San Jose, CA",
+        "Nov 04",
+        "https://go.vansh.nyc/1hy?s=y"
+      ],
+      [
+        "PayPal",
+        "Machine Learning Engineer Intern",
+        "San Jose, CA",
+        "Nov 04",
+        "https://go.vansh.nyc/1hz?s=y"
       ],
       [
         "National Interstate Insurance",
@@ -15259,6 +15273,8 @@
       "Pattern|AI Automation Engineer Intern|Lehi, UT|Oct 22",
       "Pattern|AI Infrastructure Engineer Intern|Lehi, UT|Oct 22",
       "Pattern|Data Science Intern|Lehi, UT|Oct 22",
+      "PayPal|Data Scientist Intern|San Jose, CA|Nov 04",
+      "PayPal|Machine Learning Engineer Intern|San Jose, CA|Nov 04",
       "Perspective Therapeutics|AI Innovation Intern|Seattle, WA|Oct 27",
       "Phillips 66|ERI Analytical Solutions Intern|Bartlesville, OK|Oct 13",
       "Powertown|Machine Learning Engineer Intern|Boston, MA|Oct 30",
