@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "467185f6a7dcdffc990cff853bc9be731f9e463d",
+    "last_sha": "a4e5f5a8d46cf998281a7f9777b81bcb959f832c",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -398,6 +398,13 @@
         "Cincinnati, OH",
         "Nov 06",
         "https://go.vansh.nyc/1k8?s=z"
+      ],
+      [
+        "Uhaul",
+        "Data Analyst Intern",
+        "Phoenix, AZ",
+        "Nov 05",
+        "https://go.vansh.nyc/1ks?s=z"
       ],
       [
         "Omya",
@@ -1190,6 +1197,7 @@
       "Toshiba Commerce Solutions|Project Management & AI Automation Intern|Frisco, TX|Jul 27",
       "Toshiba Global Commerce Solutions|AI Automation & Revenue Ops Intern|Durham, NC|Nov 02",
       "Transamerica|Data Analytics Intern|Cedar Rapids, IA|Nov 02",
+      "Uhaul|Data Analyst Intern|Phoenix, AZ|Nov 05",
       "Valmont|AI and Data Engineering Intern|Omaha, NE|Oct 27",
       "Verkada|AI Software Engineer Intern|San Mateo, CA|Apr 24",
       "Western & Southern Financial Group|Artificial Intelligence Developer Intern|Cincinnati, OH|Nov 06",
@@ -11909,7 +11917,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "467185f6a7dcdffc990cff853bc9be731f9e463d",
+    "last_sha": "a4e5f5a8d46cf998281a7f9777b81bcb959f832c",
     "rows": [
       [
         "ITT",
@@ -11917,6 +11925,13 @@
         "Irvine, CA",
         "Nov 06",
         "https://go.vansh.nyc/1kq?s=y"
+      ],
+      [
+        "Invitation-charter",
+        "Data Science Intern",
+        "Greenwood Village, CO",
+        "Nov 06",
+        "https://go.vansh.nyc/1ku?s=y"
       ],
       [
         "Cook Group",
@@ -12162,13 +12177,6 @@
         "Chesterfield, MO",
         "Nov 03",
         "https://go.vansh.nyc/1dL?s=y"
-      ],
-      [
-        "Republic Airways",
-        "Data Analytics Intern \ud83d\udec2",
-        "Carmel, IN",
-        "Nov 03",
-        "https://go.vansh.nyc/1fq?s=y"
       ],
       [
         "Prologis",
@@ -12904,13 +12912,6 @@
         "Remote United States",
         "Oct 30",
         "https://go.vansh.nyc/12N?s=y"
-      ],
-      [
-        "Cadillac Formula 1 Team",
-        "Aerodynamics AI Industrial Placement Intern",
-        "Indianapolis, IN",
-        "Oct 30",
-        "https://go.vansh.nyc/11b?s=y"
       ],
       [
         "Virginia Tech Applied Research Corporation",
@@ -14460,6 +14461,13 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "Republic Airways",
+        "Data Analytics Intern \ud83d\udec2",
+        "Carmel, IN",
+        "Nov 03",
+        ""
+      ],
+      [
         "Zebra Technologies",
         "AI Intern",
         "Lincolnshire, IL",
@@ -14561,6 +14569,13 @@
         "First Citizens BancShares",
         "AI Innovation Intern",
         "Raleigh, NC",
+        "Oct 30",
+        ""
+      ],
+      [
+        "Cadillac Formula 1 Team",
+        "Aerodynamics AI Industrial Placement Intern",
+        "Indianapolis, IN",
         "Oct 30",
         ""
       ],
@@ -15458,6 +15473,7 @@
       "Intuitive|AI/ML Engineer Intern|Sunnyvale, CA|Nov 02",
       "Intuitive|Data Science Intern|Sunnyvale, CA|Nov 02",
       "Inversion Space|AI & Internal Tools Software Engineer Intern|Playa Vista, CA|Oct 19",
+      "Invitation-charter|Data Science Intern|Greenwood Village, CO|Nov 06",
       "Itron|Artificial Intelligence Intern|Liberty Lake, WA Raleigh, NC Austin, TX|Sep 29",
       "Itron|Data Science Intern, Distributed Intelligence|Liberty Lake, WA|Sep 27",
       "Itron|HR AI Data Science Intern|Austin, TX|Oct 08",
