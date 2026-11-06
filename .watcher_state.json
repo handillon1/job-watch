@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0a59c1876748f8b1ca5926628cc43d132f9941f0",
+    "last_sha": "250d92b47013ca8e2ca3710b759475de20f93c68",
     "rows": [
       [
         "Omya",
@@ -11910,7 +11910,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0a59c1876748f8b1ca5926628cc43d132f9941f0",
+    "last_sha": "250d92b47013ca8e2ca3710b759475de20f93c68",
     "rows": [
       [
         "Walmart",
@@ -12002,6 +12002,13 @@
         "Remote United States",
         "Nov 05",
         "https://go.vansh.nyc/1jg?s=y"
+      ],
+      [
+        "ASM",
+        "Product Intelligence Engineering Intern, AI/ML",
+        "Phoenix, AZ",
+        "Nov 05",
+        "https://go.vansh.nyc/1jZ?s=y"
       ],
       [
         "APEX Analytix",
@@ -12212,13 +12219,6 @@
         "Lincolnshire, IL",
         "Nov 02",
         "https://go.vansh.nyc/19O?s=y"
-      ],
-      [
-        "Zebra Technologies",
-        "Software/AI Engineer Intern, Handheld Mobile Computers",
-        "Holtsville, NY",
-        "Nov 02",
-        "https://go.vansh.nyc/19p?s=y"
       ],
       [
         "Wellmark",
@@ -14461,6 +14461,13 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "Zebra Technologies",
+        "Software/AI Engineer Intern, Handheld Mobile Computers",
+        "Holtsville, NY",
+        "Nov 02",
+        ""
+      ],
+      [
         "NJM Insurance Group",
         "IT Data Science Intern",
         "Trenton, NJ",
@@ -15211,6 +15218,7 @@
       "APEX Analytix|Data Analyst Intern|Greensboro, NC|Nov 05",
       "APEX Analytix|Data Science Intern|Greensboro, NC|Nov 05",
       "ASML|Machine Learning and Image-Based EUV System Setup Intern|San Diego, CA|Nov 04",
+      "ASM|Product Intelligence Engineering Intern, AI/ML|Phoenix, AZ|Nov 05",
       "Acuity|Finance AI Engineering Intern|Atlanta, GA|Sep 29",
       "Adobe|AI & Architecture Intern|San Jose, CA|Oct 19",
       "Adobe|Data, AI & Innovation Intern|San Jose, CA|Oct 19",
