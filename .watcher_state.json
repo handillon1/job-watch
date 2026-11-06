@@ -4465,14 +4465,28 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b5aea239328af86ce25540949ea582154c73b8c6",
+    "last_sha": "23ebb61259c0b57f5453a527514d770b227ce087",
     "rows": [
+      [
+        "Uhaul",
+        "Data Analyst Intern",
+        "Phoenix, AZ",
+        "Spring 2027",
+        "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Pennsylvania State University",
         "Research Assistant Intern - Large Language Models and AI for Data Analysis \ud83c\udf93",
         "University Park, State College, PA",
         "Spring 2027",
         "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-Positions---LLMs-and-AI-for-Data-Analysis--Spring-2027-_REQ_0000084012-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CACI",
+        "AI/ML Engineering Co-op",
+        "King of Prussia, PA",
+        "Spring 2027",
+        "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Bose",
@@ -8880,6 +8894,7 @@
       "ByteDance|Research Scientist Intern - AI Infra Compute|San Jose, CA|Fall 2026",
       "ByteDance|Research Scientist Intern - AI Infrastructure|San Jose, CA|Fall 2026",
       "ByteDance|Research Scientist Intern - AI Infrastructure|Seattle, WA|Fall 2026",
+      "CACI|AI/ML Engineering Co-op|King of Prussia, PA|Spring 2027",
       "CALSTART|Data Analysis Intern|Remote in USA|Fall 2026",
       "CCC Intelligent Solutions|AI Enablement Intern|Chicago, IL|Fall 2026",
       "CCC Intelligent Solutions|Applied AI Engineer Intern|Chicago, IL|Fall 2026",
@@ -9358,6 +9373,7 @@
       "US Acute Care Solutions|People Analytics Intern|Remote in USA Ohio|Fall 2026",
       "USAFacts|AI & Software Engineering Intern|Bellevue, WA|Summer 2026, Fall 2026",
       "Uber Freight|Data Scientist Intern|Chicago, IL|Summer 2026, Fall 2026",
+      "Uhaul|Data Analyst Intern|Phoenix, AZ|Spring 2027",
       "United Airlines|Operations Strategy & Analytics Intern|Chicago, IL|Fall 2026",
       "University of Texas at Austin|Video and Analytics Intern - Baseball|Austin, TX|Summer 2026, Fall 2026, Winter 2027, Spring 2027",
       "Upstart|Applied Scientist Intern|Remote in USA|Winter 2026",
@@ -9403,7 +9419,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b5aea239328af86ce25540949ea582154c73b8c6",
+    "last_sha": "23ebb61259c0b57f5453a527514d770b227ce087",
     "rows": [
       [
         "\ud83d\udd25 Tinder",
