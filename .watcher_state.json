@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "060fa1e0eca929006244791c124fe2e0914a8f07",
+    "last_sha": "a958e89e7a7a8b1755ea58c4f5c7f5d9f48a1b76",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -433,13 +433,6 @@
         "Durham, NC",
         "Nov 02",
         "https://go.vansh.nyc/1bn?s=z"
-      ],
-      [
-        "Toshiba Commerce Solutions",
-        "AI Software Engineering Intern",
-        "Frisco, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1e8?s=z"
       ],
       [
         "Toshiba Commerce Solutions",
@@ -851,6 +844,13 @@
         "Transamerica",
         "Data Analytics Intern",
         "Cedar Rapids, IA",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Toshiba Commerce Solutions",
+        "AI Software Engineering Intern",
+        "Frisco, TX",
         "Nov 02",
         ""
       ],
@@ -11918,7 +11918,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "060fa1e0eca929006244791c124fe2e0914a8f07",
+    "last_sha": "a958e89e7a7a8b1755ea58c4f5c7f5d9f48a1b76",
     "rows": [
       [
         "Trimble",
@@ -11975,6 +11975,13 @@
         "Greenwood Village, CO",
         "Nov 06",
         "https://go.vansh.nyc/1ku?s=y"
+      ],
+      [
+        "Invesco",
+        "Real Estate Intern, Data Science",
+        "Dallas, TX",
+        "Nov 06",
+        "https://go.vansh.nyc/1ly?s=y"
       ],
       [
         "Cook Group",
@@ -13791,13 +13798,6 @@
       ],
       [
         "ICF International",
-        "AI Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-        "Reston, VA",
-        "Oct 14",
-        "https://go.vansh.nyc/9a?s=y"
-      ],
-      [
-        "ICF International",
         "AI Engineer Intern",
         "Reston, VA",
         "Oct 14",
@@ -15071,6 +15071,13 @@
         ""
       ],
       [
+        "ICF International",
+        "AI Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+        "Reston, VA",
+        "Oct 14",
+        ""
+      ],
+      [
         "GE Vernova",
         "AI Evaluation & Benchmarking Intern, AGI",
         "Bellevue, WA",
@@ -15540,6 +15547,7 @@
       "Intuitive|AI/ML Engineer Intern|Sunnyvale, CA|Nov 02",
       "Intuitive|Data Science Intern|Sunnyvale, CA|Nov 02",
       "Inversion Space|AI & Internal Tools Software Engineer Intern|Playa Vista, CA|Oct 19",
+      "Invesco|Real Estate Intern, Data Science|Dallas, TX|Nov 06",
       "Invitation-charter|Data Science Intern|Greenwood Village, CO|Nov 06",
       "Itron|Artificial Intelligence Intern|Liberty Lake, WA Raleigh, NC Austin, TX|Sep 29",
       "Itron|Data Science Intern, Distributed Intelligence|Liberty Lake, WA|Sep 27",
