@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "1eeef6c3714e3a3842dfc69e41578e9a4fdafc6f",
+    "last_sha": "f5de3a1d30e1a80f968c5a02ccf70c082b8dcc59",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -11910,7 +11910,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "1eeef6c3714e3a3842dfc69e41578e9a4fdafc6f",
+    "last_sha": "f5de3a1d30e1a80f968c5a02ccf70c082b8dcc59",
     "rows": [
       [
         "T-Mobile",
@@ -11925,6 +11925,13 @@
         "Champaign, IL",
         "Nov 06",
         "https://go.vansh.nyc/1kS?s=y"
+      ],
+      [
+        "Kudu Dynamics",
+        "AI/Automation Development Intern, Assessment & Authorization \ud83c\uddfa\ud83c\uddf8",
+        "Remote United States",
+        "Nov 06",
+        "https://go.vansh.nyc/1l3?s=y"
       ],
       [
         "ITT",
@@ -12919,13 +12926,6 @@
         "Austin, TX",
         "Oct 29",
         "https://go.vansh.nyc/10o?s=y"
-      ],
-      [
-        "Molina Healthcare",
-        "Data Analytics Internship (Remote) \u2013(Undergraduate)",
-        "United States",
-        "Oct 29",
-        "https://go.vansh.nyc/11J?s=y"
       ],
       [
         "MITRE",
@@ -14601,6 +14601,13 @@
         ""
       ],
       [
+        "Molina Healthcare",
+        "Data Analytics Internship (Remote) \u2013(Undergraduate)",
+        "United States",
+        "Oct 29",
+        ""
+      ],
+      [
         "Gilead Sciences",
         "Research Intern, Discovery Sciences and Technologies, AI",
         "Foster City, CA",
@@ -15512,6 +15519,7 @@
       "KLA|Software Engineering Intern, AI/ML for Diagnostics & Calibration|Milpitas, CA|Oct 23",
       "Ketjen|Data Science Intern|Houston, TX|Nov 03",
       "Keysight Technologies|Data Scientist Intern|Santa Rosa, CA|Oct 04",
+      "Kudu Dynamics|AI/Automation Development Intern, Assessment & Authorization|Remote United States|Nov 06",
       "Kudu Dynamics|Software Engineering & AI Intern|**4 locations**Remote United States Odenton, MD Shiloh, IL|Nov 04",
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
       "Leidos|Data Science Intern|Arlington, VA|Nov 01",
