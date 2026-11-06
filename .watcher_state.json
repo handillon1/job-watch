@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "cd73bce284552c2c7a066614017bcf9d09eb529f",
+    "last_sha": "e8815e5acbf786d31a877a4e0e448556a4d53db5",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -11910,8 +11910,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "cd73bce284552c2c7a066614017bcf9d09eb529f",
+    "last_sha": "e8815e5acbf786d31a877a4e0e448556a4d53db5",
     "rows": [
+      [
+        "T-Mobile",
+        "AI Strategist Intern",
+        "Bellevue, WA",
+        "Nov 06",
+        "https://go.vansh.nyc/1l9?s=y"
+      ],
       [
         "T-Mobile",
         "AI Engineering Intern",
@@ -11960,13 +11967,6 @@
         "Bentonville, AR",
         "Nov 05",
         "https://go.vansh.nyc/1jy?s=y"
-      ],
-      [
-        "V2X",
-        "AI Engineering Intern",
-        "Indianapolis, IN",
-        "Nov 05",
-        "https://go.vansh.nyc/1jH?s=y"
       ],
       [
         "V2X",
@@ -14440,6 +14440,13 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "V2X",
+        "AI Engineering Intern",
+        "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
         "ICD",
         "AI/ML Engineering Intern",
         "Jersey City, NJ",
@@ -15654,6 +15661,7 @@
       "Susquehanna International Group|Machine Learning Engineering Intern|Bala Cynwyd, PA|Oct 18",
       "Syntiant|DevOps Machine Learning Infrastructure Intern|Irvine, CA|Oct 28",
       "T-Mobile|AI Engineering Intern|Bellevue, WA|Nov 06",
+      "T-Mobile|AI Strategist Intern|Bellevue, WA|Nov 06",
       "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|Oct 27",
       "TWG Global|AI Engineering Intern|Santa Monica, CA|Nov 03",
       "Tencent|Data Science Intern|Palo Alto, CA|Oct 12",
