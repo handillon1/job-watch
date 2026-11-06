@@ -4481,8 +4481,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "f2b6ceb0d044e98809bb4f9d6d14b6694a3e06a8",
+    "last_sha": "25e38fe390c6ade204aa4e194e9eec086273b289",
     "rows": [
+      [
+        "SharkNinja",
+        "Applied AI & Analytics Co-op",
+        "Miami, FL Needham, MA NYC",
+        "Spring 2027",
+        "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Uhaul",
         "Data Analyst Intern",
@@ -9301,6 +9308,7 @@
       "Sentara Health|AI Intern|Virginia Beach, VA|Fall 2026",
       "Sentara Health|Enterprise Data & AI Intern|Virginia Beach, VA|Fall 2026",
       "SharkNinja|Analytics & BI Intern|Needham, MA|Fall 2026",
+      "SharkNinja|Applied AI & Analytics Co-op|Miami, FL Needham, MA NYC|Spring 2027",
       "SharkNinja|Applied AI & Analytics Co-op|Miami, FL|Fall 2026",
       "SharkNinja|Strategic Sales & Analytics Intern|Needham, MA|Fall 2026",
       "SimIS|Artificial Intelligence Developer Intern - Aerospace/Aviation|Suffolk, VA|Fall 2026",
@@ -9435,14 +9443,42 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "f2b6ceb0d044e98809bb4f9d6d14b6694a3e06a8",
+    "last_sha": "25e38fe390c6ade204aa4e194e9eec086273b289",
     "rows": [
+      [
+        "\ud83d\udd25 Waymo",
+        "Machine Learning Intern - Generative World Models & Controllable Simulation \ud83c\udf93",
+        "Mountain View, CA",
+        "",
+        "https://careers.withwaymo.com/jobs?gh_jid=8351210&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Duolingo",
+        "AI Research Intern \ud83c\udf93",
+        "Pittsburgh, PA NYC",
+        "",
+        "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8928923002?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Duolingo",
+        "AI Research Intern \ud83c\udf93",
+        "Pittsburgh, PA NYC",
+        "",
+        "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Tinder",
         "Machine Learning Engineer Intern",
         "Palo Alto, CA",
         "",
         "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "The Federal Reserve System",
+        "Statistics Intern",
+        "Atlanta, GA",
+        "",
+        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876?utm_source=Simplify&ref=Simplify"
       ],
       [
         "State Farm",
@@ -11496,6 +11532,7 @@
       "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|",
       "DriveTime|Data Science Intern - Summer 2027|Dallas, TX Tempe, AZ|",
       "DriveWealth|AI Consulting Associate Program Brokerage Intern|Chicago, IL|",
+      "Duolingo|AI Research Intern|Pittsburgh, PA NYC|",
       "Edison International|Data Analytics Intern - Data Science - Applied Math|Pomona, CA Rosemead, CA|",
       "Edison International|Data Analytics Intern - Data Science/Applied Math|Pomona, CA Rosemead, CA|",
       "Edison International|Summer Internship - Data Analytics/Science/Applied Math|4 locationsSanta Ana, CA Fullerton, CA Irvine, CA Westminster, CA|",
@@ -11796,6 +11833,7 @@
       "The Federal Reserve System|Advanced Analytics Intern|Cleveland, OH|",
       "The Federal Reserve System|Data Science Intern|Chicago, IL|",
       "The Federal Reserve System|Data Science and Business Analytics Intern|Chicago, IL|",
+      "The Federal Reserve System|Statistics Intern|Atlanta, GA|",
       "The Federal Reserve System|Statistics and Analysis Intern|Cleveland, OH|",
       "The Friedkin Group|IT Data Analytics Intern - Business Systems & AI|Houston, TX|",
       "The Hartford|Data Engineer Intern - Technology, Data, AI, and Operations|Hartford, CT|",
@@ -11876,6 +11914,7 @@
       "Waymo|Human Behavior Analytics Intern - Safety Research|Mountain View, CA|",
       "Waymo|Machine Learning Engineer Intern - Road Understanding|Mountain View, CA|",
       "Waymo|Machine Learning Intern - Computer Vision|Mountain View, CA|",
+      "Waymo|Machine Learning Intern - Generative World Models & Controllable Simulation|Mountain View, CA|",
       "Waymo|Machine Learning Intern - Planning/Prediction|Mountain View, CA|",
       "Waymo|Machine Learning Intern - Simulation & Closed-Loop Training|Mountain View, CA|",
       "Waymo|Machine Learning Research Intern - Planning/Prediction|Mountain View, CA|",
