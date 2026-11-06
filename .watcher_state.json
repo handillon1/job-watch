@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "91e718d740a6da2a402fb68542c240ff2323b92b",
+    "last_sha": "2a0dc7ea260438c6e2eccf4bb779729b4d055621",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -11910,7 +11910,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "91e718d740a6da2a402fb68542c240ff2323b92b",
+    "last_sha": "2a0dc7ea260438c6e2eccf4bb779729b4d055621",
     "rows": [
       [
         "T-Mobile",
@@ -11918,6 +11918,13 @@
         "Bellevue, WA",
         "Nov 06",
         "https://go.vansh.nyc/1kC?s=y"
+      ],
+      [
+        "Rivian",
+        "ML AI Motor Controls Algorithm Intern",
+        "Champaign, IL",
+        "Nov 06",
+        "https://go.vansh.nyc/1kS?s=y"
       ],
       [
         "ITT",
@@ -12240,13 +12247,6 @@
         "Remote United States",
         "Nov 03",
         "https://go.vansh.nyc/1dQ?s=y"
-      ],
-      [
-        "Arch Capital Group",
-        "Data and Analytics Intern",
-        "Farmington, CT",
-        "Nov 03",
-        "https://go.vansh.nyc/1dE?s=y"
       ],
       [
         "Wellmark",
@@ -14461,6 +14461,13 @@
         ""
       ],
       [
+        "Arch Capital Group",
+        "Data and Analytics Intern",
+        "Farmington, CT",
+        "Nov 03",
+        ""
+      ],
+      [
         "Zebra Technologies",
         "AI Intern",
         "Lincolnshire, IL",
@@ -15600,6 +15607,7 @@
       "Revantage Corporate Services|Insurance Technology & AI Analytics Intern|Dallas, TX Chicago, IL|Oct 27",
       "Rivian and Volkswagen Group Technologies|Data Engineering Intern, AI & Analytics|Palo Alto, CA Irvine, CA|Oct 22",
       "Rivian|Artificial Intelligence, Machine Learning, & Data Intern|Palo Alto, CA|Oct 09",
+      "Rivian|ML AI Motor Controls Algorithm Intern|Champaign, IL|Nov 06",
       "Robert Bosch Venture Capital|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
       "Rockland Trust|Business Intelligence (BI) Intern|Rockland, MA|Nov 02",
       "Rockwell Automation|AI Software Engineer Intern|Mayfield Heights, OH Milwaukee, WI|Sep 24",
