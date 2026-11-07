@@ -4489,7 +4489,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5a217dd3f1c6a575f129ea69221baf9afea4253d",
+    "last_sha": "a8057da368a77cae2a2fc91137109daabf941bd3",
     "rows": [
       [
         "SharkNinja",
@@ -5120,20 +5120,6 @@
         "Palo Alto, CA",
         "Spring 2026, Summer 2026",
         "https://job-boards.greenhouse.io/eudia/jobs/4020078009?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Flagship Pioneering",
-        "Data Science Co-op - Embedded Science Team",
-        "Cambridge, MA",
-        "Winter 2026",
-        "https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Hoffman Construction",
-        "Data Analyst Intern",
-        "Amarillo, TX",
-        "Fall 2026",
-        "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521?utm_source=Simplify&ref=Simplify"
       ],
       [
         "ICF International",
@@ -6008,6 +5994,20 @@
         "Machine Learning Intern - KWS/AED",
         "Redwood City, CA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Flagship Pioneering",
+        "Data Science Co-op - Embedded Science Team",
+        "Cambridge, MA",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Hoffman Construction",
+        "Data Analyst Intern",
+        "Amarillo, TX",
+        "Fall 2026",
         ""
       ],
       [
@@ -9416,7 +9416,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5a217dd3f1c6a575f129ea69221baf9afea4253d",
+    "last_sha": "a8057da368a77cae2a2fc91137109daabf941bd3",
     "rows": [
       [
         "Zoox",
@@ -11321,27 +11321,6 @@
         "Logan, UT",
         "",
         "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Allen Control Systems",
-        "Computer Vision Intern - Machine Learning",
-        "Austin, TX",
-        "",
-        "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Protective Life",
-        "Business Analytics Intern",
-        "Birmingham, AL",
-        "",
-        "https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Vertiv",
-        "Data and Analytics Intern - Summer 2027",
-        "Westerville, OH",
-        "",
-        "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
