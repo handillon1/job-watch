@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "1affbb0239db583fab4130f307f1b9b37684f05e",
+    "last_sha": "fb0729be9787eba93c1d5414d86492e5ed49bad8",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -11963,7 +11963,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "1affbb0239db583fab4130f307f1b9b37684f05e",
+    "last_sha": "fb0729be9787eba93c1d5414d86492e5ed49bad8",
     "rows": [
       [
         "Zoox",
@@ -13730,13 +13730,6 @@
         "https://go.vansh.nyc/ar?s=y"
       ],
       [
-        "CenturyLink",
-        "Data Intern, Analytics & Decision Science",
-        "Remote in USA",
-        "Oct 16",
-        "https://go.vansh.nyc/b0?s=y"
-      ],
-      [
         "Boston Scientific",
         "AI/Data Science Intern",
         "Maple Grove, MN",
@@ -14064,6 +14057,13 @@
         "Remote United States",
         "Oct 08",
         "https://go.vansh.nyc/Gd?s=y"
+      ],
+      [
+        "Upstart",
+        "Applied Scientist Intern",
+        "Remote United States",
+        "Oct 07",
+        "https://go.vansh.nyc/1m4?s=y"
       ],
       [
         "Tenstorrent",
@@ -15130,6 +15130,13 @@
         ""
       ],
       [
+        "CenturyLink",
+        "Data Intern, Analytics & Decision Science",
+        "Remote in USA",
+        "Oct 16",
+        ""
+      ],
+      [
         "Cigna",
         "Healthcare Analytics Intern",
         "Morris Plains, NJ",
@@ -15858,6 +15865,7 @@
       "Unity|Machine Learning Engineer Intern|Mountain View, CA|Oct 12",
       "Universal Health Services|Software Engineer Intern, Data Analytics|King of Prussia, PA|Sep 02",
       "University of Miami|Data Science & AI Intern|Miami, FL|Oct 29",
+      "Upstart|Applied Scientist Intern|Remote United States|Oct 07",
       "V2X|AI Engineer Intern|Indianapolis, IN|Nov 05",
       "V2X|AI Engineering Intern|Indianapolis, IN|Nov 05",
       "VSP Vision|Agentic & Machine Learning Development Intern, AI|Remote United States|Oct 30",
