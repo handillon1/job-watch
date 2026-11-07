@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "3db4c0438f836a826f28db73185109158661f98c",
+    "last_sha": "3fefaa06eba5b90c70daf144b9057e911642b7b8",
     "rows": [
       [
         "Western & Southern Financial Group",
@@ -11997,8 +11997,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "3db4c0438f836a826f28db73185109158661f98c",
+    "last_sha": "3fefaa06eba5b90c70daf144b9057e911642b7b8",
     "rows": [
+      [
+        "Zoox",
+        "Data Science Intern",
+        "Foster City, CA Boston, MA",
+        "Nov 06",
+        "https://go.vansh.nyc/1lQ?s=y"
+      ],
       [
         "Trimble",
         "AI Automation Intern",
@@ -12070,6 +12077,13 @@
         "https://go.vansh.nyc/1ly?s=y"
       ],
       [
+        "Enovation Controls",
+        "Embedded Machine Learning Engineer Intern",
+        "Tulsa, OK",
+        "Nov 06",
+        "https://go.vansh.nyc/1lN?s=y"
+      ],
+      [
         "Cook Group",
         "Applied AI & Full Stack Development Intern",
         "Bloomington, IN",
@@ -12131,6 +12145,13 @@
         "Atlanta, GA Frisco, TX",
         "Nov 05",
         "https://go.vansh.nyc/1hM?s=y"
+      ],
+      [
+        "MITRE",
+        "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
+        "McLean, VA",
+        "Nov 05",
+        "https://go.vansh.nyc/1lR?s=y"
       ],
       [
         "Match Group",
@@ -12999,13 +13020,6 @@
         "Des Plaines, IL",
         "Oct 30",
         "https://go.vansh.nyc/12t?s=y"
-      ],
-      [
-        "FedEx",
-        "Data Science Intern",
-        "Memphis, TN",
-        "Oct 30",
-        "https://go.vansh.nyc/13Z?s=y"
       ],
       [
         "Economy Polymers & Chemicals",
@@ -14716,6 +14730,13 @@
         ""
       ],
       [
+        "FedEx",
+        "Data Science Intern",
+        "Memphis, TN",
+        "Oct 30",
+        ""
+      ],
+      [
         "Cadillac Formula 1 Team",
         "Aerodynamics AI Industrial Placement Intern",
         "Indianapolis, IN",
@@ -15574,6 +15595,7 @@
       "Ecolab|Digital & AI Technology Intern|Saint Paul, MN Eagan, MN Naperville, IL|Nov 03",
       "Economy Polymers & Chemicals|AI & Business Systems Automation Intern|Houston, TX|Oct 30",
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
+      "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|Nov 06",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
       "Ericsson|AI and Automation Engineer Intern|Plano, TX|Oct 28",
       "Ericsson|Technology and AI Intern|Plano, TX|Nov 04",
@@ -15673,6 +15695,7 @@
       "M3USA|AI Engineering Intern|Remote United States|Sep 08",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
       "MITRE|AI Solutions Architect Intern|McLean, VA|Oct 29",
+      "MITRE|Data Science Intern|McLean, VA|Nov 05",
       "MITRE|Data Science and Engineering Intern|McLean, VA|Oct 29",
       "MITRE|Trustworthy AI Intern|McLean, VA|Oct 29",
       "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
@@ -15895,6 +15918,7 @@
       "Zebra Technologies|Software Engineer Intern, AI Features & Product Convergence|Kennesaw, GA|Nov 04",
       "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
+      "Zoox|Data Science Intern|Foster City, CA Boston, MA|Nov 06",
       "onepot|Research Intern, Machine Learning|South San Francisco, CA|Nov 02",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14",
       "sephora.com|AI & Distribution Analytics Intern|Salt Lake City, UT|Oct 27"
