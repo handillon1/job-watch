@@ -4481,7 +4481,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "10fab5349a595612a5ee3a39342080dc4a103d5a",
+    "last_sha": "f8aa9c64ad1fb36a243d5dc57cb85dd775165ed5",
     "rows": [
       [
         "SharkNinja",
@@ -4881,13 +4881,6 @@
         "Atlanta, GA",
         "Winter 2026",
         "https://careers.acuityinc.com/job/Atlanta-Data-and-AI-Intern-Flexible-GA-30309/1434321900/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Intuitive Surgical",
-        "AI Research Intern \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Winter 2027",
-        "https://jobs.smartrecruiters.com/Intuitive/744000151714759?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Brightstar.AI",
@@ -5433,6 +5426,13 @@
         "Multi-modal Sensing AI Research Intern \ud83c\udf93",
         "Pittsburgh, PA",
         "Winter 2026",
+        ""
+      ],
+      [
+        "Intuitive Surgical",
+        "AI Research Intern \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
         ""
       ],
       [
@@ -9443,7 +9443,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "10fab5349a595612a5ee3a39342080dc4a103d5a",
+    "last_sha": "f8aa9c64ad1fb36a243d5dc57cb85dd775165ed5",
     "rows": [
       [
         "Enovation Controls",
