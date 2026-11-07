@@ -4481,7 +4481,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "25e38fe390c6ade204aa4e194e9eec086273b289",
+    "last_sha": "6a253c93c4703cbc0fe8d213ea963d74cacab9af",
     "rows": [
       [
         "SharkNinja",
@@ -9443,8 +9443,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "25e38fe390c6ade204aa4e194e9eec086273b289",
+    "last_sha": "6a253c93c4703cbc0fe8d213ea963d74cacab9af",
     "rows": [
+      [
+        "Enovation Controls",
+        "Embedded Machine Learning Engineer Intern",
+        "Tulsa, OK",
+        "",
+        "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Waymo",
         "Machine Learning Intern - Generative World Models & Controllable Simulation \ud83c\udf93",
@@ -9479,6 +9486,41 @@
         "Atlanta, GA",
         "",
         "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "T-Mobile",
+        "AI Strategist Intern",
+        "Bellevue, WA",
+        "",
+        "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "T-Mobile",
+        "AI Engineering Intern",
+        "Bellevue, WA",
+        "",
+        "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "L.L.Bean",
+        "Business Analyst/Data Analyst Intern",
+        "Freeport, ME",
+        "",
+        "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Invesco",
+        "Data Science Intern - Real Estate",
+        "Dallas, TX",
+        "",
+        "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Invesco",
+        "Data Science Intern - Real Estate",
+        "Dallas, TX",
+        "",
+        "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091?utm_source=Simplify&ref=Simplify"
       ],
       [
         "State Farm",
@@ -11539,6 +11581,7 @@
       "Electronic Arts|Analytics Intern|Orlando, FL|",
       "Elevance Health|Data Analyst Graduate Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
       "Elevance Health|Data Analytics Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
+      "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|",
       "Entergy|Student Intern - Power Delivery Performance & Analytics|The Woodlands, TX|",
       "Epic Games|Data Science Intern|Cary, NC|",
       "Ercot|IT Intern - Enterprise Data & AI Administration|Austin, TX Taylor, TX|",
@@ -11635,6 +11678,7 @@
       "Intuit|AI Scientist Intern|4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA|",
       "Intuit|Business Data Analyst Intern - Strategy & Planning|Mountain View, CA|",
       "Intuit|Finance Transformation & Analytics Intern|Mountain View, CA|",
+      "Invesco|Data Science Intern - Real Estate|Dallas, TX|",
       "Itron|Data Analytics and Automation Intern - Finance|Liberty Lake, WA|",
       "Itron|Data Science Intern - Distributed Intelligence|Liberty Lake, WA|",
       "Itron|HR AI Data Science Intern|Austin, TX|",
@@ -11666,6 +11710,7 @@
       "Klaviyo|People Analytics Co-op|Boston, MA|",
       "Koch Industries|Business Analytics & Insights Intern|Green Bay, WI|",
       "Koch Industries|Data Science Intern|Atlanta, GA|",
+      "L.L.Bean|Business Analyst/Data Analyst Intern|Freeport, ME|",
       "LabCorp|Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team|Remote in USA Milwaukee, WI|",
       "Land O'Lakes|Business Insights & Analytics Intern - Animal Nutrition|Arden Hills, MN|",
       "Lawrence Livermore National Laboratory (LLNL)|Data Science Undergraduate Student Intern - Summer 2027|Livermore, CA|",
@@ -11820,6 +11865,8 @@
       "Sun Life|Data Science Intern|5 locationsMilwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|",
       "Syngenta Group|Data Scientist Intern|Raleigh, NC|",
       "Systems Planning and Analysis|Data Engineering & Analytics Tools Intern|Washington, DC|",
+      "T-Mobile|AI Engineering Intern|Bellevue, WA|",
+      "T-Mobile|AI Strategist Intern|Bellevue, WA|",
       "T-Mobile|Associate AI Engineer Intern|Frisco, TX Overland Park, KS|",
       "T-Mobile|Associate AI Engineer Intern|Overland Park, KS|",
       "TD Bank|Data Analyst Intern - Global Technology & Solutions|Mt Laurel Township, NJ|",
