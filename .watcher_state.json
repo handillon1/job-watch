@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0461794b9fafa5ecdbbddad6a6e5976a3003d4d5",
+    "last_sha": "1d2b4eda7a86da3cef17f148d6c24389e01ba5e6",
     "rows": [
       [
         "Kinaxis",
@@ -11937,7 +11937,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0461794b9fafa5ecdbbddad6a6e5976a3003d4d5",
+    "last_sha": "1d2b4eda7a86da3cef17f148d6c24389e01ba5e6",
     "rows": [
       [
         "Springs Window Fashions",
@@ -13415,6 +13415,20 @@
         "Palo Alto, CA Irvine, CA",
         "Oct 22",
         "https://go.vansh.nyc/fI?s=y"
+      ],
+      [
+        "Quadric",
+        "AI Kernel Engineer Intern",
+        "Burlingame, CA",
+        "Oct 22",
+        "https://go.vansh.nyc/1n3?s=y"
+      ],
+      [
+        "Quadric",
+        "Deep Learning Compiler Intern",
+        "Burlingame, CA",
+        "Oct 22",
+        "https://go.vansh.nyc/1n4?s=y"
       ],
       [
         "Paccar",
@@ -15781,6 +15795,8 @@
       "Q2|Data Science Intern|Cary, NC|Nov 02",
       "Q2|Machine Learning Engineer Intern|Austin, TX|Nov 02",
       "Q2|Machine Learning Engineer Intern|Cary, NC|Nov 02",
+      "Quadric|AI Kernel Engineer Intern|Burlingame, CA|Oct 22",
+      "Quadric|Deep Learning Compiler Intern|Burlingame, CA|Oct 22",
       "Qualcomm|AI Driven Test Automation Engineering Intern|Haifa District, IL|Oct 18",
       "Qualcomm|Machine Learning & Artificial Intelligence Engineering Intern|**7 locations**San Diego, CA Austin, TX Boxborough, MA United States New York, NY Raleigh, NC Santa Clara, CA|Oct 18",
       "QuantCo|Data Science Intern|United States|May 01",
