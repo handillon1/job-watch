@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "8e24c6d85f0d0b2d92d321c7072dcc144ad7cd13",
+    "last_sha": "1ecaea8bcf5b4dc87266d186a99fe995635877cd",
     "rows": [
       [
         "Apache Industrial",
@@ -855,13 +855,6 @@
         "https://go.vansh.nyc/4S?s=z"
       ],
       [
-        "PathAI",
-        "Machine Learning Intern, AI Product and ML Core",
-        "Boston, MA New York, NY Remote",
-        "Apr 20",
-        "https://go.vansh.nyc/1A?s=z"
-      ],
-      [
         "Samsung Research America Internship",
         "Agentic AI Solutions Intern",
         "Mountain View, CA",
@@ -1076,6 +1069,13 @@
         "AI Software Engineer Intern",
         "San Mateo, CA",
         "Apr 24",
+        ""
+      ],
+      [
+        "PathAI",
+        "Machine Learning Intern, AI Product and ML Core",
+        "Boston, MA New York, NY Remote",
+        "Apr 20",
         ""
       ],
       [
@@ -11894,14 +11894,28 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "8e24c6d85f0d0b2d92d321c7072dcc144ad7cd13",
+    "last_sha": "1ecaea8bcf5b4dc87266d186a99fe995635877cd",
     "rows": [
+      [
+        "Zoetis",
+        "AI Assistant Development Intern",
+        "Parsippany, NJ",
+        "Nov 09",
+        "https://go.vansh.nyc/1oP?s=y"
+      ],
       [
         "Paccar",
         "Data Analyst Intern",
         "Chillicothe, OH",
         "Nov 09",
         "https://go.vansh.nyc/1oo?s=y"
+      ],
+      [
+        "NBCUniversal",
+        "Data Science Intern, Advertising & Partnerships",
+        "New York, NY",
+        "Nov 09",
+        "https://go.vansh.nyc/1oO?s=y"
       ],
       [
         "NBCUniversal",
@@ -11916,6 +11930,13 @@
         "New York, NY",
         "Nov 09",
         "https://go.vansh.nyc/1oE?s=y"
+      ],
+      [
+        "Johns Hopkins APL",
+        "Artificial Intelligence Intern, Information Fusion",
+        "Laurel, MD",
+        "Nov 09",
+        "https://go.vansh.nyc/1oQ?s=y"
       ],
       [
         "Sharp Electronics",
@@ -15801,6 +15822,7 @@
       "Jane Street|Machine Learning Engineer Intern|New York, NY|Jul 24",
       "Jane Street|Machine Learning Researcher Intern|New York, NY|Jul 24",
       "John Deere|Process Automation Intern, Data and Analytics|Greeneville, TN|Oct 16",
+      "Johns Hopkins APL|Artificial Intelligence Intern, Information Fusion|Laurel, MD|Nov 09",
       "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence and Machine Learning Research Assistant Intern|Laurel, MD|Sep 25",
       "Johnson & Johnson|Data Science Co-op|Cincinnati, OH|Nov 02",
       "Johnson & Johnson|Quality Data Science Co-op|Cincinnati, OH|Oct 19",
@@ -15854,6 +15876,7 @@
       "Molina Healthcare|Data Analytics Internship (Remote) \u2013(Undergraduate)|United States|Oct 29",
       "Momentive|Data Science Intern, Enterprise Reporting & Analytics|Niskayuna, NY|Nov 02",
       "Moody's|Applied AI & Analytics Intern|Newark, NJ|Nov 05",
+      "NBCUniversal|Data Science Intern, Advertising & Partnerships|New York, NY|Nov 09",
       "NBCUniversal|Data, AI & Machine Learning Intern, Media Tech|New York, NY|Nov 09",
       "NBCUniversal|Data, AI & Machine Learning Intern, Media Tech|Universal City, CA|Nov 09",
       "NCR Atleos|Data Science Intern|Atlanta, GA Frisco, TX|Nov 05",
@@ -16062,6 +16085,7 @@
       "Zebra Technologies|Software Engineer Intern, AI Features & Product Convergence|Kennesaw, GA|Nov 04",
       "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
+      "Zoetis|AI Assistant Development Intern|Parsippany, NJ|Nov 09",
       "Zoox|Data Science Intern|Foster City, CA Boston, MA|Nov 06",
       "ibotta|Business Intelligence Intern|Denver, CO|Sep 29",
       "onepot|Research Intern, Machine Learning|South San Francisco, CA|Nov 02",
