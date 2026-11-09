@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f65b754b768c7da9b07cd1b072c328bc076fa056",
+    "last_sha": "9a8b50815bf074cf5964cfb31bfc10e1be5306f3",
     "rows": [
+      [
+        "Lila Sciences",
+        "Applied AI Platform Engineer Co-op, Software",
+        "San Francisco, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1oY?s=z"
+      ],
       [
         "Apache Industrial",
         "AI Implementation Intern",
@@ -680,13 +687,6 @@
         "https://go.vansh.nyc/8X?s=z"
       ],
       [
-        "Western Digital",
-        "Recording Electronics Data Analytics & Optimization Co-op",
-        "Rochester, MN",
-        "Oct 12",
-        "https://go.vansh.nyc/8o?s=z"
-      ],
-      [
         "Bose",
         "Data Analytics Engineer Co-op",
         "Bloomfield Hills, MI Framingham, MA Atlanta, GA",
@@ -953,6 +953,13 @@
         ""
       ],
       [
+        "Western Digital",
+        "Recording Electronics Data Analytics & Optimization Co-op",
+        "Rochester, MN",
+        "Oct 12",
+        ""
+      ],
+      [
         "1Password",
         "Data Intern, Product Analytics",
         "Remote (United States",
@@ -1202,6 +1209,7 @@
       "KION Group|Software Analytics Co-op|Grand Rapids, MI|Oct 22",
       "Kinaxis|Developer Co-op, Machine Learning|Remote United States|Nov 07",
       "LabCorp|Agentic AI Developer Co-op|Durham, NC|Nov 02",
+      "Lila Sciences|Applied AI Platform Engineer Co-op, Software|San Francisco, CA|Nov 09",
       "MSA Safety|AI Engineer Co-op|Cranberry Township, PA|Oct 23",
       "Millennium|Applied AI Engineer Intern|New York, NY|Aug 21",
       "Nelnet|Agentic AI Intern|Lincoln, NE|Jul 27",
@@ -11880,7 +11888,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f65b754b768c7da9b07cd1b072c328bc076fa056",
+    "last_sha": "9a8b50815bf074cf5964cfb31bfc10e1be5306f3",
     "rows": [
       [
         "Zoetis",
@@ -12539,13 +12547,6 @@
         "Cambridge, MA",
         "Nov 02",
         "https://go.vansh.nyc/19J?s=y"
-      ],
-      [
-        "Eurofins",
-        "Business Intelligence Intern",
-        "Lancaster, PA",
-        "Nov 02",
-        "https://go.vansh.nyc/1dC?s=y"
       ],
       [
         "Entrust",
@@ -13232,13 +13233,6 @@
         "Richardson, TX",
         "Oct 27",
         "https://go.vansh.nyc/VY?s=y"
-      ],
-      [
-        "Marvell",
-        "Data Science Intern",
-        "Boise, ID",
-        "Oct 27",
-        "https://go.vansh.nyc/Yp?s=y"
       ],
       [
         "Hive Financial Systems",
@@ -14732,6 +14726,13 @@
         ""
       ],
       [
+        "Eurofins",
+        "Business Intelligence Intern",
+        "Lancaster, PA",
+        "Nov 02",
+        ""
+      ],
+      [
         "CoStar Group",
         "Data Science Intern",
         "Richmond, VA",
@@ -14930,6 +14931,13 @@
       [
         "Micron Technology",
         "AI Engineer Intern, Platform",
+        "Boise, ID",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Marvell",
+        "Data Science Intern",
         "Boise, ID",
         "Oct 27",
         ""
