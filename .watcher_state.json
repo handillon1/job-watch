@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "2136c6d1a6b0896936e04551991a82702586f277",
+    "last_sha": "e4e0c3d5cb86fba648f8b4fb99ae7959bf1d94b1",
     "rows": [
       [
         "Kinaxis",
@@ -743,11 +743,25 @@
         "https://go.vansh.nyc/1eP?s=z"
       ],
       [
+        "Honeywell",
+        "Artificial Intelligence/Machine Learning Co-op",
+        "United States",
+        "Sep 29",
+        "https://go.vansh.nyc/1o5?s=z"
+      ],
+      [
         "Risepoint",
         "Analytics Engineering Co-op",
         "Remote United States",
         "Sep 28",
         "https://go.vansh.nyc/DV?s=z"
+      ],
+      [
+        "onsemi",
+        "AI & Data Engineering Intern",
+        "San Jose, CA",
+        "Sep 28",
+        "https://go.vansh.nyc/1nY?s=z"
       ],
       [
         "First Solar (US)",
@@ -1173,6 +1187,7 @@
       "GoodRx|AI Agent Developer Intern|New York City, NY|May 12",
       "Hadrian|Data Science/Data Engineer Intern|Los Angeles, CA|Sep 02",
       "Hearst|Editorial AI Development Intern|San Francisco, CA|Nov 03",
+      "Honeywell|Artificial Intelligence/Machine Learning Co-op|United States|Sep 29",
       "Intel|AI Software Engineering Intern|Hillsboro, OR Folsom, CA|Apr 29",
       "Inter Miami CF|Business Intelligence Intern, Software Development|Miami, FL|Oct 15",
       "Johnson & Johnson|Data Operations & Analytics Co-op|Somerset, NJ|Oct 15",
@@ -1234,7 +1249,8 @@
       "Verkada|AI Software Engineer Intern|San Mateo, CA|Apr 24",
       "Western & Southern Financial Group|Artificial Intelligence Developer Intern|Cincinnati, OH|Nov 06",
       "Western Digital|Recording Electronics Data Analytics & Optimization Co-op|Rochester, MN|Oct 12",
-      "Zoox|AI Validation and Benchmarking Engineer Intern|Foster City, CA|Oct 13"
+      "Zoox|AI Validation and Benchmarking Engineer Intern|Foster City, CA|Oct 13",
+      "onsemi|AI & Data Engineering Intern|San Jose, CA|Sep 28"
     ]
   },
   "SimplifyJobs/Summer2027-Internships": {
@@ -11889,7 +11905,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "2136c6d1a6b0896936e04551991a82702586f277",
+    "last_sha": "e4e0c3d5cb86fba648f8b4fb99ae7959bf1d94b1",
     "rows": [
       [
         "National Interstate Insurance",
@@ -14230,11 +14246,25 @@
         "https://go.vansh.nyc/Em?s=y"
       ],
       [
+        "The Federal Reserve System",
+        "Data Science Intern",
+        "Chicago, IL",
+        "Sep 30",
+        "https://go.vansh.nyc/1ob?s=y"
+      ],
+      [
         "MetLife",
         "Data & Analytics Intern",
         "Cary, NC",
         "Sep 30",
         "https://go.vansh.nyc/E8?s=y"
+      ],
+      [
+        "General Motors",
+        "AI/ML Engineer Intern, Autonomous Vehicle Simulation",
+        "Sunnyvale, CA",
+        "Sep 30",
+        "https://go.vansh.nyc/1od?s=y"
       ],
       [
         "SAS",
@@ -14251,6 +14281,20 @@
         "https://go.vansh.nyc/GW?s=y"
       ],
       [
+        "ibotta",
+        "Business Intelligence Intern",
+        "Denver, CO",
+        "Sep 29",
+        "https://go.vansh.nyc/1o6?s=y"
+      ],
+      [
+        "DraftKings",
+        "Analytics Intern",
+        "Boston, MA",
+        "Sep 29",
+        "https://go.vansh.nyc/1o7?s=y"
+      ],
+      [
         "Acuity",
         "Finance AI Engineering Intern",
         "Atlanta, GA",
@@ -14263,6 +14307,13 @@
         "Northbrook, IL Chicago, IL",
         "Sep 28",
         "https://go.vansh.nyc/DO?s=y"
+      ],
+      [
+        "Marvell",
+        "AI-Native Development Platform Engineer Intern",
+        "Santa Clara, CA",
+        "Sep 28",
+        "https://go.vansh.nyc/1o3?s=y"
       ],
       [
         "Constellation Energy",
@@ -15612,6 +15663,7 @@
       "DocuSign|Agentic AI Engineer Intern|San Francisco, CA|Oct 22",
       "Dow Jones|Data Analyst Intern|New York, NY|Oct 06",
       "Dow Jones|Marketing Data Science Intern|New York, NY|Oct 06",
+      "DraftKings|Analytics Intern|Boston, MA|Sep 29",
       "DraftKings|Data Science Intern|Boston, MA|Sep 19",
       "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|Oct 12",
       "DriveTime|Data Science Intern|Tempe, AZ Dallas, TX|Nov 02",
@@ -15653,6 +15705,7 @@
       "General Dynamics Information Technology|Generative AI Software Development Intern|Bossier City, LA|Sep 22",
       "General Motors|AI & Hardware Analytics Intern|Milford, MI Warren, MI|Oct 04",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure|Sunnyvale, CA|Oct 15",
+      "General Motors|AI/ML Engineer Intern, Autonomous Vehicle Simulation|Sunnyvale, CA|Sep 30",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicles|Seattle, WA Sunnyvale, CA|Oct 28",
       "General Motors|AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles|Sunnyvale, CA|Oct 15",
       "General Motors|Research and Development Intern, AI/Machine Learning|Mountain View, CA|Oct 12",
@@ -15736,6 +15789,7 @@
       "MITRE|Trustworthy AI Intern|McLean, VA|Oct 29",
       "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
       "Marmon Holdings|AI Technology Solutions Intern|Chicago, IL|Nov 06",
+      "Marvell|AI-Native Development Platform Engineer Intern|Santa Clara, CA|Sep 28",
       "Marvell|Data Science Intern|Boise, ID|Oct 27",
       "Match Group|Data Scientist Intern|San Francisco, CA|Nov 05",
       "Match Group|Machine Learning Engineer Intern|Palo Alto, CA|Nov 05",
@@ -15879,6 +15933,7 @@
       "Terranova|AI Intern|Berkeley, CA|Nov 02",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
       "The Cary Company|AI / Automation Intern|Addison, IL|Nov 05",
+      "The Federal Reserve System|Data Science Intern|Chicago, IL|Sep 30",
       "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
       "The Mosaic Company|Artificial Intelligence Co-op|Tampa, FL|Nov 03",
       "The Nuclear Company|AI Applied Research Intern|Washington, DC|Aug 21",
@@ -15963,6 +16018,7 @@
       "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
       "Zoox|Data Science Intern|Foster City, CA Boston, MA|Nov 06",
+      "ibotta|Business Intelligence Intern|Denver, CO|Sep 29",
       "onepot|Research Intern, Machine Learning|South San Francisco, CA|Nov 02",
       "onsemi|Manufacturing AI Intern|Hopewell Junction, NY|Oct 14",
       "sephora.com|AI & Distribution Analytics Intern|Salt Lake City, UT|Oct 27"
