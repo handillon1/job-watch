@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "e9671a2067397461b6aa6c76822b58fc7749b368",
+    "last_sha": "bf0d56a79d2179771e2a34bc3d3f878803d1e663",
     "rows": [
       [
         "Kinaxis",
@@ -11898,7 +11898,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "e9671a2067397461b6aa6c76822b58fc7749b368",
+    "last_sha": "bf0d56a79d2179771e2a34bc3d3f878803d1e663",
     "rows": [
       [
         "National Interstate Insurance",
@@ -12300,13 +12300,6 @@
         "https://go.vansh.nyc/1gr?s=y"
       ],
       [
-        "Parsons",
-        "AI/ML Engineer Intern",
-        "Centreville, VA",
-        "Nov 03",
-        "https://go.vansh.nyc/1gF?s=y"
-      ],
-      [
         "Ketjen",
         "Data Science Intern",
         "Houston, TX",
@@ -12347,13 +12340,6 @@
         "La Crosse, WI",
         "Nov 03",
         "https://go.vansh.nyc/1f1?s=y"
-      ],
-      [
-        "CareSource",
-        "Data Science Intern",
-        "Remote United States",
-        "Nov 03",
-        "https://go.vansh.nyc/1dQ?s=y"
       ],
       [
         "Wellmark",
@@ -13138,13 +13124,6 @@
         "Plano, TX",
         "Oct 28",
         "https://go.vansh.nyc/YK?s=y"
-      ],
-      [
-        "CareSource",
-        "Full Stack AI Development Intern",
-        "Remote United States",
-        "Oct 28",
-        "https://go.vansh.nyc/106?s=y"
       ],
       [
         "Boston Scientific",
@@ -14652,6 +14631,20 @@
         ""
       ],
       [
+        "Parsons",
+        "AI/ML Engineer Intern",
+        "Centreville, VA",
+        "Nov 03",
+        ""
+      ],
+      [
+        "CareSource",
+        "Data Science Intern",
+        "Remote United States",
+        "Nov 03",
+        ""
+      ],
+      [
         "Arch Capital Group",
         "Data and Analytics Intern",
         "Farmington, CT",
@@ -14844,6 +14837,13 @@
         "Centene Corporation",
         "AI Engineer Intern",
         "United States",
+        "Oct 28",
+        ""
+      ],
+      [
+        "CareSource",
+        "Full Stack AI Development Intern",
+        "Remote United States",
         "Oct 28",
         ""
       ],
