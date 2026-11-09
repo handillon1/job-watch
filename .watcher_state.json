@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "bf0d56a79d2179771e2a34bc3d3f878803d1e663",
+    "last_sha": "6f757a27d6fcc5063c6946113c8acf124e729953",
     "rows": [
       [
         "Kinaxis",
@@ -11884,7 +11884,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "bf0d56a79d2179771e2a34bc3d3f878803d1e663",
+    "last_sha": "6f757a27d6fcc5063c6946113c8acf124e729953",
     "rows": [
       [
         "National Interstate Insurance",
@@ -12993,6 +12993,13 @@
         "https://go.vansh.nyc/11t?s=y"
       ],
       [
+        "SageSure",
+        "Data Science Product Analyst Intern",
+        "Fairfield, CA",
+        "Oct 29",
+        "https://go.vansh.nyc/1oj?s=y"
+      ],
+      [
         "NVIDIA",
         "AI Systems Software Engineering Intern",
         "Austin, TX",
@@ -13068,6 +13075,13 @@
         "United States",
         "Oct 28",
         "https://go.vansh.nyc/11Q?s=y"
+      ],
+      [
+        "SageSure",
+        "Data Science Intern",
+        "Jersey City, NJ",
+        "Oct 28",
+        "https://go.vansh.nyc/1oi?s=y"
       ],
       [
         "RosaicLabs",
@@ -14274,6 +14288,13 @@
         "https://go.vansh.nyc/JJ?s=y"
       ],
       [
+        "Red Ventures",
+        "Launch Program Data Science Intern",
+        "Charlotte, NC",
+        "Sep 25",
+        "https://go.vansh.nyc/1og?s=y"
+      ],
+      [
         "Rockwell Automation",
         "AI Software Engineer Intern",
         "Mayfield Heights, OH Milwaukee, WI",
@@ -14328,13 +14349,6 @@
         "San Francisco, CA",
         "Sep 14",
         "https://go.vansh.nyc/10T?s=y"
-      ],
-      [
-        "Booz Allen",
-        "Applied AI Intern",
-        "Washington, DC",
-        "Sep 13",
-        "https://go.vansh.nyc/MV?s=y"
       ],
       [
         "Brain Co.",
@@ -15380,6 +15394,13 @@
         ""
       ],
       [
+        "Booz Allen",
+        "Applied AI Intern",
+        "Washington, DC",
+        "Sep 13",
+        ""
+      ],
+      [
         "Caterpillar",
         "Corporate Intern, Digital and Analytics",
         "Peoria, IL Chicago, IL Irving, TX",
@@ -15850,6 +15871,7 @@
       "QuantCo|Data Science Intern|United States|May 01",
       "RGA Reinsurance Company|Data Analyst Intern|Chesterfield, MO|Nov 03",
       "RTX|Sustainment Data and Analytics Intern|East Hartford, CT|Oct 29",
+      "Red Ventures|Launch Program Data Science Intern|Charlotte, NC|Sep 25",
       "Regeneron Pharmaceuticals|AI/ML & Data Engineering Intern|**5 locations**Cambridge, MA Armonk, NY Warren, NJ Sleepy Hollow, NY Tarrytown, NY|Oct 27",
       "Regeneron Pharmaceuticals|Data Analytics Intern, Dashboards & Business Process Automation|Armonk, NY Warren, NJ Tarrytown, NY|Oct 27",
       "Regeneron Pharmaceuticals|Data Science & Digital Innovation Intern, Industrial Operations and Product Supply|Rensselaer, NY|Oct 27",
@@ -15867,6 +15889,8 @@
       "RosaicLabs|AI Accelerator Design Verification Engineer Intern|Austin, TX Santa Clara, CA|Oct 28",
       "SAS|Data Science Research Intern|Bloomington, MN|Sep 29",
       "STR|Data Analyst Intern|Arlington, VA Woburn, MA|Oct 22",
+      "SageSure|Data Science Intern|Jersey City, NJ|Oct 28",
+      "SageSure|Data Science Product Analyst Intern|Fairfield, CA|Oct 29",
       "Salesforce|AI Labs Intern, Emerging Talent|San Francisco, CA Seattle, WA|Oct 30",
       "Salesforce|AI Research Intern|Palo Alto, CA|Oct 20",
       "Samsung Semiconductor|AI Application Engineer Intern|Folsom, CA|Nov 02",
