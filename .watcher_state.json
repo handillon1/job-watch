@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "453324c4e696b353623237333acad6de2990335f",
+    "last_sha": "b2f68b3376b93e5e96c60ea6a8e8d377528c037f",
     "rows": [
       [
         "Apache Industrial",
@@ -433,13 +433,6 @@
         "Cincinnati, OH",
         "Nov 05",
         "https://go.vansh.nyc/1iz?s=z"
-      ],
-      [
-        "Hearst",
-        "Editorial AI Development Intern",
-        "San Francisco, CA",
-        "Nov 03",
-        "https://go.vansh.nyc/1fC?s=z"
       ],
       [
         "Toshiba Global Commerce Solutions",
@@ -872,6 +865,13 @@
         "Samsung Research America Internship",
         "Agentic AI Solutions Intern",
         "Mountain View, CA",
+        "Nov 03",
+        ""
+      ],
+      [
+        "Hearst",
+        "Editorial AI Development Intern",
+        "San Francisco, CA",
         "Nov 03",
         ""
       ],
@@ -11908,7 +11908,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "453324c4e696b353623237333acad6de2990335f",
+    "last_sha": "b2f68b3376b93e5e96c60ea6a8e8d377528c037f",
     "rows": [
       [
         "Paccar",
@@ -11916,6 +11916,13 @@
         "Chillicothe, OH",
         "Nov 09",
         "https://go.vansh.nyc/1oo?s=y"
+      ],
+      [
+        "Sharp Electronics",
+        "IT AI Intern \ud83d\udec2",
+        "Montvale, NJ",
+        "Nov 08",
+        "https://go.vansh.nyc/1ot?s=y"
       ],
       [
         "National Interstate Insurance",
@@ -13365,13 +13372,6 @@
         "Kansas City, MO",
         "Oct 23",
         "https://go.vansh.nyc/Qh?s=y"
-      ],
-      [
-        "Sun Life",
-        "Data Science Intern",
-        "**5 locations**Milwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA",
-        "Oct 22",
-        "https://go.vansh.nyc/hk?s=y"
       ],
       [
         "Rivian and Volkswagen Group Technologies",
@@ -14977,6 +14977,13 @@
         ""
       ],
       [
+        "Sun Life",
+        "Data Science Intern",
+        "**5 locations**Milwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA",
+        "Oct 22",
+        ""
+      ],
+      [
         "STR",
         "Data Analyst Intern",
         "Arlington, VA Woburn, MA",
@@ -15939,6 +15946,7 @@
       "Sephora|AI Automation Intern, WMS & DC Systems|United States|Oct 27",
       "Sephora|AI Platform Infrastructure Intern, Technology|United States|Oct 27",
       "ServiceNow|Associate Software Engineer Intern, AI Engineering|Santa Clara, CA|Oct 13",
+      "Sharp Electronics|IT AI Intern|Montvale, NJ|Nov 08",
       "Sherwin-Williams|R&D Data Science Co-op|Brecksville, OH|Oct 28",
       "Shield AI|Data Science Intern|San Diego, CA|Oct 20",
       "Simbe Robotics|Computer Vision / Applied AI Intern|Burlingame, CA|Oct 23",
