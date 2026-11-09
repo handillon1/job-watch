@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "04541232e1b5845c3135d18f3dfd54a14758424f",
+    "last_sha": "2f3132559be7c1b058c9a49a1fcb2ff3368df5b9",
     "rows": [
       [
         "Lila Sciences",
@@ -11888,8 +11888,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "04541232e1b5845c3135d18f3dfd54a14758424f",
+    "last_sha": "2f3132559be7c1b058c9a49a1fcb2ff3368df5b9",
     "rows": [
+      [
+        "Zoetis",
+        "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+        "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        "https://go.vansh.nyc/1ph?s=y"
+      ],
       [
         "Zoetis",
         "AI Assistant Development Intern",
@@ -13767,20 +13774,6 @@
         "https://go.vansh.nyc/9L?s=y"
       ],
       [
-        "Duolingo",
-        "Data Scientist Intern",
-        "Pittsburgh, PA New York, NY",
-        "Oct 15",
-        "https://go.vansh.nyc/9H?s=y"
-      ],
-      [
-        "Duolingo",
-        "Data Scientist Intern",
-        "New York, NY Pittsburgh, PA",
-        "Oct 15",
-        "https://go.vansh.nyc/9I?s=y"
-      ],
-      [
         "Ardian",
         "Data Scientist Intern",
         "New York, NY",
@@ -14073,13 +14066,6 @@
         "New York, NY",
         "Oct 08",
         "https://go.vansh.nyc/1nv?s=y"
-      ],
-      [
-        "GuidePoint Security",
-        "AI & Data Science Intern, GPSU",
-        "Remote United States",
-        "Oct 08",
-        "https://go.vansh.nyc/Gd?s=y"
       ],
       [
         "Upstart",
@@ -15258,6 +15244,20 @@
         ""
       ],
       [
+        "Duolingo",
+        "Data Scientist Intern",
+        "Pittsburgh, PA New York, NY",
+        "Oct 15",
+        ""
+      ],
+      [
+        "Duolingo",
+        "Data Scientist Intern",
+        "New York, NY Pittsburgh, PA",
+        "Oct 15",
+        ""
+      ],
+      [
         "Cigna",
         "Healthcare Analytics Intern",
         "Morris Plains, NJ",
@@ -15359,6 +15359,13 @@
         "Itron",
         "HR AI Data Science Intern",
         "Austin, TX",
+        "Oct 08",
+        ""
+      ],
+      [
+        "GuidePoint Security",
+        "AI & Data Science Intern, GPSU",
+        "Remote United States",
         "Oct 08",
         ""
       ],
@@ -16079,6 +16086,7 @@
       "Zebra Technologies|Software Engineer Intern, AI Features & Product Convergence|Kennesaw, GA|Nov 04",
       "Zebra Technologies|Software/AI Engineer Intern, Handheld Mobile Computers|Holtsville, NY|Nov 02",
       "Zillow|Data Science Intern|Seattle, WA|Oct 26",
+      "Zoetis|AI Architecture, Enablement & Tools Intern, AI Capabilities|Remote United States Kalamazoo, MI|Nov 09",
       "Zoetis|AI Assistant Development Intern|Parsippany, NJ|Nov 09",
       "Zoox|Data Science Intern|Foster City, CA Boston, MA|Nov 06",
       "ibotta|Business Intelligence Intern|Denver, CO|Sep 29",
