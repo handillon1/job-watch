@@ -4545,7 +4545,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "66303852a28fe789f5f24fcb8a089407a2d956f4",
+    "last_sha": "58f2bf232a391ae4c56105c5963fe1d80a7c5390",
     "rows": [
       [
         "SharkNinja",
@@ -5127,13 +5127,6 @@
         "Oshkosh, WI",
         "Fall 2026",
         "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Internship_REQ_95255?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "VaynerMedia",
-        "Data Analytics Resident",
-        "LA",
-        "Winter 2027",
-        "https://vaynermedia.com/careers?gh_jid=8097753&utm_source=Simplify&ref=Simplify"
       ],
       [
         "ICF International",
@@ -5909,6 +5902,13 @@
         "Cone Health",
         "Healthcare Innovation Intern - AI",
         "Salt Lake City, UT",
+        "Winter 2027",
+        ""
+      ],
+      [
+        "VaynerMedia",
+        "Data Analytics Resident",
+        "LA",
         "Winter 2027",
         ""
       ],
@@ -9465,8 +9465,22 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "66303852a28fe789f5f24fcb8a089407a2d956f4",
+    "last_sha": "58f2bf232a391ae4c56105c5963fe1d80a7c5390",
     "rows": [
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "Artificial Intelligence Intern - Information Fusion",
+        "Laurel, MD",
+        "",
+        "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Biodesix",
+        "Data Analytics & Business Intelligence Intern",
+        "Louisville, CO",
+        "",
+        "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Enova",
         "Analytics Intern",
@@ -9487,6 +9501,20 @@
         "Jacksonville, FL",
         "",
         "https://careers.haskell.com/jobs/7415?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "The Federal Reserve System",
+        "Data Science Intern \ud83c\udf93",
+        "Minneapolis, MN",
+        "",
+        "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Great American Insurance Company",
+        "Telematics / Predictive Analytics Intern",
+        "Cincinnati, OH",
+        "",
+        "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Zoox",
@@ -9571,6 +9599,13 @@
         "Dallas, TX",
         "",
         "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "V2X",
+        "AI Engineering Intern",
+        "Indianapolis, IN",
+        "",
+        "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Red Wing Shoe Company",
@@ -10476,6 +10511,13 @@
         "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Philips",
+        "Insights and Analytics Intern - Health Systems Marketing",
+        "Cambridge, MA",
+        "",
+        "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Nissan Global",
         "People Analytics Intern \ud83c\udf93",
         "Franklin, TN",
@@ -11348,6 +11390,7 @@
       "Baird|Capital Markets Compliance Data & Analytics Intern|Milwaukee, WI|",
       "Baird|IT Data & Analytics Intern|Madison, WI Milwaukee, WI|",
       "Barnes & Thornburg|Information Technology AI Intern|Indianapolis, IN|",
+      "Biodesix|Data Analytics & Business Intelligence Intern|Louisville, CO|",
       "Blue Cross Blue Shield of Michigan|Data Analytics Intern - HEDIS|Detroit, MI|",
       "BlueCross BlueShield of Nebraska|Data Intern - Data Science - Data Analytics|Omaha, NE|",
       "BlueCross BlueShield of Nebraska|Healthcare Analytics Intern|Omaha, NE|",
@@ -11514,6 +11557,7 @@
       "Gordon Food Service|Data Science Engineer Intern|Atlanta, GA|",
       "Great American Insurance Company|Business Intelligence Intern - Power BI|Cincinnati, OH|",
       "Great American Insurance Company|Enterprise Analytics Intern|Cincinnati, OH|",
+      "Great American Insurance Company|Telematics / Predictive Analytics Intern|Cincinnati, OH|",
       "GuideWell Mutual|Enterprise Analytics Intern|Jacksonville, FL|",
       "H&R Block|Financial Services Data Analytics Intern|Kansas City, MO|",
       "H&R Block|Machine Learning Intern|Kansas City, MO|",
@@ -11566,6 +11610,7 @@
       "Jabil|Operations Analytics & Reporting Intern|Tampa, FL St. Petersburg, FL|",
       "John Deere|Data & Analytics Intern|Moline, IL|",
       "Johns Hopkins Applied Physics Laboratory|AI & Data Science Intern - Analytic Capabilities|Laurel, MD|",
+      "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence Intern - Information Fusion|Laurel, MD|",
       "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence and Machine Learning Intern - Research Assistant|Laurel, MD|",
       "Johns Hopkins Applied Physics Laboratory|Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection|Laurel, MD|",
       "Johns Hopkins Applied Physics Laboratory|Sensor Systems Intern - Data Analytics|Laurel, MD|",
@@ -11749,6 +11794,7 @@
       "The Allen Institute for AI|Research Intern - AI for Science|Seattle, WA|",
       "The Federal Reserve System|Advanced Analytics Intern|Cleveland, OH|",
       "The Federal Reserve System|Data Science Intern|Chicago, IL|",
+      "The Federal Reserve System|Data Science Intern|Minneapolis, MN|",
       "The Federal Reserve System|Data Science and Business Analytics Intern|Chicago, IL|",
       "The Federal Reserve System|Statistics Intern|Atlanta, GA|",
       "The Federal Reserve System|Statistics and Analysis Intern|Cleveland, OH|",
