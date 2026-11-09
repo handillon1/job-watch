@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "46f7e8f6af1c63d105c5320b00c9ae8939a8e351",
+    "last_sha": "8dfa48d60b0e17401f2d5d273ce502194f600c33",
     "rows": [
       [
         "Kinaxis",
@@ -11895,7 +11895,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "46f7e8f6af1c63d105c5320b00c9ae8939a8e351",
+    "last_sha": "8dfa48d60b0e17401f2d5d273ce502194f600c33",
     "rows": [
       [
         "National Interstate Insurance",
@@ -14145,6 +14145,20 @@
         "https://go.vansh.nyc/g7?s=y"
       ],
       [
+        "GE Vernova",
+        "AI Data Mining Agent Intern, SCS Commercial",
+        "Atlanta, GA",
+        "Oct 06",
+        "https://go.vansh.nyc/1nE?s=y"
+      ],
+      [
+        "Dow Jones",
+        "Marketing Data Science Intern",
+        "New York, NY",
+        "Oct 06",
+        "https://go.vansh.nyc/1nD?s=y"
+      ],
+      [
         "Mayo Clinic",
         "AI/ML Intern, Radiation Oncology",
         "Rochester, MN",
@@ -15595,6 +15609,7 @@
       "DocuSign|AI Platform Engineer Intern|San Francisco, CA|Oct 22",
       "DocuSign|Agentic AI Engineer Intern|San Francisco, CA|Oct 22",
       "Dow Jones|Data Analyst Intern|New York, NY|Oct 06",
+      "Dow Jones|Marketing Data Science Intern|New York, NY|Oct 06",
       "DraftKings|Data Science Intern|Boston, MA|Sep 19",
       "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|Oct 12",
       "DriveTime|Data Science Intern|Tempe, AZ Dallas, TX|Nov 02",
@@ -15624,6 +15639,7 @@
       "Florida Atlantic University|Data Analyst Intern|Boca Raton, FL|Oct 27",
       "FormFactor|Electrical Design Automation Intern, AI & EDA Automation|Livermore, CA|Oct 27",
       "Framatome|AI and Software Innovation Intern|Lynchburg, VA|Nov 07",
+      "GE Vernova|AI Data Mining Agent Intern, SCS Commercial|Atlanta, GA|Oct 06",
       "GE Vernova|AI Evaluation & Benchmarking Intern, AGI|Bellevue, WA|Oct 14",
       "GE Vernova|AI Post-Training and Model Alignment Intern, AGI|Bellevue, WA|Oct 14",
       "GTI Energy|Data Science Intern|Des Plaines, IL|Oct 30",
