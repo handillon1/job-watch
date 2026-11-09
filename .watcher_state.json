@@ -4529,7 +4529,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b9602caf92b0f55c4986855702e7721d9adb75ea",
+    "last_sha": "7116112ecdca07887f27cd79718208e3b731d074",
     "rows": [
       [
         "SharkNinja",
@@ -9449,8 +9449,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b9602caf92b0f55c4986855702e7721d9adb75ea",
+    "last_sha": "7116112ecdca07887f27cd79718208e3b731d074",
     "rows": [
+      [
+        "Enova",
+        "Analytics Intern",
+        "Chicago, IL",
+        "",
+        "https://job-boards.greenhouse.io/enova/jobs/8366036?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Haskell",
         "AI Engineering Design Intern for Facility Design",
@@ -11118,13 +11125,6 @@
         "https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "SoundExchange",
-        "Operations Intern - Royalty Processing & Business Intelligence",
-        "Washington, DC",
-        "",
-        "https://job-boards.greenhouse.io/sxinternships/jobs/5231079007?utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "V2X",
         "Artificial Intelligence Intern",
         "Indianapolis, IN",
@@ -11490,6 +11490,7 @@
       "Elevance Health|Data Analyst Graduate Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
       "Elevance Health|Data Analytics Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|",
+      "Enova|Analytics Intern|Chicago, IL|",
       "Entergy|Student Intern - Power Delivery Performance & Analytics|The Woodlands, TX|",
       "Epic Games|Data Science Intern|Cary, NC|",
       "Ercot|IT Intern - Enterprise Data & AI Administration|Austin, TX Taylor, TX|",
