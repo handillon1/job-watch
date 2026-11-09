@@ -4497,7 +4497,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b4f91a72cc32789e8c85793d1342e7613eaca664",
+    "last_sha": "0d7713ed0b9aaba9c3286e4c84587c963fbedc90",
     "rows": [
       [
         "SharkNinja",
@@ -5107,13 +5107,6 @@
         "LA",
         "Winter 2027",
         "https://vaynermedia.com/careers?gh_jid=8097753&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Tesla",
-        "Machine Learning Engineer Intern - Factory Software",
-        "Fremont, CA",
-        "Spring 2027",
-        "https://www.tesla.com/careers/search/job/282916?utm_source=Simplify&ref=Simplify"
       ],
       [
         "ICF International",
@@ -5925,6 +5918,13 @@
         "Data Analytics & AI Intern",
         "Minneapolis, MN",
         "Winter 2026",
+        ""
+      ],
+      [
+        "\ud83d\udd25 Tesla",
+        "Machine Learning Engineer Intern - Factory Software",
+        "Fremont, CA",
+        "Spring 2027",
         ""
       ],
       [
@@ -9424,7 +9424,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b4f91a72cc32789e8c85793d1342e7613eaca664",
+    "last_sha": "0d7713ed0b9aaba9c3286e4c84587c963fbedc90",
     "rows": [
       [
         "Zoox",
