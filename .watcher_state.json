@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6fc722510989a9afdb48d8add2a5e69eff8d7c1e",
+    "last_sha": "46f7e8f6af1c63d105c5320b00c9ae8939a8e351",
     "rows": [
       [
         "Kinaxis",
@@ -11902,7 +11902,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6fc722510989a9afdb48d8add2a5e69eff8d7c1e",
+    "last_sha": "46f7e8f6af1c63d105c5320b00c9ae8939a8e351",
     "rows": [
       [
         "National Interstate Insurance",
@@ -14089,6 +14089,13 @@
         "https://go.vansh.nyc/Gg?s=y"
       ],
       [
+        "IMC Trading",
+        "Machine Learning Engineer Intern",
+        "New York, NY",
+        "Oct 08",
+        "https://go.vansh.nyc/1nv?s=y"
+      ],
+      [
         "GuidePoint Security",
         "AI & Data Science Intern, GPSU",
         "Remote United States",
@@ -14416,13 +14423,6 @@
         "King of Prussia, PA",
         "Sep 02",
         "https://go.vansh.nyc/M0?s=y"
-      ],
-      [
-        "Caterpillar",
-        "Corporate Intern, Digital and Analytics",
-        "Peoria, IL Chicago, IL Irving, TX",
-        "Sep 02",
-        "https://go.vansh.nyc/M5?s=y"
       ],
       [
         "Hewlett Packard Enterprise",
@@ -15342,6 +15342,13 @@
         ""
       ],
       [
+        "Caterpillar",
+        "Corporate Intern, Digital and Analytics",
+        "Peoria, IL Chicago, IL Irving, TX",
+        "Sep 02",
+        ""
+      ],
+      [
         "The Hartford",
         "Data Engineer Intern, Technology, Data, AI, and Operations",
         "Hartford, CT",
@@ -15665,6 +15672,7 @@
       "ICD|AI/ML Engineering Intern|Jersey City, NJ|Nov 05",
       "ICF International|AI Engineer Intern|Reston, VA|Oct 14",
       "ID.me|Analytics Engineer Intern|Mountain View, CA|Oct 23",
+      "IMC Trading|Machine Learning Engineer Intern|New York, NY|Oct 08",
       "ITT|Data Analytics / AI Intern|Irvine, CA|Nov 06",
       "Ingredion|AI & Data Scientist Intern|Westchester, IL|Nov 02",
       "Ingredion|Global Supply Chain Data Science Intern|Westchester, IL|Nov 02",
