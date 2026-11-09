@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7c681d5a5ebca65a3b8752ddcb5b38dc5786e370",
+    "last_sha": "cc20b78b22ba8ed89c269e672cc91887363963d8",
     "rows": [
+      [
+        "Apache Industrial",
+        "AI Implementation Intern",
+        "Houston, TX",
+        "Nov 08",
+        "https://go.vansh.nyc/1ol?s=z"
+      ],
       [
         "Kinaxis",
         "Developer Co-op, Machine Learning",
@@ -594,13 +601,6 @@
         "Grand Rapids, MI",
         "Oct 22",
         "https://go.vansh.nyc/f3?s=z"
-      ],
-      [
-        "TPG",
-        "Research Assistant Intern, Data Analytics and Reporting",
-        "Remote United States",
-        "Oct 21",
-        "https://go.vansh.nyc/RV?s=z"
       ],
       [
         "Booz Allen",
@@ -932,6 +932,13 @@
         ""
       ],
       [
+        "TPG",
+        "Research Assistant Intern, Data Analytics and Reporting",
+        "Remote United States",
+        "Oct 21",
+        ""
+      ],
+      [
         "OpenAI",
         "Backend Software Engineer Intern, Cooperative AI (Evals)",
         "San Francisco, CA",
@@ -1152,6 +1159,7 @@
       "American Enterprise Institute|Data Analyst and Education Policy Intern|Washington, DC|Oct 05",
       "Analytic Partners|Data Science Co-op|Miami, FL|Oct 21",
       "Apache Industrial|AI Implementation Intern|Houston, TX|Nov 02",
+      "Apache Industrial|AI Implementation Intern|Houston, TX|Nov 08",
       "Apptronik|Software Engineer Intern, ML Systems|Austin, TX|Jul 28",
       "BMO|Machine Learning Intern|Chicago, IL|May 12",
       "Booz Allen|Enterprise Cybersecurity Data and Business Intelligence Analyst Intern|McLean, VA|Oct 21",
@@ -11899,8 +11907,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7c681d5a5ebca65a3b8752ddcb5b38dc5786e370",
+    "last_sha": "cc20b78b22ba8ed89c269e672cc91887363963d8",
     "rows": [
+      [
+        "Paccar",
+        "Data Analyst Intern",
+        "Chillicothe, OH",
+        "Nov 09",
+        "https://go.vansh.nyc/1oo?s=y"
+      ],
       [
         "National Interstate Insurance",
         "Data Scientist Intern \ud83d\udec2",
@@ -12161,13 +12176,6 @@
         "https://go.vansh.nyc/1iF?s=y"
       ],
       [
-        "Concord Advice",
-        "Data Scientist Intern",
-        "Florham Park, NJ",
-        "Nov 05",
-        "https://go.vansh.nyc/1ir?s=y"
-      ],
-      [
         "CareSource",
         "Data Analyst Intern",
         "Remote United States",
@@ -12236,13 +12244,6 @@
         "Gresham, OR",
         "Nov 04",
         "https://go.vansh.nyc/1gQ?s=y"
-      ],
-      [
-        "Kudu Dynamics",
-        "Software Engineering & AI Intern \ud83c\uddfa\ud83c\uddf8",
-        "**4 locations**Remote United States Odenton, MD Shiloh, IL",
-        "Nov 04",
-        "https://go.vansh.nyc/1gL?s=y"
       ],
       [
         "Ericsson",
@@ -14625,9 +14626,23 @@
         ""
       ],
       [
+        "Concord Advice",
+        "Data Scientist Intern",
+        "Florham Park, NJ",
+        "Nov 05",
+        ""
+      ],
+      [
         "Zebra Technologies",
         "Software Engineer Intern, AI Features & Product Convergence",
         "Kennesaw, GA",
+        "Nov 04",
+        ""
+      ],
+      [
+        "Kudu Dynamics",
+        "Software Engineering & AI Intern \ud83c\uddfa\ud83c\uddf8",
+        "**4 locations**Remote United States Odenton, MD Shiloh, IL",
         "Nov 04",
         ""
       ],
@@ -15860,6 +15875,7 @@
       "OpenSesame|AI Product Builder Intern|Remote United States|Oct 22",
       "Paccar|AI-Driven Vehicle Definition Intern|Denton, TX|Nov 02",
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|Oct 22",
+      "Paccar|Data Analyst Intern|Chillicothe, OH|Nov 09",
       "Paccar|Field Service Data Analyst Intern|Kirkland, WA|Oct 20",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|Oct 19",
       "Palantir Technologies|Software Engineer Intern, Sovereign AI Systems|New York, NY|Nov 05",
