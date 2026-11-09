@@ -22292,6 +22292,26 @@
       "source": "Vansh Off-Season (DS/DA)",
       "message_id": 2602,
       "chat_id": 8619425244
+    },
+    "c44701a8a8a3": {
+      "company": "The New York Times",
+      "role": "Data Analyst Intern",
+      "location": "New York, NY",
+      "term": "Nov 09",
+      "apply_url": "https://go.vansh.nyc/1pm?s=y",
+      "source": "Vansh Summer 2027 main (DS/DA)",
+      "message_id": 2603,
+      "chat_id": 8619425244
+    },
+    "0c9f3a9aadc5": {
+      "company": "The New York Times",
+      "role": "ML Scientist Intern",
+      "location": "New York, NY",
+      "term": "Nov 09",
+      "apply_url": "https://go.vansh.nyc/1pn?s=y",
+      "source": "Vansh Summer 2027 main (DS/DA)",
+      "message_id": 2604,
+      "chat_id": 8619425244
     }
   },
   "applied": {
