@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "acb6e0c32509a3df1b8aa16a86e53180c7ba8c6a",
+    "last_sha": "a384aa85c2f31d64473d188057b211f09233ffd0",
     "rows": [
       [
         "Lila Sciences",
@@ -405,6 +405,13 @@
         "San Diego, CA",
         "Nov 09",
         "https://go.vansh.nyc/1pk?s=z"
+      ],
+      [
+        "Nokia",
+        "Defense Software Test & AI Co-op \ud83d\udec2",
+        "United States",
+        "Nov 08",
+        "https://go.vansh.nyc/1py?s=z"
       ],
       [
         "Apache Industrial",
@@ -1222,6 +1229,7 @@
       "Millennium|Applied AI Engineer Intern|New York, NY|Aug 21",
       "Nelnet|Agentic AI Intern|Lincoln, NE|Jul 27",
       "Nokia|Architecture AI Co-op|Naperville, IL|Jul 27",
+      "Nokia|Defense Software Test & AI Co-op|United States|Nov 08",
       "Notion|Software Engineer, AI Intern|San Francisco, CA New York, NY|Aug 08",
       "Omya|Data Scientist Co-op|Cincinnati, OH|Nov 05",
       "OpenAI|Backend Software Engineer Intern, Cooperative AI (Evals)|San Francisco, CA|Oct 20",
@@ -11914,7 +11922,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "acb6e0c32509a3df1b8aa16a86e53180c7ba8c6a",
+    "last_sha": "a384aa85c2f31d64473d188057b211f09233ffd0",
     "rows": [
       [
         "Zoetis",
@@ -11985,6 +11993,27 @@
         "Laurel, MD",
         "Nov 09",
         "https://go.vansh.nyc/1oQ?s=y"
+      ],
+      [
+        "Epic Games",
+        "AI Programmer Intern",
+        "Cary, NC",
+        "Nov 09",
+        "https://go.vansh.nyc/1pv?s=y"
+      ],
+      [
+        "Biodesix",
+        "AI Research & Development Intern",
+        "Louisville, CO",
+        "Nov 09",
+        "https://go.vansh.nyc/1pq?s=y"
+      ],
+      [
+        "Biodesix",
+        "Data Analytics & Business Intelligence Intern",
+        "Louisville, CO",
+        "Nov 09",
+        "https://go.vansh.nyc/1ps?s=y"
       ],
       [
         "Sharp Electronics",
@@ -15683,6 +15712,8 @@
       "Bedrock Robotics|Behavior Machine Learning Engineer Intern, World Models|San Francisco, CA|Sep 10",
       "Bedrock Robotics|Onboard Infrastructure Engineer Intern, ML Inference|San Francisco, CA|Sep 10",
       "Beli|Data Science Intern|New York, NY|Oct 28",
+      "Biodesix|AI Research & Development Intern|Louisville, CO|Nov 09",
+      "Biodesix|Data Analytics & Business Intelligence Intern|Louisville, CO|Nov 09",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
       "Booz Allen Hamilton|Data Scientist Intern|Colorado Springs, CO|Nov 02",
@@ -15786,6 +15817,7 @@
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|Nov 06",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
+      "Epic Games|AI Programmer Intern|Cary, NC|Nov 09",
       "Ericsson|AI and Automation Engineer Intern|Plano, TX|Oct 28",
       "Ericsson|Technology and AI Intern|Plano, TX|Nov 04",
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
