@@ -4553,7 +4553,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5113a22c791c260607a2526209ce33ae17802b40",
+    "last_sha": "2b9217a2a25436678850f5fac5fea533d3db33f4",
     "rows": [
       [
         "SharkNinja",
@@ -9473,8 +9473,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5113a22c791c260607a2526209ce33ae17802b40",
+    "last_sha": "2b9217a2a25436678850f5fac5fea533d3db33f4",
     "rows": [
+      [
+        "onsemi",
+        "AI & Data Analytics Intern \ud83c\udf93",
+        "Scottsdale, AZ",
+        "",
+        "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "General Dynamics Mission Systems",
         "Ontology Data Analysis and Validation Intern",
@@ -9831,13 +9838,6 @@
         "Denton, TX",
         "",
         "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Pacific Northwest National Laboratory",
-        "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference \ud83c\udf93",
-        "Seattle, WA Richland, WA",
-        "",
-        "https://careers.pnnl.gov/jobs/12898?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Divergent Technologies",
@@ -10265,13 +10265,6 @@
         "Grand Rapids, MI",
         "",
         "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "General Dynamics Information Technology",
-        "Financial Data Analyst Intern",
-        "Falls Church, VA",
-        "",
-        "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761?utm_source=Simplify&ref=Simplify"
       ],
       [
         "CVS Health",
@@ -11921,6 +11914,7 @@
       "Zoox|Data Scientist Intern|Boston, MA Foster City, CA|",
       "Zurn Elkay Water Solutions|Sales Analytics Intern|Milwaukee, WI|",
       "ibotta|Business Intelligence Intern|Denver, CO|",
+      "onsemi|AI & Data Analytics Intern|Scottsdale, AZ|",
       "onsemi|AI & Data Science Intern|San Jose, CA|",
       "onsemi|Customer Operations Data Analyst Intern|Scottsdale, AZ|",
       "onsemi|Semiconductor AI Specialist Intern|Gresham, OR|"
