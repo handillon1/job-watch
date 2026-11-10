@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "a0b1db0a3193e8f3b94147bdd45599edc8404030",
+    "last_sha": "ff56e6233e0d44e5f0bb31a4e002fee1558d5917",
     "rows": [
       [
         "Lila Sciences",
@@ -11914,7 +11914,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "a0b1db0a3193e8f3b94147bdd45599edc8404030",
+    "last_sha": "ff56e6233e0d44e5f0bb31a4e002fee1558d5917",
     "rows": [
       [
         "Zoetis",
@@ -11985,6 +11985,20 @@
         "Cincinnati, OH",
         "Nov 09",
         "https://go.vansh.nyc/1pj?s=y"
+      ],
+      [
+        "Kiewit",
+        "Machine Learning Intern, Kiewit Data Services",
+        "Omaha, NE",
+        "Nov 09",
+        "https://go.vansh.nyc/1pX?s=y"
+      ],
+      [
+        "Johns Hopkins APL",
+        "AI & Data Science Intern, Analytic Capabilities",
+        "Laurel, MD",
+        "Nov 09",
+        "https://go.vansh.nyc/1pW?s=y"
       ],
       [
         "Johns Hopkins APL",
@@ -15933,6 +15947,7 @@
       "Jane Street|Machine Learning Engineer Intern|New York, NY|Jul 24",
       "Jane Street|Machine Learning Researcher Intern|New York, NY|Jul 24",
       "John Deere|Process Automation Intern, Data and Analytics|Greeneville, TN|Oct 16",
+      "Johns Hopkins APL|AI & Data Science Intern, Analytic Capabilities|Laurel, MD|Nov 09",
       "Johns Hopkins APL|Artificial Intelligence Intern, Information Fusion|Laurel, MD|Nov 09",
       "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence and Machine Learning Research Assistant Intern|Laurel, MD|Sep 25",
       "Johnson & Johnson|Data Science Co-op|Cincinnati, OH|Nov 02",
@@ -15946,6 +15961,7 @@
       "KLA|Software Engineering Intern, AI/ML for Diagnostics & Calibration|Milpitas, CA|Oct 23",
       "Ketjen|Data Science Intern|Houston, TX|Nov 03",
       "Keysight Technologies|Data Scientist Intern|Santa Rosa, CA|Oct 04",
+      "Kiewit|Machine Learning Intern, Kiewit Data Services|Omaha, NE|Nov 09",
       "Kudu Dynamics|AI/Automation Development Intern, Assessment & Authorization|Remote United States|Nov 06",
       "Kudu Dynamics|Software Engineering & AI Intern|**4 locations**Remote United States Odenton, MD Shiloh, IL|Nov 04",
       "L.L.Bean|Business Analyst/Data Analyst Intern|Freeport, ME|Nov 05",
