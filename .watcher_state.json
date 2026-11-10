@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "4bc64b6a9311aaf8fb3b34d2536406aecbb183eb",
+    "last_sha": "797c695cf8ae92ef90ef6a10bb63e6085447a91f",
     "rows": [
       [
         "AFL",
@@ -11940,7 +11940,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "4bc64b6a9311aaf8fb3b34d2536406aecbb183eb",
+    "last_sha": "797c695cf8ae92ef90ef6a10bb63e6085447a91f",
     "rows": [
       [
         "NVIDIA",
@@ -11950,11 +11950,32 @@
         "https://go.vansh.nyc/1qq?s=y"
       ],
       [
+        "Northwaysports",
+        "Data Science Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1rc?s=y"
+      ],
+      [
         "Highmark Health",
         "Data Analyst enGen Undergraduate Intern",
         "Pittsburgh, PA",
         "Nov 10",
         "https://go.vansh.nyc/1qu?s=y"
+      ],
+      [
+        "Grey State Apparel",
+        "Data Analyst Intern",
+        "New York, NY",
+        "Nov 10",
+        "https://go.vansh.nyc/1qN?s=y"
+      ],
+      [
+        "Elas",
+        "Data Science Intern",
+        "Pleasanton, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1qK?s=y"
       ],
       [
         "Clarios",
@@ -14393,13 +14414,6 @@
         "https://go.vansh.nyc/H0?s=y"
       ],
       [
-        "Itron",
-        "Artificial Intelligence Intern",
-        "Liberty Lake, WA Raleigh, NC Austin, TX",
-        "Sep 29",
-        "https://go.vansh.nyc/GW?s=y"
-      ],
-      [
         "ibotta",
         "Business Intelligence Intern",
         "Denver, CO",
@@ -15604,6 +15618,13 @@
         ""
       ],
       [
+        "Itron",
+        "Artificial Intelligence Intern",
+        "Liberty Lake, WA Raleigh, NC Austin, TX",
+        "Sep 29",
+        ""
+      ],
+      [
         "DraftKings",
         "Analytics Intern",
         "Boston, MA",
@@ -15927,6 +15948,7 @@
       "EQT Corporation|AI Intern|Remote United States|Oct 27",
       "Ecolab|Digital & AI Technology Intern|Saint Paul, MN Eagan, MN Naperville, IL|Nov 03",
       "Economy Polymers & Chemicals|AI & Business Systems Automation Intern|Houston, TX|Oct 30",
+      "Elas|Data Science Intern|Pleasanton, CA|Nov 10",
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|Nov 06",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
@@ -15974,6 +15996,7 @@
       "GlobalFoundries|AI/ML Systems Engineering Intern|Richardson, TX|Oct 19",
       "Gordon Food Service|Data Science Engineer Intern|Atlanta, GA|Nov 02",
       "Graco|AI Intern|Dayton, MN|Nov 02",
+      "Grey State Apparel|Data Analyst Intern|New York, NY|Nov 10",
       "Guardian Life|AI & Machine Learning Intern, Digital & Technology|New York, NY Bethlehem, PA Holmdel, NJ|Nov 02",
       "GuidePoint Security|AI & Data Science Intern, GPSU|Remote United States|Oct 08",
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
@@ -16103,6 +16126,7 @@
       "Northrop Grumman|Data Scientist Intern, Product Support|San Diego, CA|Oct 30",
       "Northrop Grumman|Systems Engineering Intern, AI Experience|Dulles, VA|Oct 21",
       "Northspyre|AI Engineer Intern|Atlanta, GA|Apr 19",
+      "Northwaysports|Data Science Intern|United States|Nov 10",
       "One Robot|Machine Learning Intern|San Francisco, CA|Oct 30",
       "OpenArt AI|Early Adopter & Product Builder Intern, Creative AI|San Carlos, CA|Oct 21",
       "OpenSesame|AI Product Builder Intern|Remote United States|Oct 22",
