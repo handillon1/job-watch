@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "01abb7f98d8a374284e0c7dfdb0b7726321fc21e",
+    "last_sha": "4bc64b6a9311aaf8fb3b34d2536406aecbb183eb",
     "rows": [
+      [
+        "AFL",
+        "Business Intelligence (BI) Co-op",
+        "Duncan, SC",
+        "Nov 10",
+        "https://go.vansh.nyc/1qw?s=z"
+      ],
       [
         "Lila Sciences",
         "Applied AI Platform Engineer Co-op, Software",
@@ -1173,6 +1180,7 @@
     "seen": [
       "1Password|Data Intern, Product Analytics|Remote (United States|",
       "ACLU Kentucky|Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod)|New York, NY|Oct 27",
+      "AFL|Business Intelligence (BI) Co-op|Duncan, SC|Nov 10",
       "AGCO|AI & Data Science Intern|Champaign, IL|Oct 14",
       "AMD|Machine Learning Co-op, Artificial Intelligence|San Jose, CA Santa Clara, CA|Aug 20",
       "AMD|Machine Learning Co-op|**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA|Aug 20",
@@ -11932,7 +11940,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "01abb7f98d8a374284e0c7dfdb0b7726321fc21e",
+    "last_sha": "4bc64b6a9311aaf8fb3b34d2536406aecbb183eb",
     "rows": [
       [
         "NVIDIA",
@@ -11947,6 +11955,13 @@
         "Pittsburgh, PA",
         "Nov 10",
         "https://go.vansh.nyc/1qu?s=y"
+      ],
+      [
+        "Clarios",
+        "IT Digital/AI Intern \ud83d\udec2",
+        "Milwaukee, WI",
+        "Nov 10",
+        "https://go.vansh.nyc/1qy?s=y"
       ],
       [
         "Zoetis",
@@ -12185,13 +12200,6 @@
         "San Mateo, CA",
         "Nov 06",
         "https://go.vansh.nyc/1lJ?s=y"
-      ],
-      [
-        "Marmon Holdings",
-        "AI Technology Solutions Intern",
-        "Chicago, IL",
-        "Nov 06",
-        "https://go.vansh.nyc/1mo?s=y"
       ],
       [
         "Kudu Dynamics",
@@ -14749,6 +14757,13 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "Marmon Holdings",
+        "AI Technology Solutions Intern",
+        "Chicago, IL",
+        "Nov 06",
+        ""
+      ],
+      [
         "V2X",
         "AI Engineering Intern",
         "Indianapolis, IN",
@@ -15870,6 +15885,7 @@
       "Cisco|Software Engineer Data & AI II Intern|**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA|Oct 23",
       "Cisco|Software Engineer Intern, Data & AI|**4 locations**San Jose, CA Milpitas, CA Research Triangle Park, NC San Francisco, CA|Oct 20",
       "Citizens Energy Group|Meter Services Data Analytics Intern|Indianapolis, IN|Nov 07",
+      "Clarios|IT Digital/AI Intern|Milwaukee, WI|Nov 10",
       "CoStar Group|Data Science Intern|Richmond, VA|Nov 02",
       "CoVar|Machine Learning Intern|Durham, NC|Sep 16",
       "Coinbase|Analytics Engineer Intern|San Francisco, CA|Sep 08",
