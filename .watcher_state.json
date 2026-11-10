@@ -390,8 +390,22 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "cce1a90f33d9db0234fd1b7581111cabfc8ab7ac",
+    "last_sha": "ee0b38f4c10d3ee69ccc73efe9b15cbe5f6537b2",
     "rows": [
+      [
+        "Altice USA",
+        "Product Analytics Intern",
+        "Bethpage, NY",
+        "Nov 10",
+        "https://go.vansh.nyc/1sm?s=z"
+      ],
+      [
+        "Altice USA",
+        "Operations Data Analyst Intern",
+        "Bethpage, NY",
+        "Nov 10",
+        "https://go.vansh.nyc/1sn?s=z"
+      ],
       [
         "AFL",
         "Business Intelligence (BI) Co-op",
@@ -1185,6 +1199,8 @@
       "AMD|Machine Learning Co-op, Artificial Intelligence|San Jose, CA Santa Clara, CA|Aug 20",
       "AMD|Machine Learning Co-op|**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA|Aug 20",
       "ASML|AI Engineer Co-op|San Diego, CA|Nov 09",
+      "Altice USA|Operations Data Analyst Intern|Bethpage, NY|Nov 10",
+      "Altice USA|Product Analytics Intern|Bethpage, NY|Nov 10",
       "Amazon|Business Intelligence Engineer Co-Op|Seattle, WA|Aug 27",
       "American Enterprise Institute|Data Analyst and Education Policy Intern|Washington, DC|Oct 05",
       "Analytic Partners|Data Science Co-op|Miami, FL|Oct 21",
@@ -11936,7 +11952,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "cce1a90f33d9db0234fd1b7581111cabfc8ab7ac",
+    "last_sha": "ee0b38f4c10d3ee69ccc73efe9b15cbe5f6537b2",
     "rows": [
       [
         "SRC, Inc",
@@ -12042,6 +12058,13 @@
         "Parsippany, NJ",
         "Nov 09",
         "https://go.vansh.nyc/1oP?s=y"
+      ],
+      [
+        "Walmart",
+        "Data Science & Data Analytics Intern, Last Mile Delivery",
+        "Bentonville, AR",
+        "Nov 09",
+        "https://go.vansh.nyc/1sh?s=y"
       ],
       [
         "Trilogy Health Services",
@@ -14417,6 +14440,13 @@
         "https://go.vansh.nyc/Em?s=y"
       ],
       [
+        "General Motors",
+        "Machine Learning Engineer Intern, AV/AI Platform",
+        "Sunnyvale, CA",
+        "Oct 01",
+        "https://go.vansh.nyc/1sp?s=y"
+      ],
+      [
         "MetLife",
         "Data & Analytics Intern",
         "Cary, NC",
@@ -16044,6 +16074,7 @@
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle Simulation|Sunnyvale, CA|Sep 30",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicles|Seattle, WA Sunnyvale, CA|Oct 28",
       "General Motors|AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles|Sunnyvale, CA|Oct 15",
+      "General Motors|Machine Learning Engineer Intern, AV/AI Platform|Sunnyvale, CA|Oct 01",
       "General Motors|Machine Learning Engineer Intern, Embodied AI|Sunnyvale, CA|Nov 10",
       "General Motors|Research and Development Intern, AI/Machine Learning|Mountain View, CA|Oct 12",
       "General Motors|Research and Development Intern, Machine Learning for Automation|Warren, MI|Oct 12",
@@ -16370,6 +16401,7 @@
       "WTW|Risk & Analytics Core Intern|New York, NY|Oct 13",
       "WTW|Risk & Analytics Enterprise Risk Consulting Intern|New York, NY|Oct 13",
       "Walleye Capital|Investment Data Science Intern|New York, NY|Jul 24",
+      "Walmart|Data Science & Data Analytics Intern, Last Mile Delivery|Bentonville, AR|Nov 09",
       "Walmart|Data Science Intern, Last Mile Delivery|Bentonville, AR|Nov 05",
       "Wellmark|Software Engineer Intern, AI Platform Team|Des Moines, IA|Nov 02",
       "West Bend Insurance|Data Scientist Intern|West Bend, WI|Oct 30",
