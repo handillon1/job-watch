@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6ab4b1d9c487a177871dcd6e881eb8fc9f0166f5",
+    "last_sha": "01abb7f98d8a374284e0c7dfdb0b7726321fc21e",
     "rows": [
       [
         "Lila Sciences",
@@ -11916,7 +11916,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6ab4b1d9c487a177871dcd6e881eb8fc9f0166f5",
+    "last_sha": "01abb7f98d8a374284e0c7dfdb0b7726321fc21e",
     "rows": [
       [
         "NVIDIA",
@@ -11924,6 +11924,13 @@
         "Santa Clara, CA",
         "Nov 10",
         "https://go.vansh.nyc/1qq?s=y"
+      ],
+      [
+        "Highmark Health",
+        "Data Analyst enGen Undergraduate Intern",
+        "Pittsburgh, PA",
+        "Nov 10",
+        "https://go.vansh.nyc/1qu?s=y"
       ],
       [
         "Zoetis",
@@ -15944,6 +15951,7 @@
       "Hewlett Packard Enterprise|HPC AI Networking Intern, Network Transport|Chippewa Falls, WI Fort Collins, CO|Oct 12",
       "Hex Technologies|AI Engineer Intern|San Francisco, CA|Oct 11",
       "Highmark Health|Data Analyst Intern|Pittsburgh, PA|Oct 19",
+      "Highmark Health|Data Analyst enGen Undergraduate Intern|Pittsburgh, PA|Nov 10",
       "Hive Financial Systems|Analytics Intern|Atlanta, GA|Oct 27",
       "Hoffman Construction|Data Analyst Intern|Amarillo, TX|Sep 07",
       "Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX San Francisco, CA|Apr 28",
