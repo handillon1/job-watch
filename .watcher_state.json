@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "3ee9273a1724f2233d60c8a896fb89d2e2d6dce6",
+    "last_sha": "a0b1db0a3193e8f3b94147bdd45599edc8404030",
     "rows": [
       [
         "Lila Sciences",
@@ -11921,7 +11921,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "3ee9273a1724f2233d60c8a896fb89d2e2d6dce6",
+    "last_sha": "a0b1db0a3193e8f3b94147bdd45599edc8404030",
     "rows": [
       [
         "Zoetis",
@@ -11950,6 +11950,13 @@
         "New York, NY",
         "Nov 09",
         "https://go.vansh.nyc/1pn?s=y"
+      ],
+      [
+        "Pika",
+        "Applied AI Engineer Intern, Creative Experiences",
+        "Palo Alto, CA",
+        "Nov 09",
+        "https://go.vansh.nyc/1pR?s=y"
       ],
       [
         "Paccar",
@@ -11992,6 +11999,13 @@
         "Laurel, MD",
         "Nov 09",
         "https://go.vansh.nyc/1oQ?s=y"
+      ],
+      [
+        "General Dynamics Mission Systems",
+        "Ontology Data Analysis and Validation Intern",
+        "Chantilly, VA Pittsfield, MA Scottsdale, AZ",
+        "Nov 09",
+        "https://go.vansh.nyc/1pQ?s=y"
       ],
       [
         "Epic Games",
@@ -15865,6 +15879,7 @@
       "General Dynamics Information Technology|AI/ML Data Science and Engineering Intern|Bossier City, LA|Nov 05",
       "General Dynamics Information Technology|AI/ML Software Development and Engineering Intern|Bossier City, LA|Nov 05",
       "General Dynamics Information Technology|Generative AI Software Development Intern|Bossier City, LA|Sep 22",
+      "General Dynamics Mission Systems|Ontology Data Analysis and Validation Intern|Chantilly, VA Pittsfield, MA Scottsdale, AZ|Nov 09",
       "General Motors|AI & Hardware Analytics Intern|Milford, MI Warren, MI|Oct 04",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure|Sunnyvale, CA|Oct 15",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle Simulation|Sunnyvale, CA|Sep 30",
@@ -16026,6 +16041,7 @@
       "PayPal|Machine Learning Engineer Intern|San Jose, CA|Nov 04",
       "Perspective Therapeutics|AI Innovation Intern|Seattle, WA|Oct 27",
       "Phillips 66|ERI Analytical Solutions Intern|Bartlesville, OK|Oct 13",
+      "Pika|Applied AI Engineer Intern, Creative Experiences|Palo Alto, CA|Nov 09",
       "Powertown|Machine Learning Engineer Intern|Boston, MA|Oct 30",
       "Prologis|AI and Automation Intern, IT|Denver, CO|Nov 03",
       "Q2|Data Science Intern|Austin, TX|Nov 02",
