@@ -4553,7 +4553,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "90d5b5341dca9b955370cf3fe36e64bfc7092738",
+    "last_sha": "5113a22c791c260607a2526209ce33ae17802b40",
     "rows": [
       [
         "SharkNinja",
@@ -9473,8 +9473,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "90d5b5341dca9b955370cf3fe36e64bfc7092738",
+    "last_sha": "5113a22c791c260607a2526209ce33ae17802b40",
     "rows": [
+      [
+        "General Dynamics Mission Systems",
+        "Ontology Data Analysis and Validation Intern",
+        "Chantilly, VA Pittsfield, MA Scottsdale, AZ",
+        "",
+        "https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Paccar",
         "Greenhouse Gas Data Analyst Intern",
@@ -9999,13 +10006,6 @@
         "Armonk, NY Warren, NJ Tarrytown, NY",
         "",
         "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Marvell",
-        "Data Science Intern",
-        "Boise, ID",
-        "",
-        "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Federal Home Loan Bank of Indianapolis",
@@ -11544,6 +11544,7 @@
       "General Dynamics Information Technology|AI and Data Analytics Intern|Sterling, VA|",
       "General Dynamics Information Technology|Defense Agencies Intern - AI/ML|Falls Church, VA|",
       "General Dynamics Information Technology|Financial Data Analyst Intern|Falls Church, VA|",
+      "General Dynamics Mission Systems|Ontology Data Analysis and Validation Intern|Chantilly, VA Pittsfield, MA Scottsdale, AZ|",
       "General Motors|AI Research Intern - Embodied AI|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicle: Simulation|Sunnyvale, CA|",
       "General Motors|AI/ML Engineer Intern - Autonomous Vehicles: Simulation|Sunnyvale, CA|",
