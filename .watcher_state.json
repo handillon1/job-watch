@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "797c695cf8ae92ef90ef6a10bb63e6085447a91f",
+    "last_sha": "8406a75c0dad0d0e1f5f3a85865005765baec64e",
     "rows": [
       [
         "AFL",
@@ -426,13 +426,6 @@
         "Houston, TX",
         "Nov 08",
         "https://go.vansh.nyc/1ol?s=z"
-      ],
-      [
-        "Kinaxis",
-        "Developer Co-op, Machine Learning",
-        "Remote United States",
-        "Nov 07",
-        "https://go.vansh.nyc/1mb?s=z"
       ],
       [
         "Western & Southern Financial Group",
@@ -874,6 +867,13 @@
         "Fremont, CA",
         "Jul 26",
         "https://go.vansh.nyc/4S?s=z"
+      ],
+      [
+        "Kinaxis",
+        "Developer Co-op, Machine Learning",
+        "Remote United States",
+        "Nov 07",
+        ""
       ],
       [
         "Samsung Research America Internship",
@@ -11940,8 +11940,22 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "797c695cf8ae92ef90ef6a10bb63e6085447a91f",
+    "last_sha": "8406a75c0dad0d0e1f5f3a85865005765baec64e",
     "rows": [
+      [
+        "TerraByte Green",
+        "AI Engineering Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1ry?s=y"
+      ],
+      [
+        "SigIQ.ai",
+        "Machine Learning Intern/Resident",
+        "Berkeley, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rw?s=y"
+      ],
       [
         "NVIDIA",
         "AI Operations Intern, AI Clouds",
@@ -11955,6 +11969,20 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rc?s=y"
+      ],
+      [
+        "Mason",
+        "AI Engineer Intern",
+        "New York, NY",
+        "Nov 10",
+        "https://go.vansh.nyc/1rz?s=y"
+      ],
+      [
+        "Jabil",
+        "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+        "St. Petersburg, FL Tampa, FL",
+        "Nov 10",
+        "https://go.vansh.nyc/1rC?s=y"
       ],
       [
         "Highmark Health",
@@ -16037,6 +16065,7 @@
       "JM Family Enterprises|Analytics Intern|Deerfield Beach, FL|Nov 05",
       "JPMorganChase|AI Research Associate Intern|New York, NY|Oct 14",
       "JPMorganChase|Machine Learning Intern, NLP|New York, NY|Oct 20",
+      "Jabil|AI Agent Developer Intern, Supply Chain IT - AI & Enablement|St. Petersburg, FL Tampa, FL|Nov 10",
       "Jane Street|Machine Learning Engineer Intern|New York, NY|Jul 24",
       "Jane Street|Machine Learning Researcher Intern|New York, NY|Jul 24",
       "John Deere|Process Automation Intern, Data and Analytics|Greeneville, TN|Oct 16",
@@ -16072,6 +16101,7 @@
       "Marmon Holdings|AI Technology Solutions Intern|Chicago, IL|Nov 06",
       "Marvell|AI-Native Development Platform Engineer Intern|Santa Clara, CA|Sep 28",
       "Marvell|Data Science Intern|Boise, ID|Oct 27",
+      "Mason|AI Engineer Intern|New York, NY|Nov 10",
       "Match Group|Data Scientist Intern|San Francisco, CA|Nov 05",
       "Match Group|Machine Learning Engineer Intern|Palo Alto, CA|Nov 05",
       "Mativ|Data Science and Business Analytics Intern|Alpharetta, GA|Oct 29",
@@ -16199,6 +16229,7 @@
       "Sharp Electronics|IT AI Intern|Montvale, NJ|Nov 08",
       "Sherwin-Williams|R&D Data Science Co-op|Brecksville, OH|Oct 28",
       "Shield AI|Data Science Intern|San Diego, CA|Oct 20",
+      "SigIQ.ai|Machine Learning Intern/Resident|Berkeley, CA|Nov 10",
       "Simbe Robotics|Computer Vision / Applied AI Intern|Burlingame, CA|Oct 23",
       "Skydio|Autonomy Engineer Intern, Computer Vision / Deep Learning|San Mateo, CA|Oct 25",
       "Skydio|Autonomy Engineer Intern, Deep Learning / Computer Vision|San Mateo, CA|Oct 24",
@@ -16224,6 +16255,7 @@
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
       "Tenstorrent|Hardware Intern, Architecture, AI HW & SoC|**4 locations**Austin, TX Boston, MA Fort Collins, CO Santa Clara, CA|Oct 09",
+      "TerraByte Green|AI Engineering Intern|United States|Nov 10",
       "Terranova|AI Intern|Berkeley, CA|Nov 02",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
       "The Cary Company|AI / Automation Intern|Addison, IL|Nov 05",
