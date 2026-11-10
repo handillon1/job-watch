@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "9d9f83f1c3e6e66f933f7a13ab553ece12f32809",
+    "last_sha": "116ba5cbbfbc8af00fbfbbd34847d27fe62d41e1",
     "rows": [
       [
         "Lila Sciences",
@@ -11937,7 +11937,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "9d9f83f1c3e6e66f933f7a13ab553ece12f32809",
+    "last_sha": "116ba5cbbfbc8af00fbfbbd34847d27fe62d41e1",
     "rows": [
       [
         "Zoetis",
@@ -12799,13 +12799,6 @@
         "San Jose, CA",
         "Nov 01",
         "https://go.vansh.nyc/17O?s=y"
-      ],
-      [
-        "TikTok",
-        "AI Engineer Intern, TikTok-Client Arch \ud83d\udec2",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/17P?s=y"
       ],
       [
         "TikTok",
@@ -14180,6 +14173,13 @@
         "https://go.vansh.nyc/ge?s=y"
       ],
       [
+        "Tenstorrent",
+        "Hardware Intern, Architecture, AI HW & SoC",
+        "**4 locations**Austin, TX Boston, MA Fort Collins, CO Santa Clara, CA",
+        "Oct 09",
+        "https://go.vansh.nyc/1qf?s=y"
+      ],
+      [
         "Rivian",
         "Artificial Intelligence, Machine Learning, & Data Intern \ud83d\udec2",
         "Palo Alto, CA",
@@ -14863,6 +14863,13 @@
         "Data Science Intern",
         "Richmond, VA",
         "Nov 02",
+        ""
+      ],
+      [
+        "TikTok",
+        "AI Engineer Intern, TikTok-Client Arch \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
         ""
       ],
       [
@@ -16165,6 +16172,7 @@
       "Tencent|Site Reliability Engineer (SRE) Intern, AI Infrastructure|Palo Alto, CA|Nov 05",
       "Tenstorrent|AI Software Intern, Cloud, Infrastructure & Data Centre Deployment|Austin, TX Santa Clara, CA|Oct 06",
       "Tenstorrent|AI Software Intern|Austin, TX Santa Clara, CA|Oct 07",
+      "Tenstorrent|Hardware Intern, Architecture, AI HW & SoC|**4 locations**Austin, TX Boston, MA Fort Collins, CO Santa Clara, CA|Oct 09",
       "Terranova|AI Intern|Berkeley, CA|Nov 02",
       "Terranox AI|Summer Intern - AI/ML Engineering|San Francisco, CA|May 14",
       "The Cary Company|AI / Automation Intern|Addison, IL|Nov 05",
