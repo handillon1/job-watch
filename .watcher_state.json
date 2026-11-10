@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6e02542bec487f4096ce7d58fb59c774730fccfc",
+    "last_sha": "cbb1b9202f966bea702f6e8c4dd7641424eedec8",
     "rows": [
       [
         "AFL",
@@ -827,20 +827,6 @@
         "https://go.vansh.nyc/7J?s=z"
       ],
       [
-        "AMD",
-        "Machine Learning Co-op",
-        "**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA",
-        "Aug 20",
-        "https://go.vansh.nyc/Oi?s=z"
-      ],
-      [
-        "AMD",
-        "Machine Learning Co-op, Artificial Intelligence",
-        "San Jose, CA Santa Clara, CA",
-        "Aug 20",
-        "https://go.vansh.nyc/Ol?s=z"
-      ],
-      [
         "Bot Auto",
         "Deep Learning Engineer Intern",
         "Houston, TX",
@@ -992,6 +978,20 @@
         "Data Science & Computational Biology Co-op, Research",
         "Tarrytown, NY",
         "Oct 02",
+        ""
+      ],
+      [
+        "AMD",
+        "Machine Learning Co-op",
+        "**6 locations**Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA",
+        "Aug 20",
+        ""
+      ],
+      [
+        "AMD",
+        "Machine Learning Co-op, Artificial Intelligence",
+        "San Jose, CA Santa Clara, CA",
+        "Aug 20",
         ""
       ],
       [
@@ -11919,7 +11919,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6e02542bec487f4096ce7d58fb59c774730fccfc",
+    "last_sha": "cbb1b9202f966bea702f6e8c4dd7641424eedec8",
     "rows": [
       [
         "SRC, Inc",
@@ -12410,13 +12410,6 @@
         "Rochester, NY Chicago, IL",
         "Nov 05",
         "https://go.vansh.nyc/1iF?s=y"
-      ],
-      [
-        "CareSource",
-        "Data Analyst Intern",
-        "Remote United States",
-        "Nov 05",
-        "https://go.vansh.nyc/1jg?s=y"
       ],
       [
         "ASM",
@@ -14816,6 +14809,13 @@
         "Concord Advice",
         "Data Scientist Intern",
         "Florham Park, NJ",
+        "Nov 05",
+        ""
+      ],
+      [
+        "CareSource",
+        "Data Analyst Intern",
+        "Remote United States",
         "Nov 05",
         ""
       ],
