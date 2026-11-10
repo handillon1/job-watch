@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "69ce443fc3411f0043be573ad5e840890440b9f7",
+    "last_sha": "399037ba62a7e80279c3f3897e78526fa38096b4",
     "rows": [
       [
         "AFL",
@@ -531,13 +531,6 @@
         "Milwaukee, WI",
         "Nov 02",
         "https://go.vansh.nyc/1cf?s=z"
-      ],
-      [
-        "GE Aerospace",
-        "Artificial Intelligence Intern",
-        "Remote United States",
-        "Nov 01",
-        "https://go.vansh.nyc/19l?s=z"
       ],
       [
         "ByteDance",
@@ -908,6 +901,13 @@
         "AI Implementation Intern",
         "Houston, TX",
         "Nov 02",
+        ""
+      ],
+      [
+        "GE Aerospace",
+        "Artificial Intelligence Intern",
+        "Remote United States",
+        "Nov 01",
         ""
       ],
       [
@@ -11926,7 +11926,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "69ce443fc3411f0043be573ad5e840890440b9f7",
+    "last_sha": "399037ba62a7e80279c3f3897e78526fa38096b4",
     "rows": [
       [
         "SRC, Inc",
@@ -11955,13 +11955,6 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rc?s=y"
-      ],
-      [
-        "Mason",
-        "AI Engineer Intern",
-        "New York, NY",
-        "Nov 10",
-        "https://go.vansh.nyc/1rz?s=y"
       ],
       [
         "Jabil",
@@ -14802,6 +14795,13 @@
         "TerraByte Green",
         "AI Engineering Intern",
         "United States",
+        "Nov 10",
+        ""
+      ],
+      [
+        "Mason",
+        "AI Engineer Intern",
+        "New York, NY",
         "Nov 10",
         ""
       ],
