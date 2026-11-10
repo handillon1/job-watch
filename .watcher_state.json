@@ -4553,7 +4553,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "58f2bf232a391ae4c56105c5963fe1d80a7c5390",
+    "last_sha": "9ce4e238e27e07e653a139b10565022ab8f7c93f",
     "rows": [
       [
         "SharkNinja",
@@ -9473,8 +9473,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "58f2bf232a391ae4c56105c5963fe1d80a7c5390",
+    "last_sha": "9ce4e238e27e07e653a139b10565022ab8f7c93f",
     "rows": [
+      [
+        "Paccar",
+        "Greenhouse Gas Data Analyst Intern",
+        "Kirkland, WA",
+        "",
+        "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Johns Hopkins Applied Physics Laboratory",
         "Artificial Intelligence Intern - Information Fusion",
@@ -9490,11 +9497,25 @@
         "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009&utm_source=Simplify&ref=Simplify"
       ],
       [
+        "DreamWorks Animation",
+        "Media Tech: Data \u2013 AI & Machine Learning Intern",
+        "Universal City, LA",
+        "",
+        "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Enova",
         "Analytics Intern",
         "Chicago, IL",
         "",
         "https://job-boards.greenhouse.io/enova/jobs/8366036?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "DreamWorks Animation",
+        "Studio Operations \u2013 Data Analytics Intern",
+        "Universal City, LA",
+        "",
+        "https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Haskell",
@@ -9523,6 +9544,13 @@
         "Cincinnati, OH",
         "",
         "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "AstraZeneca",
+        "Network Planning & Data Analytics Intern \ud83c\udf93",
+        "Tarzana, LA",
+        "",
+        "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Zoox",
@@ -11379,6 +11407,7 @@
       "Associated Bank|Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking|Minneapolis, MN|",
       "Assurant|AI and Data Science Intern|Atlanta, GA|",
       "AstraZeneca|Manufacturing Digital and AI Intern|Gaithersburg, MD|",
+      "AstraZeneca|Network Planning & Data Analytics Intern|Tarzana, LA|",
       "Athene|Operations Reporting & Analytics Intern|West Des Moines, IA|",
       "Atlassian|Data Scientist Intern|Seattle, WA|",
       "Atlassian|Machine Learning Intern|Seattle, WA SF|",
@@ -11489,6 +11518,8 @@
       "DraftKings|Analytics Intern|Boston, MA|",
       "DraftKings|Data Science Intern - Summer 2027|Boston, MA|",
       "DraftKings|Data Science Intern|Boston, MA|",
+      "DreamWorks Animation|Media Tech: Data \u2013 AI & Machine Learning Intern|Universal City, LA|",
+      "DreamWorks Animation|Studio Operations \u2013 Data Analytics Intern|Universal City, LA|",
       "DriveTime|Analytics Intern - Summer 2027|Dallas, TX Tempe, AZ|",
       "DriveTime|Data Analytics Intern|Dallas, TX Tempe, AZ|",
       "DriveTime|Data Science Intern - Summer 2027|Dallas, TX Tempe, AZ|",
@@ -11693,6 +11724,7 @@
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|",
       "Paccar|Dealer Development Marketing Data Analytics Intern|Kirkland, WA|",
       "Paccar|Field Service Data Analyst Intern|Kirkland, WA|",
+      "Paccar|Greenhouse Gas Data Analyst Intern|Kirkland, WA|",
       "Paccar|Sales Administration Data Analyst Intern - Greenhouse Gas|Denton, TX|",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pacific Northwest National Laboratory|NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference|Seattle, WA Richland, WA|",
