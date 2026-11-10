@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "fe924099fd41d6c00c3ab0ca8d39d7ca131d11ad",
+    "last_sha": "f0acfa53041d99cf823eb6495771c8e65fe451f2",
     "rows": [
       [
         "AFL",
@@ -11926,8 +11926,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "fe924099fd41d6c00c3ab0ca8d39d7ca131d11ad",
+    "last_sha": "f0acfa53041d99cf823eb6495771c8e65fe451f2",
     "rows": [
+      [
+        "SRC, Inc",
+        "Machine Learning Engineer Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1rU?s=y"
+      ],
       [
         "SigIQ.ai",
         "Machine Learning Intern/Resident",
@@ -11976,6 +11983,13 @@
         "New York, NY",
         "Nov 10",
         "https://go.vansh.nyc/1qN?s=y"
+      ],
+      [
+        "General Motors",
+        "Machine Learning Engineer Intern, Embodied AI",
+        "Sunnyvale, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1rQ?s=y"
       ],
       [
         "Elas",
@@ -15997,6 +16011,7 @@
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicle Simulation|Sunnyvale, CA|Sep 30",
       "General Motors|AI/ML Engineer Intern, Autonomous Vehicles|Seattle, WA Sunnyvale, CA|Oct 28",
       "General Motors|AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles|Sunnyvale, CA|Oct 15",
+      "General Motors|Machine Learning Engineer Intern, Embodied AI|Sunnyvale, CA|Nov 10",
       "General Motors|Research and Development Intern, AI/Machine Learning|Mountain View, CA|Oct 12",
       "General Motors|Research and Development Intern, Machine Learning for Automation|Warren, MI|Oct 12",
       "General Motors|Software Engineer Intern, AV/AI Platform|Sunnyvale, CA Warren, MI|Oct 01",
@@ -16193,6 +16208,7 @@
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|Oct 18",
       "RosaicLabs|AI Accelerator Design Verification Engineer Intern|Austin, TX Santa Clara, CA|Oct 28",
       "SAS|Data Science Research Intern|Bloomington, MN|Sep 29",
+      "SRC, Inc|Machine Learning Engineer Intern|United States|Nov 10",
       "STR|Data Analyst Intern|Arlington, VA Woburn, MA|Oct 22",
       "SageSure|Data Science Intern|Jersey City, NJ|Oct 28",
       "SageSure|Data Science Product Analyst Intern|Fairfield, CA|Oct 29",
