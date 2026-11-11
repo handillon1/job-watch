@@ -4593,7 +4593,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "578ca010c1a324b41c7d57bc310337cdaadb9e04",
+    "last_sha": "093775756243c4d6272eed7905d0753248301d35",
     "rows": [
       [
         "Altice USA",
@@ -4727,13 +4727,6 @@
         "Foxborough, MA",
         "Spring 2027",
         "https://se.jibeapply.com/jobs/136783?icims=1&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Angel City",
-        "Data Analytics Intern",
-        "Santa Monica, CA",
-        "Fall 2026",
-        "https://job-boards.greenhouse.io/wfclainc/jobs/6226220004?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Rivian",
@@ -5209,6 +5202,13 @@
         "Machine Learning Intern",
         "Atlanta, GA",
         "Spring 2026",
+        ""
+      ],
+      [
+        "Angel City",
+        "Data Analytics Intern",
+        "Santa Monica, CA",
+        "Fall 2026",
         ""
       ],
       [
@@ -9545,7 +9545,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "578ca010c1a324b41c7d57bc310337cdaadb9e04",
+    "last_sha": "093775756243c4d6272eed7905d0753248301d35",
     "rows": [
       [
         "Art of Problem Solving",
@@ -10645,13 +10645,6 @@
         "Santa Clara, CA",
         "",
         "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "ICF International",
-        "AI Engineer Intern",
-        "Reston, VA",
-        "",
-        "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521?utm_source=Simplify&ref=Simplify"
       ],
       [
         "GlobalFoundries",
