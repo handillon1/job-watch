@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "88aae4cfa52f4decf316d571578a792ff4c451b5",
+    "last_sha": "824fb9e5a80cf9e8fd8e655e300729bd17ce7b38",
     "rows": [
+      [
+        "DwyerOmega",
+        "Applied AI Intern",
+        "Remote United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1sC?s=z"
+      ],
       [
         "Altice USA",
         "Product Analytics Intern",
@@ -419,6 +426,13 @@
         "San Francisco, CA",
         "Nov 09",
         "https://go.vansh.nyc/1oY?s=z"
+      ],
+      [
+        "Booz Allen Hamilton",
+        "Data Scientist Intern",
+        "McLean, VA",
+        "Nov 09",
+        "https://go.vansh.nyc/1sy?s=z"
       ],
       [
         "ASML",
@@ -1208,6 +1222,7 @@
       "Apache Industrial|AI Implementation Intern|Houston, TX|Nov 08",
       "Apptronik|Software Engineer Intern, ML Systems|Austin, TX|Jul 28",
       "BMO|Machine Learning Intern|Chicago, IL|May 12",
+      "Booz Allen Hamilton|Data Scientist Intern|McLean, VA|Nov 09",
       "Booz Allen|Enterprise Cybersecurity Data and Business Intelligence Analyst Intern|McLean, VA|Oct 21",
       "Bose|Data Analytics Engineer Co-op|Bloomfield Hills, MI Framingham, MA Atlanta, GA|Oct 06",
       "Bot Auto|Deep Learning Engineer Intern|Houston, TX|Aug 04",
@@ -1225,6 +1240,7 @@
       "Crowe|Data Analytics Developer Intern|Chicago, IL|Aug 21",
       "Current Lighting Employee Co|AI Co-op|Greenville, SC|Oct 28",
       "Danaher Corporation|Supply Chain AI Co-op|United States|Oct 25",
+      "DwyerOmega|Applied AI Intern|Remote United States|Nov 10",
       "EdgeTrace|AI Full-Stack Engineering Intern|San Mateo, CA|Dec 09",
       "Ema|AI Resident Intern|San Francisco, CA|Oct 30",
       "Engramme|Machine Learning Engineer Co-op|San Francisco, CA|Nov 02",
@@ -11999,7 +12015,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "88aae4cfa52f4decf316d571578a792ff4c451b5",
+    "last_sha": "824fb9e5a80cf9e8fd8e655e300729bd17ce7b38",
     "rows": [
       [
         "SRC, Inc",
@@ -12035,6 +12051,13 @@
         "St. Petersburg, FL Tampa, FL",
         "Nov 10",
         "https://go.vansh.nyc/1rC?s=y"
+      ],
+      [
+        "International",
+        "Artificial Intelligence/Machine Learning Intern",
+        "Lisle, IL",
+        "Nov 10",
+        "https://go.vansh.nyc/1sz?s=y"
       ],
       [
         "Hook Music",
@@ -12079,11 +12102,25 @@
         "https://go.vansh.nyc/1qK?s=y"
       ],
       [
+        "DwyerOmega",
+        "Applied AI Intern",
+        "Remote United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1sB?s=y"
+      ],
+      [
         "Clarios",
         "IT Digital/AI Intern \ud83d\udec2",
         "Milwaukee, WI",
         "Nov 10",
         "https://go.vansh.nyc/1qy?s=y"
+      ],
+      [
+        "Art of Problem Solving",
+        "Data Science Intern",
+        "San Diego, CA",
+        "Nov 10",
+        "https://go.vansh.nyc/1sA?s=y"
       ],
       [
         "Addepar",
@@ -12217,13 +12254,6 @@
         "New York, NY",
         "Nov 09",
         "https://go.vansh.nyc/1pJ?s=y"
-      ],
-      [
-        "CTGT",
-        "AI Evaluation Research Intern",
-        "San Francisco, CA",
-        "Nov 09",
-        "https://go.vansh.nyc/1pM?s=y"
       ],
       [
         "Cirrus Logic",
@@ -14032,6 +14062,13 @@
         "https://go.vansh.nyc/1nf?s=y"
       ],
       [
+        "CenturyLink",
+        "AI & Automation Builders Intern",
+        "Remote United States",
+        "Oct 16",
+        "https://go.vansh.nyc/1sD?s=y"
+      ],
+      [
         "Boston Scientific",
         "AI/Data Science Intern",
         "Maple Grove, MN",
@@ -14883,6 +14920,13 @@
         "AI Engineer Intern",
         "New York, NY",
         "Nov 10",
+        ""
+      ],
+      [
+        "CTGT",
+        "AI Evaluation Research Intern",
+        "San Francisco, CA",
+        "Nov 09",
         ""
       ],
       [
@@ -15962,6 +16006,7 @@
       "Aramco Americas|AI/ML Engineering Intern|Houston, TX|Sep 08",
       "Arch Capital Group|Data and Analytics Intern|Farmington, CT|Nov 03",
       "Ardian|Data Scientist Intern|New York, NY|Oct 15",
+      "Art of Problem Solving|Data Science Intern|San Diego, CA|Nov 10",
       "Assurant|AI and Data Science Intern|Atlanta, GA|Oct 26",
       "Astera Labs|Applied AI Engineer Intern, Silicon Engineering|San Jose, CA|Oct 05",
       "Astera Labs|Applied AI Intern, Non-Silicon|San Jose, CA|Oct 05",
@@ -16032,6 +16077,7 @@
       "Cencora|AI Intern|Conshohocken, PA|Oct 27",
       "Cencora|Data Analytics Intern|Corona, CA|Oct 31",
       "Centene Corporation|AI Engineer Intern|United States|Oct 28",
+      "CenturyLink|AI & Automation Builders Intern|Remote United States|Oct 16",
       "CenturyLink|Data Intern, Analytics & Decision Science|Remote in USA|Oct 16",
       "Cigna|Healthcare Analytics Intern|Morris Plains, NJ|Oct 15",
       "Cigna|Product Analytics Intern|Morris Plains, NJ St. Louis, MO|Sep 30",
@@ -16082,6 +16128,7 @@
       "DriveWealth|Product Owner Intern, AI Consulting Associate Program|Chicago, IL NYC|Oct 20",
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
       "Duolingo|Data Scientist Intern|Pittsburgh, PA New York, NY|Oct 15",
+      "DwyerOmega|Applied AI Intern|Remote United States|Nov 10",
       "EQT Corporation|AI Intern|Remote United States|Oct 27",
       "Ecolab|Digital & AI Technology Intern|Saint Paul, MN Eagan, MN Naperville, IL|Nov 03",
       "Economy Polymers & Chemicals|AI & Business Systems Automation Intern|Houston, TX|Oct 30",
@@ -16164,6 +16211,7 @@
       "Intercontinental Exchange, Inc.|Artificial Intelligence, Data & Machine Learning Intern|New York, NY|Apr 20",
       "Intercontinental Exchange|Agentic AI Data Science Intern|Jacksonville, FL|Oct 30",
       "Intercontinental Exchange|Data Science Intern|New York, NY|Oct 30",
+      "International|Artificial Intelligence/Machine Learning Intern|Lisle, IL|Nov 10",
       "Intuitive|AI/ML Engineer Intern|Sunnyvale, CA|Nov 02",
       "Intuitive|Data Science Intern|Sunnyvale, CA|Nov 02",
       "Inversion Space|AI & Internal Tools Software Engineer Intern|Playa Vista, CA|Oct 19",
