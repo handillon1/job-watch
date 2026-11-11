@@ -4577,7 +4577,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "acb7e600d5a50741bda18aa41a74b7252a0979f9",
+    "last_sha": "37635558a9b9a18898c0c2c99e0c08ea0a4a2ab7",
     "rows": [
       [
         "Altice USA",
@@ -4592,6 +4592,13 @@
         "Bethpage, NY",
         "Winter 2027",
         "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Booz Allen",
+        "Data Scientist Intern",
+        "McLean, VA",
+        "Spring 2027",
+        "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332?utm_source=Simplify&ref=Simplify"
       ],
       [
         "SharkNinja",
@@ -4858,6 +4865,13 @@
         "Seattle, WA South SF NYC",
         "Winter 2026",
         "https://stripe.com/jobs/search?gh_jid=8194291&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "\ud83d\udd25 Stripe",
+        "Data Scientist Intern \ud83c\udf93",
+        "Seattle, WA South SF NYC",
+        "Winter 2026",
+        "https://stripe.com/jobs/search?gh_jid=8194283&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Stand Together",
@@ -5340,13 +5354,6 @@
         "Data Science Co-op - NLP & GenAI",
         "Framingham, MA Atlanta, GA",
         "Winter 2027, Spring 2027",
-        ""
-      ],
-      [
-        "\ud83d\udd25 Stripe",
-        "Data Scientist Intern \ud83c\udf93",
-        "Seattle, WA South SF NYC",
-        "Winter 2026",
         ""
       ],
       [
@@ -8970,6 +8977,7 @@
       "Bloom Energy|Machine Learning/Data Science Intern|San Jose, CA|Winter 2026, Spring 2026, Summer 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027, Fall 2027",
       "Booz Allen|AI RAN Telecommunications Engineer Intern|McLean, VA|Fall 2026",
       "Booz Allen|Applied AI Software Development Intern|McLean, VA|Spring 2028, Summer 2028",
+      "Booz Allen|Data Scientist Intern|McLean, VA|Spring 2027",
       "Booz Allen|Enterprise Cybersecurity Data and Business Intelligence Analyst Intern|McLean, VA|Winter 2027",
       "BorgWarner|Data Science Intern|Auburn Hills, MI|Winter 2026, Spring 2026, Summer 2026, Fall 2026",
       "Bosch Home Comfort|AI Security Research Intern|Pittsburgh, PA|Fall 2026",
@@ -9521,14 +9529,28 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "acb7e600d5a50741bda18aa41a74b7252a0979f9",
+    "last_sha": "37635558a9b9a18898c0c2c99e0c08ea0a4a2ab7",
     "rows": [
+      [
+        "Art of Problem Solving",
+        "Data Science Intern",
+        "San Diego, CA",
+        "",
+        "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Toyota Research Institute",
         "Human-Centered AI Research Intern - Causal Reasoning Models \ud83c\udf93",
         "Los Altos, CA",
         "",
         "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "International",
+        "Artificial Intelligence/Machine Learning Intern",
+        "Lisle, IL",
+        "",
+        "https://careers.international.com/jobs/60456?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"
       ],
       [
         "DP World",
@@ -10455,6 +10477,20 @@
         "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "CenturyLink",
+        "AI & Automation Builders Internship",
+        "Remote in USA",
+        "",
+        "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CenturyLink",
+        "Data Internship - Analytics & Decision Science",
+        "Remote in USA",
+        "",
+        "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Veeam Software",
         "Data & Analytics Engineering Intern",
         "Alpharetta, GA",
@@ -11253,6 +11289,13 @@
         "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "Elire",
+        "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+        "Remote in USA Minneapolis, MN",
+        "",
+        "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "HF Sinclair",
         "IT Data Analytics Intern",
         "Dallas, TX",
@@ -11391,6 +11434,7 @@
       "Applied Materials|Data Scientist Intern - Master's|Santa Clara, CA|",
       "Applied Materials|Data Scientist Intern|Austin, TX|",
       "Arch Capital Group|Data and Analytics Intern|Farmington, CT|",
+      "Art of Problem Solving|Data Science Intern|San Diego, CA|",
       "Arthur J. Gallagher & Co.|Data Analytics Intern|Rolling Meadows, IL|",
       "Ascension|Data Science Intern|St. Louis, MO|",
       "Ascension|Integrated Participant Solutions Analytics Intern|St. Louis, MO|",
@@ -11461,6 +11505,7 @@
       "CareSource|Data Science Intern|Remote in USA|",
       "CareSource|Full Stack AI Development Intern|Remote in USA|",
       "Caterpillar|Corporate Intern - Digital and Analytics|Peoria, IL Chicago, IL Irving, TX|",
+      "CenturyLink|AI & Automation Builders Internship|Remote in USA|",
       "CenturyLink|Data Internship - Analytics & Decision Science|Remote in USA|",
       "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|",
       "Chubb|Business Intelligence Intern|Chicago, IL|",
@@ -11524,6 +11569,7 @@
       "Electronic Arts|Analytics Intern|Orlando, FL|",
       "Elevance Health|Data Analyst Graduate Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
       "Elevance Health|Data Analytics Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
+      "Elire|AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data|Remote in USA Minneapolis, MN|",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|",
       "Enova|Analytics Intern|Chicago, IL|",
       "Entergy|Student Intern - Power Delivery Performance & Analytics|The Woodlands, TX|",
@@ -11620,6 +11666,7 @@
       "Intercontinental Exchange|Agentic AI Data Science Intern|Jacksonville, FL|",
       "Intercontinental Exchange|Audit Analytics Intern|Atlanta, GA|",
       "Intercontinental Exchange|Data Analyst Intern|Jacksonville, FL|",
+      "International|Artificial Intelligence/Machine Learning Intern|Lisle, IL|",
       "Intuitive Surgical|AI/ML Engineer Intern|Sunnyvale, CA|",
       "Intuit|AI Research Intern|Mountain View, CA|",
       "Intuit|AI Scientist Intern|4 locationsNYC Mountain View, CA Atlanta, GA San Diego, CA|",
