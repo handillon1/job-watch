@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f704592efbab521230fb4d0674e9ddd09ea93707",
+    "last_sha": "273ac943c5f808245cd043ba99d77c10447a2b3c",
     "rows": [
       [
         "Bose",
@@ -11985,7 +11985,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f704592efbab521230fb4d0674e9ddd09ea93707",
+    "last_sha": "273ac943c5f808245cd043ba99d77c10447a2b3c",
     "rows": [
       [
         "The Marzetti Company",
@@ -12009,11 +12009,25 @@
         "https://go.vansh.nyc/1uQ?s=y"
       ],
       [
+        "HUB International",
+        "AI Engineering Intern",
+        "Chicago, IL",
+        "Nov 11",
+        "https://go.vansh.nyc/1vr?s=y"
+      ],
+      [
         "GlobalFoundries",
         "AI Processor Hardware/Software Integration Engineer Intern",
         "Richardson, TX",
         "Nov 11",
         "https://go.vansh.nyc/1uH?s=y"
+      ],
+      [
+        "Farmers Mutual Hail",
+        "AI Intern",
+        "West Des Moines, IA",
+        "Nov 11",
+        "https://go.vansh.nyc/1vq?s=y"
       ],
       [
         "Bloom Energy",
@@ -16292,6 +16306,7 @@
       "Eulerity|AI Intern, Office of CEO & Head of Product|New York, NY|Oct 17",
       "Eurofins|Business Intelligence Intern|Lancaster, PA|Nov 02",
       "FHLBank Chicago|AI Intern|Chicago, IL|Oct 04",
+      "Farmers Mutual Hail|AI Intern|West Des Moines, IA|Nov 11",
       "FedEx Freight|Data Scientist Intern|Memphis, TN|Oct 21",
       "FedEx|Data Science Intern|Memphis, TN|Oct 30",
       "First Citizens BancShares|AI Innovation Intern|Raleigh, NC|Oct 30",
@@ -16338,6 +16353,7 @@
       "Guardian Life|AI & Machine Learning Intern, Digital & Technology|New York, NY Bethlehem, PA Holmdel, NJ|Nov 02",
       "GuidePoint Security|AI & Data Science Intern, GPSU|Remote United States|Oct 08",
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
+      "HUB International|AI Engineering Intern|Chicago, IL|Nov 11",
       "Haskell|AI Engineering Design Intern|Jacksonville, FL|Nov 09",
       "Hewlett Packard Enterprise|AI & HPC Performance Engineering Intern|Spring, TX|Oct 14",
       "Hewlett Packard Enterprise|AI/ML Developer Intern|San Jose, CA|Oct 25",
