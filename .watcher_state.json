@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "2110c69ac80d896f82cad90e21b7789d3a99b220",
+    "last_sha": "605d42a7b099fd8198a85082f64ebb59458d1497",
     "rows": [
       [
         "Sanofi",
@@ -694,34 +694,6 @@
         "https://go.vansh.nyc/gl?s=z"
       ],
       [
-        "Brain Co.",
-        "AI Product Engineer Co-op",
-        "San Francisco, CA",
-        "Oct 14",
-        "https://go.vansh.nyc/9r?s=z"
-      ],
-      [
-        "Brain Co.",
-        "AI Security Engineer Co-op",
-        "San Francisco, CA",
-        "Oct 14",
-        "https://go.vansh.nyc/9s?s=z"
-      ],
-      [
-        "Brain Co.",
-        "Machine Learning Engineer, Applied AI Co-op",
-        "San Francisco, CA",
-        "Oct 14",
-        "https://go.vansh.nyc/9t?s=z"
-      ],
-      [
-        "Brain Co.",
-        "AI Platform Engineer Co-op",
-        "San Francisco, CA",
-        "Oct 14",
-        "https://go.vansh.nyc/9u?s=z"
-      ],
-      [
         "AGCO",
         "AI & Data Science Intern",
         "Champaign, IL",
@@ -1013,6 +985,34 @@
         "AI & Infrastructure Engineer Intern",
         "Devens, MA",
         "Oct 15",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "AI Product Engineer Co-op",
+        "San Francisco, CA",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "AI Security Engineer Co-op",
+        "San Francisco, CA",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "Machine Learning Engineer, Applied AI Co-op",
+        "San Francisco, CA",
+        "Oct 14",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "AI Platform Engineer Co-op",
+        "San Francisco, CA",
+        "Oct 14",
         ""
       ],
       [
@@ -11993,7 +11993,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "2110c69ac80d896f82cad90e21b7789d3a99b220",
+    "last_sha": "605d42a7b099fd8198a85082f64ebb59458d1497",
     "rows": [
       [
         "The Marzetti Company",
@@ -14726,34 +14726,6 @@
         "https://go.vansh.nyc/Io?s=y"
       ],
       [
-        "Brain Co.",
-        "Machine Learning Engineer Intern, Applied AI",
-        "San Francisco, CA",
-        "Sep 14",
-        "https://go.vansh.nyc/10T?s=y"
-      ],
-      [
-        "Brain Co.",
-        "AI Platform Engineer Intern",
-        "San Francisco, CA",
-        "Sep 12",
-        "https://go.vansh.nyc/10Q?s=y"
-      ],
-      [
-        "Brain Co.",
-        "AI Product Engineer Intern",
-        "San Francisco, CA",
-        "Sep 12",
-        "https://go.vansh.nyc/10R?s=y"
-      ],
-      [
-        "Brain Co.",
-        "AI Security Engineer Intern",
-        "San Francisco, CA",
-        "Sep 12",
-        "https://go.vansh.nyc/10S?s=y"
-      ],
-      [
         "AfterQuery",
         "AI/ML Research Intern",
         "San Francisco, CA",
@@ -16007,10 +15979,38 @@
         ""
       ],
       [
+        "Brain Co.",
+        "Machine Learning Engineer Intern, Applied AI",
+        "San Francisco, CA",
+        "Sep 14",
+        ""
+      ],
+      [
         "Booz Allen",
         "Applied AI Intern",
         "Washington, DC",
         "Sep 13",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "AI Platform Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "AI Product Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
+        ""
+      ],
+      [
+        "Brain Co.",
+        "AI Security Engineer Intern",
+        "San Francisco, CA",
+        "Sep 12",
         ""
       ],
       [
