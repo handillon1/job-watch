@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f935eccbb21e433c858da36af9e2b95f87d2c586",
+    "last_sha": "239e9ab94e70e1122890fa70708f8925805475ff",
     "rows": [
       [
         "Bose",
@@ -11985,7 +11985,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f935eccbb21e433c858da36af9e2b95f87d2c586",
+    "last_sha": "239e9ab94e70e1122890fa70708f8925805475ff",
     "rows": [
       [
         "The Marzetti Company",
@@ -12014,6 +12014,13 @@
         "Richardson, TX",
         "Nov 11",
         "https://go.vansh.nyc/1uH?s=y"
+      ],
+      [
+        "Bloom Energy",
+        "Data Science Intern",
+        "San Jose, CA",
+        "Nov 11",
+        "https://go.vansh.nyc/1vm?s=y"
       ],
       [
         "TikTok",
@@ -12700,13 +12707,6 @@
         "Deerfield Beach, FL",
         "Nov 03",
         "https://go.vansh.nyc/1dZ?s=y"
-      ],
-      [
-        "First Citizens BancShares",
-        "Applied AI Intern",
-        "Raleigh, NC",
-        "Nov 03",
-        "https://go.vansh.nyc/1fD?s=y"
       ],
       [
         "Ecolab",
@@ -15068,6 +15068,13 @@
         ""
       ],
       [
+        "First Citizens BancShares",
+        "Applied AI Intern",
+        "Raleigh, NC",
+        "Nov 03",
+        ""
+      ],
+      [
         "CareSource",
         "Data Science Intern",
         "Remote United States",
@@ -16165,6 +16172,7 @@
       "Biodesix|AI Research & Development Intern|Louisville, CO|Nov 09",
       "Biodesix|Data Analytics & Business Intelligence Intern|Louisville, CO|Nov 09",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
+      "Bloom Energy|Data Science Intern|San Jose, CA|Nov 11",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
       "Booz Allen Hamilton|Data Scientist Intern|Colorado Springs, CO|Nov 02",
       "Booz Allen Hamilton|Data Scientist Intern|Detroit, MI|Nov 02",
