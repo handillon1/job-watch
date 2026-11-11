@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "af7bbdbd26eaa25a72c19e22b2e20060295bd4a9",
+    "last_sha": "dc27468b8b4ea63a3716689c3780c23b22ab4602",
     "rows": [
       [
         "Bose",
@@ -12006,7 +12006,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "af7bbdbd26eaa25a72c19e22b2e20060295bd4a9",
+    "last_sha": "dc27468b8b4ea63a3716689c3780c23b22ab4602",
     "rows": [
       [
         "The Marzetti Company",
@@ -12058,6 +12058,13 @@
         "https://go.vansh.nyc/1rw?s=y"
       ],
       [
+        "Penn Engineering",
+        "AI & Data Intern",
+        "United States",
+        "Nov 10",
+        "https://go.vansh.nyc/1v0?s=y"
+      ],
+      [
         "NVIDIA",
         "AI Operations Intern, AI Clouds",
         "Santa Clara, CA",
@@ -12070,6 +12077,13 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rc?s=y"
+      ],
+      [
+        "Kiewit",
+        "Machine Learning Intern, Kiewit Data Services",
+        "La Vista, NE",
+        "Nov 10",
+        "https://go.vansh.nyc/1v4?s=y"
       ],
       [
         "International",
@@ -12126,13 +12140,6 @@
         "Remote United States",
         "Nov 10",
         "https://go.vansh.nyc/1sB?s=y"
-      ],
-      [
-        "Compeer Financial",
-        "Data Analytics Intern \ud83d\udec2",
-        "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
-        "Nov 10",
-        "https://go.vansh.nyc/1sL?s=y"
       ],
       [
         "Clarios",
@@ -15026,6 +15033,13 @@
         ""
       ],
       [
+        "Compeer Financial",
+        "Data Analytics Intern \ud83d\udec2",
+        "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
+        "Nov 10",
+        ""
+      ],
+      [
         "CTGT",
         "AI Evaluation Research Intern",
         "San Francisco, CA",
@@ -16396,6 +16410,7 @@
       "KLA|Software Engineering Intern, AI/ML for Diagnostics & Calibration|Milpitas, CA|Oct 23",
       "Ketjen|Data Science Intern|Houston, TX|Nov 03",
       "Keysight Technologies|Data Scientist Intern|Santa Rosa, CA|Oct 04",
+      "Kiewit|Machine Learning Intern, Kiewit Data Services|La Vista, NE|Nov 10",
       "Kiewit|Machine Learning Intern, Kiewit Data Services|Omaha, NE|Nov 09",
       "Kudu Dynamics|AI/Automation Development Intern, Assessment & Authorization|Remote United States|Nov 06",
       "Kudu Dynamics|Software Engineering & AI Intern|**4 locations**Remote United States Odenton, MD Shiloh, IL|Nov 04",
@@ -16490,6 +16505,7 @@
       "Pattern|Data Science Intern|Lehi, UT|Oct 22",
       "PayPal|Data Scientist Intern|San Jose, CA|Nov 04",
       "PayPal|Machine Learning Engineer Intern|San Jose, CA|Nov 04",
+      "Penn Engineering|AI & Data Intern|United States|Nov 10",
       "Perspective Therapeutics|AI Innovation Intern|Seattle, WA|Oct 27",
       "Philadelphia Gas Works|Data and Analytics Intern|Philadelphia, PA|Nov 08",
       "Phillips 66|ERI Analytical Solutions Intern|Bartlesville, OK|Oct 13",
