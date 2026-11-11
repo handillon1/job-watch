@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "522eeb1ffab96ebd77c20c9bfa0304894d9b3d5d",
+    "last_sha": "afadef7dfe3d05e5d201fe3d6b84b4083d9dc03b",
     "rows": [
       [
         "DwyerOmega",
@@ -12001,7 +12001,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "522eeb1ffab96ebd77c20c9bfa0304894d9b3d5d",
+    "last_sha": "afadef7dfe3d05e5d201fe3d6b84b4083d9dc03b",
     "rows": [
       [
         "TikTok",
@@ -12100,6 +12100,13 @@
         "Remote United States",
         "Nov 10",
         "https://go.vansh.nyc/1sB?s=y"
+      ],
+      [
+        "Compeer Financial",
+        "Data Analytics Intern \ud83d\udec2",
+        "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
+        "Nov 10",
+        "https://go.vansh.nyc/1sL?s=y"
       ],
       [
         "Clarios",
@@ -13915,13 +13922,6 @@
         "https://go.vansh.nyc/ch?s=y"
       ],
       [
-        "GlobalFoundries",
-        "AI/ML Systems Engineering Intern",
-        "Richardson, TX",
-        "Oct 19",
-        "https://go.vansh.nyc/bh?s=y"
-      ],
-      [
         "Constellation Brands",
         "AI Enablement Intern",
         "Rochester, NY",
@@ -15525,6 +15525,13 @@
         ""
       ],
       [
+        "GlobalFoundries",
+        "AI/ML Systems Engineering Intern",
+        "Richardson, TX",
+        "Oct 19",
+        ""
+      ],
+      [
         "Seagate Technology",
         "Recording Media R&D Intern, AI & Data Science",
         "Fremont, CA",
@@ -16087,6 +16094,7 @@
       "CoVar|Machine Learning Intern|Durham, NC|Sep 16",
       "Coinbase|Analytics Engineer Intern|San Francisco, CA|Sep 08",
       "Coinbase|Data Science Intern, Strategy, Execution, & Analytics Platform|San Francisco, CA|Sep 08",
+      "Compeer Financial|Data Analytics Intern|**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL|Nov 10",
       "Concord Advice|Data Scientist Intern|Florham Park, NJ|Nov 05",
       "ConnectPrep|Data Analyst Intern|Remote United States|Oct 25",
       "Constellation Brands|AI & Automation Engineering Intern|Rochester, NY|Nov 04",
