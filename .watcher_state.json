@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "c8828224f6a3bad363743ad3a67225d81686ffa0",
+    "last_sha": "a941812716fb66f6242bc0b08dec682042ae1db3",
     "rows": [
       [
         "DwyerOmega",
@@ -11997,8 +11997,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "c8828224f6a3bad363743ad3a67225d81686ffa0",
+    "last_sha": "a941812716fb66f6242bc0b08dec682042ae1db3",
     "rows": [
+      [
+        "State of Wisconsin Investment Board",
+        "Data Analytics Engineering Intern",
+        "Madison, WI",
+        "Nov 11",
+        "https://go.vansh.nyc/1uG?s=y"
+      ],
       [
         "TikTok",
         "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
@@ -12033,13 +12040,6 @@
         "United States",
         "Nov 10",
         "https://go.vansh.nyc/1rc?s=y"
-      ],
-      [
-        "Jabil",
-        "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
-        "St. Petersburg, FL Tampa, FL",
-        "Nov 10",
-        "https://go.vansh.nyc/1rC?s=y"
       ],
       [
         "International",
@@ -14044,13 +14044,6 @@
         "https://go.vansh.nyc/Rn?s=y"
       ],
       [
-        "Celestica",
-        "AI / Data Science Intern",
-        "San Jose, CA",
-        "Oct 18",
-        "https://go.vansh.nyc/QY?s=y"
-      ],
-      [
         "Campbell Soup Company",
         "Data Science Intern",
         "Camden, NJ",
@@ -15017,6 +15010,13 @@
         ""
       ],
       [
+        "Jabil",
+        "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+        "St. Petersburg, FL Tampa, FL",
+        "Nov 10",
+        ""
+      ],
+      [
         "CTGT",
         "AI Evaluation Research Intern",
         "San Francisco, CA",
@@ -15671,6 +15671,13 @@
         "Creative Artists Agency",
         "Data Analytics Intern",
         "Denver, CO",
+        "Oct 18",
+        ""
+      ],
+      [
+        "Celestica",
+        "AI / Data Science Intern",
+        "San Jose, CA",
         "Oct 18",
         ""
       ],
@@ -16521,6 +16528,7 @@
       "Space Dynamics Laboratory|AI-Enabled Requirements Engineering Intern|North Logan, UT|Oct 20",
       "Springs Window Fashions|AI Intern, Information Technology|Middleton, WI|Sep 03",
       "Springs Window Fashions|Textile Engineering Analytics & Software Intern|Middleton, WI|Nov 07",
+      "State of Wisconsin Investment Board|Data Analytics Engineering Intern|Madison, WI|Nov 11",
       "Stifel|Data Analyst Intern|Saint Louis, MO|Oct 20",
       "Stryker|Data Analytics Intern|Fort Wayne, IN|Sep 21",
       "Sun Life|Data Science Intern|**5 locations**Milwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|Oct 22",
