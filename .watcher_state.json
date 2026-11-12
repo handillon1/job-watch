@@ -4641,7 +4641,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "b720ea4c75c61513597dd084aed1a5f3429b17b9",
+    "last_sha": "b6d0d097122a4aa9ed5796b3ed456445d82e2d50",
     "rows": [
       [
         "Ribbon",
@@ -5104,6 +5104,13 @@
         "Austin, TX",
         "Spring 2027",
         "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Rivian",
+        "Supply Chain Data, AI and Business Intelligence Co-op Intern \ud83c\udf93",
+        "Normal, IL",
+        "Winter 2027",
+        "https://careers.rivian.com/jobs/33800?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Cotiviti",
@@ -5733,13 +5740,6 @@
         "Collections Data Analyst Intern",
         "Remote in USA",
         "Spring 2027",
-        ""
-      ],
-      [
-        "Rivian",
-        "Supply Chain Data, AI and Business Intelligence Co-op Intern \ud83c\udf93",
-        "Normal, IL",
-        "Winter 2027",
         ""
       ],
       [
@@ -9601,8 +9601,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "b720ea4c75c61513597dd084aed1a5f3429b17b9",
+    "last_sha": "b6d0d097122a4aa9ed5796b3ed456445d82e2d50",
     "rows": [
+      [
+        "\ud83d\udd25 Microsoft",
+        "Data Scientist Intern - CoreAI",
+        "Redmond, WA",
+        "",
+        "https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 Airbnb",
         "Advanced Analytics Intern \ud83c\udf93",
@@ -11767,6 +11774,7 @@
       "MetOx International|Data Science Intern - Spring 2027|Houston, TX|",
       "Meta|Data Scientist Intern - Product Analytics|Menlo Park, CA NYC|",
       "Meta|Data Scientist Intern - Product Analytics|Menlo Park, CA|",
+      "Microsoft|Data Scientist Intern - CoreAI|Redmond, WA|",
       "Molina Healthcare|Customer Experience & Analytics Intern - Undergraduate|Remote in USA|",
       "Molina Healthcare|Data Analytics Intern|United States|",
       "Momentive|Data Science Intern - Enterprise Reporting & Analytics|Niskayuna, NY|",
