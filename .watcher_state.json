@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f3c5787084bd41a8d21bc04876ed27420f1103cf",
+    "last_sha": "cd2a031f3eefd4cc3ef711f8df298360c808d05b",
     "rows": [
       [
         "Fresenius Medical Care",
@@ -12061,7 +12061,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f3c5787084bd41a8d21bc04876ed27420f1103cf",
+    "last_sha": "cd2a031f3eefd4cc3ef711f8df298360c808d05b",
     "rows": [
       [
         "Stratolaunch",
@@ -12993,13 +12993,6 @@
         "Niskayuna, NY",
         "Nov 02",
         "https://go.vansh.nyc/1cF?s=y"
-      ],
-      [
-        "Micron Technology",
-        "AI Engineering Intern, SMAI TD",
-        "Boise, ID",
-        "Nov 02",
-        "https://go.vansh.nyc/1d5?s=y"
       ],
       [
         "Johnson & Johnson",
@@ -15280,6 +15273,13 @@
         "NJM Insurance Group",
         "IT Data Science Intern",
         "Trenton, NJ",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "AI Engineering Intern, SMAI TD",
+        "Boise, ID",
         "Nov 02",
         ""
       ],
