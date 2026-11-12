@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "322faff6d1ff58137336b97daaddce1ec2b0a76f",
+    "last_sha": "b087587cdddd0c3b4a022235c06dd5bc847596e5",
     "rows": [
       [
         "Sanofi",
@@ -12034,7 +12034,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "322faff6d1ff58137336b97daaddce1ec2b0a76f",
+    "last_sha": "b087587cdddd0c3b4a022235c06dd5bc847596e5",
     "rows": [
       [
         "The Marzetti Company",
@@ -12469,13 +12469,6 @@
         "Bellevue, WA",
         "Nov 06",
         "https://go.vansh.nyc/1l9?s=y"
-      ],
-      [
-        "T-Mobile",
-        "AI Engineering Intern",
-        "Bellevue, WA",
-        "Nov 06",
-        "https://go.vansh.nyc/1kC?s=y"
       ],
       [
         "Samsung",
@@ -14361,13 +14354,6 @@
         "https://go.vansh.nyc/C3?s=y"
       ],
       [
-        "General Motors",
-        "Research and Development Intern, AI/Machine Learning",
-        "Mountain View, CA",
-        "Oct 12",
-        "https://go.vansh.nyc/8d?s=y"
-      ],
-      [
         "Garmin",
         "Data Scientist Intern",
         "Louisville, CO",
@@ -15051,6 +15037,13 @@
         "AI Evaluation Research Intern",
         "San Francisco, CA",
         "Nov 09",
+        ""
+      ],
+      [
+        "T-Mobile",
+        "AI Engineering Intern",
+        "Bellevue, WA",
+        "Nov 06",
         ""
       ],
       [
@@ -15925,6 +15918,13 @@
         "KLA",
         "AI/ML Software Engineer Intern",
         "Ann Arbor, MI",
+        "Oct 12",
+        ""
+      ],
+      [
+        "General Motors",
+        "Research and Development Intern, AI/Machine Learning",
+        "Mountain View, CA",
         "Oct 12",
         ""
       ],
