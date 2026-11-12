@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "cd2a031f3eefd4cc3ef711f8df298360c808d05b",
+    "last_sha": "38e99b4a74a51e658688af2803e1ce6bfb512ece",
     "rows": [
       [
         "Fresenius Medical Care",
@@ -12026,7 +12026,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "cd2a031f3eefd4cc3ef711f8df298360c808d05b",
+    "last_sha": "38e99b4a74a51e658688af2803e1ce6bfb512ece",
     "rows": [
       [
         "Stratolaunch",
@@ -12055,6 +12055,13 @@
         "United States",
         "Nov 12",
         "https://go.vansh.nyc/1xu?s=y"
+      ],
+      [
+        "Encore Global",
+        "IT Data Analyst Intern",
+        "Schiller Park, IL",
+        "Nov 12",
+        "https://go.vansh.nyc/1xN?s=y"
       ],
       [
         "The Marzetti Company",
@@ -12104,6 +12111,13 @@
         "Mentor, OH",
         "Nov 11",
         "https://go.vansh.nyc/1x5?s=y"
+      ],
+      [
+        "Kudu Dynamics",
+        "Junior Software Engineer/Data Scientist Intern \ud83c\uddfa\ud83c\uddf8",
+        "Tucson, AZ",
+        "Nov 11",
+        "https://go.vansh.nyc/1xK?s=y"
       ],
       [
         "Koniag Cyber Solutions",
@@ -12156,10 +12170,24 @@
       ],
       [
         "CarGurus",
+        "Product Data Analyst Intern",
+        "Boston, MA",
+        "Nov 11",
+        "https://go.vansh.nyc/1xI?s=y"
+      ],
+      [
+        "CarGurus",
         "Data Analytics Engineer Intern",
         "Boston, MA",
         "Nov 11",
         "https://go.vansh.nyc/1xc?s=y"
+      ],
+      [
+        "Blue Cross Blue Shield of Michigan",
+        "Data Science / Biostatistician Intern",
+        "Detroit, MI",
+        "Nov 11",
+        "https://go.vansh.nyc/1xL?s=y"
       ],
       [
         "Bloom Energy",
@@ -12258,13 +12286,6 @@
         "New York, NY",
         "Nov 10",
         "https://go.vansh.nyc/1qN?s=y"
-      ],
-      [
-        "General Motors",
-        "Machine Learning Engineer Intern, Embodied AI",
-        "Sunnyvale, CA",
-        "Nov 10",
-        "https://go.vansh.nyc/1rQ?s=y"
       ],
       [
         "General Dynamics Information Technology",
@@ -12370,13 +12391,6 @@
         "New York, NY",
         "Nov 09",
         "https://go.vansh.nyc/1oE?s=y"
-      ],
-      [
-        "National Interstate Insurance",
-        "Telematics / Predictive Analytics Intern \ud83d\udec2",
-        "Cincinnati, OH",
-        "Nov 09",
-        "https://go.vansh.nyc/1pj?s=y"
       ],
       [
         "Kiewit",
@@ -12862,18 +12876,18 @@
         "https://go.vansh.nyc/1ep?s=y"
       ],
       [
-        "Dairyland Power Cooperative",
-        "Energy Data Analyst Intern",
-        "La Crosse, WI",
-        "Nov 03",
-        "https://go.vansh.nyc/1f1?s=y"
-      ],
-      [
         "Wellmark",
         "Software Engineer Intern, AI Platform Team",
         "Des Moines, IA",
         "Nov 02",
         "https://go.vansh.nyc/1bl?s=y"
+      ],
+      [
+        "US Internships Public Careers Site",
+        "Undergraduate Software Development Engineer in Test Intern, AI/ML",
+        "San Mateo, CA",
+        "Nov 02",
+        "https://go.vansh.nyc/1xE?s=y"
       ],
       [
         "Terranova",
@@ -13581,13 +13595,6 @@
         "Austin, TX Santa Clara, CA",
         "Oct 28",
         "https://go.vansh.nyc/Xp?s=y"
-      ],
-      [
-        "Micron Technology",
-        "Data Science Intern",
-        "San Jose, CA Folsom, CA",
-        "Oct 28",
-        "https://go.vansh.nyc/XF?s=y"
       ],
       [
         "Metova Federal",
@@ -15088,6 +15095,13 @@
         ""
       ],
       [
+        "General Motors",
+        "Machine Learning Engineer Intern, Embodied AI",
+        "Sunnyvale, CA",
+        "Nov 10",
+        ""
+      ],
+      [
         "Compeer Financial",
         "Data Analytics Intern \ud83d\udec2",
         "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
@@ -15105,6 +15119,13 @@
         "Zoetis",
         "AI Architecture, Enablement & Tools Intern, AI Capabilities",
         "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        ""
+      ],
+      [
+        "National Interstate Insurance",
+        "Telematics / Predictive Analytics Intern \ud83d\udec2",
+        "Cincinnati, OH",
         "Nov 09",
         ""
       ],
@@ -15196,6 +15217,13 @@
         "First Citizens BancShares",
         "Applied AI Intern",
         "Raleigh, NC",
+        "Nov 03",
+        ""
+      ],
+      [
+        "Dairyland Power Cooperative",
+        "Energy Data Analyst Intern",
+        "La Crosse, WI",
         "Nov 03",
         ""
       ],
@@ -15455,6 +15483,13 @@
         "Regeneron Pharmaceuticals",
         "Genomics, Computational Biology & Translational Data Science Intern",
         "Tarrytown, NY Sleepy Hollow, NY",
+        "Oct 28",
+        ""
+      ],
+      [
+        "Micron Technology",
+        "Data Science Intern",
+        "San Jose, CA Folsom, CA",
         "Oct 28",
         ""
       ],
@@ -16356,6 +16391,7 @@
       "Bloom Energy|AI Solutions Engineer Intern|San Jose, CA|Nov 11",
       "Bloom Energy|Data Science Intern|San Jose, CA|Nov 11",
       "Bloom Energy|RMCC Data Science Intern|San Jose, CA|Nov 11",
+      "Blue Cross Blue Shield of Michigan|Data Science / Biostatistician Intern|Detroit, MI|Nov 11",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
       "Booz Allen Hamilton|Data Scientist Intern|Colorado Springs, CO|Nov 02",
       "Booz Allen Hamilton|Data Scientist Intern|Detroit, MI|Nov 02",
@@ -16397,6 +16433,7 @@
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|Oct 12",
       "Capital One|Data Analyst Intern|Mclean, VA|Jul 07",
       "CarGurus|Data Analytics Engineer Intern|Boston, MA|Nov 11",
+      "CarGurus|Product Data Analyst Intern|Boston, MA|Nov 11",
       "CareSource|AI Intern|Remote United States|Oct 28",
       "CareSource|Data Analyst Intern|Remote United States|Nov 05",
       "CareSource|Data Science Intern|Remote United States|Nov 03",
@@ -16467,6 +16504,7 @@
       "Elas|Data Science Intern|Pleasanton, CA|Nov 10",
       "Elevance Health|Data Analytics Intern|**4 locations**Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|Oct 01",
       "Elire|AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data|Remote United States Minneapolis, MN|Sep 15",
+      "Encore Global|IT Data Analyst Intern|Schiller Park, IL|Nov 12",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|Nov 06",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
       "Epic Games|AI Programmer Intern|Cary, NC|Nov 09",
@@ -16592,6 +16630,7 @@
       "Kiewit|Machine Learning Intern, Kiewit Data Services|Omaha, NE|Nov 09",
       "Koniag Cyber Solutions|AI Operations Intern|Minneapolis, MN|Nov 11",
       "Kudu Dynamics|AI/Automation Development Intern, Assessment & Authorization|Remote United States|Nov 06",
+      "Kudu Dynamics|Junior Software Engineer/Data Scientist Intern|Tucson, AZ|Nov 11",
       "Kudu Dynamics|Software Engineering & AI Intern|**4 locations**Remote United States Odenton, MD Shiloh, IL|Nov 04",
       "L.L.Bean|Business Analyst/Data Analyst Intern|Freeport, ME|Nov 05",
       "LG AI Research|AI Scientist/Engineer Intern|Ann Arbor, MI|Sep 28",
@@ -16843,6 +16882,7 @@
       "Trinity Life Sciences|Data Science Intern|Waltham, MA New York, NY|Oct 26",
       "TruStage|IT Intern, Innovation & AI Technology|Madison, WI|Nov 03",
       "UL Solutions|Data Science Intern|Northbrook, IL Chicago, IL|Sep 28",
+      "US Internships Public Careers Site|Undergraduate Software Development Engineer in Test Intern, AI/ML|San Mateo, CA|Nov 02",
       "USAFacts|AI & Software Engineering Intern|Bellevue, WA|Oct 30",
       "Unity|Machine Learning Engineer Intern|Mountain View, CA|Oct 12",
       "Universal Health Services|Software Engineer Intern, Data Analytics|King of Prussia, PA|Sep 02",
