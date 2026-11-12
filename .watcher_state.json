@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "e4d2aa66409b831532a581e519607ec562272b79",
+    "last_sha": "f3c5787084bd41a8d21bc04876ed27420f1103cf",
     "rows": [
       [
         "Fresenius Medical Care",
@@ -12061,14 +12061,42 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "e4d2aa66409b831532a581e519607ec562272b79",
+    "last_sha": "f3c5787084bd41a8d21bc04876ed27420f1103cf",
     "rows": [
+      [
+        "Stratolaunch",
+        "Business Intelligence & Systems Analyst Intern \ud83c\uddfa\ud83c\uddf8",
+        "Mojave, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1xv?s=y"
+      ],
       [
         "Microsoft",
         "Data Scientist Intern, CoreAI",
         "Redmond, WA",
         "Nov 12",
         "https://go.vansh.nyc/1wj?s=y"
+      ],
+      [
+        "Intermountain Healthcare",
+        "AI/ML Engineer Intern",
+        "United States",
+        "Nov 12",
+        "https://go.vansh.nyc/1xt?s=y"
+      ],
+      [
+        "Intermountain Healthcare",
+        "Machine Learning Operations (MLOps) Intern",
+        "United States",
+        "Nov 12",
+        "https://go.vansh.nyc/1xu?s=y"
+      ],
+      [
+        "The Marzetti Company",
+        "IT Analytics Intern",
+        "United States",
+        "Nov 11",
+        "https://go.vansh.nyc/1xl?s=y"
       ],
       [
         "The Marzetti Company",
@@ -12106,6 +12134,34 @@
         "https://go.vansh.nyc/1vZ?s=y"
       ],
       [
+        "Mum Industries",
+        "Business Intelligence & Data Analytics Intern",
+        "Mentor, OH",
+        "Nov 11",
+        "https://go.vansh.nyc/1x5?s=y"
+      ],
+      [
+        "Koniag Cyber Solutions",
+        "AI Operations Intern",
+        "Minneapolis, MN",
+        "Nov 11",
+        "https://go.vansh.nyc/1x7?s=y"
+      ],
+      [
+        "Johns Hopkins Applied Physics Laboratory",
+        "AI & Data Science Intern, Analytic Capabilities",
+        "United States",
+        "Nov 11",
+        "https://go.vansh.nyc/1xh?s=y"
+      ],
+      [
+        "Ingersoll Rand",
+        "AI Engineer Intern",
+        "United States",
+        "Nov 11",
+        "https://go.vansh.nyc/1x4?s=y"
+      ],
+      [
         "ICF",
         "Data Analytics Intern",
         "Reston, VA Remote United States",
@@ -12132,6 +12188,13 @@
         "West Des Moines, IA",
         "Nov 11",
         "https://go.vansh.nyc/1vq?s=y"
+      ],
+      [
+        "CarGurus",
+        "Data Analytics Engineer Intern",
+        "Boston, MA",
+        "Nov 11",
+        "https://go.vansh.nyc/1xc?s=y"
       ],
       [
         "Bloom Energy",
@@ -12223,13 +12286,6 @@
         "Remote United States",
         "Nov 10",
         "https://go.vansh.nyc/1sf?s=y"
-      ],
-      [
-        "Highmark Health",
-        "Data Analyst enGen Undergraduate Intern",
-        "Pittsburgh, PA",
-        "Nov 10",
-        "https://go.vansh.nyc/1qu?s=y"
       ],
       [
         "Grey State Apparel",
@@ -15067,6 +15123,13 @@
         ""
       ],
       [
+        "Highmark Health",
+        "Data Analyst enGen Undergraduate Intern",
+        "Pittsburgh, PA",
+        "Nov 10",
+        ""
+      ],
+      [
         "Compeer Financial",
         "Data Analytics Intern \ud83d\udec2",
         "**5 locations**Lakeville, MN Mankato, MN Rochester, MN Eau Claire, WI Bloomington, IL",
@@ -16368,6 +16431,7 @@
       "Campbell Soup Company|Data Science Intern|Camden, NJ|Oct 18",
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|Oct 12",
       "Capital One|Data Analyst Intern|Mclean, VA|Jul 07",
+      "CarGurus|Data Analytics Engineer Intern|Boston, MA|Nov 11",
       "CareSource|AI Intern|Remote United States|Oct 28",
       "CareSource|Data Analyst Intern|Remote United States|Nov 05",
       "CareSource|Data Science Intern|Remote United States|Nov 03",
@@ -16514,6 +16578,7 @@
       "ID.me|Analytics Engineer Intern|Mountain View, CA|Oct 23",
       "IMC Trading|Machine Learning Engineer Intern|New York, NY|Oct 08",
       "ITT|Data Analytics / AI Intern|Irvine, CA|Nov 06",
+      "Ingersoll Rand|AI Engineer Intern|United States|Nov 11",
       "Ingredion|AI & Data Scientist Intern|Westchester, IL|Nov 02",
       "Ingredion|Global Supply Chain Data Science Intern|Westchester, IL|Nov 02",
       "Inmar Intelligence|Data Science Intern|Raleigh, NC Winston-Salem, NC|Oct 19",
@@ -16522,6 +16587,8 @@
       "Intercontinental Exchange, Inc.|Artificial Intelligence, Data & Machine Learning Intern|New York, NY|Apr 20",
       "Intercontinental Exchange|Agentic AI Data Science Intern|Jacksonville, FL|Oct 30",
       "Intercontinental Exchange|Data Science Intern|New York, NY|Oct 30",
+      "Intermountain Healthcare|AI/ML Engineer Intern|United States|Nov 12",
+      "Intermountain Healthcare|Machine Learning Operations (MLOps) Intern|United States|Nov 12",
       "International|Artificial Intelligence/Machine Learning Intern|Lisle, IL|Nov 10",
       "Intuitive|AI/ML Engineer Intern|Sunnyvale, CA|Nov 02",
       "Intuitive|Data Science Intern|Sunnyvale, CA|Nov 02",
@@ -16543,6 +16610,7 @@
       "John Deere|Process Automation Intern, Data and Analytics|Greeneville, TN|Oct 16",
       "Johns Hopkins APL|AI & Data Science Intern, Analytic Capabilities|Laurel, MD|Nov 09",
       "Johns Hopkins APL|Artificial Intelligence Intern, Information Fusion|Laurel, MD|Nov 09",
+      "Johns Hopkins Applied Physics Laboratory|AI & Data Science Intern, Analytic Capabilities|United States|Nov 11",
       "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence and Machine Learning Research Assistant Intern|Laurel, MD|Sep 25",
       "Johnson & Johnson|Data Science Co-op|Cincinnati, OH|Nov 02",
       "Johnson & Johnson|Quality Data Science Co-op|Cincinnati, OH|Oct 19",
@@ -16557,6 +16625,7 @@
       "Keysight Technologies|Data Scientist Intern|Santa Rosa, CA|Oct 04",
       "Kiewit|Machine Learning Intern, Kiewit Data Services|La Vista, NE|Nov 10",
       "Kiewit|Machine Learning Intern, Kiewit Data Services|Omaha, NE|Nov 09",
+      "Koniag Cyber Solutions|AI Operations Intern|Minneapolis, MN|Nov 11",
       "Kudu Dynamics|AI/Automation Development Intern, Assessment & Authorization|Remote United States|Nov 06",
       "Kudu Dynamics|Software Engineering & AI Intern|**4 locations**Remote United States Odenton, MD Shiloh, IL|Nov 04",
       "L.L.Bean|Business Analyst/Data Analyst Intern|Freeport, ME|Nov 05",
@@ -16603,6 +16672,7 @@
       "Molina Healthcare|Data Analytics Internship (Remote) \u2013(Undergraduate)|United States|Oct 29",
       "Momentive|Data Science Intern, Enterprise Reporting & Analytics|Niskayuna, NY|Nov 02",
       "Moody's|Applied AI & Analytics Intern|Newark, NJ|Nov 05",
+      "Mum Industries|Business Intelligence & Data Analytics Intern|Mentor, OH|Nov 11",
       "NBCUniversal|Data Science Intern, Advertising & Partnerships|New York, NY|Nov 09",
       "NBCUniversal|Data, AI & Machine Learning Intern, Media Tech|New York, NY|Nov 09",
       "NBCUniversal|Data, AI & Machine Learning Intern, Media Tech|Universal City, CA|Nov 09",
@@ -16728,6 +16798,7 @@
       "State of Wisconsin Investment Board|Data Analytics Engineering Intern|Madison, WI|Nov 11",
       "StepStone Group|AI Quant Analyst Intern|La Jolla, CA San Diego, CA|Nov 11",
       "Stifel|Data Analyst Intern|Saint Louis, MO|Oct 20",
+      "Stratolaunch|Business Intelligence & Systems Analyst Intern|Mojave, CA|Nov 12",
       "Stryker|Data Analytics Intern|Fort Wayne, IN|Sep 21",
       "Sun Life|Data Science Intern|**5 locations**Milwaukee, WI Kansas City, MO Hartford, CT Portland, ME Wellesley, MA|Oct 22",
       "Susquehanna International Group|Machine Learning Engineering Intern|Bala Cynwyd, PA|Oct 18",
@@ -16750,6 +16821,7 @@
       "The Hartford|Data Engineer Intern, Technology, Data, AI, and Operations|Hartford, CT|Aug 23",
       "The Marzetti Company|AI Solutions Intern, Human Resources|Columbus, OH|Nov 11",
       "The Marzetti Company|IT Analytics Intern|Columbus, OH|Sep 21",
+      "The Marzetti Company|IT Analytics Intern|United States|Nov 11",
       "The Mosaic Company|Artificial Intelligence Co-op|Tampa, FL|Nov 03",
       "The New York Times|Data Analyst Intern|New York, NY|Nov 09",
       "The New York Times|ML Scientist Intern|New York, NY|Nov 09",
