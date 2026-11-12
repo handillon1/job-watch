@@ -4633,7 +4633,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3942d2fe1f0341b50193c191a8315165f627fc18",
+    "last_sha": "cbbd3e5e462adaf92c7d3951b1a19053b0da7dff",
     "rows": [
       [
         "Ribbon",
@@ -9593,8 +9593,36 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3942d2fe1f0341b50193c191a8315165f627fc18",
+    "last_sha": "cbbd3e5e462adaf92c7d3951b1a19053b0da7dff",
     "rows": [
+      [
+        "\ud83d\udd25 Airbnb",
+        "Advanced Analytics Intern \ud83c\udf93",
+        "Remote in USA",
+        "",
+        "https://careers.airbnb.com/positions/8380007?gh_jid=8380007&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Riot Games",
+        "Machine Learning Engineer Intern \ud83c\udf93",
+        "Remote in USA",
+        "",
+        "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "State of Wisconsin Investment Board",
+        "Data Analytics Engineering Intern",
+        "Madison, WI",
+        "",
+        "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Panera Bread",
+        "Data Science & AI Analytics Intern",
+        "Newton, MA",
+        "",
+        "https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Art of Problem Solving",
         "Data Science Intern",
@@ -10814,6 +10842,13 @@
         "https://www.metacareers.com/jobs/929757023499411?utm_source=Simplify&ref=Simplify"
       ],
       [
+        "ICF International",
+        "Data Analytics Intern",
+        "Reston, VA",
+        "",
+        "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
         "Auto-Owners Insurance",
         "Business Intelligence Engineer Intern",
         "Lansing, MI",
@@ -10966,6 +11001,13 @@
         "Sunnyvale, CA",
         "",
         "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Cigna Group",
+        "Product Analytics Intern",
+        "Morris Plains, NJ St. Louis, MO",
+        "",
+        "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180?utm_source=Simplify&ref=Simplify"
       ],
       [
         "MetLife",
@@ -11155,6 +11197,13 @@
         "Memphis, TN",
         "",
         "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Farmers Mutual Hail",
+        "AI Intern",
+        "West Des Moines, IA",
+        "",
+        "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 TikTok",
@@ -11391,6 +11440,7 @@
       "APEX Analytix|Data Science Intern|Greensboro, NC|",
       "Adobe|Machine Learning Engineer Intern|6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT|",
       "AeroVironment|Machine Learning Intern|Centreville, VA Minneapolis, MN|",
+      "Airbnb|Advanced Analytics Intern|Remote in USA|",
       "Airbus|Operational Excellence Analyst Intern - Data Analytics - Operational Excellence|Mobile, AL|",
       "Allen Control Systems|Computer Vision Intern - Machine Learning|Austin, TX|",
       "Altar'd State|IT Analytics Intern|Knoxville, TN|",
@@ -11580,6 +11630,7 @@
       "FHLBank Chicago|AI Intern|Chicago, IL|",
       "Fannie Mae|Data Science Intern - Analytics & Modeling Program|Washington, DC|",
       "Fannie Mae|Finance Analytics Intern - Analytics & Modeling Program|Washington, DC|",
+      "Farmers Mutual Hail|AI Intern|West Des Moines, IA|",
       "Federal Home Loan Bank of Indianapolis|Business Intelligence Intern|Indianapolis, IN|",
       "Federal Home Loan Bank of Indianapolis|MPP Data Analytics Intern|Indianapolis, IN|",
       "Field AI|Robotics Research Intern - Embodied AI|Irvine, CA|",
@@ -11763,6 +11814,7 @@
       "Paccar|Sales Administration Data Analyst Intern - Greenhouse Gas|Denton, TX|",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|",
       "Pacific Northwest National Laboratory|NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference|Seattle, WA Richland, WA|",
+      "Panera Bread|Data Science & AI Analytics Intern|Newton, MA|",
       "Pangram Labs|AI Research Intern|NYC Brooklyn, NY|",
       "Papa John's|Data Science Intern|Atlanta, GA|",
       "ParetoHealth|Analytics Intern|Philadelphia, PA|",
@@ -11811,6 +11863,7 @@
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Chicago, IL|",
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Indianapolis, IN|",
       "Revantage Corporate Services|Insurance Technology & AI Analytics Intern|Dallas, TX Chicago, IL|",
+      "Riot Games|Machine Learning Engineer Intern|Remote in USA|",
       "Robert Bosch Venture Capital|Calibration Process Data Science Intern - 8 months/40 hours per week|Farmington Hills, MI|",
       "Robinhood|Data Science Intern|Menlo Park, CA|",
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|",
@@ -11848,6 +11901,7 @@
       "State Farm|Data Science Intern - Magnet Program|Tempe, AZ|",
       "State Farm|Financial Operations Data Analytics Intern|4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL|",
       "State Farm|P&C Actuarial & Underwriting Modeling Intern - Data Scientist|4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL|",
+      "State of Wisconsin Investment Board|Data Analytics Engineering Intern|Madison, WI|",
       "Strada Education Foundation|Clear Outcomes and Data Science Intern|Washington, DC|",
       "Stripe|Machine Learning Engineer Intern|Seattle, WA SF NYC|",
       "Stryker|Data Analytics Intern - Multiple Teams|Portage, MI|",
