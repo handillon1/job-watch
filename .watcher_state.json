@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "862761bfb27168f05ab43a3650bd870a775767cc",
+    "last_sha": "bd97e4ffef0565d6503951be300cf5eed41a8543",
     "rows": [
+      [
+        "Fresenius Medical Care",
+        "Agentic AI Analytics Co-op",
+        "Lawrence, MA",
+        "Nov 12",
+        "https://go.vansh.nyc/1wv?s=z"
+      ],
       [
         "Sanofi",
         "Data Science & Digital Transformation Co-op",
@@ -1293,6 +1300,7 @@
       "First Solar (US)|Data Science Intern|Perrysburg, OH|Sep 25",
       "Flagship Pioneering|AI/ML Engineering Co-op, SAGE Platform|Cambridge, MA|Oct 23",
       "Flextronics International|Manufacturing Data & Analytics Co-op|Libertyville, IL|Nov 02",
+      "Fresenius Medical Care|Agentic AI Analytics Co-op|Lawrence, MA|Nov 12",
       "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)|Data Analyst Intern|Cincinnati, OH|Oct 30",
       "GE Aerospace|Artificial Intelligence Intern|Remote United States|Nov 01",
       "GE Aerospace|Data Science Co-op, Flight Analytics Platform|Austin, TX|Sep 20",
@@ -12035,7 +12043,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "862761bfb27168f05ab43a3650bd870a775767cc",
+    "last_sha": "bd97e4ffef0565d6503951be300cf5eed41a8543",
     "rows": [
       [
         "Microsoft",
@@ -12064,6 +12072,13 @@
         "Madison, WI",
         "Nov 11",
         "https://go.vansh.nyc/1uG?s=y"
+      ],
+      [
+        "SharkNinja",
+        "Data Science Intern",
+        "Needham, MA",
+        "Nov 11",
+        "https://go.vansh.nyc/1wu?s=y"
       ],
       [
         "ServiceNow",
@@ -12253,20 +12268,6 @@
         "New York, NY",
         "Nov 10",
         "https://go.vansh.nyc/1rX?s=y"
-      ],
-      [
-        "Zoetis",
-        "AI Architecture, Enablement & Tools Intern, AI Capabilities",
-        "Remote United States Kalamazoo, MI",
-        "Nov 09",
-        "https://go.vansh.nyc/1ph?s=y"
-      ],
-      [
-        "Zoetis",
-        "AI Assistant Development Intern",
-        "Parsippany, NJ",
-        "Nov 09",
-        "https://go.vansh.nyc/1oP?s=y"
       ],
       [
         "Walmart",
@@ -15048,6 +15049,20 @@
         ""
       ],
       [
+        "Zoetis",
+        "AI Assistant Development Intern",
+        "Parsippany, NJ",
+        "Nov 09",
+        ""
+      ],
+      [
+        "Zoetis",
+        "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+        "Remote United States Kalamazoo, MI",
+        "Nov 09",
+        ""
+      ],
+      [
         "CTGT",
         "AI Evaluation Research Intern",
         "San Francisco, CA",
@@ -16670,6 +16685,7 @@
       "Sephora|AI Platform Infrastructure Intern, Technology|United States|Oct 27",
       "ServiceNow|Associate AI Engineering Intern, Cloud Security Automation|Santa Clara, CA|Nov 11",
       "ServiceNow|Associate Software Engineer Intern, AI Engineering|Santa Clara, CA|Oct 13",
+      "SharkNinja|Data Science Intern|Needham, MA|Nov 11",
       "Sharp Electronics|IT AI Intern|Montvale, NJ|Nov 08",
       "Sherwin-Williams|R&D Data Science Co-op|Brecksville, OH|Oct 28",
       "Shield AI|Data Science Intern|San Diego, CA|Oct 20",
