@@ -390,15 +390,8 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "2174e3d1590cc22c4a490ef74718f3caf20583c5",
+    "last_sha": "48bb4c4c6aaa18447a0648c2092b71b0e61227cd",
     "rows": [
-      [
-        "Fresenius Medical Care",
-        "Agentic AI Analytics Co-op",
-        "Lawrence, MA",
-        "Nov 12",
-        "https://go.vansh.nyc/1wv?s=z"
-      ],
       [
         "Sanofi",
         "Data Science & Digital Transformation Co-op",
@@ -874,6 +867,13 @@
         "Fremont, CA",
         "Jul 26",
         "https://go.vansh.nyc/4S?s=z"
+      ],
+      [
+        "Fresenius Medical Care",
+        "Agentic AI Analytics Co-op",
+        "Lawrence, MA",
+        "Nov 12",
+        ""
       ],
       [
         "Kinaxis",
@@ -12062,7 +12062,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "2174e3d1590cc22c4a490ef74718f3caf20583c5",
+    "last_sha": "48bb4c4c6aaa18447a0648c2092b71b0e61227cd",
     "rows": [
       [
         "TikTok",
