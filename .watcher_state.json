@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "466c1639b37dfc71845377c1590ecfc85d1cc136",
+    "last_sha": "67e9c04c3b326b564fbe5bdd1fc1d5debc16a861",
     "rows": [
       [
         "Corteva",
@@ -12080,7 +12080,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "466c1639b37dfc71845377c1590ecfc85d1cc136",
+    "last_sha": "67e9c04c3b326b564fbe5bdd1fc1d5debc16a861",
     "rows": [
       [
         "WTW",
@@ -12095,6 +12095,20 @@
         "Lehi, UT",
         "Nov 13",
         "https://go.vansh.nyc/1yF?s=y"
+      ],
+      [
+        "Envita Solutions",
+        "Software Engineering Intern, Applied AI",
+        "Indianapolis, IN",
+        "Nov 13",
+        "https://go.vansh.nyc/1z7?s=y"
+      ],
+      [
+        "Envita Solutions",
+        "Data Scientist Intern, Applied AI",
+        "Indianapolis, IN",
+        "Nov 13",
+        "https://go.vansh.nyc/1z8?s=y"
       ],
       [
         "ASML",
@@ -12123,6 +12137,13 @@
         "Redmond, WA",
         "Nov 12",
         "https://go.vansh.nyc/1wj?s=y"
+      ],
+      [
+        "Micron Technology",
+        "AI Engineer Platform Intern",
+        "Boise, ID",
+        "Nov 12",
+        "https://go.vansh.nyc/1z5?s=y"
       ],
       [
         "Intermountain Healthcare",
@@ -13323,13 +13344,6 @@
       ],
       [
         "TikTok",
-        "Machine Learning Engineer Intern, Visual Search \ud83d\udec2",
-        "San Jose, CA",
-        "Nov 01",
-        "https://go.vansh.nyc/18j?s=y"
-      ],
-      [
-        "TikTok",
         "Data Science Project Intern, Advertisement",
         "San Jose, CA",
         "Nov 01",
@@ -13782,13 +13796,6 @@
         "Mountain View, CA",
         "Oct 27",
         "https://go.vansh.nyc/VZ?s=y"
-      ],
-      [
-        "Applied Materials",
-        "Data Science Intern",
-        "Santa Clara, CA",
-        "Oct 27",
-        "https://go.vansh.nyc/Ya?s=y"
       ],
       [
         "Applied Materials",
@@ -14981,13 +14988,6 @@
         "https://go.vansh.nyc/Ox?s=y"
       ],
       [
-        "TikTok",
-        "AI Product Manager Intern, Product Social",
-        "San Jose, CA",
-        "Aug 21",
-        "https://go.vansh.nyc/Om?s=y"
-      ],
-      [
         "The Nuclear Company",
         "AI Applied Research Intern \ud83d\udec2",
         "Washington, DC",
@@ -15416,6 +15416,13 @@
       ],
       [
         "TikTok",
+        "Machine Learning Engineer Intern, Visual Search \ud83d\udec2",
+        "San Jose, CA",
+        "Nov 01",
+        ""
+      ],
+      [
+        "TikTok",
         "Data Science Intern, TikTok LIVE",
         "San Jose, CA",
         "Nov 01",
@@ -15691,6 +15698,13 @@
         "Cencora",
         "AI Intern",
         "Conshohocken, PA",
+        "Oct 27",
+        ""
+      ],
+      [
+        "Applied Materials",
+        "Data Science Intern",
+        "Santa Clara, CA",
         "Oct 27",
         ""
       ],
@@ -16353,6 +16367,13 @@
         ""
       ],
       [
+        "TikTok",
+        "AI Product Manager Intern, Product Social",
+        "San Jose, CA",
+        "Aug 21",
+        ""
+      ],
+      [
         "American Express",
         "AI Engineer Intern, Enterprise Technology Services \ud83d\udec2",
         "Phoenix, AZ",
@@ -16645,6 +16666,8 @@
       "Encore Global|IT Data Analyst Intern|Schiller Park, IL|Nov 12",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|Nov 06",
       "Entrust|AI Developer Intern|Shakopee, MN|Nov 02",
+      "Envita Solutions|Data Scientist Intern, Applied AI|Indianapolis, IN|Nov 13",
+      "Envita Solutions|Software Engineering Intern, Applied AI|Indianapolis, IN|Nov 13",
       "Epic Games|AI Programmer Intern|Cary, NC|Nov 09",
       "Epic Games|Data Science Intern|Cary, NC|Sep 21",
       "Ericsson|AI and Automation Engineer Intern|Plano, TX|Oct 28",
@@ -16798,6 +16821,7 @@
       "Metova Federal|AI Intern|Orlando, FL|Oct 28",
       "Microchip Technology|Data Analyst Intern|Gresham, OR|Nov 04",
       "Micron Technology|AI Engineer Intern, Platform|Boise, ID|Oct 27",
+      "Micron Technology|AI Engineer Platform Intern|Boise, ID|Nov 12",
       "Micron Technology|AI Engineering Intern, SMAI TD|Boise, ID|Nov 02",
       "Micron Technology|Data Science Intern|San Jose, CA Folsom, CA|Oct 28",
       "Micron Technology|HBM Data Scientist Intern|Richardson, TX|Oct 27",
