@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "69ddb0ce75b7aba0693873b5494e1bdfdb45a53b",
+    "last_sha": "a77d222d68dfcda11da312127c132fe79e59b71b",
     "rows": [
       [
         "Corteva",
@@ -12040,7 +12040,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "69ddb0ce75b7aba0693873b5494e1bdfdb45a53b",
+    "last_sha": "a77d222d68dfcda11da312127c132fe79e59b71b",
     "rows": [
       [
         "WTW",
@@ -12062,6 +12062,13 @@
         "Raleigh, NC",
         "Nov 13",
         "https://go.vansh.nyc/1ze?s=y"
+      ],
+      [
+        "FieldPulse",
+        "AI Intern",
+        "Dallas, TX",
+        "Nov 13",
+        "https://go.vansh.nyc/1zj?s=y"
       ],
       [
         "Envita Solutions",
@@ -16645,6 +16652,7 @@
       "Farmers Mutual Hail|AI Intern|West Des Moines, IA|Nov 11",
       "FedEx Freight|Data Scientist Intern|Memphis, TN|Oct 21",
       "FedEx|Data Science Intern|Memphis, TN|Oct 30",
+      "FieldPulse|AI Intern|Dallas, TX|Nov 13",
       "First Citizens BancShares|AI Innovation Intern|Raleigh, NC|Oct 30",
       "First Citizens BancShares|Applied AI Intern|Raleigh, NC|Nov 03",
       "First Citizens BancShares|Data Analyst Intern, Enterprise Data Products|Raleigh, NC|Nov 02",
