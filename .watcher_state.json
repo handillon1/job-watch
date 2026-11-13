@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "17ab5e0a0184310ce9d9373c386a01e0c532cc0a",
+    "last_sha": "20de2638cb48646d2f0640d1a8172cefca09e7af",
     "rows": [
       [
         "Fresenius Medical Care",
@@ -12080,8 +12080,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "17ab5e0a0184310ce9d9373c386a01e0c532cc0a",
+    "last_sha": "20de2638cb48646d2f0640d1a8172cefca09e7af",
     "rows": [
+      [
+        "TikTok",
+        "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+        "San Jose, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1ym?s=y"
+      ],
       [
         "Stratolaunch",
         "Business Intelligence & Systems Analyst Intern \ud83c\uddfa\ud83c\uddf8",
@@ -12116,6 +12123,27 @@
         "Schiller Park, IL",
         "Nov 12",
         "https://go.vansh.nyc/1xN?s=y"
+      ],
+      [
+        "Bask Health",
+        "Machine Learning Engineer Intern",
+        "Remote United States",
+        "Nov 12",
+        "https://go.vansh.nyc/1yh?s=y"
+      ],
+      [
+        "Bask Health",
+        "AI Engineering Intern",
+        "Remote United States",
+        "Nov 12",
+        "https://go.vansh.nyc/1yi?s=y"
+      ],
+      [
+        "ASML",
+        "Data Scientist Intern",
+        "Wilton, CT",
+        "Nov 12",
+        "https://go.vansh.nyc/1yl?s=y"
       ],
       [
         "The Marzetti Company",
@@ -16381,6 +16409,7 @@
       "ADT|Data, Analytics & AI Intern|Boca Raton, FL|Oct 13",
       "APEX Analytix|Data Analyst Intern|Greensboro, NC|Nov 05",
       "APEX Analytix|Data Science Intern|Greensboro, NC|Nov 05",
+      "ASML|Data Scientist Intern|Wilton, CT|Nov 12",
       "ASML|Machine Learning and Image-Based EUV System Setup Intern|San Diego, CA|Nov 04",
       "ASM|Product Intelligence Engineering Intern, AI/ML|Phoenix, AZ|Nov 05",
       "Acuity|Finance AI Engineering Intern|Atlanta, GA|Sep 29",
@@ -16435,6 +16464,8 @@
       "Axiom Space|Enterprise Data Analyst Intern, Power BI & Data Quality|Houston, TX|Oct 28",
       "Axos Bank|AI Engineer Intern|San Diego, CA|Nov 02",
       "Baird|IT Data & Analytics Intern|Milwaukee, WI Madison, WI|Nov 06",
+      "Bask Health|AI Engineering Intern|Remote United States|Nov 12",
+      "Bask Health|Machine Learning Engineer Intern|Remote United States|Nov 12",
       "Bedrock Robotics|Behavior ML Engineer Intern, Learned Manipulation Policies|San Francisco, CA|Oct 02",
       "Bedrock Robotics|Behavior Machine Learning Engineer Intern, World Models|San Francisco, CA|Sep 10",
       "Bedrock Robotics|Onboard Infrastructure Engineer Intern, ML Inference|San Francisco, CA|Sep 10",
@@ -16899,6 +16930,7 @@
       "TikTok|Machine Learning Engineer Intern, App Ads and Gaming|San Jose, CA|Nov 01",
       "TikTok|Machine Learning Engineer Intern, Brand Ads|San Jose, CA|Nov 01",
       "TikTok|Machine Learning Engineer Intern, Commerce Ads|San Jose, CA|Nov 01",
+      "TikTok|Machine Learning Engineer Intern, Data-Global E-Commerce-Search|San Jose, CA|Nov 12",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Governance|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Knowledge Graph|Seattle, WA|Oct 14",
       "TikTok|Machine Learning Engineer Intern, E-Commerce Recommendation Live|Seattle, WA|Oct 14",
