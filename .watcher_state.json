@@ -4649,7 +4649,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "226e4a5002cee04f5a9d235e3698cb99ef348c2f",
+    "last_sha": "9aa9bfbd762ca6b521e3fb60a221982175cf974c",
     "rows": [
       [
         "Ribbon",
@@ -4902,13 +4902,6 @@
         "Bloomfield Hills, MI Framingham, MA Atlanta, GA",
         "Winter 2027",
         "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Winter 2027",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Enterprise Institute",
@@ -5300,6 +5293,13 @@
         "AI & Data Science Intern",
         "Champaign, IL",
         "Spring 2027",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Winter 2027",
         ""
       ],
       [
@@ -9596,8 +9596,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "226e4a5002cee04f5a9d235e3698cb99ef348c2f",
+    "last_sha": "9aa9bfbd762ca6b521e3fb60a221982175cf974c",
     "rows": [
+      [
+        "Zoox",
+        "Data Scientist Intern \ud83c\udf93",
+        "Foster City, CA",
+        "",
+        "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Stratolaunch",
         "Business Intelligence & Systems Analyst Intern",
@@ -9646,6 +9653,13 @@
         "Remote in USA",
         "",
         "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "ASML",
+        "Data Scientist Intern",
+        "Wilton, CT",
+        "",
+        "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Airbnb",
@@ -11462,6 +11476,7 @@
       "AMD|Machine Learning System Engineering Intern/Co-op|San Jose, CA Santa Clara, CA|",
       "APEX Analytix|Data Analyst Intern - Summer 2027|Greensboro, NC|",
       "APEX Analytix|Data Science Intern|Greensboro, NC|",
+      "ASML|Data Scientist Intern|Wilton, CT|",
       "Adobe|Machine Learning Engineer Intern|6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT|",
       "AeroVironment|Machine Learning Intern|Centreville, VA Minneapolis, MN|",
       "Airbnb|Advanced Analytics Intern|Remote in USA|",
@@ -12071,6 +12086,7 @@
       "Zillow|Applied Scientist Intern - Economics|Seattle, WA|",
       "Zillow|Data Science Intern|Seattle, WA|",
       "Zoox|Data Scientist Intern|Boston, MA Foster City, CA|",
+      "Zoox|Data Scientist Intern|Foster City, CA|",
       "Zurn Elkay Water Solutions|Sales Analytics Intern|Milwaukee, WI|",
       "ibotta|Business Intelligence Intern|Denver, CO|",
       "onsemi|AI & Data Analytics Intern|Scottsdale, AZ|",
