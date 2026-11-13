@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "657ec350e68e9ad0b2e4885c41db2eba2a005d66",
+    "last_sha": "ea43d906bbd9dd6b99cec48f113d982fccdbd32d",
     "rows": [
       [
         "Fresenius Medical Care",
@@ -12080,7 +12080,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "657ec350e68e9ad0b2e4885c41db2eba2a005d66",
+    "last_sha": "ea43d906bbd9dd6b99cec48f113d982fccdbd32d",
     "rows": [
       [
         "TikTok",
@@ -12123,6 +12123,13 @@
         "Schiller Park, IL",
         "Nov 12",
         "https://go.vansh.nyc/1xN?s=y"
+      ],
+      [
+        "E2 Consulting Engineers",
+        "Data Analyst Intern",
+        "San Diego, CA",
+        "Nov 12",
+        "https://go.vansh.nyc/1yp?s=y"
       ],
       [
         "Bask Health",
@@ -14722,13 +14729,6 @@
         "https://go.vansh.nyc/1eQ?s=y"
       ],
       [
-        "Affirm",
-        "Software Engineer Intern, Machine Learning",
-        "San Francisco, CA",
-        "Oct 02",
-        "https://go.vansh.nyc/1nR?s=y"
-      ],
-      [
         "New York Mets",
         "Data Science Intern",
         "Queens, NY",
@@ -16185,6 +16185,13 @@
         ""
       ],
       [
+        "Affirm",
+        "Software Engineer Intern, Machine Learning",
+        "San Francisco, CA",
+        "Oct 02",
+        ""
+      ],
+      [
         "General Motors",
         "Software Engineer Intern, AV/AI Platform",
         "Sunnyvale, CA Warren, MI",
@@ -16583,6 +16590,7 @@
       "Duolingo|Data Scientist Intern|New York, NY Pittsburgh, PA|Oct 15",
       "Duolingo|Data Scientist Intern|Pittsburgh, PA New York, NY|Oct 15",
       "DwyerOmega|Applied AI Intern|Remote United States|Nov 10",
+      "E2 Consulting Engineers|Data Analyst Intern|San Diego, CA|Nov 12",
       "EQT Corporation|AI Intern|Remote United States|Oct 27",
       "Ecolab|Digital & AI Technology Intern|Saint Paul, MN Eagan, MN Naperville, IL|Nov 03",
       "Economy Polymers & Chemicals|AI & Business Systems Automation Intern|Houston, TX|Oct 30",
