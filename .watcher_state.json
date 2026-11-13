@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7e4159c875e605fc469a5143c35911075463daa0",
+    "last_sha": "69ddb0ce75b7aba0693873b5494e1bdfdb45a53b",
     "rows": [
       [
         "Corteva",
@@ -12031,7 +12031,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7e4159c875e605fc469a5143c35911075463daa0",
+    "last_sha": "69ddb0ce75b7aba0693873b5494e1bdfdb45a53b",
     "rows": [
       [
         "WTW",
@@ -12466,13 +12466,6 @@
         "Palo Alto, CA",
         "Nov 09",
         "https://go.vansh.nyc/1pR?s=y"
-      ],
-      [
-        "Paccar",
-        "Data Analyst Intern",
-        "Chillicothe, OH",
-        "Nov 09",
-        "https://go.vansh.nyc/1oo?s=y"
       ],
       [
         "NBCUniversal",
@@ -13012,13 +13005,6 @@
         "Cary, NC",
         "Nov 02",
         "https://go.vansh.nyc/1dh?s=y"
-      ],
-      [
-        "Paccar",
-        "AI-Driven Vehicle Definition Intern",
-        "Denton, TX",
-        "Nov 02",
-        "https://go.vansh.nyc/1bj?s=y"
       ],
       [
         "onepot",
@@ -13882,13 +13868,6 @@
         "https://go.vansh.nyc/1n4?s=y"
       ],
       [
-        "Paccar",
-        "Aftersales Data Analyst Intern",
-        "Kirkland, WA",
-        "Oct 22",
-        "https://go.vansh.nyc/gB?s=y"
-      ],
-      [
         "OpenSesame",
         "AI Product Builder Intern",
         "Remote United States",
@@ -13994,13 +13973,6 @@
         "https://go.vansh.nyc/cG?s=y"
       ],
       [
-        "Paccar",
-        "Field Service Data Analyst Intern",
-        "Kirkland, WA",
-        "Oct 20",
-        "https://go.vansh.nyc/dd?s=y"
-      ],
-      [
         "Micron Technology",
         "SMAI Probe AI Engineer Intern",
         "Boise, ID",
@@ -14055,13 +14027,6 @@
         "New York, NY San Francisco, CA",
         "Oct 19",
         "https://go.vansh.nyc/br?s=y"
-      ],
-      [
-        "Paccar",
-        "Warranty Data Analyst Intern",
-        "Kirkland, WA",
-        "Oct 19",
-        "https://go.vansh.nyc/cf?s=y"
       ],
       [
         "Nissan",
@@ -14202,13 +14167,6 @@
         "Alpharetta, GA",
         "Oct 16",
         "https://go.vansh.nyc/ar?s=y"
-      ],
-      [
-        "Systems Planning and Analysis",
-        "Data Engineering & Analytics Tools Intern",
-        "Washington, DC",
-        "Oct 16",
-        "https://go.vansh.nyc/1ne?s=y"
       ],
       [
         "John Deere",
@@ -15121,6 +15079,13 @@
         ""
       ],
       [
+        "Paccar",
+        "Data Analyst Intern",
+        "Chillicothe, OH",
+        "Nov 09",
+        ""
+      ],
+      [
         "National Interstate Insurance",
         "Telematics / Predictive Analytics Intern \ud83d\udec2",
         "Cincinnati, OH",
@@ -15285,6 +15250,13 @@
         "Resideo",
         "Data Science Intern",
         "Austin, TX Golden Valley, MN",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Paccar",
+        "AI-Driven Vehicle Definition Intern",
+        "Denton, TX",
         "Nov 02",
         ""
       ],
@@ -15730,6 +15702,13 @@
         ""
       ],
       [
+        "Paccar",
+        "Aftersales Data Analyst Intern",
+        "Kirkland, WA",
+        "Oct 22",
+        ""
+      ],
+      [
         "Leidos",
         "AI/ML Intern \ud83c\uddfa\ud83c\uddf8",
         "Huntsville, AL",
@@ -15842,6 +15821,13 @@
         ""
       ],
       [
+        "Paccar",
+        "Field Service Data Analyst Intern",
+        "Kirkland, WA",
+        "Oct 20",
+        ""
+      ],
+      [
         "General Dynamics Information Technology",
         "AI and Estimation Intern",
         "Falls Church, VA",
@@ -15867,6 +15853,13 @@
         "Data Scientist Intern",
         "Columbus, OH",
         "Oct 20",
+        ""
+      ],
+      [
+        "Paccar",
+        "Warranty Data Analyst Intern",
+        "Kirkland, WA",
+        "Oct 19",
         ""
       ],
       [
@@ -15965,6 +15958,13 @@
         "Games Data Scientist Intern",
         "Lexington, MA",
         "Oct 18",
+        ""
+      ],
+      [
+        "Systems Planning and Analysis",
+        "Data Engineering & Analytics Tools Intern",
+        "Washington, DC",
+        "Oct 16",
         ""
       ],
       [
