@@ -4649,7 +4649,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "086739553e997344f446ba466a6beabfdcac890b",
+    "last_sha": "ac6ec8eff324f3595a3ba73ca16f0c216ef2acdb",
     "rows": [
       [
         "Ribbon",
@@ -4944,13 +4944,6 @@
         "Chicago, IL",
         "Spring 2027",
         "https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Nokia",
-        "AI R&D Engineer Co-op \ud83c\udf93",
-        "Sunnyvale, CA",
-        "Spring 2027",
-        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702?utm_source=Simplify&ref=Simplify"
       ],
       [
         "FM Global",
@@ -5452,6 +5445,13 @@
       [
         "Nokia",
         "AI Research and Development Engineer Co-op \ud83c\udf93",
+        "Sunnyvale, CA",
+        "Spring 2027",
+        ""
+      ],
+      [
+        "Nokia",
+        "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Spring 2027",
         ""
@@ -9596,7 +9596,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "086739553e997344f446ba466a6beabfdcac890b",
+    "last_sha": "ac6ec8eff324f3595a3ba73ca16f0c216ef2acdb",
     "rows": [
       [
         "\ud83d\udd25 TikTok",
