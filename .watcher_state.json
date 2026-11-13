@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "20abc17c93862ba9d626251d1a6ec90d131cd555",
+    "last_sha": "b8066132f4c43cc22a028238f93af09e588217dc",
     "rows": [
       [
         "Corteva",
@@ -398,6 +398,13 @@
         "Indianapolis, IN",
         "Nov 13",
         "https://go.vansh.nyc/1yB?s=z"
+      ],
+      [
+        "Carnegie Mellon University",
+        "Cyber AI Engineering Intern \ud83d\udec2",
+        "Pittsburgh, PA",
+        "Nov 13",
+        "https://go.vansh.nyc/1yV?s=z"
       ],
       [
         "Sanofi",
@@ -1290,6 +1297,7 @@
       "ByteDance|Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure|Seattle, WA|Nov 01",
       "Campbell Soup Company|Agentic AI Engineer Co-Op|Remote|Aug 21",
       "Campbell Soup Company|Data Engineer Intern, DA&AI Co-Op|Camden, NJ|Aug 21",
+      "Carnegie Mellon University|Cyber AI Engineering Intern|Pittsburgh, PA|Nov 13",
       "Charter Manufacturing|Automation & Analytics Intern|Milwaukee, WI|Nov 02",
       "Commonwealth Fusion Systems|AI & Infrastructure Engineer Intern|Devens, MA|Oct 15",
       "Core & Main|AI/ML Data Engineering Intern|St. Louis, MO|Jul 27",
@@ -12072,7 +12080,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "20abc17c93862ba9d626251d1a6ec90d131cd555",
+    "last_sha": "b8066132f4c43cc22a028238f93af09e588217dc",
     "rows": [
       [
         "WTW",
@@ -12087,6 +12095,13 @@
         "Lehi, UT",
         "Nov 13",
         "https://go.vansh.nyc/1yF?s=y"
+      ],
+      [
+        "ASML",
+        "EUV Data Science and Analytics Intern",
+        "Austin, TX",
+        "Nov 13",
+        "https://go.vansh.nyc/1yZ?s=y"
       ],
       [
         "TikTok",
@@ -12213,6 +12228,13 @@
         "Santa Clara, CA",
         "Nov 11",
         "https://go.vansh.nyc/1vZ?s=y"
+      ],
+      [
+        "PODS",
+        "Operations Data Science Intern",
+        "Clearwater, FL",
+        "Nov 11",
+        "https://go.vansh.nyc/1yX?s=y"
       ],
       [
         "Mum Industries",
@@ -16437,6 +16459,7 @@
       "APEX Analytix|Data Analyst Intern|Greensboro, NC|Nov 05",
       "APEX Analytix|Data Science Intern|Greensboro, NC|Nov 05",
       "ASML|Data Scientist Intern|Wilton, CT|Nov 12",
+      "ASML|EUV Data Science and Analytics Intern|Austin, TX|Nov 13",
       "ASML|Machine Learning and Image-Based EUV System Setup Intern|San Diego, CA|Nov 04",
       "ASM|Product Intelligence Engineering Intern, AI/ML|Phoenix, AZ|Nov 05",
       "Acuity|Finance AI Engineering Intern|Atlanta, GA|Sep 29",
@@ -16826,6 +16849,7 @@
       "One Robot|Machine Learning Intern|San Francisco, CA|Oct 30",
       "OpenArt AI|Early Adopter & Product Builder Intern, Creative AI|San Carlos, CA|Oct 21",
       "OpenSesame|AI Product Builder Intern|Remote United States|Oct 22",
+      "PODS|Operations Data Science Intern|Clearwater, FL|Nov 11",
       "Paccar|AI-Driven Vehicle Definition Intern|Denton, TX|Nov 02",
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|Oct 22",
       "Paccar|Data Analyst Intern|Chillicothe, OH|Nov 09",
