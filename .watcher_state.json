@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "32401967e0e93928110ea7432df7ab3f4d0bcf34",
+    "last_sha": "7600cc43e743f77d247fdf167a9498173b939cdd",
     "rows": [
       [
         "Corteva",
@@ -12052,7 +12052,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "32401967e0e93928110ea7432df7ab3f4d0bcf34",
+    "last_sha": "7600cc43e743f77d247fdf167a9498173b939cdd",
     "rows": [
       [
         "WTW",
@@ -12067,6 +12067,13 @@
         "Lehi, UT",
         "Nov 13",
         "https://go.vansh.nyc/1yF?s=y"
+      ],
+      [
+        "Martin Marietta",
+        "Data Scientist Intern",
+        "Raleigh, NC",
+        "Nov 13",
+        "https://go.vansh.nyc/1ze?s=y"
       ],
       [
         "Envita Solutions",
@@ -16780,6 +16787,7 @@
       "MITRE|Trustworthy AI Intern|McLean, VA|Oct 29",
       "ManTech|AI Workflow Intern|Remote in USA Stafford, VA|Oct 21",
       "Marmon Holdings|AI Technology Solutions Intern|Chicago, IL|Nov 06",
+      "Martin Marietta|Data Scientist Intern|Raleigh, NC|Nov 13",
       "Marvell|AI-Native Development Platform Engineer Intern|Santa Clara, CA|Sep 28",
       "Marvell|Data Science Intern|Boise, ID|Oct 27",
       "Mason|AI Engineer Intern|New York, NY|Nov 10",
