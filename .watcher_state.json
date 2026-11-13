@@ -4649,7 +4649,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "5be98e05f515d38942303441764993f743cc2e36",
+    "last_sha": "e2f28410bd765d92a47ba01886294ea5126193b1",
     "rows": [
       [
         "Ribbon",
@@ -9596,8 +9596,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "5be98e05f515d38942303441764993f743cc2e36",
+    "last_sha": "e2f28410bd765d92a47ba01886294ea5126193b1",
     "rows": [
+      [
+        "Stratolaunch",
+        "Business Intelligence & Systems Analyst Intern",
+        "Mojave, CA",
+        "",
+        "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "SharkNinja",
         "Data Science Intern",
@@ -9618,6 +9625,27 @@
         "Irving, TX",
         "",
         "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Stanley Black & Decker",
+        "Data Analyst Intern \ud83c\udf93",
+        "Towson, MD",
+        "",
+        "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Environmental Defense Fund",
+        "Consumer Energy Analytics Intern",
+        "Remote in USA St. Petersburg, FL",
+        "",
+        "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "CareSource",
+        "Summer Internship Program \u2013 Provider Analytics AI Intern",
+        "Remote in USA",
+        "",
+        "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481?utm_source=Simplify&ref=Simplify"
       ],
       [
         "\ud83d\udd25 Airbnb",
@@ -10059,6 +10087,13 @@
         "Detroit, MI",
         "",
         "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Molina Healthcare",
+        "Customer Experience & Analytics Intern - Undergraduate",
+        "Remote in USA",
+        "",
+        "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Divergent Technologies",
@@ -11537,6 +11572,7 @@
       "CareSource|Data Analyst Intern|Remote in USA|",
       "CareSource|Data Science Intern|Remote in USA|",
       "CareSource|Full Stack AI Development Intern|Remote in USA|",
+      "CareSource|Summer Internship Program \u2013 Provider Analytics AI Intern|Remote in USA|",
       "Caterpillar|Corporate Intern - Digital and Analytics|Peoria, IL Chicago, IL Irving, TX|",
       "CenturyLink|AI & Automation Builders Internship|Remote in USA|",
       "CenturyLink|Data Internship - Analytics & Decision Science|Remote in USA|",
@@ -11606,6 +11642,7 @@
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|",
       "Enova|Analytics Intern|Chicago, IL|",
       "Entergy|Student Intern - Power Delivery Performance & Analytics|The Woodlands, TX|",
+      "Environmental Defense Fund|Consumer Energy Analytics Intern|Remote in USA St. Petersburg, FL|",
       "Epic Games|Data Science Intern|Cary, NC|",
       "Ercot|IT Intern - Enterprise Data & AI Administration|Austin, TX Taylor, TX|",
       "Ernst & Young|Artificial Intelligence Intern - Tax - Tax Technology and Transformation|Dallas, TX NYC|",
@@ -11889,12 +11926,14 @@
       "Springs Window Fashions|AI Analyst Intern - Consumer Business Unit|Middleton, WI|",
       "Springs Window Fashions|Data Analyst Intern - Consumer Business Unit|Middleton, WI|",
       "Springs Window Fashions|Dealer Business Operations & Analytics Intern - Summer 2027|Middleton, WI|",
+      "Stanley Black & Decker|Data Analyst Intern|Towson, MD|",
       "State Farm|Data Science Intern - Magnet Program - Online MS Analytics|Athens, GA|",
       "State Farm|Data Science Intern - Magnet Program|Tempe, AZ|",
       "State Farm|Financial Operations Data Analytics Intern|4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL|",
       "State Farm|P&C Actuarial & Underwriting Modeling Intern - Data Scientist|4 locationsTempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL|",
       "State of Wisconsin Investment Board|Data Analytics Engineering Intern|Madison, WI|",
       "Strada Education Foundation|Clear Outcomes and Data Science Intern|Washington, DC|",
+      "Stratolaunch|Business Intelligence & Systems Analyst Intern|Mojave, CA|",
       "Stripe|Machine Learning Engineer Intern|Seattle, WA SF NYC|",
       "Stryker|Data Analytics Intern - Multiple Teams|Portage, MI|",
       "Stryker|Data Analytics Intern|Fort Wayne, IN|",
