@@ -4665,7 +4665,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "08818b5e0abc7f14dfe051c2b5301e7e4fb6ab2d",
+    "last_sha": "20c3ce83539a0e18de246a4f8614d667b59f2996",
     "rows": [
       [
         "Ribbon",
@@ -9605,8 +9605,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "08818b5e0abc7f14dfe051c2b5301e7e4fb6ab2d",
+    "last_sha": "20c3ce83539a0e18de246a4f8614d667b59f2996",
     "rows": [
+      [
+        "\ud83d\udd25 Amazon",
+        "Robotics Applied Scientist 2 Intern - Robotics \ud83c\udf93",
+        "6 locationsSeattle, WA North Reading, MA NYC Bellevue, WA Sunnyvale, CA Westborough, MA",
+        "",
+        "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Verisk",
         "Data Science/AI Intern",
@@ -9634,6 +9641,13 @@
         "Foster City, CA",
         "",
         "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Vertex Pharmaceuticals",
+        "Data Analytics Intern - OSD Process Data Analytics",
+        "Boston, MA",
+        "",
+        "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Vertex Pharmaceuticals",
@@ -10222,13 +10236,6 @@
         "Santa Clara, CA",
         "",
         "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Applied Materials",
-        "Data Science Intern",
-        "Santa Clara, CA",
-        "",
-        "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525?utm_source=Simplify&ref=Simplify"
       ],
       [
         "onsemi",
@@ -11430,6 +11437,7 @@
       "Amazon|Applied Science Intern - Natural Language Processing and Speech Technologies|7 locationsCambridge, MA Boston, MA Seattle, WA Santa Clara, CA NYC Bellevue, WA Sunnyvale, CA|",
       "Amazon|Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning|8 locationsPalo Alto, CA Boston, MA Seattle, WA Santa Clara, CA Arlington County, Arlington, VA NYC Bellevue, WA San Diego, CA|",
       "Amazon|Business Intelligence Engineer Intern|Seattle, WA|",
+      "Amazon|Robotics Applied Scientist 2 Intern - Robotics|6 locationsSeattle, WA North Reading, MA NYC Bellevue, WA Sunnyvale, CA Westborough, MA|",
       "Amazon|Robotics Applied Scientist 2 Intern|6 locationsSeattle, WA North Reading, MA NYC Bellevue, WA Sunnyvale, CA Westborough, MA|",
       "American Express|AI Engineer Intern - Enterprise Technology Services|Phoenix, AZ|",
       "American Express|AI Engineer Intern - Enterprise Technology Services|Sunrise, FL|",
