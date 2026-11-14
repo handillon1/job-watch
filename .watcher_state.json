@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "6b51b50a2b3d62cfc510c7bb6b13876ce05a7277",
+    "last_sha": "feb0e45c9f9317d72b2289145f304d3784a5d9d5",
     "rows": [
       [
         "Corteva",
@@ -12022,7 +12022,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "6b51b50a2b3d62cfc510c7bb6b13876ce05a7277",
+    "last_sha": "feb0e45c9f9317d72b2289145f304d3784a5d9d5",
     "rows": [
       [
         "Ericsson",
@@ -12072,6 +12072,13 @@
         "Indianapolis, IN",
         "Nov 13",
         "https://go.vansh.nyc/1z8?s=y"
+      ],
+      [
+        "Camping World",
+        "AI Security Intern",
+        "Chicago, IL",
+        "Nov 13",
+        "https://go.vansh.nyc/1zF?s=y"
       ],
       [
         "ASML",
@@ -12254,13 +12261,6 @@
         "United States",
         "Nov 11",
         "https://go.vansh.nyc/1x4?s=y"
-      ],
-      [
-        "ICF",
-        "Data Analytics Intern",
-        "Reston, VA Remote United States",
-        "Nov 11",
-        "https://go.vansh.nyc/1uQ?s=y"
       ],
       [
         "HUB International",
@@ -12781,13 +12781,6 @@
         "https://go.vansh.nyc/1kl?s=y"
       ],
       [
-        "L.L.Bean",
-        "Business Analyst/Data Analyst Intern",
-        "Freeport, ME",
-        "Nov 05",
-        "https://go.vansh.nyc/1mD?s=y"
-      ],
-      [
         "JM Family Enterprises",
         "Analytics Intern",
         "Deerfield Beach, FL",
@@ -13080,13 +13073,6 @@
         "Westchester, IL",
         "Nov 02",
         "https://go.vansh.nyc/1do?s=y"
-      ],
-      [
-        "Guardian Life",
-        "AI & Machine Learning Intern, Digital & Technology",
-        "New York, NY Bethlehem, PA Holmdel, NJ",
-        "Nov 02",
-        "https://go.vansh.nyc/1cW?s=y"
       ],
       [
         "Graco",
@@ -15021,6 +15007,13 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "ICF",
+        "Data Analytics Intern",
+        "Reston, VA Remote United States",
+        "Nov 11",
+        ""
+      ],
+      [
         "TerraByte Green",
         "AI Engineering Intern",
         "United States",
@@ -15136,6 +15129,13 @@
         "V2X",
         "AI Engineering Intern",
         "Indianapolis, IN",
+        "Nov 05",
+        ""
+      ],
+      [
+        "L.L.Bean",
+        "Business Analyst/Data Analyst Intern",
+        "Freeport, ME",
         "Nov 05",
         ""
       ],
@@ -15297,6 +15297,13 @@
         "JM Family Enterprises",
         "AI Intern",
         "Deerfield Beach, FL",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Guardian Life",
+        "AI & Machine Learning Intern, Digital & Technology",
+        "New York, NY Bethlehem, PA Holmdel, NJ",
         "Nov 02",
         ""
       ],
@@ -16551,6 +16558,7 @@
       "CWAN|Gen AI Intern|Seattle, WA|Nov 02",
       "Cadillac Formula 1 Team|Aerodynamics AI Industrial Placement Intern|Indianapolis, IN|Oct 30",
       "Campbell Soup Company|Data Science Intern|Camden, NJ|Oct 18",
+      "Camping World|AI Security Intern|Chicago, IL|Nov 13",
       "CapTech Consulting|Data Analysis/Data Engineering Intern|Richmond, VA|Oct 12",
       "Capital One|Data Analyst Intern|Mclean, VA|Jul 07",
       "CarGurus|Data Analytics Engineer Intern|Boston, MA|Nov 11",
