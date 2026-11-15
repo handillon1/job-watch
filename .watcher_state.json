@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "013dcaaee94a057fd0f4062349888dbf761a767f",
+    "last_sha": "9be6df263bc6366a6e8462a50f6d85457bdcfc2f",
     "rows": [
       [
         "Corteva",
@@ -11959,7 +11959,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "013dcaaee94a057fd0f4062349888dbf761a767f",
+    "last_sha": "9be6df263bc6366a6e8462a50f6d85457bdcfc2f",
     "rows": [
       [
         "Ericsson",
@@ -12697,13 +12697,6 @@
         "https://go.vansh.nyc/1mn?s=y"
       ],
       [
-        "MITRE",
-        "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
-        "McLean, VA",
-        "Nov 05",
-        "https://go.vansh.nyc/1lR?s=y"
-      ],
-      [
         "Match Group",
         "Data Scientist Intern",
         "San Francisco, CA",
@@ -12716,13 +12709,6 @@
         "Palo Alto, CA",
         "Nov 05",
         "https://go.vansh.nyc/1kl?s=y"
-      ],
-      [
-        "JM Family Enterprises",
-        "Analytics Intern",
-        "Deerfield Beach, FL",
-        "Nov 05",
-        "https://go.vansh.nyc/1iw?s=y"
       ],
       [
         "General Dynamics Information Technology",
@@ -15070,9 +15056,23 @@
         ""
       ],
       [
+        "MITRE",
+        "Data Science Intern \ud83c\uddfa\ud83c\uddf8",
+        "McLean, VA",
+        "Nov 05",
+        ""
+      ],
+      [
         "L.L.Bean",
         "Business Analyst/Data Analyst Intern",
         "Freeport, ME",
+        "Nov 05",
+        ""
+      ],
+      [
+        "JM Family Enterprises",
+        "Analytics Intern",
+        "Deerfield Beach, FL",
         "Nov 05",
         ""
       ],
