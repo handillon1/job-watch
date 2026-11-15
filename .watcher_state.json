@@ -4665,7 +4665,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "34498fa5af6efe5962a6bd798ad48e6ed5177665",
+    "last_sha": "1867e759b31302d9876f6d88261a5f8a1b9fe5ec",
     "rows": [
       [
         "Carnegie Mellon University",
@@ -5156,13 +5156,6 @@
         "Los Altos, CA",
         "Winter 2027",
         "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Kitware",
-        "AI Research Intern \ud83c\udf93",
-        "Clifton Park, NY",
-        "Winter 2026",
-        "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Altice USA",
@@ -5777,6 +5770,13 @@
         "D3 Embedded",
         "Computer Vision / AI Co-op",
         "West Henrietta, NY",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Kitware",
+        "AI Research Intern \ud83c\udf93",
+        "Clifton Park, NY",
         "Winter 2026",
         ""
       ],
@@ -9614,7 +9614,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "34498fa5af6efe5962a6bd798ad48e6ed5177665",
+    "last_sha": "1867e759b31302d9876f6d88261a5f8a1b9fe5ec",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -11288,20 +11288,6 @@
         "Mountain View, CA",
         "",
         "https://careers.withwaymo.com/jobs?gh_jid=8202025&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "GM financial",
-        "Data Science Intern",
-        "Fort Worth, TX",
-        "",
-        "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "CoVar",
-        "Machine Learning Intern",
-        "Durham, NC",
-        "",
-        "https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
