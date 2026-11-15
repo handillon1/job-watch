@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "df0db4a3d921e94b414ce15ba43b87320b0c98f9",
+    "last_sha": "a114bd032dc2f47af87ef5726d26fa1237ce5e98",
     "rows": [
       [
         "Corteva",
@@ -11953,7 +11953,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "df0db4a3d921e94b414ce15ba43b87320b0c98f9",
+    "last_sha": "a114bd032dc2f47af87ef5726d26fa1237ce5e98",
     "rows": [
       [
         "Ericsson",
@@ -13529,6 +13529,13 @@
         "New York, NY",
         "Oct 28",
         "https://go.vansh.nyc/1tO?s=y"
+      ],
+      [
+        "Sallie Mae",
+        "Data Science and Engineering Intern",
+        "Newark, DE Arlington, VA",
+        "Oct 28",
+        "https://go.vansh.nyc/1zR?s=y"
       ],
       [
         "SageSure",
@@ -16836,6 +16843,7 @@
       "SageSure|Data Science Product Analyst Intern|Fairfield, CA|Oct 29",
       "Salesforce|AI Labs Intern, Emerging Talent|San Francisco, CA Seattle, WA|Oct 30",
       "Salesforce|AI Research Intern|Palo Alto, CA|Oct 20",
+      "Sallie Mae|Data Science and Engineering Intern|Newark, DE Arlington, VA|Oct 28",
       "Samsung Semiconductor|AI Application Engineer Intern|Folsom, CA|Nov 02",
       "Samsung|Business Intelligence & Data Analytics Intern|Plano, TX|Nov 05",
       "Samsung|Care AI Data Analytic Intern|Plano, TX|Nov 06",
