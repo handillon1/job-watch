@@ -4665,7 +4665,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "3e79195ca6d71ecb9ad71565e56fdf80dad1bbb5",
+    "last_sha": "503ab61563e882a89d815a7843d18edc6d503e44",
     "rows": [
       [
         "Carnegie Mellon University",
@@ -5163,27 +5163,6 @@
         "Clifton Park, NY",
         "Winter 2026",
         "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Oshkosh",
-        "Supply Chain Intern - Data Analytics & AI",
-        "Hagerstown, MD",
-        "Winter 2026",
-        "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Louisiana Blue",
-        "Healthcare Data Science Intern - Spring 2027",
-        "Baton Rouge, LA",
-        "Spring 2027",
-        "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Ancestry",
-        "Data Science Co-op - AI Document Understanding \ud83c\udf93",
-        "Remote in USA",
-        "Winter 2026",
-        "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Altice USA",
@@ -5798,6 +5777,27 @@
         "Johns Hopkins Applied Physics Laboratory",
         "AI and Autonomous Systems Engineer Intern",
         "Laurel, MD",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Oshkosh",
+        "Supply Chain Intern - Data Analytics & AI",
+        "Hagerstown, MD",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Louisiana Blue",
+        "Healthcare Data Science Intern - Spring 2027",
+        "Baton Rouge, LA",
+        "Spring 2027",
+        ""
+      ],
+      [
+        "Ancestry",
+        "Data Science Co-op - AI Document Understanding \ud83c\udf93",
+        "Remote in USA",
         "Winter 2026",
         ""
       ],
@@ -9613,7 +9613,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "3e79195ca6d71ecb9ad71565e56fdf80dad1bbb5",
+    "last_sha": "503ab61563e882a89d815a7843d18edc6d503e44",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
@@ -11322,27 +11322,6 @@
         "Livermore, CA",
         "",
         "https://jobs.smartrecruiters.com/LLNL/3743990015289136?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "DraftKings",
-        "Analytics Intern - Summer 2027",
-        "Boston, MA",
-        "",
-        "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "DraftKings",
-        "Analytics Intern - Summer 2027",
-        "Boston, MA",
-        "",
-        "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15148?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Charter Manufacturing",
-        "Automation & Analytics Intern",
-        "Milwaukee, WI",
-        "",
-        "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
