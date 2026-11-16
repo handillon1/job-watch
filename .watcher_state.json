@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "64d5cd031ff164e3073169841d0eb3bba8bcc331",
+    "last_sha": "efa9dfbe3e77bdb49a8855fff12af83fc7859383",
     "rows": [
       [
         "Milliman",
@@ -11885,7 +11885,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "64d5cd031ff164e3073169841d0eb3bba8bcc331",
+    "last_sha": "efa9dfbe3e77bdb49a8855fff12af83fc7859383",
     "rows": [
       [
         "Boston Scientific",
@@ -11914,6 +11914,13 @@
         "Boise, ID",
         "Nov 15",
         "https://go.vansh.nyc/1Ap?s=y"
+      ],
+      [
+        "Carnival Corporation",
+        "Data Analytics Intern",
+        "Miami, FL",
+        "Nov 15",
+        "https://go.vansh.nyc/1Av?s=y"
       ],
       [
         "Carnival Corporation",
@@ -16496,6 +16503,7 @@
       "CareSource|Data Science Intern|Remote United States|Nov 03",
       "CareSource|Full Stack AI Development Intern|Remote United States|Oct 28",
       "Carnival Corporation|Data & AI Solutions Intern|Miami, FL|Nov 15",
+      "Carnival Corporation|Data Analytics Intern|Miami, FL|Nov 15",
       "Carnival Corporation|Revenue Data Science Intern|Miami, FL|Nov 15",
       "Castleton Commodities International|Data Science Machine Learning Intern|Stamford, CT Houston, TX New York City, NY|Jul 31",
       "Caterpillar|Corporate Intern, Digital and Analytics|Peoria, IL Chicago, IL Irving, TX|Sep 02",
