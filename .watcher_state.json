@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0ec3088f604ceeed55b0023a6336e74939813931",
+    "last_sha": "d49edc13b5a4e5cb9292a996b7631bcae8f496bd",
     "rows": [
       [
         "Milliman",
@@ -11898,8 +11898,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0ec3088f604ceeed55b0023a6336e74939813931",
+    "last_sha": "d49edc13b5a4e5cb9292a996b7631bcae8f496bd",
     "rows": [
+      [
+        "Boston Scientific",
+        "AI Engineering Intern, Generative and Agentic AI \ud83d\udec2",
+        "Marlborough, MA",
+        "Nov 16",
+        "https://go.vansh.nyc/1A8?s=y"
+      ],
       [
         "Milliman",
         "Data Analytics Intern, IntelliScript",
@@ -12333,20 +12340,6 @@
         "Louisville, KY",
         "Nov 09",
         "https://go.vansh.nyc/1qb?s=y"
-      ],
-      [
-        "The New York Times",
-        "Data Analyst Intern",
-        "New York, NY",
-        "Nov 09",
-        "https://go.vansh.nyc/1pm?s=y"
-      ],
-      [
-        "The New York Times",
-        "ML Scientist Intern",
-        "New York, NY",
-        "Nov 09",
-        "https://go.vansh.nyc/1pn?s=y"
       ],
       [
         "Pika",
@@ -14939,6 +14932,20 @@
         ""
       ],
       [
+        "The New York Times",
+        "Data Analyst Intern",
+        "New York, NY",
+        "Nov 09",
+        ""
+      ],
+      [
+        "The New York Times",
+        "ML Scientist Intern",
+        "New York, NY",
+        "Nov 09",
+        ""
+      ],
+      [
         "Paccar",
         "Data Analyst Intern",
         "Chillicothe, OH",
@@ -16431,6 +16438,7 @@
       "Booz Allen|Applied AI Intern|Washington, DC|Sep 13",
       "Bosch|AI Research Intern, Wireless Foundation Models|Pittsburgh, PA|Oct 19",
       "Bosch|Embedded AI Software Engineering Co-op|Fountain Inn, SC|Oct 19",
+      "Boston Scientific|AI Engineering Intern, Generative and Agentic AI|Marlborough, MA|Nov 16",
       "Boston Scientific|AI Solutions Engineering Intern|Arden Hills, MN|Oct 28",
       "Boston Scientific|AI/Data Science Intern|Maple Grove, MN|Oct 16",
       "Brain Co.|AI Platform Engineer Intern|San Francisco, CA|Sep 12",
