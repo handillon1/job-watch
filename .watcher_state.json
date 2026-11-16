@@ -4673,7 +4673,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "9967428667cba161c2a123f1dfcb328a8ea85415",
+    "last_sha": "d38b785cc32fafd35564c93bfa1ff17fea2422f2",
     "rows": [
       [
         "Carnegie Mellon University",
@@ -6741,13 +6741,6 @@
         ""
       ],
       [
-        "ABB",
-        "Physical AI Robotics Simulation Intern \ud83c\udf93",
-        "Milpitas, CA",
-        "Fall 2026",
-        ""
-      ],
-      [
         "U.S. Venture",
         "Data Science Intern - Breakthrough",
         "Green Bay, WI Wisconsin",
@@ -6765,6 +6758,13 @@
         "Micron Technology",
         "Technical Customer Management Intern - AI",
         "Longmont, CO",
+        "Fall 2026",
+        ""
+      ],
+      [
+        "ABB",
+        "Physical AI Robotics Simulation Intern \ud83c\udf93",
+        "Milpitas, CA",
         "Fall 2026",
         ""
       ],
@@ -9622,7 +9622,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "9967428667cba161c2a123f1dfcb328a8ea85415",
+    "last_sha": "d38b785cc32fafd35564c93bfa1ff17fea2422f2",
     "rows": [
       [
         "\ud83d\udd25 Amazon",
