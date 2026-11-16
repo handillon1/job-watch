@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "c2663b4b7280fbc508510b433d7c2d9b0d075070",
+    "last_sha": "92d352ea7d87ba3463de4448087982092d2fddce",
     "rows": [
       [
         "Milliman",
@@ -11885,7 +11885,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "c2663b4b7280fbc508510b433d7c2d9b0d075070",
+    "last_sha": "92d352ea7d87ba3463de4448087982092d2fddce",
     "rows": [
       [
         "Boston Scientific",
@@ -11907,6 +11907,13 @@
         "Brookfield, WI",
         "Nov 15",
         "https://go.vansh.nyc/1A2?s=y"
+      ],
+      [
+        "Micron Technology",
+        "Data Science Intern, SMAI",
+        "Boise, ID",
+        "Nov 15",
+        "https://go.vansh.nyc/1Ap?s=y"
       ],
       [
         "Carnival Corporation",
@@ -16721,6 +16728,7 @@
       "Micron Technology|AI Engineer Intern, Platform|Boise, ID|Oct 27",
       "Micron Technology|AI Engineer Platform Intern|Boise, ID|Nov 12",
       "Micron Technology|AI Engineering Intern, SMAI TD|Boise, ID|Nov 02",
+      "Micron Technology|Data Science Intern, SMAI|Boise, ID|Nov 15",
       "Micron Technology|Data Science Intern|San Jose, CA Folsom, CA|Oct 28",
       "Micron Technology|HBM Data Scientist Intern|Richardson, TX|Oct 27",
       "Micron Technology|Machine Learning Engineering Intern|Richardson, TX|Oct 19",
