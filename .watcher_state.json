@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "35b74392f2148cb2cae56b7455827bcd89be7571",
+    "last_sha": "c78687921fbf0e03576c8bba4a6fd80875e8854c",
     "rows": [
       [
         "Milliman",
@@ -11873,8 +11873,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "35b74392f2148cb2cae56b7455827bcd89be7571",
+    "last_sha": "c78687921fbf0e03576c8bba4a6fd80875e8854c",
     "rows": [
+      [
+        "National Interstate Insurance",
+        "Predictive Analytics Intern \ud83d\udec2",
+        "Cincinnati, OH",
+        "Nov 16",
+        "https://go.vansh.nyc/1AE?s=y"
+      ],
       [
         "Carnegie Mellon University",
         "AI Engineer Intern, Mission Innovation Lab \ud83d\udec2",
@@ -11895,6 +11902,13 @@
         "Marlborough, MA",
         "Nov 16",
         "https://go.vansh.nyc/1A8?s=y"
+      ],
+      [
+        "Bloomberg Industry Group",
+        "Data Analyst Intern",
+        "Arlington, VA",
+        "Nov 16",
+        "https://go.vansh.nyc/1AF?s=y"
       ],
       [
         "Milliman",
@@ -16447,6 +16461,7 @@
       "Bloom Energy|AI Solutions Engineer Intern|San Jose, CA|Nov 11",
       "Bloom Energy|Data Science Intern|San Jose, CA|Nov 11",
       "Bloom Energy|RMCC Data Science Intern|San Jose, CA|Nov 11",
+      "Bloomberg Industry Group|Data Analyst Intern|Arlington, VA|Nov 16",
       "Blue Cross Blue Shield of Michigan|Data Science / Biostatistician Intern|Detroit, MI|Nov 11",
       "Boeing|Data Analytics Intern|**31 locations**Everett, WA Saint Charles, MO Huntsville, AL Charleston, SC Oklahoma City, OK Berkeley, MO Huntington Beach, CA Hazelwood, MO El Segundo, CA Herndon, VA Plano, TX Arlington, VA Ridley Park, PA Tukwila, WA North Charleston, SC Fairfax, VA Colorado Springs, CO Chicago, IL Seal Beach, CA Mukilteo, WA Long Beach, CA Atlanta, GA Renton, WA Dallas, TX Seattle, WA Auburn, WA Bellevue, WA San Antonio, TX Kent, WA Mesa, AZ Tukwila, WA|Aug 05",
       "Booz Allen Hamilton|Data Scientist Intern|Colorado Springs, CO|Nov 02",
@@ -16762,6 +16777,7 @@
       "NVIDIA|Deep Learning Intern|Santa Clara, CA|Oct 31",
       "National Interstate Insurance|Business Intelligence Intern, Power BI|Cincinnati, OH|Nov 04",
       "National Interstate Insurance|Data Scientist Intern|Lakeland, FL|Nov 08",
+      "National Interstate Insurance|Predictive Analytics Intern|Cincinnati, OH|Nov 16",
       "National Interstate Insurance|Telematics / Predictive Analytics Intern|Cincinnati, OH|Nov 09",
       "National Laboratory of the Rockies|AI/ML for Cybersecurity Intern|Golden, CO|Oct 14",
       "National Life|Data Science Intern|Addison, TX Montpelier, VT|Oct 14",
