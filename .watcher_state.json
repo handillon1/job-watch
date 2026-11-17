@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "26c3ccda28aed0cdecb7c6d56c809b476bb0dd96",
+    "last_sha": "73de8bb1bab2706d7d44314d35284f269c63618b",
     "rows": [
       [
         "Milliman",
@@ -11838,8 +11838,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "26c3ccda28aed0cdecb7c6d56c809b476bb0dd96",
+    "last_sha": "73de8bb1bab2706d7d44314d35284f269c63618b",
     "rows": [
+      [
+        "Birdseye Security Solutions",
+        "AI Systems Intern",
+        "Dallas, TX",
+        "Nov 17",
+        "https://go.vansh.nyc/1B7?s=y"
+      ],
       [
         "National Interstate Insurance",
         "Predictive Analytics Intern \ud83d\udec2",
@@ -11853,6 +11860,13 @@
         "San Jose, CA",
         "Nov 16",
         "https://go.vansh.nyc/1AP?s=y"
+      ],
+      [
+        "Idaho National Laboratory",
+        "Electric Vehicle Charging Data Analysis Intern",
+        "Idaho Falls, ID",
+        "Nov 16",
+        "https://go.vansh.nyc/1B6?s=y"
       ],
       [
         "Carnegie Mellon University",
@@ -16430,6 +16444,7 @@
       "Biodesix|AI Research & Development Intern|Louisville, CO|Nov 09",
       "Biodesix|Data Analytics & Business Intelligence Intern|Louisville, CO|Nov 09",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
+      "Birdseye Security Solutions|AI Systems Intern|Dallas, TX|Nov 17",
       "Bloom Energy|AI Solutions Engineer Intern|San Jose, CA|Nov 11",
       "Bloom Energy|Data Science Intern|San Jose, CA|Nov 11",
       "Bloom Energy|RMCC Data Science Intern|San Jose, CA|Nov 11",
@@ -16637,6 +16652,7 @@
       "ID.me|Analytics Engineer Intern|Mountain View, CA|Oct 23",
       "IMC Trading|Machine Learning Engineer Intern|New York, NY|Oct 08",
       "ITT|Data Analytics / AI Intern|Irvine, CA|Nov 06",
+      "Idaho National Laboratory|Electric Vehicle Charging Data Analysis Intern|Idaho Falls, ID|Nov 16",
       "Ingersoll Rand|AI Engineer Intern|United States|Nov 11",
       "Ingredion|AI & Data Scientist Intern|Westchester, IL|Nov 02",
       "Ingredion|Global Supply Chain Data Science Intern|Westchester, IL|Nov 02",
