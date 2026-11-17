@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "030e90d4ee6934fa852590a5f8598b6b51ceaf8f",
+    "last_sha": "81e87a23f309fb48bd4237bf81450c331b3236ab",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11819,7 +11819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "030e90d4ee6934fa852590a5f8598b6b51ceaf8f",
+    "last_sha": "81e87a23f309fb48bd4237bf81450c331b3236ab",
     "rows": [
       [
         "Birdseye Security Solutions",
@@ -11827,6 +11827,13 @@
         "Dallas, TX",
         "Nov 17",
         "https://go.vansh.nyc/1B7?s=y"
+      ],
+      [
+        "Anduril",
+        "Machine Learning Engineer Intern",
+        "Santa Ana, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Bo?s=y"
       ],
       [
         "National Interstate Insurance",
@@ -13290,13 +13297,6 @@
         "New York, NY",
         "Oct 30",
         "https://go.vansh.nyc/12Z?s=y"
-      ],
-      [
-        "Intercontinental Exchange",
-        "Agentic AI Data Science Intern",
-        "Jacksonville, FL",
-        "Oct 30",
-        "https://go.vansh.nyc/134?s=y"
       ],
       [
         "GTI Energy",
@@ -15308,6 +15308,13 @@
         ""
       ],
       [
+        "Intercontinental Exchange",
+        "Agentic AI Data Science Intern",
+        "Jacksonville, FL",
+        "Oct 30",
+        ""
+      ],
+      [
         "First Citizens BancShares",
         "AI Innovation Intern",
         "Raleigh, NC",
@@ -16389,6 +16396,7 @@
       "Amperesand|AI/ML Engineer Intern|Sunnyvale, CA|Oct 23",
       "Amplify|AI Scientist Intern|Remote in USA|Oct 19",
       "Amplify|Data Analytics Intern|Remote in USA|Oct 19",
+      "Anduril|Machine Learning Engineer Intern|Santa Ana, CA|Nov 17",
       "Aon|IT/AI Engineer Intern|Chicago, IL|Oct 21",
       "Apple|Machine Learning and Artificial Intelligence Undergrad Intern|United States|May 21",
       "Apple|SoC Machine Learning Software Engineer Intern|Sunnyvale, CA|Oct 15",
