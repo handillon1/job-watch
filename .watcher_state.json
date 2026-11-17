@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "678199355a5a09c04ef183df6d354f68e869244e",
+    "last_sha": "bb3b2c2c231830e097fef4c583ea7f2bc2726875",
     "rows": [
       [
         "Milliman",
@@ -11859,7 +11859,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "678199355a5a09c04ef183df6d354f68e869244e",
+    "last_sha": "bb3b2c2c231830e097fef4c583ea7f2bc2726875",
     "rows": [
       [
         "National Interstate Insurance",
@@ -11867,6 +11867,13 @@
         "Cincinnati, OH",
         "Nov 16",
         "https://go.vansh.nyc/1AE?s=y"
+      ],
+      [
+        "Lumentum",
+        "Data Science & Analytics Intern",
+        "San Jose, CA",
+        "Nov 16",
+        "https://go.vansh.nyc/1AP?s=y"
       ],
       [
         "Carnegie Mellon University",
@@ -16708,6 +16715,7 @@
       "Leidos|AI/ML Intern|Huntsville, AL|Oct 22",
       "Leidos|Data Science Intern|Arlington, VA|Nov 01",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
+      "Lumentum|Data Science & Analytics Intern|San Jose, CA|Nov 16",
       "M3 USA|AI Engineering Intern (Remote)|Remote United States|Sep 08",
       "M3USA|AI Engineering Intern|Remote United States|Sep 08",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
