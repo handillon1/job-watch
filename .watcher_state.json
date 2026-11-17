@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "f8b81dd8e52d5805e3b2464c6d434bca74a615b3",
+    "last_sha": "66ae4f1089dd92c177216a1d01e2fb79831a1795",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -405,6 +405,13 @@
         "Atlanta, GA",
         "Nov 17",
         "https://go.vansh.nyc/1Bn?s=z"
+      ],
+      [
+        "Exowatt",
+        "Robotics & Physical AI Intern",
+        "Miami, FL",
+        "Nov 16",
+        "https://go.vansh.nyc/1Bq?s=z"
       ],
       [
         "Milliman",
@@ -1331,6 +1338,7 @@
       "EdgeTrace|AI Full-Stack Engineering Intern|San Mateo, CA|Dec 09",
       "Ema|AI Resident Intern|San Francisco, CA|Oct 30",
       "Engramme|Machine Learning Engineer Co-op|San Francisco, CA|Nov 02",
+      "Exowatt|Robotics & Physical AI Intern|Miami, FL|Nov 16",
       "Falcomm|AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration|Atlanta, GA|Nov 17",
       "Figure|Helix AI Intern, Speech|San Jose, CA|Oct 22",
       "First Solar (US)|Data Analytics Intern|Perrysburg, OH|Sep 25",
@@ -11819,7 +11827,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "f8b81dd8e52d5805e3b2464c6d434bca74a615b3",
+    "last_sha": "66ae4f1089dd92c177216a1d01e2fb79831a1795",
     "rows": [
       [
         "Birdseye Security Solutions",
@@ -11855,6 +11863,13 @@
         "Idaho Falls, ID",
         "Nov 16",
         "https://go.vansh.nyc/1B6?s=y"
+      ],
+      [
+        "Constellation Brands",
+        "Data and AI Enablement Intern",
+        "Rochester, NY Chicago, IL",
+        "Nov 16",
+        "https://go.vansh.nyc/1Bp?s=y"
       ],
       [
         "Carnegie Mellon University",
@@ -16522,6 +16537,7 @@
       "Constellation Brands|AI & Automation Engineering Intern|Rochester, NY|Nov 04",
       "Constellation Brands|AI Enablement Intern|Rochester, NY|Oct 19",
       "Constellation Brands|AI Innovation Intern|Rochester, NY Chicago, IL|Nov 05",
+      "Constellation Brands|Data and AI Enablement Intern|Rochester, NY Chicago, IL|Nov 16",
       "Constellation Energy|Quantitative Analytics & Data Science Intern|Baltimore, MD|Sep 28",
       "Cook Group|Applied AI & Full Stack Development Intern|Bloomington, IN|Nov 06",
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
