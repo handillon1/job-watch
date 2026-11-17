@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "82d7322c83b5bb623dbe5bc708af2361dbbaac2e",
+    "last_sha": "0a4a3c7e3ea22c2622358deaf8808989e5e48d8e",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11862,8 +11862,22 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "82d7322c83b5bb623dbe5bc708af2361dbbaac2e",
+    "last_sha": "0a4a3c7e3ea22c2622358deaf8808989e5e48d8e",
     "rows": [
+      [
+        "Pathlabs",
+        "Software and AI Engineering Intern",
+        "Missoula, MT",
+        "Nov 17",
+        "https://go.vansh.nyc/1BC?s=y"
+      ],
+      [
+        "CrowdStrike",
+        "AI Research Launch Intern",
+        "Sunnyvale, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1BB?s=y"
+      ],
       [
         "Birdseye Security Solutions",
         "AI Systems Intern",
@@ -13774,13 +13788,6 @@
         "San Carlos, CA",
         "Oct 21",
         "https://go.vansh.nyc/ej?s=y"
-      ],
-      [
-        "CVS Health",
-        "Medicaid Data Analytics Intern",
-        "Hartford, CT",
-        "Oct 21",
-        "https://go.vansh.nyc/fh?s=y"
       ],
       [
         "CVS Health",
@@ -15729,6 +15736,13 @@
         ""
       ],
       [
+        "CVS Health",
+        "Medicaid Data Analytics Intern",
+        "Hartford, CT",
+        "Oct 21",
+        ""
+      ],
+      [
         "Cisco",
         "Machine Learning Engineer I Intern",
         "**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA",
@@ -16585,6 +16599,7 @@
       "Cook Group|Artificial Intelligence & Innovation Intern|Bloomington, IN|Oct 13",
       "Costco|Digital Services Intern, Infosec AI/ML|Issaquah, WA|Nov 02",
       "Creative Artists Agency|Data Analytics Intern|Denver, CO|Oct 18",
+      "CrowdStrike|AI Research Launch Intern|Sunnyvale, CA|Nov 17",
       "Dairyland Power Cooperative|Energy Data Analyst Intern|La Crosse, WI|Nov 03",
       "Datacor|AI Engineer Intern|Remote United States|Oct 30",
       "Dayton Freight|Business Intelligence Intern|Dayton, OH|Nov 07",
@@ -16848,6 +16863,7 @@
       "Papa John's|Data Science Intern|Atlanta, GA|Oct 08",
       "Parsons|AI/ML Engineer Intern|Centreville, VA|Nov 03",
       "Parspec|Applied AI Engineer Intern|San Mateo, CA|Nov 06",
+      "Pathlabs|Software and AI Engineering Intern|Missoula, MT|Nov 17",
       "Pattern|AI Automation Engineer Intern|Lehi, UT|Oct 22",
       "Pattern|AI Infrastructure Engineer Intern|Lehi, UT|Oct 22",
       "Pattern|Data Science Intern|Lehi, UT|Oct 22",
