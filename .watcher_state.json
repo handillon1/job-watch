@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0a4a3c7e3ea22c2622358deaf8808989e5e48d8e",
+    "last_sha": "be59217edd0ae7c146a9c017ca362e5e8130dee4",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -398,6 +398,13 @@
         "Farmington Hills, MI",
         "Nov 17",
         "https://go.vansh.nyc/1Bg?s=z"
+      ],
+      [
+        "Falcomm",
+        "Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration",
+        "Atlanta, GA",
+        "Nov 17",
+        "https://go.vansh.nyc/1BO?s=z"
       ],
       [
         "Falcomm",
@@ -1348,6 +1355,7 @@
       "Engramme|Machine Learning Engineer Co-op|San Francisco, CA|Nov 02",
       "Exowatt|Robotics & Physical AI Intern|Miami, FL|Nov 16",
       "Falcomm|AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration|Atlanta, GA|Nov 17",
+      "Falcomm|Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration|Atlanta, GA|Nov 17",
       "Figure|Helix AI Intern, Speech|San Jose, CA|Oct 22",
       "First Solar (US)|Data Analytics Intern|Perrysburg, OH|Sep 25",
       "First Solar (US)|Data Science Intern, Device Characterization|Perrysburg, OH|Oct 05",
@@ -11863,7 +11871,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0a4a3c7e3ea22c2622358deaf8808989e5e48d8e",
+    "last_sha": "be59217edd0ae7c146a9c017ca362e5e8130dee4",
     "rows": [
       [
         "Pathlabs",
@@ -11873,11 +11881,25 @@
         "https://go.vansh.nyc/1BC?s=y"
       ],
       [
+        "Paccar",
+        "Data Scientist Intern",
+        "Denton, TX",
+        "Nov 17",
+        "https://go.vansh.nyc/1BQ?s=y"
+      ],
+      [
         "CrowdStrike",
         "AI Research Launch Intern",
         "Sunnyvale, CA",
         "Nov 17",
         "https://go.vansh.nyc/1BB?s=y"
+      ],
+      [
+        "Bissell",
+        "AI & Automation Intern",
+        "Grand Rapids, MI",
+        "Nov 17",
+        "https://go.vansh.nyc/1BJ?s=y"
       ],
       [
         "Birdseye Security Solutions",
@@ -16506,6 +16528,7 @@
       "Biodesix|Data Analytics & Business Intelligence Intern|Louisville, CO|Nov 09",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
       "Birdseye Security Solutions|AI Systems Intern|Dallas, TX|Nov 17",
+      "Bissell|AI & Automation Intern|Grand Rapids, MI|Nov 17",
       "Bloom Energy|AI Solutions Engineer Intern|San Jose, CA|Nov 11",
       "Bloom Energy|Data Science Intern|San Jose, CA|Nov 11",
       "Bloom Energy|RMCC Data Science Intern|San Jose, CA|Nov 11",
@@ -16857,6 +16880,7 @@
       "Paccar|AI-Driven Vehicle Definition Intern|Denton, TX|Nov 02",
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|Oct 22",
       "Paccar|Data Analyst Intern|Chillicothe, OH|Nov 09",
+      "Paccar|Data Scientist Intern|Denton, TX|Nov 17",
       "Paccar|Field Service Data Analyst Intern|Kirkland, WA|Oct 20",
       "Paccar|Warranty Data Analyst Intern|Kirkland, WA|Oct 19",
       "Palantir Technologies|Software Engineer Intern, Sovereign AI Systems|New York, NY|Nov 05",
