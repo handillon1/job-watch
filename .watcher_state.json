@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "3bd8aff468bff135eba5db59035350a0b56e6e72",
+    "last_sha": "046c9ea1b732f1f1e0bf6d7754183aa51ff17db5",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11851,7 +11851,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "3bd8aff468bff135eba5db59035350a0b56e6e72",
+    "last_sha": "046c9ea1b732f1f1e0bf6d7754183aa51ff17db5",
     "rows": [
       [
         "Bristol Myers Squibb",
@@ -14283,13 +14283,6 @@
         "https://go.vansh.nyc/PR?s=y"
       ],
       [
-        "CapTech Consulting",
-        "Data Analysis/Data Engineering Intern",
-        "Richmond, VA",
-        "Oct 12",
-        "https://go.vansh.nyc/BY?s=y"
-      ],
-      [
         "Nissan",
         "Financial AI Engineer Intern",
         "Franklin, TN",
@@ -16127,6 +16120,13 @@
         "General Motors",
         "Research and Development Intern, Machine Learning for Automation",
         "Warren, MI",
+        "Oct 12",
+        ""
+      ],
+      [
+        "CapTech Consulting",
+        "Data Analysis/Data Engineering Intern",
+        "Richmond, VA",
         "Oct 12",
         ""
       ],
