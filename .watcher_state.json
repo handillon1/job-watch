@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "58b2e9d8e3ee8b03d276a3ae5788f6cba780397a",
+    "last_sha": "0ce63ac2036abe1c22cd5e78d715fc1f9a4d43db",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11851,7 +11851,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "58b2e9d8e3ee8b03d276a3ae5788f6cba780397a",
+    "last_sha": "0ce63ac2036abe1c22cd5e78d715fc1f9a4d43db",
     "rows": [
       [
         "Syngenta Group",
@@ -11894,6 +11894,13 @@
         "Denton, TX",
         "Nov 17",
         "https://go.vansh.nyc/1BQ?s=y"
+      ],
+      [
+        "Marvell",
+        "MS AI Infrastructure Engineer Intern",
+        "Santa Clara, CA",
+        "Nov 17",
+        "https://go.vansh.nyc/1Cp?s=y"
       ],
       [
         "CrowdStrike",
@@ -16818,6 +16825,7 @@
       "Martin Marietta|Data Scientist Intern|Raleigh, NC|Nov 13",
       "Marvell|AI-Native Development Platform Engineer Intern|Santa Clara, CA|Sep 28",
       "Marvell|Data Science Intern|Boise, ID|Oct 27",
+      "Marvell|MS AI Infrastructure Engineer Intern|Santa Clara, CA|Nov 17",
       "Mason|AI Engineer Intern|New York, NY|Nov 10",
       "Match Group|Data Scientist Intern|San Francisco, CA|Nov 05",
       "Match Group|Machine Learning Engineer Intern|Palo Alto, CA|Nov 05",
