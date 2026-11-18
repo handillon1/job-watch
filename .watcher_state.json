@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "7ba8346e32b824c17ba2877ee6fb33a285b82de0",
+    "last_sha": "c6b61812edd9391daa95fb99d98f40c83fcce546",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11864,7 +11864,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "7ba8346e32b824c17ba2877ee6fb33a285b82de0",
+    "last_sha": "c6b61812edd9391daa95fb99d98f40c83fcce546",
     "rows": [
       [
         "State Street",
@@ -11872,6 +11872,13 @@
         "Boston, MA",
         "Nov 17",
         "https://go.vansh.nyc/1C1?s=y"
+      ],
+      [
+        "S&P Global",
+        "Machine Learning Engineer Intern",
+        "Cambridge, MA New York, NY",
+        "Nov 17",
+        "https://go.vansh.nyc/1C7?s=y"
       ],
       [
         "Pathlabs",
@@ -16929,6 +16936,7 @@
       "Rockwell Automation|AI Software Engineer Intern|Mayfield Heights, OH Milwaukee, WI|Sep 24",
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|Oct 18",
       "RosaicLabs|AI Accelerator Design Verification Engineer Intern|Austin, TX Santa Clara, CA|Oct 28",
+      "S&P Global|Machine Learning Engineer Intern|Cambridge, MA New York, NY|Nov 17",
       "SAS|Data Science Research Intern|Bloomington, MN|Sep 29",
       "SRC, Inc|Machine Learning Engineer Intern|United States|Nov 10",
       "STR|Data Analyst Intern|Arlington, VA Woburn, MA|Oct 22",
