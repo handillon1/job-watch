@@ -4705,7 +4705,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "0f112274dfc8d207a5168fa1e482cc1e7e9b549f",
+    "last_sha": "8a3b977a2eb3f47306466225416b7d9244fac45d",
     "rows": [
       [
         "Falcomm",
@@ -5028,13 +5028,6 @@
         "Bloomington, MN",
         "Winter 2026",
         "https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "PrizePicks",
-        "Fraud Analytics Intern",
-        "Atlanta, GA",
-        "Spring 2026",
-        "http://prizepicks.com/position?gh_jid=8008655003&utm_source=Simplify&ref=Simplify"
       ],
       [
         "PrizePicks",
@@ -5531,6 +5524,13 @@
         "AI R&D Engineer Co-op \ud83c\udf93",
         "Sunnyvale, CA",
         "Spring 2027",
+        ""
+      ],
+      [
+        "PrizePicks",
+        "Fraud Analytics Intern",
+        "Atlanta, GA",
+        "Spring 2026",
         ""
       ],
       [
@@ -9702,8 +9702,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "0f112274dfc8d207a5168fa1e482cc1e7e9b549f",
+    "last_sha": "8a3b977a2eb3f47306466225416b7d9244fac45d",
     "rows": [
+      [
+        "Paccar",
+        "Data Scientist Intern",
+        "Denton, TX",
+        "",
+        "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Anduril",
         "Machine Learning Engineer Intern",
@@ -10494,13 +10501,6 @@
         "Grand Rapids, MI",
         "",
         "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "CVS Health",
-        "Medicaid Data Analytics Intern",
-        "Hartford, CT",
-        "",
-        "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342?utm_source=Simplify&ref=Simplify"
       ],
       [
         "American Family Insurance Group",
@@ -11612,6 +11612,7 @@
       "Oshkosh|Advanced Analytics Intern|Frederick, MD|",
       "PIMCO|Client Solutions & Analytics Analyst Intern|Newport Beach, CA|",
       "Paccar|Aftersales Data Analyst Intern|Kirkland, WA|",
+      "Paccar|Data Scientist Intern|Denton, TX|",
       "Paccar|Dealer Development Marketing Data Analytics Intern|Kirkland, WA|",
       "Paccar|Field Service Data Analyst Intern|Kirkland, WA|",
       "Paccar|Greenhouse Gas Data Analyst Intern|Kirkland, WA|",
