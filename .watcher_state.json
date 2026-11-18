@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "d6a696b97a93aa5f7366c663838f28ef6f21838d",
+    "last_sha": "bc1b020c576379387a4454a933c471a4ff5c3e2f",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11837,7 +11837,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "d6a696b97a93aa5f7366c663838f28ef6f21838d",
+    "last_sha": "bc1b020c576379387a4454a933c471a4ff5c3e2f",
     "rows": [
       [
         "Vibrantz Technologies",
@@ -11852,6 +11852,13 @@
         "Greensboro, NC",
         "Nov 18",
         "https://go.vansh.nyc/1Co?s=y"
+      ],
+      [
+        "Microsoft",
+        "Research Intern, Computer Vision and Deep Learning",
+        "Redmond, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Cv?s=y"
       ],
       [
         "Bristol Myers Squibb",
@@ -16840,6 +16847,7 @@
       "Microsoft|Applied Scientist Intern, Turing|Redmond, WA|Oct 29",
       "Microsoft|Applied Scientist Intern|Redmond, WA|Oct 07",
       "Microsoft|Data Scientist Intern, CoreAI|Redmond, WA|Nov 12",
+      "Microsoft|Research Intern, Computer Vision and Deep Learning|Redmond, WA|Nov 18",
       "Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|Aug 04",
       "Microsoft|Software Engineer Intern, Data Platform/Analytics|Redmond, WA|Aug 04",
       "Midland States Bank|AI Solutions Engineer Intern|Rockford, IL St. Louis, MO Effingham, IL|Oct 04",
