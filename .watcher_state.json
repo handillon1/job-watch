@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "019aaebce3f6f044436b3816a98843c3f144ecaa",
+    "last_sha": "cf26ccea1b8249c80b8adb9bc76b8fa42c93b052",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11826,7 +11826,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "019aaebce3f6f044436b3816a98843c3f144ecaa",
+    "last_sha": "cf26ccea1b8249c80b8adb9bc76b8fa42c93b052",
     "rows": [
       [
         "Scout Space",
@@ -13745,13 +13745,6 @@
         "Burlingame, CA",
         "Oct 22",
         "https://go.vansh.nyc/1n3?s=y"
-      ],
-      [
-        "Quadric",
-        "Deep Learning Compiler Intern",
-        "Burlingame, CA",
-        "Oct 22",
-        "https://go.vansh.nyc/1n4?s=y"
       ],
       [
         "OpenSesame",
@@ -15689,6 +15682,13 @@
         "STR",
         "Data Analyst Intern",
         "Arlington, VA Woburn, MA",
+        "Oct 22",
+        ""
+      ],
+      [
+        "Quadric",
+        "Deep Learning Compiler Intern",
+        "Burlingame, CA",
         "Oct 22",
         ""
       ],
