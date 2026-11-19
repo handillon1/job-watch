@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "83efc27935de6f464ee199951d6a1b8fb0c80121",
+    "last_sha": "e9c8bbca46824a3d1182a8266fc816807a5b659e",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11819,7 +11819,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "83efc27935de6f464ee199951d6a1b8fb0c80121",
+    "last_sha": "e9c8bbca46824a3d1182a8266fc816807a5b659e",
     "rows": [
       [
         "Scout Space",
@@ -11827,6 +11827,20 @@
         "Reston, VA",
         "Nov 19",
         "https://go.vansh.nyc/1CQ?s=y"
+      ],
+      [
+        "Lutron",
+        "Data Science and Machine Learning Intern",
+        "Philadelphia, PA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dl?s=y"
+      ],
+      [
+        "Lutron",
+        "Data Science and Machine Learning Intern",
+        "Boston, MA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dn?s=y"
       ],
       [
         "DocuSign",
@@ -11848,13 +11862,6 @@
         "Houston, TX",
         "Nov 18",
         "https://go.vansh.nyc/1Ct?s=y"
-      ],
-      [
-        "Syngenta Group",
-        "Data Science Intern",
-        "Greensboro, NC",
-        "Nov 18",
-        "https://go.vansh.nyc/1Co?s=y"
       ],
       [
         "Microsoft",
@@ -11897,13 +11904,6 @@
         "Boston, MA",
         "Nov 17",
         "https://go.vansh.nyc/1C1?s=y"
-      ],
-      [
-        "S&P Global",
-        "Machine Learning Engineer Intern",
-        "Cambridge, MA New York, NY",
-        "Nov 17",
-        "https://go.vansh.nyc/1C7?s=y"
       ],
       [
         "Pathlabs",
@@ -14867,6 +14867,20 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "Syngenta Group",
+        "Data Science Intern",
+        "Greensboro, NC",
+        "Nov 18",
+        ""
+      ],
+      [
+        "S&P Global",
+        "Machine Learning Engineer Intern",
+        "Cambridge, MA New York, NY",
+        "Nov 17",
+        ""
+      ],
+      [
         "WTW",
         "Data Analyst Intern",
         "New York, NY",
@@ -16842,6 +16856,8 @@
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
       "Leidos|Software Developer Intern, AI Project|Colorado Springs, CO|Nov 18",
       "Lumentum|Data Science & Analytics Intern|San Jose, CA|Nov 16",
+      "Lutron|Data Science and Machine Learning Intern|Boston, MA|Nov 19",
+      "Lutron|Data Science and Machine Learning Intern|Philadelphia, PA|Nov 19",
       "M3 USA|AI Engineering Intern (Remote)|Remote United States|Sep 08",
       "M3USA|AI Engineering Intern|Remote United States|Sep 08",
       "MITRE|AI Engineering Intern|Bedford, MA|Oct 18",
