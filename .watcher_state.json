@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "9bf4d4a6a051732e5cf826b33dadafd7ee0e9c9c",
+    "last_sha": "7602f9895efc5a46b3d5bd82c0518e36e76f2ad3",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11828,7 +11828,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "9bf4d4a6a051732e5cf826b33dadafd7ee0e9c9c",
+    "last_sha": "7602f9895efc5a46b3d5bd82c0518e36e76f2ad3",
     "rows": [
       [
         "Scout Space",
@@ -11836,6 +11836,20 @@
         "Reston, VA",
         "Nov 19",
         "https://go.vansh.nyc/1CQ?s=y"
+      ],
+      [
+        "SAS",
+        "Cybersecurity Compliance and AI Automation Intern",
+        "Cary, NC",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dy?s=y"
+      ],
+      [
+        "Microsoft",
+        "Research Intern, AI/Machine Learning Numerics & Efficiency",
+        "Redmond, WA Mountain View, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Dx?s=y"
       ],
       [
         "Lutron",
@@ -16908,6 +16922,7 @@
       "Microsoft|Applied Scientist Intern, Turing|Redmond, WA|Oct 29",
       "Microsoft|Applied Scientist Intern|Redmond, WA|Oct 07",
       "Microsoft|Data Scientist Intern, CoreAI|Redmond, WA|Nov 12",
+      "Microsoft|Research Intern, AI/Machine Learning Numerics & Efficiency|Redmond, WA Mountain View, CA|Nov 19",
       "Microsoft|Research Intern, Computer Vision and Deep Learning|Redmond, WA|Nov 18",
       "Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|Aug 04",
       "Microsoft|Software Engineer Intern, Data Platform/Analytics|Redmond, WA|Aug 04",
@@ -17009,6 +17024,7 @@
       "Rogue Fitness|AI Engineer Intern|Columbus, OH|Oct 18",
       "RosaicLabs|AI Accelerator Design Verification Engineer Intern|Austin, TX Santa Clara, CA|Oct 28",
       "S&P Global|Machine Learning Engineer Intern|Cambridge, MA New York, NY|Nov 17",
+      "SAS|Cybersecurity Compliance and AI Automation Intern|Cary, NC|Nov 19",
       "SAS|Data Science Research Intern|Bloomington, MN|Sep 29",
       "SRC, Inc|Machine Learning Engineer Intern|United States|Nov 10",
       "STR|Data Analyst Intern|Arlington, VA Woburn, MA|Oct 22",
