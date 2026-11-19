@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "0b1f4320c92dfdbd6d0fd40a2bfc8d2a36b71e3f",
+    "last_sha": "9bf4d4a6a051732e5cf826b33dadafd7ee0e9c9c",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11812,7 +11812,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "0b1f4320c92dfdbd6d0fd40a2bfc8d2a36b71e3f",
+    "last_sha": "9bf4d4a6a051732e5cf826b33dadafd7ee0e9c9c",
     "rows": [
       [
         "Scout Space",
@@ -11855,6 +11855,13 @@
         "Houston, TX",
         "Nov 18",
         "https://go.vansh.nyc/1Ct?s=y"
+      ],
+      [
+        "Snowflake",
+        "Software Engineer Intern, AI/ML",
+        "Menlo Park, CA Bellevue, WA",
+        "Nov 18",
+        "https://go.vansh.nyc/1Dr?s=y"
       ],
       [
         "Microsoft",
@@ -12240,13 +12247,6 @@
         "Mentor, OH",
         "Nov 11",
         "https://go.vansh.nyc/1x5?s=y"
-      ],
-      [
-        "Kudu Dynamics",
-        "Junior Software Engineer/Data Scientist Intern \ud83c\uddfa\ud83c\uddf8",
-        "Tucson, AZ",
-        "Nov 11",
-        "https://go.vansh.nyc/1xK?s=y"
       ],
       [
         "Koniag Cyber Solutions",
@@ -13628,13 +13628,6 @@
         "https://go.vansh.nyc/Y3?s=y"
       ],
       [
-        "Trinity Life Sciences",
-        "Data Science Intern",
-        "Waltham, MA New York, NY",
-        "Oct 26",
-        "https://go.vansh.nyc/1wF?s=y"
-      ],
-      [
         "Nissan",
         "AI Intern",
         "Dallas, TX Franklin, TN",
@@ -14895,6 +14888,13 @@
         ""
       ],
       [
+        "Kudu Dynamics",
+        "Junior Software Engineer/Data Scientist Intern \ud83c\uddfa\ud83c\uddf8",
+        "Tucson, AZ",
+        "Nov 11",
+        ""
+      ],
+      [
         "ICF",
         "Data Analytics Intern",
         "Reston, VA Remote United States",
@@ -15654,6 +15654,13 @@
         "Zillow",
         "Data Science Intern",
         "Seattle, WA",
+        "Oct 26",
+        ""
+      ],
+      [
+        "Trinity Life Sciences",
+        "Data Science Intern",
+        "Waltham, MA New York, NY",
         "Oct 26",
         ""
       ],
@@ -17022,6 +17029,7 @@
       "Smith+Nephew|AI Engineer Intern, R&D|Andover, MA|Nov 04",
       "Smith+Nephew|Agentic AI Software Engineering Intern|Andover, MA|Oct 21",
       "Smith+Nephew|Data Science Intern, AI Center of Excellence|Pittsburgh, PA|Nov 04",
+      "Snowflake|Software Engineer Intern, AI/ML|Menlo Park, CA Bellevue, WA|Nov 18",
       "Sony|Research Engineer Intern, Ethical Creative and Protective AI Lab|Remote in USA|Oct 20",
       "Space Dynamics Laboratory|AI-Enabled Requirements Engineering Intern|North Logan, UT|Oct 20",
       "Springs Window Fashions|AI Intern, Information Technology|Middleton, WI|Sep 03",
