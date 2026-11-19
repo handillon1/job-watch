@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "03e8f87d2a9d339e236beb2ff45ecdf9e58d18ed",
+    "last_sha": "3a60c18d4a6f1aff8bcc729c8038d58ad1310c3b",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -587,13 +587,6 @@
         "Durham, NC",
         "Nov 02",
         "https://go.vansh.nyc/19P?s=z"
-      ],
-      [
-        "Flextronics International",
-        "Manufacturing Data & Analytics Co-op",
-        "Libertyville, IL",
-        "Nov 02",
-        "https://go.vansh.nyc/1dl?s=z"
       ],
       [
         "Engramme",
@@ -949,6 +942,13 @@
         "Toshiba Commerce Solutions",
         "AI Software Engineering Intern",
         "Frisco, TX",
+        "Nov 02",
+        ""
+      ],
+      [
+        "Flextronics International",
+        "Manufacturing Data & Analytics Co-op",
+        "Libertyville, IL",
         "Nov 02",
         ""
       ],
@@ -11826,7 +11826,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "03e8f87d2a9d339e236beb2ff45ecdf9e58d18ed",
+    "last_sha": "3a60c18d4a6f1aff8bcc729c8038d58ad1310c3b",
     "rows": [
       [
         "Scout Space",
@@ -11834,6 +11834,20 @@
         "Reston, VA",
         "Nov 19",
         "https://go.vansh.nyc/1CQ?s=y"
+      ],
+      [
+        "DocuSign",
+        "Product Data Science Intern \ud83d\udec2",
+        "San Francisco, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1D2?s=y"
+      ],
+      [
+        "Allied Consultants",
+        "AI/ML Engineer Intern",
+        "Austin, TX",
+        "Nov 19",
+        "https://go.vansh.nyc/1D1?s=y"
       ],
       [
         "Vibrantz Technologies",
@@ -16505,6 +16519,7 @@
       "Affirm|Software Engineer Intern, Machine Learning|San Francisco, CA|Oct 02",
       "AfterQuery|AI/ML Research Intern|San Francisco, CA|Sep 11",
       "Alcon|Software, Data & AI Engineering Intern|**5 locations**Fort Worth, TX Lake Forest, CA Johns Creek, GA Houston, TX Goleta, CA|Nov 02",
+      "Allied Consultants|AI/ML Engineer Intern|Austin, TX|Nov 19",
       "Allstate|Data Analytics Engineer Intern|Remote United States|Oct 21",
       "Allstate|Data Science Intern, Core Telematics|Remote United States|Oct 21",
       "Amazon|Business Intelligence Engineer Intern|Seattle, WA|Oct 07",
@@ -16669,6 +16684,7 @@
       "Divergent Technologies|Production Business Intelligence Intern|Torrance, CA|Nov 02",
       "DocuSign|AI Platform Engineer Intern|San Francisco, CA|Oct 22",
       "DocuSign|Agentic AI Engineer Intern|San Francisco, CA|Oct 22",
+      "DocuSign|Product Data Science Intern|San Francisco, CA|Nov 19",
       "Dow Jones|Data Analyst Intern|New York, NY|Oct 06",
       "Dow Jones|Marketing Data Science Intern|New York, NY|Oct 06",
       "DraftKings|Analytics Intern|Boston, MA|Sep 29",
