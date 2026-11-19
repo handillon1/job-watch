@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "318a301577c8e47b5732acccbadfad999145a77e",
+    "last_sha": "e35692dbea14386bc85ba8ddba0f0373e4db6e48",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11845,7 +11845,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "318a301577c8e47b5732acccbadfad999145a77e",
+    "last_sha": "e35692dbea14386bc85ba8ddba0f0373e4db6e48",
     "rows": [
       [
         "Vibrantz Technologies",
@@ -11867,6 +11867,13 @@
         "Redmond, WA",
         "Nov 18",
         "https://go.vansh.nyc/1Cv?s=y"
+      ],
+      [
+        "HERE Technologies",
+        "Data Science Intern",
+        "Chicago, IL",
+        "Nov 18",
+        "https://go.vansh.nyc/1CB?s=y"
       ],
       [
         "Camping World",
@@ -16749,6 +16756,7 @@
       "Guardian Life|AI & Machine Learning Intern, Digital & Technology|New York, NY Bethlehem, PA Holmdel, NJ|Nov 02",
       "GuidePoint Security|AI & Data Science Intern, GPSU|Remote United States|Oct 08",
       "HCSC|Finance Data & Analytics Developer Intern|Chicago, IL Richardson, TX|Oct 16",
+      "HERE Technologies|Data Science Intern|Chicago, IL|Nov 18",
       "HUB International|AI Engineering Intern|Chicago, IL|Nov 11",
       "Haskell|AI Engineering Design Intern|Jacksonville, FL|Nov 09",
       "Hewlett Packard Enterprise|AI & HPC Performance Engineering Intern|Spring, TX|Oct 14",
