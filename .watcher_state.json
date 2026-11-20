@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "56ec420abe9dd0726c874edc347dfc8179761bc6",
+    "last_sha": "d3c9e0f43727e873df2971242324b6bff63701d2",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11900,7 +11900,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "56ec420abe9dd0726c874edc347dfc8179761bc6",
+    "last_sha": "d3c9e0f43727e873df2971242324b6bff63701d2",
     "rows": [
       [
         "Vertiv",
@@ -11908,6 +11908,13 @@
         "Westerville, OH Fort Lauderdale, FL Huntsville, AL",
         "Nov 19",
         "https://go.vansh.nyc/1DF?s=y"
+      ],
+      [
+        "TransUnion",
+        "Data Science & Analytics Intern",
+        "Chicago, IL",
+        "Nov 19",
+        "https://go.vansh.nyc/1Ea?s=y"
       ],
       [
         "Southern Mississippi Trading",
@@ -11973,11 +11980,25 @@
         "https://go.vansh.nyc/1DX?s=y"
       ],
       [
+        "Cisco",
+        "AI Researcher II Intern",
+        "San Francisco, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Eb?s=y"
+      ],
+      [
         "Centene Corporation",
         "Undergraduate Analytics Engineering Intern",
         "Remote United States",
         "Nov 19",
         "https://go.vansh.nyc/1DY?s=y"
+      ],
+      [
+        "CAS",
+        "Business Data Analytics Intern, AI/ML Focus",
+        "Columbus, OH",
+        "Nov 19",
+        "https://go.vansh.nyc/1E5?s=y"
       ],
       [
         "Allied Consultants",
@@ -16759,6 +16780,7 @@
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US|San Jose, CA|Nov 01",
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US|Seattle, WA|Nov 01",
       "C&S Wholesale Grocers|IS Intern, Data Analytics & Data Science|Edison, NJ|Oct 30",
+      "CAS|Business Data Analytics Intern, AI/ML Focus|Columbus, OH|Nov 19",
       "CNA Insurance|AI Engineering Intern, Technology|Chicago, IL|Nov 02",
       "CTGT|AI Evaluation Research Intern|San Francisco, CA|Nov 09",
       "CVS Health|Data Science Intern, Innovation & Technology|New York, NY|Oct 21",
@@ -16794,6 +16816,7 @@
       "Cigna|Product Analytics Intern|Morris Plains, NJ St. Louis, MO|Sep 30",
       "Cirrus Logic|Applied AI Engineering Intern|Austin, TX|Nov 09",
       "Cisco|AI Operations Engineer I Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
+      "Cisco|AI Researcher II Intern|San Francisco, CA|Nov 19",
       "Cisco|Data Analyst I Intern|San Jose, CA Austin, TX Research Triangle Park, NC|Sep 17",
       "Cisco|Machine Learning Engineer I Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
       "Cisco|Machine Learning Engineer II Intern|**4 locations**San Jose, CA Milpitas, CA Rtp, NC San Francisco, CA|Oct 21",
@@ -17258,6 +17281,7 @@
       "Toyota|Data Science Intern, TFS|Plano, TX|Oct 21",
       "Trace3|Data and Analytics Engineer Intern|Irvine, CA|Oct 21",
       "Trane Technologies|AI & Analytics Intern|Davidson, NC Minneapolis, MN|Oct 30",
+      "TransUnion|Data Science & Analytics Intern|Chicago, IL|Nov 19",
       "Trilogy Health Services|Information Systems Developer of AI and Automated Solutions Intern|Louisville, KY|Nov 09",
       "Trimble|AI Automation Intern|Dayton, OH Westminster, CO|Nov 06",
       "Trimble|AI Developer Intern|Westminster, CO Dayton, OH|Nov 03",
