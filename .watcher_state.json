@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "fee9619b2502b95cdb0754ad976b3bd0f4217cc6",
+    "last_sha": "41f62a25f616d8fbb506c16b51f17bcaabdf1dde",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11879,7 +11879,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "fee9619b2502b95cdb0754ad976b3bd0f4217cc6",
+    "last_sha": "41f62a25f616d8fbb506c16b51f17bcaabdf1dde",
     "rows": [
       [
         "Smule",
@@ -11887,6 +11887,13 @@
         "Salt Lake City, UT",
         "Nov 20",
         "https://go.vansh.nyc/1En?s=y"
+      ],
+      [
+        "GlobalFoundries",
+        "AI/ML Analytics Intern, Digital Manufacturing",
+        "New York, NY Malta, NY",
+        "Nov 20",
+        "https://go.vansh.nyc/1EA?s=y"
       ],
       [
         "Vertiv",
@@ -12440,13 +12447,6 @@
         "Richardson, TX",
         "Nov 11",
         "https://go.vansh.nyc/1uH?s=y"
-      ],
-      [
-        "Farmers Mutual Hail",
-        "AI Intern",
-        "West Des Moines, IA",
-        "Nov 11",
-        "https://go.vansh.nyc/1vq?s=y"
       ],
       [
         "CarGurus",
@@ -14731,13 +14731,6 @@
         "https://go.vansh.nyc/J8?s=y"
       ],
       [
-        "Epic Games",
-        "Data Science Intern",
-        "Cary, NC",
-        "Sep 21",
-        "https://go.vansh.nyc/1t5?s=y"
-      ],
-      [
         "AutoZone",
         "Data Science Intern",
         "Memphis, TN",
@@ -15049,6 +15042,13 @@
         "ICF",
         "Data Analytics Intern",
         "Reston, VA Remote United States",
+        "Nov 11",
+        ""
+      ],
+      [
+        "Farmers Mutual Hail",
+        "AI Intern",
+        "West Des Moines, IA",
         "Nov 11",
         ""
       ],
@@ -16481,6 +16481,13 @@
         ""
       ],
       [
+        "Epic Games",
+        "Data Science Intern",
+        "Cary, NC",
+        "Sep 21",
+        ""
+      ],
+      [
         "Cisco",
         "Data Analyst I Intern",
         "San Jose, CA Austin, TX Research Triangle Park, NC",
@@ -16929,6 +16936,7 @@
       "Gilead Sciences|Research Intern, Strategy, Innovation & Portfolio - AI|Foster City, CA|Oct 16",
       "GlobalFoundries|AI Processor Hardware/Software Integration Engineer Intern|Richardson, TX|Nov 11",
       "GlobalFoundries|AI Software Intern|Santa Clara, CA Richardson, TX|Oct 20",
+      "GlobalFoundries|AI/ML Analytics Intern, Digital Manufacturing|New York, NY Malta, NY|Nov 20",
       "GlobalFoundries|AI/ML Systems Engineering Intern|Richardson, TX|Oct 19",
       "Gordon Food Service|Data Science Engineer Intern|Atlanta, GA|Nov 02",
       "Graco|AI Intern|Dayton, MN|Nov 02",
