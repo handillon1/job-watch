@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "9f1406e07caa67ef7d55b215d59dda86c9656ed9",
+    "last_sha": "40ebb311af70c25ae89b971e047bdcfa493e0d41",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11875,7 +11875,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "9f1406e07caa67ef7d55b215d59dda86c9656ed9",
+    "last_sha": "40ebb311af70c25ae89b971e047bdcfa493e0d41",
     "rows": [
       [
         "Vertiv",
@@ -11939,6 +11939,13 @@
         "San Francisco, CA",
         "Nov 19",
         "https://go.vansh.nyc/1D2?s=y"
+      ],
+      [
+        "Constellation Brands",
+        "Data Science Intern",
+        "Rochester, NY",
+        "Nov 19",
+        "https://go.vansh.nyc/1DX?s=y"
       ],
       [
         "Allied Consultants",
@@ -16771,6 +16778,7 @@
       "Constellation Brands|AI & Automation Engineering Intern|Rochester, NY|Nov 04",
       "Constellation Brands|AI Enablement Intern|Rochester, NY|Oct 19",
       "Constellation Brands|AI Innovation Intern|Rochester, NY Chicago, IL|Nov 05",
+      "Constellation Brands|Data Science Intern|Rochester, NY|Nov 19",
       "Constellation Brands|Data and AI Enablement Intern|Rochester, NY Chicago, IL|Nov 16",
       "Constellation Energy|Quantitative Analytics & Data Science Intern|Baltimore, MD|Sep 28",
       "Cook Group|Applied AI & Full Stack Development Intern|Bloomington, IN|Nov 06",
