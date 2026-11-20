@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "af152a53e121db1df7e8987aee875c5095c326e1",
+    "last_sha": "3b6f25a3058552ddc1a7ea99526e0135dab5a19f",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11873,7 +11873,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "af152a53e121db1df7e8987aee875c5095c326e1",
+    "last_sha": "3b6f25a3058552ddc1a7ea99526e0135dab5a19f",
     "rows": [
       [
         "The SilverLogic",
@@ -12016,13 +12016,6 @@
         "https://go.vansh.nyc/1Eb?s=y"
       ],
       [
-        "Centene Corporation",
-        "Undergraduate Analytics Engineering Intern",
-        "Remote United States",
-        "Nov 19",
-        "https://go.vansh.nyc/1DY?s=y"
-      ],
-      [
         "CAS",
         "Business Data Analytics Intern, AI/ML Focus",
         "Columbus, OH",
@@ -12105,13 +12098,6 @@
         "Denton, TX",
         "Nov 17",
         "https://go.vansh.nyc/1BQ?s=y"
-      ],
-      [
-        "Marvell",
-        "MS AI Infrastructure Engineer Intern",
-        "Santa Clara, CA",
-        "Nov 17",
-        "https://go.vansh.nyc/1Cp?s=y"
       ],
       [
         "CrowdStrike",
@@ -14998,6 +14984,13 @@
         "https://go.vansh.nyc/Vh?s=y"
       ],
       [
+        "Centene Corporation",
+        "Undergraduate Analytics Engineering Intern",
+        "Remote United States",
+        "Nov 19",
+        ""
+      ],
+      [
         "Syngenta Group",
         "Data Science Intern",
         "Greensboro, NC",
@@ -15008,6 +15001,13 @@
         "S&P Global",
         "Machine Learning Engineer Intern",
         "Cambridge, MA New York, NY",
+        "Nov 17",
+        ""
+      ],
+      [
+        "Marvell",
+        "MS AI Infrastructure Engineer Intern",
+        "Santa Clara, CA",
         "Nov 17",
         ""
       ],
