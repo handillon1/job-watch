@@ -4713,7 +4713,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "4a0adf9823137357196765eb9404087a443d4401",
+    "last_sha": "68925b3d804acf663e5dbf1f8b1f1bd832dc07b4",
     "rows": [
       [
         "Falcomm",
@@ -9703,8 +9703,43 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "4a0adf9823137357196765eb9404087a443d4401",
+    "last_sha": "68925b3d804acf663e5dbf1f8b1f1bd832dc07b4",
     "rows": [
+      [
+        "CAS",
+        "Business Data Analytics Intern - AI/ML Focus",
+        "Columbus, OH",
+        "",
+        "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Honeywell Aerospace",
+        "AI Software Engineer Intern",
+        "United States",
+        "",
+        "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Honeywell Aerospace",
+        "AI Software Engineer Intern",
+        "United States",
+        "",
+        "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Honeywell Aerospace",
+        "Information Systems Data Science Intern - IT",
+        "United States",
+        "",
+        "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Honeywell Aerospace",
+        "Information Systems Data Science Intern",
+        "United States",
+        "",
+        "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "\ud83d\udd25 LinkedIn",
         "AI/ML Engineer Intern \ud83c\udf93",
@@ -11326,6 +11361,7 @@
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK|Seattle, WA|",
       "ByteDance|Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark|San Jose, CA|",
       "C3.ai|Data Scientist Intern - Summer 2027|Redwood City, CA|",
+      "CAS|Business Data Analytics Intern - AI/ML Focus|Columbus, OH|",
       "CHS|Data Analyst Intern|Inver Grove Heights, MN|",
       "CSAA Insurance Group|Data Science Intern|Phoenix, AZ|",
       "CSX|Sales & Marketing Analytics Intern - Paid|Jacksonville, FL|",
@@ -11489,6 +11525,9 @@
       "Highmark Health|Market Analytics Graduate Intern|Pittsburgh, PA|",
       "Hilb Group|Benefits Analytics Intern|Hunt Valley, Cockeysville, MD|",
       "Hive Financial Systems|Analytics Intern|Atlanta, GA|",
+      "Honeywell Aerospace|AI Software Engineer Intern|United States|",
+      "Honeywell Aerospace|Information Systems Data Science Intern - IT|United States|",
+      "Honeywell Aerospace|Information Systems Data Science Intern|United States|",
       "Honeywell|Artificial Intelligence/Machine Learning Intern|United States|",
       "Honeywell|Data Science Co-op|Pittsford, NY|",
       "Hormel Foods|Enterprise Analytics Intern - Campus Recruiting|Austin, MN Eden Prairie, MN|",
