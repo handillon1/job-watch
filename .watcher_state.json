@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "d3c9e0f43727e873df2971242324b6bff63701d2",
+    "last_sha": "cf12ab6836db5578c631d6b5a821ddc63756068d",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11900,7 +11900,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "d3c9e0f43727e873df2971242324b6bff63701d2",
+    "last_sha": "cf12ab6836db5578c631d6b5a821ddc63756068d",
     "rows": [
       [
         "Vertiv",
@@ -11936,6 +11936,13 @@
         "Cary, NC",
         "Nov 19",
         "https://go.vansh.nyc/1Dy?s=y"
+      ],
+      [
+        "NVIDIA",
+        "Finance AI Engineering Intern",
+        "Santa Clara, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1Eh?s=y"
       ],
       [
         "Microsoft",
@@ -17077,6 +17084,7 @@
       "NVIDIA|AI Systems Software Engineering Intern|Austin, TX|Oct 29",
       "NVIDIA|Deep Learning Computer Architecture Intern|Santa Clara, CA|Oct 18",
       "NVIDIA|Deep Learning Intern|Santa Clara, CA|Oct 31",
+      "NVIDIA|Finance AI Engineering Intern|Santa Clara, CA|Nov 19",
       "National Interstate Insurance|Business Intelligence Intern, Power BI|Cincinnati, OH|Nov 04",
       "National Interstate Insurance|Data Scientist Intern|Lakeland, FL|Nov 08",
       "National Interstate Insurance|Predictive Analytics Intern|Cincinnati, OH|Nov 16",
