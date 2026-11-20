@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "010a20d257082b41f9ac6ef4bbf25d75f50d619a",
+    "last_sha": "41702bbc3f26a156ce11b653586c457754e78eb4",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11931,7 +11931,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "010a20d257082b41f9ac6ef4bbf25d75f50d619a",
+    "last_sha": "41702bbc3f26a156ce11b653586c457754e78eb4",
     "rows": [
       [
         "The SilverLogic",
@@ -11962,11 +11962,32 @@
         "https://go.vansh.nyc/1EM?s=y"
       ],
       [
+        "John Deere",
+        "Data Analytics Student Intern",
+        "Des Moines, IA Waterloo, IA Moline, IL",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fb?s=y"
+      ],
+      [
+        "Jewelers Mutual Group",
+        "Data Science Intern",
+        "Neenah, WI",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fe?s=y"
+      ],
+      [
         "GlobalFoundries",
         "AI/ML Analytics Intern, Digital Manufacturing",
         "New York, NY Malta, NY",
         "Nov 20",
         "https://go.vansh.nyc/1EA?s=y"
+      ],
+      [
+        "Daikin Comfort",
+        "Data Analyst Intern",
+        "Waller, TX",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fc?s=y"
       ],
       [
         "Vertiv",
@@ -14790,13 +14811,6 @@
         "https://go.vansh.nyc/1t4?s=y"
       ],
       [
-        "Stryker",
-        "Data Analytics Intern",
-        "Fort Wayne, IN",
-        "Sep 21",
-        "https://go.vansh.nyc/J8?s=y"
-      ],
-      [
         "AutoZone",
         "Data Science Intern",
         "Memphis, TN",
@@ -16582,6 +16596,13 @@
         ""
       ],
       [
+        "Stryker",
+        "Data Analytics Intern",
+        "Fort Wayne, IN",
+        "Sep 21",
+        ""
+      ],
+      [
         "Epic Games",
         "Data Science Intern",
         "Cary, NC",
@@ -16951,6 +16972,7 @@
       "Costco|Digital Services Intern, Infosec AI/ML|Issaquah, WA|Nov 02",
       "Creative Artists Agency|Data Analytics Intern|Denver, CO|Oct 18",
       "CrowdStrike|AI Research Launch Intern|Sunnyvale, CA|Nov 17",
+      "Daikin Comfort|Data Analyst Intern|Waller, TX|Nov 20",
       "Dairyland Power Cooperative|Energy Data Analyst Intern|La Crosse, WI|Nov 03",
       "Datacor|AI Engineer Intern|Remote United States|Oct 30",
       "Dayton Freight|Business Intelligence Intern|Dayton, OH|Nov 07",
@@ -17100,6 +17122,8 @@
       "Jabil|AI Agent Developer Intern, Supply Chain IT - AI & Enablement|St. Petersburg, FL Tampa, FL|Nov 10",
       "Jane Street|Machine Learning Engineer Intern|New York, NY|Jul 24",
       "Jane Street|Machine Learning Researcher Intern|New York, NY|Jul 24",
+      "Jewelers Mutual Group|Data Science Intern|Neenah, WI|Nov 20",
+      "John Deere|Data Analytics Student Intern|Des Moines, IA Waterloo, IA Moline, IL|Nov 20",
       "John Deere|Process Automation Intern, Data and Analytics|Greeneville, TN|Oct 16",
       "Johns Hopkins APL|AI & Data Science Intern, Analytic Capabilities|Laurel, MD|Nov 09",
       "Johns Hopkins APL|Artificial Intelligence Intern, Information Fusion|Laurel, MD|Nov 09",
