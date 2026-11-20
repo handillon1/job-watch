@@ -4713,8 +4713,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "80222e38fa7fbe248f582620b3cf4965455367f5",
+    "last_sha": "4ee4abbdead9a20bede12ac8c037ffdb83561767",
     "rows": [
+      [
+        "AFL",
+        "Business Intelligence Co-op",
+        "Duncan, SC",
+        "Spring 2027",
+        "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Falcomm",
         "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
@@ -5127,13 +5134,6 @@
         "Fond du Lac, WI",
         "Winter 2026",
         "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Windstar Cruises",
-        "Revenue and Data Analytics Intern",
-        "Miami, FL",
-        "Winter 2026",
-        "https://xanterra.jibeapply.com/jobs/39609?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       [
         "Altice USA",
@@ -5664,6 +5664,13 @@
         "Headlands Tech Holdings",
         "Deep Learning Research Intern",
         "Chicago, IL NYC",
+        "Winter 2026",
+        ""
+      ],
+      [
+        "Windstar Cruises",
+        "Revenue and Data Analytics Intern",
+        "Miami, FL",
         "Winter 2026",
         ""
       ],
@@ -9070,6 +9077,7 @@
       "ABB|AI Robotics Intern|San Jose, CA|Fall 2026",
       "ABB|Physical AI Robotics Simulation Intern|Milpitas, CA|Fall 2026",
       "AECOM|Engineering/Data Science Intern - Networking Event with AECOM - Atlanta, GA|Atlanta, GA|Spring 2026, Summer 2026",
+      "AFL|Business Intelligence Co-op|Duncan, SC|Spring 2027",
       "AGCO|AI & Data Science Intern|Champaign, IL|Spring 2027",
       "AGCO|Agricultural Business Analytics Intern|Champaign, IL|Spring 2027",
       "Abbott|Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML|St Paul, MN|Winter 2027",
@@ -9696,8 +9704,64 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "80222e38fa7fbe248f582620b3cf4965455367f5",
+    "last_sha": "4ee4abbdead9a20bede12ac8c037ffdb83561767",
     "rows": [
+      [
+        "Jewelers Mutual Group",
+        "Behavioral Analytics Intern",
+        "Raleigh, NC",
+        "",
+        "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Jewelers Mutual Group",
+        "Data Science Intern",
+        "Neenah, WI",
+        "",
+        "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Jewelers Mutual Group",
+        "Business Intelligence Intern",
+        "Neenah, WI",
+        "",
+        "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Avista",
+        "Central Analytics Intern - Multiple Teams",
+        "Spokane, WA",
+        "",
+        "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Encore",
+        "IT Data Analyst Intern",
+        "Schiller Park, IL",
+        "",
+        "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Daikin Comfort",
+        "Data Analyst Intern",
+        "Waller, TX",
+        "",
+        "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "GTI Energy",
+        "Data Science Intern",
+        "Des Plaines, IL",
+        "",
+        "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776&utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Lucid Motors",
+        "AI/ML Intern - Vehicle Infotainment - Summer 2027",
+        "Newark, CA",
+        "",
+        "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Systems Planning and Analysis",
         "Integrated Analytics Intern",
@@ -11188,20 +11252,6 @@
         "Fort Wayne, IN",
         "",
         "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "Koch Industries",
-        "Business Analytics & Insights Intern",
-        "Green Bay, WI",
-        "",
-        "https://koch.avature.net/en_US/careers/JobDetail/194813?utm_source=Simplify&ref=Simplify"
-      ],
-      [
-        "\ud83d\udd25 Atlassian",
-        "Machine Learning Intern \ud83c\udf93",
-        "Seattle, WA SF",
-        "",
-        "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify"
       ]
     ],
     "seen": [
@@ -11294,6 +11344,7 @@
       "Autodesk|Multimodal AI for Human Experience Intern|Boston, MA NYC|",
       "Autodesk|Research Intern - Multimodal AI for Human Experience|Boston, MA NYC|",
       "Avis Budget Group|Data Analytics Intern|Parsippany-Troy Hills, NJ|",
+      "Avista|Central Analytics Intern - Multiple Teams|Spokane, WA|",
       "Axiom Space|Enterprise Data Analyst Intern - Power BI & Data Quality|Houston, TX|",
       "BNY|Data Science Intern - Engineering|Jersey City, NJ|",
       "BNY|Data Science Intern - Engineering|Lake Mary, FL|",
@@ -11384,6 +11435,7 @@
       "CrowdStrike|Sales Data Analytics Intern|Arlington County, Arlington, VA Sunnyvale, CA|",
       "DIRECTV|Operational Analytics Intern|Remote in USA|",
       "DP World|AI & Analytics Intern - Talent Management|Charlotte, NC|",
+      "Daikin Comfort|Data Analyst Intern|Waller, TX|",
       "Danaher|Data Analytics Intern|Logan, UT|",
       "Datacor|Data Science Intern - Summer 2027 - Program|Remote in USA|",
       "Deloitte|AI and Data Engineering Summer Scholar Intern - Government & Public Services|Austin, TX|",
@@ -11412,6 +11464,7 @@
       "Elevance Health|Data Analyst Graduate Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
       "Elevance Health|Data Analytics Intern|4 locationsIndianapolis, IN Richmond, VA Chicago, IL Atlanta, GA|",
       "Elire|AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data|Remote in USA Minneapolis, MN|",
+      "Encore|IT Data Analyst Intern|Schiller Park, IL|",
       "Enovation Controls|Embedded Machine Learning Engineer Intern|Tulsa, OK|",
       "Enova|Analytics Intern|Chicago, IL|",
       "Entergy|Student Intern - Power Delivery Performance & Analytics|The Woodlands, TX|",
@@ -11451,6 +11504,7 @@
       "GE Vernova|AI Post-Training and Model Alignment Intern|Bellevue, WA|",
       "GM financial|Data Science Intern|Fort Worth, TX|",
       "GM financial|Portfolio Analytics Intern|Fort Worth, TX|",
+      "GTI Energy|Data Science Intern|Des Plaines, IL|",
       "Generac|Data Science Intern - Summer 2027|Pewaukee, WI Waukesha, WI|",
       "General Dynamics Information Technology|AI and Data Analytics Intern|Sterling, VA|",
       "General Dynamics Information Technology|Data Analytics Associate Intern|Falls Church, VA|",
@@ -11537,6 +11591,9 @@
       "JP Morgan Chase|Quant AI Associate Intern|Palo Alto, CA|",
       "Jabil|AI Transformation Intern|Austin, TX|",
       "Jabil|Operations Analytics & Reporting Intern|Tampa, FL St. Petersburg, FL|",
+      "Jewelers Mutual Group|Behavioral Analytics Intern|Raleigh, NC|",
+      "Jewelers Mutual Group|Business Intelligence Intern|Neenah, WI|",
+      "Jewelers Mutual Group|Data Science Intern|Neenah, WI|",
       "John Deere|Data & Analytics Intern|Moline, IL|",
       "Johns Hopkins Applied Physics Laboratory|AI & Data Science Intern - Analytic Capabilities|Laurel, MD|",
       "Johns Hopkins Applied Physics Laboratory|Artificial Intelligence Intern - Information Fusion|Laurel, MD|",
@@ -11573,6 +11630,7 @@
       "LinkedIn|AI/ML Engineer Intern|Mountain View, CA|",
       "LinkedIn|Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems|Mountain View, CA|",
       "Lucid Motors|AI & Data Intern - Applied AI/Machine Learning|Newark, CA|",
+      "Lucid Motors|AI/ML Intern - Vehicle Infotainment - Summer 2027|Newark, CA|",
       "Manulife Financial|AI Intern - AI|Boston, MA|",
       "Marsh|Summer Analyst - Data and Analytics|Raleigh, NC|",
       "Marvell|AI Data Science Intern|Santa Clara, CA|",
