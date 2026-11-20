@@ -390,7 +390,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "c64acd9555f42152b7c132ebd2324011fd261b65",
+    "last_sha": "529e8949a00e77c90a8cc65f8055b43819c3ae8a",
     "rows": [
       [
         "Robert Bosch LLC",
@@ -11843,7 +11843,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "c64acd9555f42152b7c132ebd2324011fd261b65",
+    "last_sha": "529e8949a00e77c90a8cc65f8055b43819c3ae8a",
     "rows": [
       [
         "Vertiv",
@@ -11886,6 +11886,13 @@
         "Boston, MA",
         "Nov 19",
         "https://go.vansh.nyc/1Dn?s=y"
+      ],
+      [
+        "Lucid Motors",
+        "AI & Data Intern, Applied AI/Machine Learning",
+        "Newark, CA",
+        "Nov 19",
+        "https://go.vansh.nyc/1DI?s=y"
       ],
       [
         "DocuSign",
@@ -16907,6 +16914,7 @@
       "Leidos|Data Science Intern|Arlington, VA|Nov 01",
       "Leidos|Performance Enablement AI/ML Intern|Remote United States|Oct 14",
       "Leidos|Software Developer Intern, AI Project|Colorado Springs, CO|Nov 18",
+      "Lucid Motors|AI & Data Intern, Applied AI/Machine Learning|Newark, CA|Nov 19",
       "Lumentum|Data Science & Analytics Intern|San Jose, CA|Nov 16",
       "Lutron|Data Science and Machine Learning Intern|Boston, MA|Nov 19",
       "Lutron|Data Science and Machine Learning Intern|Philadelphia, PA|Nov 19",
