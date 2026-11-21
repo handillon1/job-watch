@@ -4721,7 +4721,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "ded013929bc2bd9bc5aa46bd72e00eecf0a61b15",
+    "last_sha": "f0081f71d2973633c89f65ce9b33927edfa6a75f",
     "rows": [
       [
         "AFL",
@@ -9712,8 +9712,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "ded013929bc2bd9bc5aa46bd72e00eecf0a61b15",
+    "last_sha": "f0081f71d2973633c89f65ce9b33927edfa6a75f",
     "rows": [
+      [
+        "Acuity Insurance",
+        "Data Analytics Intern - Data Science",
+        "Sheboygan, WI",
+        "",
+        "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Great Southern Wood Preserving",
         "Engineering Intern - Data Analyst",
@@ -9797,6 +9804,13 @@
         "Redwood City, CA NYC",
         "",
         "https://job-boards.greenhouse.io/biohub/jobs/8400682?utm_source=Simplify&ref=Simplify"
+      ],
+      [
+        "Resultant",
+        "Data & Analytics Consultant Intern",
+        "Indianapolis, IN",
+        "",
+        "https://jobs.smartrecruiters.com/Resultant/744000162782371?utm_source=Simplify&ref=Simplify"
       ],
       [
         "Lucid Motors",
@@ -11327,6 +11341,7 @@
       "APEX Analytix|Data Analyst Intern - Summer 2027|Greensboro, NC|",
       "APEX Analytix|Data Science Intern|Greensboro, NC|",
       "ASML|Data Scientist Intern|Wilton, CT|",
+      "Acuity Insurance|Data Analytics Intern - Data Science|Sheboygan, WI|",
       "Adobe|Machine Learning Engineer Intern|6 locationsSeattle, WA SF Austin, TX San Jose, CA NYC Lehi, UT|",
       "AeroVironment|Machine Learning Intern|Centreville, VA Minneapolis, MN|",
       "Airbnb|Advanced Analytics Intern|Remote in USA|",
@@ -11786,6 +11801,7 @@
       "Resideo|Data Science Intern|Austin, TX Golden Valley, MN|",
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Chicago, IL|",
       "Resultant|Data & Analytics Consultant Intern - Summer 2027|Indianapolis, IN|",
+      "Resultant|Data & Analytics Consultant Intern|Indianapolis, IN|",
       "Revantage Corporate Services|Insurance Technology & AI Analytics Intern|Dallas, TX Chicago, IL|",
       "Riot Games|Machine Learning Engineer Intern|Remote in USA|",
       "Robert Bosch Venture Capital|Calibration Process Data Science Intern - 8 months/40 hours per week|Farmington Hills, MI|",
