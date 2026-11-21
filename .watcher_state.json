@@ -4721,7 +4721,7 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README-Off-Season.md": {
-    "last_sha": "570e072764b32b2d4146b7f0c764424ff382270a",
+    "last_sha": "8d0c8fa0a8b09cb79d58a8ebe914deca2dd2d2bf",
     "rows": [
       [
         "AFL",
@@ -9712,8 +9712,15 @@
     ]
   },
   "SimplifyJobs/Summer2027-Internships#README.md": {
-    "last_sha": "570e072764b32b2d4146b7f0c764424ff382270a",
+    "last_sha": "8d0c8fa0a8b09cb79d58a8ebe914deca2dd2d2bf",
     "rows": [
+      [
+        "Koch Industries",
+        "Data and Analytics Intern",
+        "Lisle, IL",
+        "",
+        "https://koch.avature.net/en_US/careers/JobDetail/198151?utm_source=Simplify&ref=Simplify"
+      ],
       [
         "Acuity Insurance",
         "Data Analytics Intern - Data Science",
@@ -11276,13 +11283,6 @@
         "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify"
       ],
       [
-        "\ud83d\udd25 Waymo",
-        "Machine Learning Engineer Intern - Road Understanding \ud83c\udf93",
-        "Mountain View, CA",
-        "",
-        "https://careers.withwaymo.com/jobs?gh_jid=8224746&utm_source=Simplify&ref=Simplify"
-      ],
-      [
         "Zekelman Industries",
         "Business Intelligence Intern - Program Development",
         "Austin, TX Troy, MI",
@@ -11650,6 +11650,7 @@
       "Klaviyo|People Analytics Co-op|Boston, MA|",
       "Koch Industries|Business Analytics & Insights Intern|Green Bay, WI|",
       "Koch Industries|Data Science Intern|Atlanta, GA|",
+      "Koch Industries|Data and Analytics Intern|Lisle, IL|",
       "L.L.Bean|Business Analyst/Data Analyst Intern|Freeport, ME|",
       "LabCorp|Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team|Remote in USA Milwaukee, WI|",
       "Land O'Lakes|Business Insights & Analytics Intern - Animal Nutrition|Arden Hills, MN|",
