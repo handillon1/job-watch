@@ -390,8 +390,15 @@
     ]
   },
   "vanshb03/Summer2027-Internships#OFFSEASON_README.md": {
-    "last_sha": "41702bbc3f26a156ce11b653586c457754e78eb4",
+    "last_sha": "eccc2fc8a4a4e8455d643e82129ba09936e44d28",
     "rows": [
+      [
+        "Milliman",
+        "AI Product Engineer Intern",
+        "Brookfield, WI Chicago, IL",
+        "Nov 20",
+        "https://go.vansh.nyc/1Fz?s=z"
+      ],
       [
         "Robert Bosch LLC",
         "AI Application Intern",
@@ -1381,6 +1388,7 @@
       "MSA Safety|AI Engineer Co-op|Cranberry Township, PA|Oct 23",
       "Millennium|Applied AI Engineer Intern|New York, NY|Aug 21",
       "Milliman|AI Product Engineer Intern, CMH Health|Chicago, IL Brookfield, WI|Nov 15",
+      "Milliman|AI Product Engineer Intern|Brookfield, WI Chicago, IL|Nov 20",
       "Moss|Intern, ML / Perception / Robotics|San Francisco, CA|Nov 06",
       "Nelnet|Agentic AI Intern|Lincoln, NE|Jul 27",
       "Nokia|Architecture AI Co-op|Naperville, IL|Jul 27",
@@ -11978,7 +11986,7 @@
     ]
   },
   "vanshb03/Summer2027-Internships#README.md": {
-    "last_sha": "41702bbc3f26a156ce11b653586c457754e78eb4",
+    "last_sha": "eccc2fc8a4a4e8455d643e82129ba09936e44d28",
     "rows": [
       [
         "The SilverLogic",
@@ -11986,6 +11994,13 @@
         "Boca Raton, FL",
         "Nov 20",
         "https://go.vansh.nyc/1EE?s=y"
+      ],
+      [
+        "Southern Farm Bureau Life Insurance",
+        "Business Intelligence/Data Insights Intern",
+        "Jackson, MS",
+        "Nov 20",
+        "https://go.vansh.nyc/1Ft?s=y"
       ],
       [
         "Smule",
@@ -12000,6 +12015,13 @@
         "Palo Alto, CA",
         "Nov 20",
         "https://go.vansh.nyc/1F3?s=y"
+      ],
+      [
+        "Mom's Meals",
+        "Data Analytics Intern",
+        "Ankeny, IA",
+        "Nov 20",
+        "https://go.vansh.nyc/1FA?s=y"
       ],
       [
         "Lucid Motors",
@@ -12035,6 +12057,13 @@
         "Waller, TX",
         "Nov 20",
         "https://go.vansh.nyc/1Fc?s=y"
+      ],
+      [
+        "Bennett Thrasher",
+        "IT AI & Automation Intern",
+        "Atlanta, GA",
+        "Nov 20",
+        "https://go.vansh.nyc/1FC?s=y"
       ],
       [
         "Vertiv",
@@ -16912,6 +16941,7 @@
       "Bedrock Robotics|Behavior Machine Learning Engineer Intern, World Models|San Francisco, CA|Sep 10",
       "Bedrock Robotics|Onboard Infrastructure Engineer Intern, ML Inference|San Francisco, CA|Sep 10",
       "Beli|Data Science Intern|New York, NY|Oct 28",
+      "Bennett Thrasher|IT AI & Automation Intern|Atlanta, GA|Nov 20",
       "Biodesix|AI Research & Development Intern|Louisville, CO|Nov 09",
       "Biodesix|Data Analytics & Business Intelligence Intern|Louisville, CO|Nov 09",
       "Biogen|Integrated Insights & Analytics Co-op, Nephrology|Cambridge, MA|Oct 22",
@@ -17248,6 +17278,7 @@
       "Milliman|Data Analytics Intern, IntelliScript|Brookfield, WI|Nov 15",
       "Modal|ML Research Intern|New York, NY San Francisco, CA|Aug 04",
       "Molina Healthcare|Data Analytics Internship (Remote) \u2013(Undergraduate)|United States|Oct 29",
+      "Mom's Meals|Data Analytics Intern|Ankeny, IA|Nov 20",
       "Momentive|Data Science Intern, Enterprise Reporting & Analytics|Niskayuna, NY|Nov 02",
       "Moody's|Applied AI & Analytics Intern|Newark, NJ|Nov 05",
       "Mum Industries|Business Intelligence & Data Analytics Intern|Mentor, OH|Nov 11",
@@ -17385,6 +17416,7 @@
       "Smule|Machine Learning Engineer Intern|Salt Lake City, UT|Nov 20",
       "Snowflake|Software Engineer Intern, AI/ML|Menlo Park, CA Bellevue, WA|Nov 18",
       "Sony|Research Engineer Intern, Ethical Creative and Protective AI Lab|Remote in USA|Oct 20",
+      "Southern Farm Bureau Life Insurance|Business Intelligence/Data Insights Intern|Jackson, MS|Nov 20",
       "Southern Mississippi Trading|AI and Business Analytics Intern|Waynesboro, MS|Nov 19",
       "Space Dynamics Laboratory|AI-Enabled Requirements Engineering Intern|North Logan, UT|Oct 20",
       "Springs Window Fashions|AI Intern, Information Technology|Middleton, WI|Sep 03",
